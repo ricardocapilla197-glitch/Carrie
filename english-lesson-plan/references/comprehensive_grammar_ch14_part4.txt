@@ -1,0 +1,1224 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 14: The Complex Sentence
+Covers: Coordination, Subordination, Reported speech, Conditional clauses
+[Part 4 of 9]
+============================================================
+
+phrase, a nominaf.-ingc)ause with a genitive subject, and a nominal relative clause (but not a 
+[hat-clause or a to-~nfin~ttve 
+clause): 
+requent visits. 
+San 
+is 
+l o u r  ~isiti~igfiequet~t/y 
+The bicycle is not worth what youpaidfir ir. 
+[d] The -ing form in the -ing clause occasionally takes determinatives other than the genitive: 
+I'm tired orall fhatjidi~rg rhea~~imals 
+euery rlay. 
+This smoking your pipe on every possible uccasioi~ will ruin your health. 
+On no and any as determiners in this construction, cj'15.14. 
+15.13 
+A nominal -ing clause may refer to a fact or an action: 
+fact : Your driving a car to New York in your condition disturbs me 
+greatly. 
+[l] 
+action: Your driving a cat to New York took longer than I expected. 
+[2] 
+Nominal clauses 1065 
+When an -ing form occurs alone or preceded just by a genitive noun phrase, 
+the construction is syntactically ambiguous between an -ing clause and a 
+noun phrase with a verbal noun in -ing as its head (~1'17.528): 
+My hobby is swimming. 
+I hate /ying. 
+They liked our singing. 
+Our singing in [S] can refer either to the action of singing or to the mode of 
+singing. Without further expansion by an object or an adverbial, the genitive 
+biases towards a mode interpretation. In contrast, the objective in [Sal allows 
+only an action interpretation: 
+They liked us singing (while they worked). 
+[sal 
+Since the -ing clauses in [l] and [2] do not allow a mode interpretation, it 
+appears that this interpretation belongs to the noun phrase structure rather 
+than to the clause structure. Similarly, when we expand [S] by adding an 
+object and thereby making the -ing construction unambiguously a clause, the 
+mode interpretation is no longer available. In [5b] the -ing clause refers to an 
+; action: 
+They liked our singing folk songs. 
+[5bl 
+Conversely, where only the mode interpretation is available, we may assume 
+that the construction is a noun phrase: 
+Your driving has improved considerably since I last saw you. 
+t61 
+Contrast also [7] and [8], distinguished only by the position of fast: 
+I warned him against fast driving. 
+I warned him against driving fast. 
+In [7] fast is an adjective premodifying the noun driving, which is the head of 
+the noun phrase. In [8] the adverb fast is an adverbial in the -ing clause driving 
+fast. Compare the analogous contrasting pair in [7a] and [8a]: 
+I warned him against careless driving. 
+I warned him against driving carelessly. 
+When the -ing form is alone and is the direct object, as in [4], two 
+interpretations of the implied subject are often possible. Thus, I hate lying 
+may mean 'I hate it when I lie', linking the action specifically to the subject 
+of the superordinate clause, or it may generalize ('I hate it when people lie'). 
+When the -ing construction contains a direct object or an adverbial and is 
+therefore unambiguously clausal, the usual interpretation is that there is an 
+implicit link to the superordinate subject: 
+I hate telling lies. ['I hate it when I tell lies.'] 
+They enjoy singing while playing the guitar. ['They enjoy it when they 
+sing while playing the guitar.'] 
+But this restriction is not absolute. It does not apply after verbs of speaking, 
+where the generic interpretation holds: 
+
+
+1066 
+Syntactic and semantic functions of subordinate clauses 
+l 
+Nominal clauses 1067 
+She condemned attacking defenceless citizens. 
+[' . . . that people attack defenceless citizens.'] 
+They recommend notpaying taxes. [' . . . that people not pay taxes.'] 
+In other instances, the implied subject of the -ing clause may be taken from 
+the context of the sentence: 
+Writing that letter was his downfall. [He wrote that letter] 
+Driving in heavy traffic makes me nervous. [I drive in heavy traffic] 
+But it may also be drawn from the previous linguistic context or even from 
+the situational context: 
+Borrowing such a large sum was a big mistake. 
+And some sentences may allow a generic interpretation: 
+Borrowing large sums is a big mistake. 
+Note 
+[a] An -ing form may also be a concrete noun (cf the discussion in 17.54). 
+[b] In That Ivas aplan ofhisjriend's deuising, the -ing form is an -ing nominalization (cfL7.5lff). 
+Compare Hisjriend deuised the plan. 
+[c] On the distinction between They likedour singingand They liked us to sing, cf 16.40, 16.42. 
+15.14 
+An -ing clause may be the subject of a bare existential clause (cf 18.47), in 
+which case it normally appears in nonassertive contexts (cf 10.61). As with 
+the -ing clause that has a genitive as its subject (cf 15.12), this construction is 
+anomalous because the -ing form is preceded by a determiner, generally no 
+but less commonly any: 
+There's no mistaking that voice. ['One could not mistake that 
+voice.'] 
+[l1 
+There was no lightingfire~vorks that day. ['One could not have lit 
+fireworks that day.'] 
+[21 
+There isn't any telling what they will do. ['One could not tell what 
+they will do.'] 
+[3] 
+There must be no standing beyond the yellow line. ['One must not 
+stand beyond the yellow line.'] ' 
+L41 
+If the -ing construction contains a direct object, it is generally paraphrasable 
+with modal auxiliaries, as in [l -31. In [4], where the construction lacks an 
+object, a modal auxiliary is present in the sentence. Abbreviated forms with 
+just the negative -ing clauses generally have the force of a prohibition: 
+l 
+No smokidg. 
+No parking here. 
+No playing loud music. 
+The nonmodal interpretation is occasionally found, usually in certain fixed 
+expressions: 
+There was no turning the other cheek. ['No one turned the other cheek.'] 
+It is encouraged by the -ing nominalization (cf 17.51f): 
+There was no shooting ofprisoners. ['No one shot prisoners.'] 
+If there is no direct object or of-construction, the -ing construction is 
+ambiguous between the -ing clause and the -ing nominalization: 
+There was no smoking in the corridors. 
+(i) 'Smoking was not allowed in the corridors.' 
+(ii) 'No one smoked in the corridors.' 
+Note 
+[a] Only the -ing nominaIization occurs in the positive: 
+There was shooringofpriso~~ers. 
+['They shot prisoners.'] 
+There was smoking in the corridors. ['They smoked in the corridors.'] 
+[b] The following sentence is triply ambiguous: 
+There'sno writing on the blackboard today. 
+(i) -ing clause with modal interpretation: 
+'We can't write on the blackboard today (because we have no chalk).' 
+(ii) nominalization with nonmodal interpretation: 
+'We're not going to write on the blackboard today (because there's going to be an 
+exam).' 
+(iii) deverbal noun: 
+'There's nothing writtenon the blackboard today.' 
+Bare infinitive clauses 
+15.15 
+The nominal bare infinitive clause (without to) is severely limited in its 
+functions. If may be the subject complement or (rarely) subject in a pseudo- 
+cleft sentence (cf 18.298): 
+subject complement: What the plan,does is ensure a fairpension for all. 
+subject: Mow thelawn was what I did this afternoon. (rare and informal) 
+It may also be the subject or subject complement of a variant of the pseudo- 
+cleft sentence, where a noun phrase of general reference replaces what: 
+Turn oflthe tap was all I did. 
+The best thing you can do now is write her an apology. 
+The to of the infinitive is obligatorily absent when the infinitive clause is 
+subject in these constructions, but it is optionally present when the clause is 
+subject complement: 
+What they must do is (to) propose an amendment to the resolution. 
+The thing you should do is (to) show them your diploma. 
+The bare infinitive requires the substitute verb DO in the other subordinate 
+clause. Contrast the obligatory to in [l] with the optional to in [2]: 
+All I wanted was to help him. 
+All I wanted to do was (to) help him. 
+A bare infinitive clause may function as object complement with a relatively 
+few superordinate verbs ( cf 16.52): 
+They made herpay for the damage. 
+Finally, the bare infinitive clause may follow prepositions of exception (cf 
+9.58): 
+She did everything but make her bed. 
+
+
+1068 Syntactic and semantic functions of subordinate clauses 
+Verbless clauses 
+15.16 
+The nominal verbless clause is a more debatable category than the other 
+nominal clauses. The category seems to be required to account for 
+constructions which, althougli superficially noun phrases, have some of the 
+semantic and structural characteristics of clauses: 
+A friend in need is ajiiend indeed. [proverb] 
+Wall-to-wall carpets it1 every room is their dream. 
+Are bicycles wise in heavy traflc? 
+These may be paraphrased by nominal nonfinite existential clauses (cf 
+18.44ff): 
+To be afriend in need is to be a friend indeed. 
+[lal 
+Having wall-to-wall carpets in every room is their dream. 
+[2al 
+Is it wise to have bicycles itr heaoy traflc? [or: ' . . . for there to be 
+bicycles in heavy traffic?'] 
+D 4  
+Various syntactic features differentiate these constructions from noun 
+phrases: 
+(i) The prepositional phrases in [l] and [2] are not of the kind that 
+postmodify the head in a noun phrase. A friend in need as a noun phrase, for 
+example, would mean 'a friend who is in need', whereas [l] means '(to be) a 
+friend when another is in need' (ie 'Friendship in a time of need is indeed 
+friendship'). 
+(ii) The verb in [2] is singular, which would be difficult to explain if the 
+subject were a plural noun phrase. 
+(iii) Semantic restrictions (cf 10.51) would make it anomalous to combine 
+the noun-phrase head bicycles as subject with the attributive or predicative 
+adjective wise (*wise bicycles; *The bicycles are wise). In the paraphrase [3a], 
+wise complements the infinitive clause to have bicycles in heavy trafic. The 
+proximity principle (cf 10.35) may account for the plural verb. The structure 
+SVC, on the other hand, biases the syntax of the sentence towards clausal 
+grammar and the consequent singular number concord (cf10.15): 
+Bicycles in heavy traffic is sheer madness. 
+Syntactic f nctions of adverbial clauses 
+i 
+15.17 
+In Chapter 8 we distinguished four broad categories of syntactic functions 
+for adverbials: adjuncts, subjuncts, disjuncts, and conjuncts. Adverbial 
+clauses, however, function mainly as adjuncts and disjuncts. 
+In the next two sections we briefly consider adverbial clauses functioning 
+as conjuncts and subjuncts. They will not be treated further in this chapter. 
+Conjuncts 
+15.18 
+The syntactic status of conjuncts is discussed in 8.134ff. They are peripheral 
+to the clause to which they are attached. Only a few adverbial clauses 
+Syntactic functionsof adverbial clauses 1069 
+function as conjuncts. They are stereotyped or virtually stereotyped, and can 
+be comprehensively listed. 
+One finite clause type, the nominal relative clause (cf15.8ff), functions as 
+a reinforcing conjunct : 
+What is more, 
+What is most worrying, 
+What interests me more, 
+In addition, that is (to say) is an apposition marker. 
+A number of to-infinitive clauses function as listing or summative 
+conjuncts : 
+to begin (with), to cap it (all) (informal), to conclude, to continue, to recap 
+(informal), to recapitulate, to start (with), to summarize, to sum up 
+These allow a direct object or prepositional complement, eg: to summarize 
+the argument so far; to begin our discussion. In addition, there are two to- 
+infinitive clauses which require a prepositional complement: 
+to return to [eg] my earlier discussion 
+to turn to [eg] the next point 
+All of these to-infinitive clauses have corresponding -ing clauses, but most of 
+them require complementation of the verb. Only a few can be used without 
+complementation: capping it all, continuing, recapitulating, recapping (infor- 
+mal), summarizing, summing up. 
+Note 
+The nonfinite conjuncts imply as subject the I (or authorial we) of the speaker. In this respect, 
+they resemble style disjuncts (cf 8.124) such as toput it bluntly andfiankly speaking. Indeed, they 
+could alternatively be analysed as style disjuncts. 
+Subjuncts 
+15.19 
+The syntactic status of subjuncts is discussed in 8.1 16. Subjuncts are generally 
+not realized by clauses, the exception being viewpoint subjuncts. 
+Both finite and nonfinite (participle) clauses function as viewpoint 
+subjuncts. The verbs in the clauses constitute a restricted semantic set, 
+principally be concerned and go (only in the finite clauses as far as . . . and so 
+far as. . .), consider, Iook at, view: 
+As far as the economy 
+the next six months are critical. 
+If we Iook at itfrom an historical point of view, they have little claim on 
+the territory. 
+Looking at it objectivelyI he is definitely at fault, 
+Viewed objectively, 
+Note 
+As with the conjunct clause (cf 15.18 Note), the -ing clause as viewpoint subjunct implies as 
+subject the I of the speaker. On the other hand, the subject of the -ed clause is implicitly the 
+matrix clause itself. Compare the anaphoric reference of the pronoun it in the corresponding 
+$clause: I/it is viewed objectively, he is definitely at fault. 
+
+
+1070 Syntactic and semantic functions of subord;nateclauses 
+I 
+Adjuncts and disjuncts 
+15.20 
+Adjuncts and disjuncts tend to differ semantically in that adjuncts denote 
+circumstances of the situation in the matrix clause, whereas disjuncts 
+comment on the style or form of what is said in the matrix clause (style 
+disjuncts) or on itscontent (content or attitutlinal disjuncts). The prim&y 
+difference is that they differ syntactically in that disjuncts are peripheral to 
+the clause to which they are attached. 
+The syntactic difference does not manifest itself in differences in form or 
+position. For example, finite clauses that function as adjuncts and disjuncts 
+may share the same subordinator, and in both functions the clauses may be 
+positioned initially or finally. The peripheral status of disjuncts is indicated 
+mainly negatively: they do not allow a number of syntactic processes to apply 
+to them that are allowed by adjuncts, processes that reflect a measure of 
+integration within the superordinate clause. 
+In this section we consider the differences between adjunct and disjunct 
+clauses. Below we exemplify the contrasts between adjunct clauses in the [a] 
+sentences and content disjunct clauses in the [b] sentences: 
+temporal since [a] and reason since [b]: 
+I have been relaxing since the children went away on vacation. 
+[a] 
+He took his coat, since it was raining. 
+[bl 
+temporal while [a] and concessive while [b]: 
+He looked after my dog while I was on vacation. 
+[a] 
+My brother lives in Manchester, while my sister lives in Glasgow. 
+[b] 
+purpose so that [a] and result so that [b]: 
+They took a plane so that they couldget there early. 
+[a] 
+We know her well, so that we can speak to her on your behalf. 
+[b] 
+I 
+conditional if; [a] and conditional unless [b]: 
+They'll send it to you fyou ask them politely. 
+I'll get lost unless I canfind my compass. 
+temporal as [a] and reason as [b] : 
+The po~ickman stopped them as t h y  were about to enter. 
+[a] 
+I went to dhe bank, as I had run out of cash. 
+[bl 
+The syntactic difference between adjunct and content disjunct clauses will 
+be illustrated by two finite clauses, an adjunct because-clause and a disjunct 
+since-clause. Both are incorporated within the same superordinate clause, 
+and both are claqses of reason : 
+He likes thim because they are always helpful. 
+[lal 
+He likes them, since they are always helpful. 
+[Ibl 
+Both can be positioned initially, although the adjunct clause is more usual 
+finally : 
+Because they are always helpful, he (really) likes them. 
+[2al 
+Since they are always helpful, he (really) likes them. 
+[2bl 
+Syntactic functions of adverbial clauses 107 1 
+The syntactic differences between the two types of clauses mainly involve 
+focusing devices: 
+(i) Only the adjunct clause can be the focus of a cleft sentence: 
+It's because they are always helpful that he likes them. 
+[3al 
+*It's since they are always helpful that he likes them. 
+[3bl 
+(ii) Only the adjunct clause can be the focus of a variant of the pseudo-cleft 
+sentence : 
+The reason he likes them is because they are always helpful. 
+E44 
+*The reason he likes them is since they are always helpful. 
+[4bl 
+(iii) Only the adjunct clause can be the focus of a question, as we can test 
+with alternative interrogation: 
+Does he like them because they are always helpful or because they 
+never complain? 
+[sal 
+*Does he like them since they are always helpful or since they 
+never complain? 
+[Sbl 
+(iv) Only the adjunct clause can be the focus of negation, as we can test 
+with alternative negation: 
+He didn't like them because they are always,helpful but because 
+they never complain. 
+[6al 
+*He didn't like them since they are always helpful but since they 
+never complain. 
+[6bl 
+Contrast similarly: 
+He liked them, not because they are always helpful but because 
+they never complain. 
+[7al 
+*He liked them, not since they are always helpful but since they 
+never complain. 
+[7bl 
+(v) Only the adjunct clause can be focused by focusing subjuncts (cf 
+8.116 ff) such as only, just, simply, and mainly: 
+He likes them only because they are always helpful. 
+[8al 
+*He likes them, only since they are always helpful. 
+[8bl 
+Contrast also: 
+Only because they are always helpful does he like them. 
+[gal 
+*Only since they are always helpful does he like them. 
+[9bl 
+(vi) Only the adjunct clause can be the response to a wh-question formed 
+from the matrix clause: 
+Why does he like them? Because they are always helpful. 
+[l oal 
+*Why does he like them? Since they are always helpful. 
+[lob1 
+Here are some further examples of content disjunct clauses (cf 8.127): 
+He brought me a cup of coffee although I had askedfor tea. 
+William has poor eyesight, whereas Sharon has poor hearing. 
+You can return to a normal diet now that you have lost enough weight. 
+
+
+1072 Svntactic and semantic functions of subordinate clauses 
+I'll take you for a ride provided that your parents give you permission. 
+He paid for a seat, when he could have entered free. [concessive when] 
+They ridiculed him until she felt obliged to come to his aid. [result until] 
+They will starve before they will surrender uncondiiionally. [negative 
+result before] 
+In final position, content disjunct clauses tend more commonly than 
+adjunct clauses to be separated from their matrix clauses by intonation or 
+punctuation, though punctuation usage varies. Such separation is particularly 
+common when the subordinator of a disjunct clause is frequently used as the 
+subordinator of an adjunct clause, a condition that applies to reason since 
+and as, concessive while, and result so that. In initial position, all adverbial 
+clauses, regardless of form or function, are separated by intonation and 
+(usually) by punctuation from their matrix clause. 
+Style disjuncts and content disjuncts 
+15.21 The syntactic differences enumerated in 15.20 apply equally to style disjuncts 
+and content disjuncts. Style disjuncts are distinguished semantically in that 
+they generally imply a verb of speaking and the subject I. The style disjuncts 
+implicitly refer to the circumstances of the speech act, while the content 
+disjuncts refer to the content of the matrix clause. The style disjuncts are 
+therefore more peripheral to their superordinate clause than are the content 
+disjuncts. 
+Here are some contrasts between either adjuncts or content disjuncts [a], 
+and style disjuncts [b]: 
+adjunct because [a] and style disjunct because [b]: 
+We have no electricity, because there's apowerfiilure. 
+[a] 
+I have nothing in my bank account, because I checked this 
+morning. 
+[bl 
+adjunct if ia] and style disjunct if [b]: 
+We'll take along Sharon, ifshe's ready. 
+[a] 
+We can do with some more butter, ifyou're in the kitchen. 
+[bl 
+content disjknct since [a] and style disjunct since [b]: 
+since ydu know Latin, you should\be able to translate the 
+inscription. 
+[a] 
+What does the word mean, since you're so clever? 
+[bl 
+content disjunct though [a] and style disjunct though [b]: 
+She enjoys driving, though she doesn't like to drive in heavy trafic. 
+[a] 
+He deskrved the promotion, though it'snot my place to say so. 
+[b] 
+We exemplify the semantic and syntactic differences by two finite clauses, 
+a content disjunct although-clause and a style disjunct since-clause: 
+Elizabeth enjoyed last night's concert although part of the 
+programme included Wagner. 
+[lal 
+Elizabeth enjoyed last night's concert, since her brother toldme so. 
+[lb] 
+The concession in [la] refers to the content of the matrix clause, but the 
+reason in [lb] refers to the speaker's motivation for the assertion ('I tell you 
+Syntactic functions of adverbial clauses 1073 
+this since her brother told me so'). The more peripheral status of the style 
+disjunct is shown in its greater independence with respect to pro-forms. 
+Thus, the style disjunct more readily allows the repetition of a noun phrase, 
+whereas the content disjunct normally requires pronoun substitution: 
+Elizabeth enjoyed last night's concert altllough theprogramme was not 
+entirely to 
+[2al 
+Elizabeth enjoyed last night's concert, since (yrS] 
+brother told 
+me so. 
+[2bl 
+Style disjuncts realized by clauses are always separated from the matrix 
+clause by intonation and punctuation. 
+Here are some further examples of style disjuncts: 
+While we're on the subject, why didn't you send your children to a public 
+school? 
+Ifyou willallow me to say so, your attitude is equally racist. 
+The latest unemployment figures are encouraging, as it were. 
+Before you leave, where can I reach you? 
+Since you don't seem to know, all further negotiations have been 
+suspended. 
+Before you say anything, you have the right to be silent. 
+I'm in charge here, in case you don't know. 
+Ifyou're so clever, what's the answer? 
+Speaking of the devil, here comes my nephew. 
+Stated bluntly, I have legal control over their estate. 
+Note 
+[a] The same form of clause can be a style disjunct in a statement and an adjunct when it is a 
+response to a question. Style disjuncts can be the response to a question if the implied 
+superordinate clause is made explicit. Compare the adjunct clause in 131, [3a], and [4al with the 
+style disjunct clause in [4]: 
+We have no electricity, because there ,vasapower failure. 
+L31 
+-A: Why do you have no electricity? 
+B: Because there was apower failure. 
+Pal 
+I have no money in my bank account, because Ichecked this morning. 
+L41 
+-A: Why do yousay that you have nomoney in your bank account? 
+B: Because I checked this morning. 
+[4al 
+The sentence relating to the question-response set in [Sal is [S], which (like [Sal) contains an 
+adjunct because-clause; the question asks for some verification of the claim in the matrix clause 
+in [S]: 
+I know that I have no money in my bank account, because Ichecked this morning. 
+[S] 
+-A: How do you know that you have no money in your bank account? 
+B: Because I checked this morning. 
+Pal 
+Notice that the adjunct because-clauses in [3] and [S] can be positioned initially, but not the 
+because-clause in [4], cf Note [c] below. 
+[b] In 161 the because-clause is an adjunct, while in 171 it is a style disjunct: 
+He likes them because they are always helpful. 
+161 
+He likes them, because his wife told me so. 
+171 
+Since two clauses with different syntactic functions cannot be coordinated, the two because- 
+clauses cannot be coordinated : 
+'He likes them because they are helpful and because his wife told me so. 
+They can cooccur in the same sentence, though the juxtaposition is stylistically clumsy in written 
+
+
+1074 Syntactic and semantic functions of subordinateclauses 
+' j 
+English. The disjunct clause is then positioned peripherally: 
+?He likes them because they are helpful, bec:luse his wife told me so. 
+[C] The style disjunct becatrsc-clause is exceptional in that it must follow the matrix clause: 
+I have nothing in my bank account, because I checked this mornbtg. 
+*Beca~ise I checked thL ri~oraing. I have nothing in my bank account. 
+Contrast: 
+I'm up to my ears in debt, since jou ask me. 
+Sirlce you ask me, I'm up to my ears in debt. 
+[d] We have noted the analogies between clauses functioning as conjuncts (cf 15.18 Note) and 
+viewpoint subjuncts (cf 15.19 Note), on the one hand, and style disjuncts, on the other hand. 
+With respect to their integration within their superordinate clause, conjuncts are most like style 
+disjuncts. Viewpoint subjuncts are closer to content disjuncts, as shown by the test involving 
+repetition of a noun phrase: 
+As far as { ? ~ ~ m a v k }  
+economy is concerned. Germany shows signs of improvement. 
+[e] The style disjunct as it  ere ['as if it were so'] is roughly synonymous with so to speak. 
+Predication a n d  sentence adjuncts 
+15.22 
+For adjunct clauses, a major distinction can be made between PREDICATION 
+ADJUNCTS and SENTENCE ADJUNCTS. Predication adjuncts can in turn be 
+divided into obligatory and optional adjuncts (cf 8.26ff). All obligatory 
+adjuncts are predication adjuncts. 
+Predication adjunct clauses are normally positioned finally; fronting of a 
+predication adjunct exceptionally occurs for rhetorical purposes. Obligatory 
+adjunct clauses resemble direct objects and subject complements in providing 
+complementation to the verb. Sentence adjunct clauses are more mobile than 
+predication adjunct clauses: they may appear initially as well as finally, and 
+occasionally even medially. 
+Obligatory adjunct clauses (cf 10.10) may provide complementation for 
+the verb BE in the SVA type: 
+Your coat is where you left it. 
+Dinner will be when everybody has arrived. 
+The traffic jam was because there was an accident. (informal) 
+The water is in case you feel faint. (informal) 
+The purpose of the inquiry was so that all complaints would be made 
+public. , 
+And they may provide complementation for other verbs in the SVA type: 
+The water will last until you return. 
+My grandparents lived before television was invented. 
+He looks d,s ifhe's tired. 
+Jane look$as ifshe doesn't know me. 
+You may live wherever you like. 
+They are coming to see us next week. 
+They may also function as the adverbial in the SVOA type: 
+I put it where Z found it. 
+He treated them as ifthey were young children. ['He behaved to 
+them. . .'l 
+They wanted the money where it would earn the highest interest rates. 
+Even when they are optional, direction adjuncts (cf 15.31) depend on the 
+Syntactic functionsof adverbial clauses 1075 
+semantic category of verbs with which they cooccur - verbs denoting 
+direction: 
+They moved where the climate was milder. 
+Throw it where you wish. 
+Similarity adjuncts (cf 15.50) are a blend of similarity with manner when 
+they cooccur with verbs used dynamically: 
+She walks exactly as her mother used to. 
+as Zdo. 
+the word [like I d o  (informal, esp AmE) 
+Likewise, comparison clauses (cf 15.50) are a blend of comparison with 
+manner when they cooccur with verbs used dynamically: 
+He talks as ifhe has a hot potato in his mouth. 
+She is running as ifher life depended on it. 
+Calvin laughed as though he really understood the joke. 
+They talk like they know what they're doing. (informal, esp AmE) 
+Other optional predication adjuncts relate solely or predominantly to the 
+verb complementation rather than to the matrix clause as a whole. The most 
+common are position adjuncts: 
+I found the book where you said it would be. ['The book was where you 
+said it would be.'] 
+She hit him where it hurts. ['She hit'him in that part of him where it 
+hurts.'] 
+Sentence adjunct'clauses are not dependent on the predication and are 
+therefore more mobile. The examples that follow are placed in initial position 
+to show their ready acceptability in that position; these types of adjunct 
+clauses could just as easily (and most would more usually) be at E. 
+Before Zcould sit down, she offered me a cup of tea. 
+When he saw us, he smiled. 
+To emphasize her point, she invited me to visit her village. 
+Because it is near Madrid, tourists come for the day. 
+Zfthey achieve independence, conditions will improve. 
+As we ran toward the beach, it started to rain. 
+Whenever Zcome here, the hotels have new owners. 
+Where he stood, he could see sand dunes stretching for miles. 
+While she was in school, she became friendly with a boy whom she later 
+married. 
+Note 
+The subordinate clause in He treated them as fthey were young clzildrerz is an obligatory adjunct 
+only if treated has the meaning 'behaved toward' in which case treated requires to be 
+complemented by a manner adjunct. If treated is interpreted as 'gave medical treatment to' or 
+'gave a treat (or treats) to', the as $clause is an optional predication adjunct. 
+Restrictive and nonrestrictive adverbial clauses 
+15.23 
+Some linguists have attempted to apply the distinction between restrictive 
+and nonrestrictive modification in noun phrases (cf 17.3) to adverbials, 
+
+
+1076 
+Syntactic and semantic functions of subordinate clauses 
+thereby distinguishing between RESTRICTIVE and NONRESTRICTIVE adverbial 
+clauses. The semantic analogy with modification in the noun phrase is that 
+the restrictive adverbial restricts the situation in the matrix clause to the 
+circumstances described by the adverbial. The nonrestrictive adverbial, on 
+the other hand, makes a separate assertion, supplying additional information. 
+The restrictive/nonrestrictive distinction overlaps with some of the 
+distinctions that we have made earlier. All disjunct clauses have been earlier 
+characterized as peripheral because they do not give circumstantial 
+information about the situation in the matrix clause (cf 15.20); they are 
+therefore necessarily nonrestrictive. The same applies to the limited range of 
+conjunct clauses (cf 15.18) and subjunct clauses (cf 15.19). On the other hand, 
+obligatory adjunct clauses must be restrictive, since they are required to 
+complete the description of the situation in the matrix clause. The restrictive/ 
+nonrestrictive distinction therefore applies only to optional adjunct clauses. 
+Perhaps the clearest parallel to a nonrestrictive adjunct clause is the type 
+that has been characterized as an appended clause, a type of clause that is 
+usually parenthetic or an afterthought (cf 12.70): 
+Susan sees her father - when her mother insists on it. 
+[l] 
+Utterance of the sentence in [l] conveys two separate assertions: Susan sees 
+her father; she does so when her mother insists on it. On the other hand, the 
+when-clause in [2] is normally interpreted as restricting the circumstances in 
+which Susan sees her father (Susan sees her father only on those occasions): 
+Susan sees her father when he comes to London. 
+L21 
+The nonrestrictive clause is marked by intonation separation whether it 
+follows or precedes its matrix clause. Punctuation practice is less consistent. 
+In particuIar,!punctuation may be omitted when the nonrestrictive clause is 
+preposed. Bdt, in fact, punctuation is a redundant signal when the 
+nonrestrictivd clause is preposed, since a preposed clause is always 
+nonrestrictive. Thus, both [la] and [2a] are nonrestrictive: 
+When her mother insists on it, Susan sees her father. 
+flal 
+When herJather comes to London, Spsan sees him. 
+[2al 
+The semant;? difference between rehctive and nonrestrictive adjunct 
+clauses manifests itself when the matrix clause contains a focusing dev&e. 
+Nonrestrictive clauses cannot be the focus of such devices, and in this respect 
+are syntactically similar to disjuncts (cf 15.20). For example, the focus of the 
+negation can be on the restrictive when-clause in [2b], but not on the 
+nonrestrictive Clause in [l b]: 
+Susan doesn't see her father when he comes to ~ d ~ d o n .  
+['Susan sees her father, not when he comes to London, but at 
+other times.'] 
+[2bl 
+Susan doesn't see her &her - when she can UVOID it. 
+['Susan doesn't see her father - the times she does are when she 
+can't avoid it.'] 
+[lbl 
+Notice that if the when-clause in [2b] is preposed, it is outside the scope of 
+negation : 
+Semantic roles of adverbial clauses 1077 
+When herfather comes to London, Susan doesn't see him. 
+[2cI 
+The semantic difference is even sharper for because-clauses. Contrast the 
+restrictive clause in [3a] with the nonrestrictive clauses in [3b] and [3c]: 
+Raven didn't leave the party early because cA~ol 
+was there. 
+t3al 
+['Raven left the party early, not because Carol was there, but for some 
+other reason.'] 
+Raven didn't leave the party BARIY, because cA~ol 
+was there. 
+[3bl 
+['Raven didn't leave the party early, and the reason he didn't was that 
+Carol was there.'] 
+Because CAROI was there, Raven didn't leave the party E~RIY. 
+[3cI 
+[ = DbIl 
+We can now distinguish three because-clauses: restrictive adjunct [4a], 
+nonrestrictive adjunct [4b], and style disjunct [4c]: 
+Raven didn't leave the party early becazcse cA~ol 
+was there. 
+[4al 
+Raven didn't leave the party E ~ R I ~ ,  
+because cA~ol 
+was there. 
+[4bl 
+Raven didn't leave the party ~ h l y ,  
+because I CHECKED. 
+144 
+Similarly, we can distinguish four while-clauses: predication (and restrictive) 
+adjunct [5a], sentence (and nonrestrictive) adjunct [5b], content disjunct [Sc], 
+and style disjunct [Sd]: 
+I didn't send my children to a boarding school while I was in f~dia. [5a] 
+While I was in India, I didn't send my children to a boarding 
+school. 
+t5bl 
+My children enjoy jazz, while Iprefer classical music. 
+[ ~ c I  
+While we're on the subject, I prefer classical music. 
+W1 
+I 
+Semantic roles of adverbial clauses 
+15.24 
+We now turn to the semantic roles of adverbial clauses. The roles may be 
+related to those for adverbials in general (cf Chapter 8) and for prepositional 
+phrases in particular (cf 9.1448). 
+I 
+For each semantic set, we first discuss finite clauses and then turn to 
+nonfinite and verbless clauses introduced by a subordinator or (in some 
+1 
+instances) a preposition (cf 15.25ff). We then consider separately nonfinite 
+and verbless adverbial clauses that do not begin with a subordinator or 
+1 
+preposition (cf 15.58 ff). We conclude by discussing the verb phrase in those 
+cases where the choice of form is linked to particular types of subordinate 
+1 
+I 
+clauses. 
+Semantic analysis of adverbial clauses is complicated by the fact that many 
+subordinators introduce clauses with different meanings; for example a since- 
+clause may be temporal or causal. Furthermore, some clauses combine 
+I1 
+meanings, for example time with purpose or result (cf 15.48 f); in such cases, 
+we treat the clauses under sections that deal with what appears to be their 
+primary meaning. 
+
+
+l 
+1 
+l 
+l 
+Semantic roles of adverbial clauses 1079 
+1078 Syntactic and semantic functionsof subordinateclauses 
+Clauses of time 
+Subordinators and structural types of clauses 
+15.25 
+Adverbial finite clauses of time are introduced by one of the following 
+subordinators: after, as, before, once, since, till, until, when, n~henever, while, 
+whilst (esp BrE), now (that), as long as, so lorzg as, as soon as, immediately 
+(informal, esp BrE), directly (informal, esp BrE) : 
+Buy your ticket as soon as you reach the station. 
+When I last saw you, you lived in Washington. 
+My family, once they saw the mood I was in, left me completely alone. 
+Drop by whenever you get the chance. 
+All applications, when they are received before the deadline, are dealt 
+with promptly. 
+While I was asleep, I dreamed about you. 
+We came in just as it started to rain. 
+As I drove away, I saw them waving goodbye. 
+Wait until you're called. 
+Since Isaw her last, she has dyed her hair. 
+I'll give you an answer immediately roefinished reading yourfile. 
+(esp BrE) 
+Adverbial -ing clauses of time are introduced by one of the following 
+subordinators: once, till, until, when, whenever, while, whilst: 
+He wrote his greatest novel while working on a freighter. 
+Be careful when crossing streets. 
+Once having made apromise, you should keep it. 
+In addition, they are introduced by the prepositions after, before, on, and 
+since (cf 14.19)Note [b]): 
+They washed their hands before eating. 
+Since coming here life has been much more pleasant. 
+I took a bath after working in the garden all day. 
+On becomivg a member, you will receive a membership card and a 
+badge. [!When you become a member,. . .'] 
+Some speakers find untilonly marginally acceptable with -ing clauses: 
+?Untilmeeting yourparents, I had no idea that you were annoyed with 
+me. 
+?I'll wait hire until hearingfrom you again. 
+Adverbial -kd clauses of time are introduced by one of the following 
+subordinators that are also used with finite clauses: as soon as, once, till, until, 
+when, whenever, whilst (esp BrE) : 
+Spinach is delicious when eaten raw. 
+The dog stayed at the entrance until told to come in. 
+Once seen, that painting will never be forgotten. 
+He slept while stretched out on thefloor. 
+Whenever known, such facts should be reported. 
+As soon as is only occasionally possible as a subordinator for -ed clauses: 
+completed. 
+The documents will be returned as 
+required. 
+Verbless clauses of time are introduced by the same subordinators as -ed 
+clauses: as soon as, once, till, until, when, whenever, while, whilst (esp BrE) : 
+When in d~pculty, consult the manual. 
+Complete your work as soon aspossible. 
+While in Rome, be sure to see the Colosseum. 
+Clauses with as soon as seem to be limited to a few adjectives that are used 
+predicatively with nominal clauses and convey the modal meanings of 
+possibility or necessity, principally available, feasible, necessary, possible. The 
+implied subject of the verbless clause is it, referring to the matrix clause ('as 
+soon as it is possible'). The same implication is common, though not required, 
+for the other subordinators. 
+Some speakers find until and till only marginally acceptable with verbless 
+clauses : 
+?Margaret stayed with her parents until well. 
+?Sam watched TV until too tired to do so any more. 
+They seem acceptable in instructional language: 
+Beat the mixture untilfiuffy. 
+File the edges until smooth. 
+To-infinitive clauses without a subordinator or a subject may have temporal 
+function, expressing the outcome of the,situation: 
+I rushed to the door, only to discover that it was locked and barred. 
+He left, never to return. 
+I awoke one morning tofind the house in an uproar. 
+She turned around, tofind the cargone. 
+The curtains parted, to reveal a market scene. 
+He survived the disgrace, to become a respected citizen. 
+Leech rose above the University College defence to bullet the header a 
+fraction over from a free kick. 
+These clauses are restricted to final position, suggesting an analogy between 
+them and result clauses (cf 15.49), which they resemble in meaning. The 
+sentences can usually be paraphrased by reversing the relationship of 
+subordination (cf 15.28 Note [a]), and using a when- or after-clause: 
+When Iawoke one morning, I found the house in an uproar. 
+After he survived the disgrace, he became a respected citizen. 
+With durative verbs in the matrix clause, the construction expresses duration 
+of time together with outcome: 
+She lived to be 100. ['She reached 100 years of age.'] 
+You'll live to regret it. ['You'll eventually regret it.'] 
+The show went on to become a great success. ['The show eventually 
+became a great success.'] 
+He lingered on to see his daughter's wedding. 
+She grew up to be a successful actress. 
+
+
+1080 Syntactic and semantic functions of subordinate clauses 
+, 
+Semantic roles of adverbial clauses 108 1 
+! 
+Some of the verbs in this type of construction have become catenatives (cf 
+3.49) : grow to, come to, turn out to. 
+Finally, -ing clauses without a subordinator or a subject may also express 
+time relationship : 
+Returning to my village after thirty years, I met an old schoolteacher. 
+[' When/After I returned . . .'] 
+The stranger, having discarded his jacket, moved threateningly toward 
+me. [' . . . after he had discarded. . .'l 
+Adverbial clauses of time are adjuncts. Since they are commonly sentence 
+adjuncts (cf 15.22), they often appear initially and occasionally medially, as 
+the examples in this section indicate. 
+Note 
+[a] Noun phrases (sometimes introduced by a preposition) modified by a relative clause may 
+bdve a semantic role similar to adverbialclauses of time(cf 14.14): 
+Euery time (that) the telephone rings, he gets nervous. 
+Remain in your seats until such fimeas you are told that you can leave. 
+By the time the alarm want 08, I was awake. 
+'They made me feel at home the moment I arrived. 
+Things have changed a great deal since the last time you were here. (cj: since you were here 
+last time) 
+Throughout theperiod I was in London, it rained heavily. 
+These noun phrases and prepositional phrases are adverbials of time, though not adverbial 
+clauses. 
+[b] The correlativesno sooner. . . than (cf 14.13 Note [bl) express time relationship: 
+: 
+The meeting had no sooner started 
+No sooner had the meeting started} Ihan lhere was an 
+The meaning is similar to that of an as soon as clause, but it additionally expresses surprise. 
+Syntactically, the no sooner clause is the matrixclause. 
+Time relationsdips 
+15.26 
+An adverbial clause of time relates the time of the situation denoted in its 
+clause to the tiine of the situation denoted in the matrix clause. The time of 
+the matrix clause may be previous to, subsequent to, or simultaneous with, 
+the time of the adverbial clause. The situations in the clauses may be viewed 
+as occurring once or as recurring. The time relationship may additionally 
+convey duration:and the relative proximity in time of the two situations. 
+Some of these time relationships are expressed not only by the choice of 
+subordinator, but also by other devices in the two clauses: tense and aspect, 
+the semantic category of the verbs, adverbs and prepositional phrases of 
+time, and adjectives and nouns expressing time (cf 19.35). Temporal 
+relationships between clauses may be implied by their semantic relationships 
+in juxtaposed ob coordinated clauses (cf 13.22ff). Here we are concerned 
+mainly with the temporal subordinators. 
+Time before 
+15.27 
+Until, till, and before indicate that the situation in the matrix clause occurred 
+before or leading up to the situation in the subordinate clause. Till is used in 
+the same way as until, but is far less frequent as a subordinator. Until marks 
+the time up to which the situation in the matrix clause applies: 
+I disliked Maurice until Zgot to know him. 
+'The children were noisy until told to be quiet. 
+The matrix clause must be durative, theduration lasting to the time indicated 
+by the until-clause. A negative clause is always durative, even though the 
+corresponding positive clause is not durative (cf 8.58), since the absence of 
+the event extends throughout the indicated period: 
+I didn't start my meal until Adam arrived. 
+*I started my meal until Adam arrived. 
+Before also marks the time from which the situation in the matrix clause 
+applies, but the matrix clause need not be durative: 
+I started my meal before Adam arrived. 
+The situation in until-clauses is generally presupposed to be true, but that 
+is not always so for before-clauses. Nonfactual before-clauses may imply 
+preference, as in [l], or implausibility, as in [2]: 
+He'll beg for food before he'llask hisparentsfor money. ['He won't 
+ask his parents for money'; 'He would rather beg for food than 
+ask his parents for money.'] 
+111 
+Pigs will fly before he'll become a mathematician. ['He'll never 
+become a mathematician.'] 
+[21 
+Or the situation in the matrix clause may prevent that in the before-clause 
+from taking place: 
+He died before writing a will. 
+Sally stopped Ted before he had a chance to reply. (cf 14.27) 
+Some before-clauses may be interpreted as either factual or nonfactual: 
+I sent a donation before Z was asked to. 
+Before-clauses may imply purpose (cf 15.48) and result (cf 15.49) as well as 
+time: 
+I had to put my complaint in writing before they would take any action. 
+[' . . . so that they would take some action and with the result that they 
+took action'; also 'They wouldn't take any action until I put my 
+complaint in writing.'] 
+Until-clauses may imply result as well as time: 
+She massaged her leg until it stopped hurting. [' . . .with the result that it 
+stopped hurting.'] 
+The until-clause expresses the result of the activity described in the matrix 
+clause. 
+When the matrix clause is imperative, the sentence with a before-clause 
+may imply a conditional relationship as well as time: 
+Go before Zcall thepolice. ['Go! If you don't go, 1'11 call the police.'] 
+Compare the coordinate constructions implying the same relationship: 
+
+
+i 
+1082 Syntactic a n d  semantic functionsof subordinateclauses 
+Go or I'//ca/l the police. 
+Go and I won't call the police. 
+Nonassertive items (cf 10.60) can appear in before-clauses, perhaps because 
+before-clauses, like conditional clauses (cf 15.33#), inherently relate to 
+matters unfulfilled in respect of the matrix clause: 
+I spoke to them before Ieuer heardanygossip about them. 
+['At the time I spoke to them I had not heard any gossip about them'] 
+Contrast: 
+*I spoke to them after I had ever heard any gossip about them. 
+Before may be modified to indicate relative proximity of time (cf after, 15.29) 
+by a range of modifiers, eg: just, right, immediately, sometime, a long time, 
+many days: 
+I took the examination a year before my brother did. 
+Until is restricted to the modifiers just and right. 
+Note 
+[a] Constructions with before and affer are not necessarily converses. If we designate the first 
+situation as 'X'and the second as 'Y', then in the factual use of before: 
+X before Y = X happened before Y happened. 
+On the other hand, theafier construction has two interpretations: 
+Y afier X = (i) Y happened after X happened. [converse] 
+(ii) Y continued to happen after X began to happen. [not converse] 
+IfY is nondurative, the two constructions are converses: 
+I shaved [X] before I went to the party [Y]. 
+D1 
+= I went to the party [Y] offer I shaved [X]. 
+L41 
+However, if Y is,durative, the two constructions need not mean the same: 
+I knew Catliy [X] beforeshe practised medicine[Yl. 
+[S] 
+# Cathy practised medicine [Y] offer I knew her [XI. 
+[61 
+Sentence161 allows the possibility that Cathy practised medicine even before I knew her. 
+Nonfactual befoie-clauses rule out an equivalent offer-clause: 
+Sally stopped Ted [X] befire he had a chance to reply [Y]. 
+L71 
+# Ted had a chance to reply [Y] affer Sally stopped him [XI. 
+181 
+Sentence [7] implies that Ted did not have a chance to reply. 
+When the offer-clause implies cause, there is no equivalent befire-clause: 
+Affer Norma kpoke, she received a standing ovation. 
+# Norma Spoke before she received a standing ovation. 
+p ]  When both matrix and subordinate clause differ only in their subjects, a prepositional phrase 
+corresponds to the before- or offer-clause: 
+Notice the use of the objective case in [IO]. In some contexts there may be ambiguity between 
+temporal and positional befire: 
+They should stand up before me. 
+['before I do'or 'in front of me'] 
+[Ill 
+Positional befareis used infrequently. 
+[c] Similar to the subordinators are prepositional phrases with unril, till, and bejore followed by 
+noun phrases modified by relative clauses, eg: till the moment (that), before the rime (that), cfl5.25 
+Note [a]. But the before-phrases cannot be used in place of nonfactual before-clauses. 
+Semantic roles of. adverbial clauses 1083 
+[d] Until-clauses, like before-clauses, may express a combination of time, purpose, and result. 
+Contrast: 
+Larry polished the table until 
+If the subject of the matrix clause and the until-clause are here coreferential (for example Lorry 
+and he), all three meanings are combined. If they are not coreferential, the until-clause convevs 
+~ ~.- 
+only time and result. 
+Same time 
+15.28 
+Several subordinators indicate the simultaneity of the situations in the matrix 
+and subordinate clauses, or at least an overlap in time of the two situations: 
+as, as long as, so long as, while, whilst. When, whenever, and now (that) may 
+have the same function. 
+As, as Iong as, so long as, while, and whilst always denote simultaneity when 
+they are used as temporal conjunctions. Temporal clauses introduced by the 
+last four of these subordinators are duration adverbials. 
+As denotes merely simultaneity of two situations: 
+Just as she was about to speak, she was handed a note. 
+As it grew dark, we could hear the hum of mosquitoes. 
+For as long as and so Iong as, both clauses must be durative. Generally, these 
+subordinators imply that the situations begin and end at the same time: 
+As long as I live here, I do it my way. 
+He'll continue working so long as he has the strength. 
+They emphasizemore strongly than the other subordinators both simultaneity 
+and duration. While and the less frequent whilst require that their clause must 
+be durative, but the matrix clause need not be: 
+They arrived while I was sunbathing. 
+He cut himself while shaving. 
+Whenever is primarily used to introduce a frequency adverbial, denoting 
+that the situation is repeated. It may also imply that the two situations 
+overlap in time if at least one of the clauses is durative: 
+It rains whenever we're camping. [' . . . at any time we're camping.'] 
+She visits her parents wheneverpossible. 
+Like whenever, when may imply simultaneity if one of the clauses is durative: 
+When I dream I see angels running up and down a ladder. 
+Be careful when crossing streets. 
+When may also imply repetitiveness, in which case it is synonymous with 
+whenever: 
+When I read I like to be alone. 
+As long as and so Iong as may imply condition ('provided that') as well as 
+time : 
+I'm happy as long as my children are. 
+
+
+1084 
+Syntactic a n d  semantic functions o f  subordinate clauses 
+Now that combines reason with temporal meaning, in present or past time. 
+It may be used to indicate simultaneity: 
+We are happy now that everybody ispresent. 
+Now that she could drive, she felt independent. 
+Note 
+[a] A type of when-clause, obligatory at Eposition, represents climactic information in narrative: 
+The last man was emerging from the escape tunnel ~vltcn a distant shout signalled its 
+discouery by the gtrards. 
+[I] 
+I was playing the piano, 1r311e11 
+there wasa k~ock at tilt door. 
+121 
+I was watching the television, ~vhe~t 
+snddertly the lights went our. 
+[31 
+The more important information is given in the subordinate clauses, which indicate that an 
+event happened within a period referred to in the matrix clause. Notice that the matrix verb is 
+in the progressive and that the ~vlten-clause is positioned finally. The effect is to provide a 
+dramatic and emphatic climax. The wlten-clause is nonrestrictive (cj 15.23). and is usually 
+separated by intonation and punctuation from the matrix clause. 
+[b] Certain noun and prepositional phrases combine with relative clauses to convey a meaning 
+similar to that of these subordinators, cf 15.25 Note [a]. They include euery time (that), as oflen 
+as, at the very moment (that), during the period (that), throughout the time (that). 
+Time after 
+15.29 
+Several subordinators indicate a sequence in which the situation in the 
+matrix clause occurs after that in the subordinate clause: after, as soon as, 
+directly (esp BrE), immediately (esp BrE), once, since, when, whenever. Now 
+(that) may have the same function. 
+As soon as, immediately, directly, and once add the notion of proximity in 
+time of the two situations: 
+As soon as'lleft, I burst out laughing. 
+We'll eat once Zfinish preparing the meal. 
+ZmmediateZy an? directly particularly emphasize proximity: 
+She returned immediately she heard the good news. 
+A similar effect is obtained by adding appropriate modifiers to after and as 
+soon as, eg : imniediately after, just as soon as. 
+After merely marks the sequence of the clauses. Modifications (cf: before, 
+15.27) may indi4ate relative proximity, eg: just, right, immediately, moments, 
+some time, a long: time, soon, three days, a year: 
+Come over right after you'vefinished working. 
+I went to sleep soon after hearing the news. [after as preposition] 
+Unlike the proximity subordinators, after allows the possibility that the 
+situation in the matrix clause applied before the event: 
+He was still tired (even) after he had had eight hours of sleep. 
+*He was still tired immediately he had hadeight hours ofdeep. 
+Since marks the beginning of the period after which the situation in the 
+matrix clause applies (cf 8.60f, 14.26): 
+He feels much more relaxed since he left school. 
+[l] 
+Since returning home, Carol has been working in her parents' 
+business. [since as preposition] 
+121 
+Semantic rolesof adverbial clauses 1085 
+Since Zlast saw you, I have given birth to a beautiful daughter. 
+[3] 
+They had not read any books since they left school. 
+L41 
+The period marked by since may extend to the moment of utterance, as in 
+examples [l -31, or to the past time of narration, as in [4]. But since does not 
+rule out an extension beyond the period. The matrix clause may be durative, 
+as in [l], [2], and [4], in which case we can premodify since by ever and ask a 
+How long? question to elicit the since-clause. On the other hand, it may be 
+nondurative, as in [3]. The matrix clause (it followed by BE) may merely 
+specify the time period: 
+It has been two years since Zlast saw you. ['I last saw you two years 
+ago.'] 
+The period, however, may be left vague: 
+It's been 
+time} since you were here. 
+When and whenever may indicate a sequence when the two clauses are 
+nondurative : 
+She was shocked when she heard hisstory. 
+When(ever) I cry, my eyes get puffy. 
+I drink coke when(ever) I feel sick. 
+Now (that) does not have that restriction, but it combines circumstantial (cf 
+15.45) with temporal meaning: 
+Now that they've moved, we won't see them very often. 
+The sequential meaning of after, when, and whenever may induce' an 
+implication of cause, as in [5] and the following: 
+He felt better after he had a short nap. 
+I hit him back when he hit me. 
+My heart leaps whenever Zsee you. 
+When, whenever, and once may combine time with condition, as in [7] and the 
+following: 
+Zmake up my mind to do something, I do it immediately. 
+Once 
+When and whenever may also combine time, cause, and condition, as in [6]. 
+When may imply concession as well as time. Like whereas (cf 15.43), it 
+requires antithesis between two situations, but additionally has the meaning 
+'in that same situation' or 'in those same situations': 
+They were gossiping, when they should have been working. 
+[' . . ., whereas they should have been working.'] 
+She cleans the house by herself, when she could easily have asked her 
+children to help her. 
+In this use, the when-clause is nonrestrictive and is usually in final position. 
+
+
+1086 Syntactic and semantic functions of subordinate clauses 
+Note 
+[a] The preposition untilmay introduce ajrer-clauses: 
+Don't leave until ajfer I've spoken to you. 
+[b] Several prepositions may combine with relative when, which is not to be confused with the 
+subordinator: by, since (esp BrE), till, until: 
+Two years ago I bought a packet of your razor blades, si11re when 1 have used no others. 
+['since which time'] 
+They settled in Seattle, by nrl~etr she had obtained a master's degree in economics. ['by 
+which time'] 
+These constructions are sentential relative clauses (cf15.57). 
+[c] Proximity may also be conveyed by phrases such as the (cery)nroment that andfionr the nrirrute 
+(that) followed by a relative clause, cj15.25 Note [al. Other phrases that combine with relative 
+cla.Bes to convey a meaning similar to that of subordinators in this section includefin1 the very 
+first time (that), by the time (that), since the days (~vl~en). 
+[d] See 15.25 for to-infinitive clauses that blend time with outcome. 
+Clauses of contingency 
+15.30 
+The meaning of several subordinators that primarily express time, place, or 
+condition may be neutralized in certain contexts to convey a more abstract 
+notion of recurrent or habitual contingency: when, whenever, once; where, 
+wherever; if. The subordinators may then be paraphrased by such preposi- 
+tional phrases as 'in cases when' or 'in circumstances where': 
+there's smoke, there's fire. 
+children are involved, divorces are 
+If 
+particularly unpleasant. 
+111 
+Once 
+known, such facts have been reported. 
+When(ever)) 
+send up a flare. 
+Where(ver) 
+in doubt, see me. 
+[2] 
+i 
+ossible, you should test all moving parts. 
+If 
+9 
+conscious of an infringement of his rights, he always 
+Once 
+protested to the manager. 
+[3] 
+She always~wrote an encouraging remark, even where the essay 
+paper was poor. 
+1 
+L41 
+Once, whenever, and wherever cannot be focused by focusing adverbs such as 
+even, and are therefore excluded from [4]. 
+Nonfinite and verbless clauses without a subordinator may also express 
+recurrent contihgency : 
+Driving at high speed, one may well miss direction signs. 
+The sentence is ambiguous, taken out of context. 
+Freshfrom the oven, rolls are delicious. 
+We can supply the subordinator when for these clauses, and ffor the -ed and 
+verbless clauses. 
+Thecorrelative construction with the-clauses(cf 15.51) sometimes expresses 
+Semantic roles of adverbial clauses 1087 
+a meaning similar to that of a contingent relationship, the first ihe-clause 
+roughly corresponding to a when-clause or an ifclause: 
+The harder he worked, the happier he felt. 
+When he worked harder, he felt happier. 
+Clauses of place 
+15.31 Adverbial clauses of place are introduced mainly by where or wherever. Where 
+is specific and wherever nonspecific (cf 15.9). The clause may indicate position 
+[l] or direction 121: 
+Where rhejre had been, we saw nothing but blackened ruins. 
+[l] 
+They went wherever they couldfind work. ['to any place where'] 
+[2] 
+The meaning of place merges with the general contingency meaning 'in cases 
+where'(cf 15.30) in the following: 
+He put colons where(ver) he should have put semicolons. 
+Where-clauses may combine the meanings of place and contrast: 
+Where Isaw only wilderness, they saw abundant signs of life. 
+Notice that the contrast subordinator whereas, which can replace where 
+above, is a compound with where as one of its members. 
+Several temporal subordinators may have primarily a place meaning in 
+descriptions of scenes, when the scenes are described dynamically in terms 
+of movement from one place to another: 
+Take the right fork when the road splits into two. 
+The river continues winding until it reaches a large lake. 
+The building becomes narrower as it rises higher. 
+The road stops just after it goes under a bridge. 
+Once the mountains rise above the snow line, vegetation is sparse. 
+Note . [a] Where and ~vherewr also introduce -ed and verbless clauses (where grown, wherever necessary), 
+but the clauses then convey the general contingency meaning. 
+[b] The same place relationship may also be expressed by prepositional phrases with relative 
+clause postmodification (at the place that . . ., in the direction where . . .) or with a where- or 
+lvherewr-clause as complement (to~vard(s) where. . ., to wherever. . .). 
+[c] The archaic forms whence ['from where'] and whither ['to where'] are occasionally found, 
+particularly in religious language. 
+Clauses of condition, concession, and contrast 
+Overlap of semantic roles 
+15.32 
+We have seen that some clauses of time and place may express a general 
+notion of a contingency relationship between the situations described in the 
+subordinate and matrix clauses, a relationship also conveyed by conditional 
+ifclauses (cf 15.30). We have also noted that some temporal clauses may 
+imply relationships of condition (cf 15.27ff) and concession (cf 15.29), and 
+that some clauses of place may imply contrast (cf 15.31). We now further 
+note that many subordinators and conjuncts expressing those three logical 
+
+
+1088 Syntactic and sernanticfunctionsof subordinateclauses 

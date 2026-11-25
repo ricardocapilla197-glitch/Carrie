@@ -1,0 +1,3507 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 4: Semantics of the Verb Phrase (pages 97-130)
+Covers: Simple present/past, Progressive, Perfective, Future
+============================================================
+
+182 The semanticsof t h e  verb phrase 
+optional use of the present tense in sentences referring to writers, composers, 
+artists, etc and their extant works: 
+In The Brothers Karamazov, Dostoevsky drawsldrew his characters from 
+sources deep in the Russian soil. 
+Like Rubens, Watteau islwas able to convey an impression of warm, 
+living flesh by the merest whiff of colour. 
+Again, it is something more than a figure of speech to suggest that the author 
+is still able to speak to us through his works. The present can even be used, 
+without respect to any particular work, for general artistic characterizations 
+of the author: 
+Brahms islwas the last great representative of German classicism. 
+But biographical details of the artist's life must normally be reported through 
+the past tense (cf however Note [b]). Hence there is an interesting contrast 
+between: 
+Murasaki writeslwrote of life in 1 lth century Japan. 
+Murasaki wfote in 1 lth century Japan. 
+Note 
+[a] The simple present is usually used in newspaper headlines to report recent events: Trade 
+unions back merger; 'No sell-our'says P.M. 
+; Economic think-tank seeks assurances. (On headlines, 
+cf further 11.46). 
+[b] Two further minor uses of the historic present are (i) in photographic captions, for which, 
+however, the -ing participle is an alternative form: 
+The Queen arriueslarriuing for the State Opening of Parliament. 
+and (ii) in historical summaries or tables of dates: 
+1876 - Brahms completes his first symphony. 
+[c] There is variation between past and present tenses in cross-references from one part of a 
+book to the other: This problem is/~vasdiscussedi~~ 
+Chapter l .  The choice depends on whether the 
+book is conceived of as existing at one time, like a static object; or whether it is imagined to 
+progress in time, as it does for the reader who begins at Chapter 1 and moves from 'earlier' to 
+'later' parts of the hook. Other verb constructions (eg the perfective construction or the modal 
+construction with will) may also be used to imply progression in time: This matter has been 
+touched on in Chapteq 2, but we will return to it in Chapter 5. 
+(b) Simple present referring to the future 
+4.9 
+In main clauses, this typically occurs with time-position adverbials to suggest 
+(cf 4.45) that the event is unalterably fixed in advance, and is as certain as it 
+would be, were it taking place in the present: 
+The plane 1Laves for Ankara at eight o'clock tonight. 
+In dependent clauses, the future use of the simple present is much more 
+common, particularly in conditional and temporal clauses (cf 14.22): 
+He'll do it if youpay him. 
+1'11 let you know as soon as I hear from her. 
+Note 
+[a] The use of the simple present in directions with a 2nd person subject might be considered a 
+case of the present tense referring to the future: 
+You rest an air leak by disconnecting the delivery pipe at the carburettor and pumping the 
+fuel into a container. 
+You take the first turning on the left past the police station, then you cross a bridge, and 
+beor right until you see the Public Library. 
+Time, tense, and t h e  verb 183 
+However, these may more justly be taken as examples of the habitual present (cj4.6). the you 
+being interpreted impersonally, as equivalent to generic one (cf 6.21). 
+[bl The simple present may be used in reference to later parts of a book (c/ 4.5 Note [a], 4.8 Note 
+[cl) in examples such as the following: 
+In the next chapter we examine in the light of this theory recent economic developments in 
+the Third World. 
+(c) Simple present in fictional narrative 
+4.10 
+There is a close connection between the historic present of (a) above, and the 
+simple present as used in fictional narratives. The only difference is that 
+whereas the events narrated by means of the historic present are real, those 
+narrated by the fictional 'historic present' are imaginary: 
+The crowd swarms around the gateway, and seethes with delighted 
+anticipation; excitement grows, as suddenly their hero makes his 
+entrance. . . 
+This is stylistically marked in contrast to the normal convention of the past 
+tense for story-telling. A special exception is the use of the present in stage 
+directions: 
+Mallinson enters. The girls immediately pretend to be working hard. 
+William assumes a businesslike air,picks up two folders at random, 
+and makes for the door. 
+Here the present is used by convention, as if to represent the idea that the 
+events of the play are being performed before our eyes as we read the script. 
+A similar convention is used in summaries of narratives. 
+. . 
+Meanings of the past tense with reference to past time 
+. 
+4.11 
+As most commonly used, the past tense combines two features of meaning: 
+(a) The eventlstate must have taken place in the past, with a gap between 
+its completion and the present moment. 
+(b) The speaker or writer must have in mind a definite time at which the 
+eventlstate took place. 
+The first of these conditions is most clearly exemplified by a sentence like i 
+stayed in Africa for several months, where the usual implication is that I am 
+no longer in Africa. The second condition is most explicitly shown in 
+cooccurrence relations between the past tense and past time-position 
+adverbials such as last week, in 1932, several weeks ago, yesterday, etc: 
+Prices slumped yesterday. 
+last winter. 
+With such adverbials, the simple present or present perfective would be 
+virtually ungrammatical (cf, however, 4.8 Note [b] and 4.23 Note [a]): 
+*Freda {"B"' has started } school ~n 1950. 
+year' 
+
+
+184 
+The semantics of t h e  verb phrase 
+It is not necessary, however, for the past tense to be accompanied by an overt 
+indicator of time. All that is required is that the speaker should be able to 
+count on the hearer's assumption that he has a specific time in mind. In this 
+respect, the past tense meaning of DEFINITE PAST time is an equivalent, in the 
+verb phrase, of the definite article in the noun phrase. Just as with the definite 
+article (cf 5.27-32), so with the verb phrase, an element of definite meaning 
+may be recoverable from knowledge of (a) the immediate or local situation; 
+(b) the larger situation of 'general knowledge'; (c) what has been said earlier 
+in the same sentence or text; or (d) what comes later on in the same sentence 
+or text. 
+Note 
+A parallel may also be drawn, in terms of definite meaning, between the present and past tense, 
+and the 'near'and 'far' reference of the demonstratives this and that (c. 6.408). Thus the present 
+and past tenses can be added to other pairs of D E I ~ I C  
+items (cj6.43), such as this/that, nobv/tlten, 
+and liere/there. 
+Situational use of the past tense 
+4.12 
+The use of the past tense in relation to an immediate situation is illustrated 
+by the sentence: 
+Did you lock the front door? 
+[51 
+in a domestic situation where it is known that the front door is locked at 
+bedtime every night. In that case, [5] is more or less equivalent to Did you 
+lock the front door at bedtime? (Incidentally, in [5], the in the front door is 
+another case of situational definiteness; cf 5.288.) 
+Definiteness by virtueof the larger situation (or general knowledge; cf 5.29) 
+may be invoked to explain the use of the simple past in historical or 
+biographical statements which have specific people, places, or objects as 
+their topics: 
+Byron died in Greece. 
+[61 
+I have a friend who was at school with Kissinger. 
+[71 
+This picture waspainted by the owner's grandfather. 
+181 
+Rome was not built in a day. [a proverb] 
+[91 
+It is a matter of general knowledge that Byron is a historical personage (and 
+therefore that be must have died at some time or another). The past tense in 
+[6] presuppose$ such common ground between speaker and hearer: it is as if 
+the speaker had said: 'We all know that Byron died at some time or other; 
+well, when he died, he died in Greece'. Similarly, [7] presupposes that most 
+people spend a particular period at school, [8] presupposes that a picture one 
+sees on the wall must have been painted at some time or another; and [9] 
+presupposes that all cities (including Rome, the 'Eternal City') have to be 
+built at some time or other. 
+Anaphoric and cataphoric use of the past tense 
+4.13 
+In line with the use of the term anaphoric with reference to the definite article 
+(cf 5.30f), we may call the use of the past tense 'anaphoric' where the time in 
+Time, tense, and t h e  verb 
+185 
+the past to which the reference is made is already indicated by a previous use 
+of the past tense. In this sense, was is anaphoric in [IO]: 
+Then we entered the city. . . the square was deserted . . . 
+[l01 
+In other cases, a preceding use of the present perfective in the indefinite past 
+sense (cf 4.20f) provides a peg, so to speak, on which to hang a subsequent 
+occurrence of the past tense: 
+They have decided to close down the factory. It took us completely 
+by surprise. 
+[l11 
+There have been times when I wished myself safely home in bed. 
+[l21 
+(In the latter sentence, the present perfective have wished would also be 
+possible.).Again, this is similar to the case where the-indefinite article (cf 5.30) 
+prepares the way for a following coreferential definite article. In other cases, 
+anaphoric reference is to an adverbial of time in the same clause: 
+Last Saturday, we went to the theatre. 
+When the adverbial follows the past tense, this may be called the cataphoric 
+use of the definite past (cf 5.32): 
+We went to the theatre last Saturday. 
+Examples like 15-12] above show that for a verb phrase to be 'definite', the 
+relevant time need not be specified: it matters only that the time should in 
+principle be specifiable. This means that even very unspecific time adverbs 
+such sconce and when suffice to make the past tense appropriate: 
+When did she arrive? 
+I was once a heavy smoker. 
+Finally, the use of a temporal conjunction such as while or as soon as with 
+past reference is a sufficient condition for the use of the past tense in both 
+main and subordinate clauses: They lefi as soon as we arrived. 
+Note 
+[a] There are a few idiomatic constructions in which the element of definiteness seems to be 
+absent from the meaning of the past tense: eg in comparative clauses containing the main verb 
+waslwere: 
+She's not so active osslre was. 
+But here the past tense retains its other semantic feature: that the state no longer obtains; ie: 
+was is equivalent to used to be (cf 4.15). 
+[b] In the following idiomatic examples, the past tense lacks both its implication of 'definiteness' 
+and its implication of 'no longer obtaining': 
+I always knew you were my friend. 
+1131 
+Did you ever hear such nonsense? 
+[l41 
+The past is here a colloquial alternative to the present perfective referring to a state or habit 
+leading up to the present; eg [l31 could be rephrased: I've always known you to be myfriend. (In 
+the ritual exclamation of astonishment Well Inever did!, however, the perfective could not be 
+substituted.) This usage is restricted to the occurrence of the past tense with always, never, or 
+ever. Sentences such as [l31 and [l41 are to be distinguished from similar sentences containing a 
+past time adverbial, such as: In the past, I always thought you were ntyfrietld. Here the regular 
+interpretation of the past tense obtains, and so the implication is likely to be: '. . . but now I no 
+longer think so: 
+[c] On differences between AmE and BrE in the use of the simple past, cj4.20 Note, 4.22 Note 
+[al. 
+
+
+186 The semantics of the verb phrase 
+Event, state, and habitin the past 
+4.14 
+Having mentioned the pragmatic conditions for definiteness which are 
+common to most examples of the past tense, we now have to distinguish three 
+meanings of the past tense which match the three meanings of the present 
+with reference to present time (4.5-7). For the past tense, however, it is 
+better to place the three meanings in a different order. First we illustrate, as 
+the most common sense, the EVENT PAST, which refers to a single definite 
+event in the past: 
+The eruption of Vesuvius destroyed Pompeii. 
+[l] 
+In [l], the dynamic verb sense of destroyed identifies a single event. But in 
+[2], the verb was refers to a state, and is therefore an example of the STATE 
+PAST : 
+Archery was a popular sport for the Victorians. 
+L21 
+In [3], we have an example of the HABITUAL PAST, since the verb were held 
+refers to a sequence of four-yearly events: 
+In ancient times, the Olympic Games were held at Olympia in 
+Southern Greece. 
+L31 
+We may present these three meanings, therefore, in a diagram corresponding 
+to that used for the simple present (Fig 4.7): 
+I 
+I 
+I 
+EVENT PAS1 
+I 
+I 
+- 
+I 
+STATE PAST 
+I 
+1
+.
+ 
+I 
+HABITUAL PAST 
+I 
+T = time of orientation 
+In Fig 4.14, the three meanings are located by reference to a definite time in 
+the past (a SECONDARY TIME-ORIENTATION or T2), and only indirectly by 
+reference to the present moment (the PRIMARY TIME-ORIENTATION Or T,). The 
+diagram shows T2, like T,, as a point of time having no duration; but it 
+should be noted that T2 can sometimes refer to an extended time period. 
+Compare The agreement was signed at 7p.m. (where T2 is a momentary point 
+of time) with The agreement was signed in 1972 (where T2 is a whole year and 
+the actual signing is understood to take place at some unspecified point 
+within that period). 
+4.15 
+It is easy to see why the event past is more common than the corresponding 
+meaning of the present tense, viz the instantaneous present. From a vantage 
+Time, tense. and the verb 
+187 
+point in the present, we naturally see a happening in the past as a complete 
+unit, with a beginning and an end; but it is more difficult to see a present 
+event 'in close-up' in such a holistic way. With the past tense, there is a 
+tendency to treat as holistic events even states of affairs persisting through 
+an extended period, eg: 
+He lived and died in'his native city of Padua. 
+It can thus be rather difficult, in practice, todistinguish the different meanings 
+of the past tense. But one useful distinguishing mark is the fact that the 
+habitual and state meanings can be paraphrased by means of used to (cf 3.44): 
+In those days we used to live . 
+{lived 
+} ~n the country. 
+We {zd 
+get} up at 5 a.m. every morning all through the summer. [S] 
+As it stands, the habitual past in [3] above in4.14 is not formally distinguished 
+from the event past: only general knowledge tells us that the Olympic Games 
+were held more than once. If we wish to make sure that a sentence like [3] is 
+given a habitual interpretation, we have to substitute the used to construction 
+or else add an adverbial of frequency or duration, such as every morning and 
+all through the summer in [5]. 
+ noth her distinguishing feature is the tendency for dynamic verbs to have 
+a sequential interpretation when they occur in textual sequence (especially in 
+coordination): 
+She addressed and posted the letter. 
+161' 
+[# Sheposted and addressed the letter] 
+She disliked and distrusted her advisers. 
+. [7] 
+[= She distrusted and disliked her advisers] 
+In [6], the actions of addressing and posting are understood to take place in 
+succession, while in [7] the emotions of dislike and distrust are understood to 
+have existed side by side (cf 13.22ff). 
+Note 
+Sometimes, however, two dynamic verbs in sequence are given a simultaneous interpretation, 
+as in: 
+The explosion wreckeda car and danrogedseveral shops. 
+Another relevant factor is that certain conjunctions, such as before and after, can overrule the 
+normal order of temporal precedence : 
+Before the railroad gangs arrived, Dixon City {F: bA 
+nothing but a sleepy cattle town 
+(On the alternative use of hadbeen here, c/ 4.24.) 
+Meanings of the past tense with reference to present 
+and future time 
+4.16 
+Just as the simple present does not always refer to present time, so the past 
+tense is not always confined to past time reference. There are again three 
+special meanings to mention: 
+(a) In INDIRECT SPEECH (or INDIRECT THOUGHT; 
+cf 14.30ff), the past tense in 
+the reporting verb tends to make the verb of the subordinate clause past 
+
+
+188 
+The semanticsof t h e  verb phrase 
+Perfective aspect 189 
+tense as well. This phenomenon, known as backshift, is normally optional 
+(cf 14.31), but can result in an apparently anachronistic use of the past 
+tense for present time: 
+A: Did you say you havelhad no money? 
+B: Yes, I'm completely broke. 
+A: How did you know that I amlwas Max Wilson? 
+B: Well, I remembered that you arelwere tall, and wearlwore 
+glasses. 
+A different kind of backshift is observed when a sentence describing .' 
+speech or thought in the futurecontainsa reported speech clause referring 
+retrospectively to the present: 
+My wife will be sorry that she missed seeing you this evening. 
+(b) The ATTITUDINAL PAST, used with verbs expressing volition or mental 
+state, reflects the tentative attitude of the speaker, rather than past time. 
+In the following pairs, both the present and past tenses refer to a present 
+state of mind, but the latter is somewhat more polite: . 
+DolDid you want to see me now? 
+I wonderlwondered if you could help us. 
+(c) The HYPOTHETICAL PAST is used in certain subordinate clauses, especially 
+if-clauses, and expresses what is contrary to the belief or expectation of 
+the speaker (cf 14.23): 
+If you really worked hard, you would soon get promoted. 
+[l] 
+It's time we all took a rest. 
+l21 
+I wish I had a memory like yours. 
+L31 
+The hypothetical past, as in [l-31, implies the nonoccurrence of some 
+state orevent in the present or futuy. The implication of [l], for example, 
+is that the hearer does not work hard. 
+Note 
+[a] The past subjunctive singular form were (cf 3.62) is often considered preferable to the past 
+indicative form was in sentences such as: 
+He talks as if he werelwas the most powerful politician in the country. 
+Further details ace given in 14.24. 
+[b] The past tende forms of modal auxiliaries (could, would, etc) frequently occur with special 
+hypothetical force, and are somewhat restricted in their application to past time. These will be 
+considered in some detail in 4.59-64. 
+Perfective and progressive aspects 
+4.17 
+The term ASPECT refers to a grammatical category which reflects the way in 
+which the verb action is regarded or experienced with respect to time. bnlike 
+tense, aspect is not deictic (cf 6.43), in the sense that it is not relative to the 
+time of utterance. For some purposes, the two aspect constructions of English, 
+the perfective and the progressive (cf 3.54), can be seen as realizing a basic 
+contrast of aspect between the action viewed as complete (perfective), and 
+the action viewed as incomplete, ie in progress (imperfective or progressive). 
+But this is an oversimplified view, as is clear as soon as we observe that these 
+two aspects may combine within a single verb phrase (eg: I have been reading 
+is both perfective and progressive). In fact, aspect is so closely connected in 
+meaning with tense, that the distinction in English grammar between tense 
+and aspect is little more than a terminological convenience which helps us to 
+separate in our minds two different kinds of realization: the morphological 
+realization of tense and the syntactic realization of aspect. 
+We have seen (cf 3.54ff) that tense and aspect combine freely in the 
+complex verb phrase, and so the following system of contrasts, with 
+corresponding terminological distinctions, will form a useful starting point: 
+Table 4.17 
+SYMBOL 
+NAME 
+, : EXAMPLE 
+p---- 
+- 
+Type B 
+present perfective (simple) 
+he has examined 
+past perfective (simple) 
+he had examined 
+Type C 
+present progressive (simple) 
+he is examining 
+past progressive (simple) 
+he was examining 
+Type BC 
+present perfective progressive 
+he has been examining 
+oast oerfective orogressive 
+he had been examining 
+., , 
+We have already used the word 'simple' to describe a verb phrase totally 
+unmarked for aspect (simple present, simple past). By extension, we may 
+also, to avoid ambiguity, use the term 'simple' for verb phrases which are 
+unmarked for one of the two aspects, as indicated in Table 4.17. 
+Note 
+[a] It has been traditional for grammars to refer to the above set or oppositions of tense and 
+aspect as 'compound tenses', in which they would include such categories as the 'past perfect' 
+(or 'pluperfect') tense. This terminology, modelled on that used for inflectional languages such 
+as Latin, can be misleading when applied to English, and for this reason we prefer to limit, as 
+mentioned before, the term 'tense' to the morphological opposition between present and past 
+forms of the finite verb. 
+[b] Because of the close connection between the perfective construction and time, the perfective 
+is commonly termed the 'perfective tense' (or 'perfect tense'). 
+I I 
+Perfective aspect 
+l l 
+4.18 
+The overlap of meaning between tense and aspect is most problematic in 
+English in the choice that has to be made between simple past and present 
+perfective: 
+simple past: 
+John lived in Paris for ten years. 
+present perfective: 
+John has lived in Paris for ten years. 
+
+
+190 T h e  semantics of t h e  verb phrase 
+Here both sentences indicate a state of affairs before the present moment, 
+but the simple past indicates that the period of residence has come to a close, 
+whereas the present perfective indicates that the residence has continued up 
+to the present time (and may even continue into the future). This kind of 
+difference, although by no means invariable, is often summarized in the 
+statement that the present perfective signifies past time 'with current 
+relevance'. 
+In order to appreciate why 'current relevance' is a common implication of 
+the present perfective, it is as well to begin with the most general definition 
+of the perfective aspect. In its broadest possible interpretation, the perfective 
+indicates ANTERIOR TIME; ie time preceding whatever time orientation is 
+signalled by tense or by other elements of the sentence or its context. To 
+illustrate this definition, we take a preliminary look not only at the present 
+perfective, but at cases where the perfective doesnot cooccur with the present 
+tense : 
+I have already met your sister. 
+[l] 
+The flight was cancelled after we hadpaid for the tickets. 
+12.1 
+If you had listened to me, you would have avoided mistakes. 
+L31 
+By next week, they will have completed their contract. 
+[41 
+I may have left the key at the office (last night). 
+[51 
+I am/was sorry to have missed the concert. 
+161 
+She regretslregretted having abandoned the plan. 
+[71 
+The common factor of meaning which the perfective brings to all these 
+examples is sketched in Fig 4.18 : 
+T? 
+T = time of 
+V 
+orientation 
+I 
+Fig 4.18 ~nterior 
+time zone 
+Note 
+Perfective constructions are infrequent compared with nonperfective constructions. A corpus 
+study of verb phrases has indicated that approximately ten per cent of finite verb phrases are 
+perfective. 
+4.19 
+As the above hgure shows, the perfective merely defines an anterior time 
+zone (symbolized by the arrow c-) 
+within which the action of the verb 
+takes place. The time of orientation (T?) is not fixed: with the present 
+perfective [l], T? is equated with T,, while with the past perfective, T? is 
+equated with T2 (a specifiable secondary time of orientation in the past). 
+This is illustrated in [21 in 4.18 above, where T? (= T2) refers to the time of 
+cancelling the Right. In [3], however, the past perfective relates the event not 
+to T,, but to T,, since the past tense indicates in this case not a past event, 
+but a hypothetical event (cf the hypothetical past, 4.16). The conditional 
+clause could be expanded : 
+If you had listened to me before now. . . 
+Perfective aspect 
+191 
+In [4] and [5], the infinitive perfective occurs after a modal auxiliary, and the 
+time orientation derives not from the infinitive itself (which is tenseless), but 
+from the modal. Will in [4] sets up an ancillary time orientation T2 in the 
+future, so that the meaning of the whole construction will haue completed is 
+'past in future': 
+I 
++----+ 
+I 
+I 
+F1g4.19 Past In future 
+In [5], on the other hand, the modal may has a present orientation, and T? is 
+once again T,. In the last two examples of 4.18, the perfective occurs in a 
+nonfinite verb phrase, which, because it has no inherent time orientation, 
+takes its orientation from the main verb. Hence the paraphrases below, in 
+which the nonfinite clauses of [6] and [7] are replaced by finite subordinate 
+clauses, require variation in the verb construction of the subordinate clause 
+in correspondence with a similar variation in the main clause: 
+1 
+sorry that I 
+the concert. 
+She [regrets 
+regretted ] 
+[ abandoned 
+the plan. 
+that she (had) abandoned 1 
+t7aI 
+The past perfective is optional in the second variant of [6a] and [7a], for 
+reasons explained in Fig 4.24b. These distinctions are neutralized when a 
+nonfinite clause is used. 
+The overlap in the time-indicating functions of the past tense and the 
+present perfective is clearly seen in the choice of paraphrasing [5] above 
+either by the past tense [5a] or by the present perfective [5b]: 
+It is possible that I left the keys at the office (last night). 
+[sal 
+It is possible that I have left the keys at the office. 
+[5bl 
+On the other hand, this example also shows that the present perfective is to 
+some extent limited by the fact that it shares the same past time 'territory' as 
+the simple past. If a time-position adverbial like last night is added to [5], 
+then the finite verb paraphrase has to be the past tense [5a] rather than the 
+perfective [5b]. In other words, [5c] is unacceptable: 
+*It is possible that I have left the keys at the office last night. 
+15~1 
+However, the rule of adverbial incompatibility which forbids [5c] is 
+occasionally ignored; cf 4.23 Note [a] below. 
+Note 
+The semantic overlap between the simple past and the present perfective gives rise to a further 
+type of 'double marking' (cf 3.57,4.24) where the perfective redundantly repeats the indication 
+of anteriority present in the past tense: We wereglad to haue seen you can be used in a way which 
+makes its meaning indistinguishable from that of WC wereglad to see you. 
+
+
+192 The semantics of the verb phrase 
+The present perfective 
+4.20 
+The examples in 4.18 have given evidence that 'past with current relevance' 
+is not an adequate description of the meaning of the perfective aspect. Yet 
+when we concentrate on the present perfective, there is indeed reason for 
+such a description: the present perfective differs from the simple past in 
+relating a past eventlstate to a present time orientation. Thus in situations 
+(which are not unusual) where either the present perfective or the simple past 
+can be appropriately used, it is generally felt that they are not interchangeable, 
+but that the present perfective relates the action more directly to the present 
+time. Compare: 
+Where did you put my. purse? 
+Where have you put my purse? 
+The purpose of both of these questions may be to find the purse; but in [l] 
+the speaker seems to ask the addressee to remember a past action; while in 
+[2] the speaker apparently concentrates on the purse's present whereabouts. 
+There are many such cases. 
+Leaving aside such virtual equivalences, we may now focus on the 
+difference between the two constructions, contrasting the meanings of the 
+simple past given in 4.14 with the following meanings of the simple present 
+perfective: 
+(a) STATE LEADING UP TO THE PRESENT 
+That house has been empty for ages. 
+Have you known my sister for long? 
+(b) INDEFINITE EVENT(S1 IN A PERIOD LEADING UP TO THE PRESENT 
+Have you (ever) been to Florence? 
+All our children have had measles. 
+(C) HABIT (ie recurrent event) IN A PERIOD LEADING UP TO THE PRESENT 
+Mr Terry, hassung in this choir ever since he was a boy. 
+The province has suffered from disastrous floods throughout its history. 
+Of these meanings, (a) corresponds to the 'state past' use of the simple past, 
+but differs from it in specifying that the state continues at least up to the 
+present moment (cf:  hat housewas empty for ages - but now it's been sold); 
+(b) corresponds to the 'event past', but differs from it in that the past time in 
+&estion is indkfinite rather ihan definite (cf: Did you go to Florence (last 
+summer) ?); (c) corresponds to the 'habitual past', but, as with (a), the period 
+identified must continue up to the present. Compare: 
+The journal has beenpublished every month since 1850. 
+L31 
+The journal waspublished every month from 1850 to 1888. 
+L41 
+These three meanings may be represented in a diagram, Fig 4.20, which 
+parallels that of Figs 4.7 and 4.14. It is normal for meanings (a) and (c) to be 
+indicated by adverbials. A duration adverbial is virtually obligatory for both 
+(a) and (c), and a frequency adverbial may also occur with (c), as in [3] above. 
+Adverbials occurring with the indefinite past meaning will be mentioned in 
+4.22 below. 
+Perfective aspect 193 
+I I 
+(a) STATE MEANING 
+l 
+I 
+(b) EVENT MEANING 
+• • • • • 
+(C) HABITUAL MEANING 
+Fig 4.20 Meanings of the present perfective 
+Note 
+In AmE there is a tendency to use the past tense in preference to the present perfective, 
+especially for the indefinite past; eg: Didyoueoergo to Florence?(cf4.13 Note[b], 4.22 Note [a]). 
+Variants of the indefinite past meaning 
+4.21 
+In reference to a single event in the past (meaning (b) above), the present 
+perfective, particularly in BrE, is associated with three implications or 
+connotations, each of which may or may not be applicable in a given 
+instance. These implications are (i) that the relevant time zone leads up to 
+the present; (ii) that the event is recent; and (iii) that the result of the action 
+still obtains at the present time. The first of these implications is simply a 
+restatement of what was said about the anterior time zone of the perfective 
+in 4.18. The point to be made here is that the choice between the present 
+perfective and the simple past is often determined by whether the speaker 
+has in mind an implicit time zone which has not yet finished: 
+Have you seen the Javanese Art Exhibition? [yet] 
+Did you see the Javanese Art Exhibition? [when it was here] 
+The first of these implies that the Exhibition is still open; the second that the 
+Exhibition has finished. From this concern with a period still existing at the 
+present time, it is only a short step to the second implication often associated 
+with the present perfective, viz that the event is recent. The simple present 
+perfective is often used to report a piece of news: 
+Have you heard 
+Did you hear 1 the news? The president has resigned. 
+Because of this connotation of recency, B's reply in the following exchange 
+must be considered absurdly inappropriate: 
+A: Has the postman left any letters? 
+B: Yes, hedid six months ago. 
+Since postmen in general deliver letters daily, the implicit time zone in this 
+case would be no longer than a day. 
+4.22 
+The third connotation, that the result of the action still obtains, applies to 
+dynamic conclusive verbs (cf 4.33-5), ie verbs whose meaning implies the 
+accomplishment of a change of state: 
+The apples have all been eaten. 
+My mother has recovered from her illness. 
+Have any of the visitors arrived? 
+
+
+194 The semantics of the varb phrase 
+The resultative connotation means, for example, that [l] implies 'There are 
+no apples left'; that [2] implies 'My mother is now better'; and that [3] by 
+implication asks the question 'Are any of the visitors here?'. This connotation 
+is obviously closely connected with that of recency. Both the resultative and 
+recency connotations can easily occur without adverbials. They do, however, 
+underlie the tendency of the present perfective to cooccur with time 
+adverbials such as recently and just (emphasizing recency), and with time 
+relationship adverbials such as already and yet (cf 8.72): 
+The plane has just landed. 
+I've already told Gillian about the party. 
+Have the children come home yet? 
+Significantly, time relationship adverbs such as already and yet can occur 
+either with resultative verbs and the perfective aspect, as in [5] or [6], or with 
+stative verbs referring to the results of such actions: eg [5] could be placed 
+alongside Gillian already knows about the party, and [6] alongside Are the 
+children home yet? 
+Note 
+[a] In AmE, the simple past is often preferred to the present perfective for the variants of the 
+indefinite past discussed in this section. Compare i6], for example, with Did the children come 
+home yet? (esp AmE). Other AmE examples are: Ijusr came back; You told me olreody; and 
+without an adverb: f m  tired - I hada long day. 
+[b] The two perfective constructions for the verb go, namely have gone and haue been, differ in 
+that the former is resultative: 
+My sister has gone to Rome. [She is there now] 
+My sister has been to Rome. [at least once] 
+Thus hauegone cannot normally be used in a habitual sense: 
+?My sister ha; gone to Rome frequently. 
+The use of adverbials with the simple past and the present perfective 
+4.23 
+The choice betpeen the simple past and the present perfective is associated 
+with time orientation, and therefore with the choice and interpretation of 
+time adverbials. (For the classification of the relevant types of adverbials, cf 
+8.4,8.51ff, 8.97f:) Examples are: 
+(a) ADVERBIAL? ASSOCIATED WITH THE PAST TENSE: 
+l( yesterday (evening). 
+( the other day. 
+a week ago. 
+I saw her 
+at four o'clock. 
+in the morning. 
+last Monday. 
+on Tuesday. 
+(b) ADVERBIALS ASSOCIATED WITH THE PRESENT PERFECTIVE: 
+up to now. 
+since I met you. 
+so far. 
+I haven't seen her hitherto. (formal) 
+Perfective aspect 195 
+(C) ADVERBIALS ASSOCIATED WITH BOTH: 
+today. 
+before. 
+I 
+her Ithis 
+this year. 
+I s a w  ] her [this June. 
+have seen 
+once. 
+recently. 
+already. 
+Group (a) contains time position adverbials which indicate a specific point 
+or period in the past, and therefore require the past tense. In Group (b) are 
+adverbials which designate a period leading up to the present moment, and 
+are therefore appropriate to the present perfective. Group (c) is a mixed 
+group of adverbials, some of which, like this month, designate a period which 
+includes the present moment, while others have meanings which vary 
+according to whether a present or past time orientation is intended. For 
+example, Ihaoe seen him once containsonce in a frequency sense ('how often'), 
+while Isaw him once contains once in a time position sense ('when'). 
+Note 
+[a] One quite often meets (especially in BrE) sentences in which the present perfective cooccurs 
+with time adverbials of Group (a); eg: 
+A: Have you ever seen Macbeth on the stage? 
+B: Yes, I've seen it agesago, when I was a child. 
+Examples such as this may be explained as performance errors, induced by B's copying the form 
+of A's question. Such explanations may not, however, be so readily available in other cases, such 
+as They asked me about somerhing rue said years ago. 
+[bl With phrases like this week and this month referring to a present period of time, the choice 
+between the two verb constructions reflects merely a difference of focus or orientation: 
+Did you read Punch this week? 
+Have you read Punch this week? 
+But expressions such as this March and this morning may refer to a past period of time ('the 
+.I 
+March of this year', 'the morning of today') rather than to a period containing the present 
+moment. Some speakers feel that the present perfective with such expressions implies that the 
+period referred to is not in the past; eg that Ihaueseen her this March can be spoken appropriately 
+only in March, and that I haue seen her this morning can be spoken appropriately only in the 
+morning. Other speakers, however, do not acknowledge this restriction. 
+The past perfective 
+4.24 
+The past perfective usually has the meaning of 'past-in-the-past', and can be 
+regarded as an anterior version either of the present perfective or of the 
+simple past. Consider the following examples: 
+No wonder Miss Matthews' French was excellent - she had lived 
+in Paris since childhood. 
+111 
+When we bought it, the house had been empty for several years. 
+[2] 
+These can be diagrammed as in Fig 4.24a, which is a special case of the 
+general perfective diagram Fig 4.18 : 
+I 
+,-------I 
+I 
+I l 
+Fig4.24a Meaning of the past perfective 
+
+
+196 The semantics of t h e  verb phrase 
+More technically, the past perfective may be said to denote any event or state 
+anterior to a time of orientation in the past. The three meanings of 'state', 
+'event' or 'habit' (as described in 4.14) can all occur. Whereas [l] and [2] have 
+illustrated the 'state' meaning, [3] and [4] illustrate 'event' and 'habit' 
+respectively: 
+The goalkeeper had injured his leg, and couldn't play. 
+L31 
+It was foolish to fire McCabe: in two seasons, he had scored more 
+goals than any other player. 
+[41 
+When transposed into the 'past in the past' by means of the past perfective, 
+the contrast between the simple past and the present perfective is neutralized : 
+My aunt had lived in Italy for four years. 
+He had died in 1920, before his son was born. 
+In [5], the four-year period could either be a period leading up to T,, or a 
+period which had ceased before T2, as would be clear in: 
+In her youth, my aunt had lived in Italy for four years. That's why she 
+spoke Italian so well. 
+Thus [5] could be a projection further into the past of either [7] or [a]: 
+My aunt lived in Italy for four years. 
+My aunt has lived in Italy for four years. 
+But of course, the past perfective does not have to refer to a more remote 
+time than thatlreferred to by the simple past. In some cases, particularly in a 
+clause introdu'ced by after, the two constructions can be more or less 
+interchangeable: 
+I are my lunch after Sandra 
+[91 
+i 
+I ate my lunch after Sandra 
+[l01 
+Fig 4.24b 
+After places theleating (T,) after Sandra's return (which we may call T,), so 
+the past 
+which places T, before T2, is redundant. What difference 
+it does make is a matter of the 'standpoint'of the speaker. In [g] the 'past in 
+past' time T3 is identified as being earlier than T2 by the past perfective; but 
+in [l01 it is left to the conjunction after to signal this temporal relation. 
+[be fork then] 
+Fig 4.24~ 
+Progressive aspect 197 
+Adverbials of time position, when used with the past perfective, can 
+identify either T2 or T ,. Placed initially, they often identify T,: 
+When thepolice arrived, the thieves had run away. 
+[l11 
+But in final position, the interpretation whereby the adverbial refers to T3 is 
+more likely: 
+The thieves had run away when thepolice arrived. 
+L121 
+Hence in [l l], when is likely to be equivalent to By the time that.. ., but in 
+1121 the when clause is likely to be an answer to the question: 'When had the 
+thieves run away ?' 
+Note 
+[a1 When in the sense of 'immediately after' behaves like a/ier in sentences [g] and 1101. The 
+following are therefore virtually synonymous: 
+I ate my lunch when Sandra hadconre back from her shopping. 
+I ate my lunch when Sandra canre back from her shopping. 
+[bl There is one construction in which the past perfective clearly could not be replaced, as a 
+means of referring to past time, by the simple past. This is an indirect speech construction, in 
+which the past perfective indicates backshift (cf 14.31) into the more remote past: Itold her the 
+parcel had not arrived. 
+[cl The past perfective can also be a backshifted equivalent of the present perfective in 
+expressions like I had~t't noticed; I'm leaving- had you heard? In these cases, a past time of 
+orientation T2 is implied by context. 
+[dl As well as past-in-past, the past perfectivecan be used to indicate hypothetical past (cf4.19, 
+14.23, 15.35). 
+4.25 
+As its name suggests, the PROGRESSIVE ASPECT (also sometimes called the 
+DURATIVE or CONTINUOUS aspect) indicates a happening IN PROGRESS at a 
+given time. Compare : 
+SIMPLE PRESENT: 
+Joan sings well. 
+PRESENT PROGRESSIVE: Joan is singing well. 
+These two sentences have the same tense, but different aspects. Notice the 
+difference this makes to the meaning: Joan sings well refers to Joan's 
+competence as a singer (that she has a good voice - a relatively permanent 
+attribute); Joan is singing well refers to her performance on a particular 
+occasion or during a particular season. The same formal contrast could be 
+made for the past tense: 
+SIMPLE PAST: 
+Joan sang well. 
+L31 
+PAST PROGRESSIVE: 
+Joan was singing well. 
+141 
+But in this case, the semantic contrast (assuming a 'past event' interpretation 
+of [3]) is different: the simple past makes us see the event as a whole, while 
+the past progressive makes us see it as an activity in progress. The different 
+effect of the progressive in [l -21 and in [3-41 can be explained as follows. 
+
+
+198 The semantics of t h e  verb phrase 
+The meaning of the progressive can be separated into three components, 
+not all of which need be present in a given instance: 
+(a) the happening has DURATION 
+(b) the happening has LIMITED duration 
+(C) the happening is NOT NECESSARILY COMPLETE 
+The first two components add up to the concept of TEMPORARINESS. Thus in 
+[2], the progressive signals that Joan's singing is a temporary rather than a 
+permanent phenomenon; in [4], on the other hand, the progressive makes us 
+see the event as enduring over a period, rather than as happening all at once. 
+In [2], the progressive 'shrinks' the time span of sings; in [4] it 'stretches out' 
+the time span of sang. This difference arises because component (a) is 
+distinctive for single events; whereas component (b) is distinctive for states 
+and habits. The component of incompletion (c) is distinctive chiefly in the 
+case of certain types of dynamic verb meaning called CONCLUSIVE (cf 4.33- 
+35) : 
+I read a novel yesterday evening. [ie the whole novel] 
+I was reading a novel yesterday evening. [ie there is no implication that 
+I finished the novel in the course of the evening] 
+Note 
+[a] The progressive aspect is infrequent compared with the nonprogressive. A count of a large 
+number of verb constructions has indicated that less than 5 per cent of verb phrases are 
+progressive, whereas more than 95 per cent are nonprogressive. The same count shows that 
+progressive forms are more frequent in conversation than in scientific discourse; also that they 
+are marginally mpre frequent in conversational AmE than in conversational BrE. 
+[b] It may be argued that there is yet a fourth component in the meaning of the progressive: viz 
+that the event degcribed has an interrelationship or identity with another simultaneous event (cf 
+4.36 on 'temporal frames'): 
+Do you think he wosrellingthe truth? 
+In this case, there is no suggestion of incompletion, but there does appear to be an unspoken 
+implication '. . . when he said that*. This use of the progressive applies especially to verbs of 
+speaking: 
+A: What did she mean by that? 
+\ 
+B: I think she wasadvising you not to interfere. 
+State, event, and habit with the progressive 
+4.26 
+The three verb senses of state, event, and habit are differently interpreted 
+with the p r o g F v e :  
+(a) STATE PROGRESSIVE 
+In many cases (cJ4.28-31) the progressive is unacceptable with stative verbs: 
+We own a house in the country. 
+*We are owning a house in the country. 
+*Sam's wife was being well-dressed. 
+This can be explained, in part, by the observation that stative verb meanings 
+are inimical to the idea that some phenomenon is 'in progress'. States are 
+'like-parted' in that every segment of a state has the same character as any 
+other segment: no progress is made. (Contrast We are building a house in the 
+country.) Where the progressive does occur, it is felt to imply temporariness 
+rather than permanence: 
+Progressive aspect 
+199 
+We are living in the country. [temporary residence] 
+We live in the country. 
+[permanent residence] 
+(On the status of verbs such as live, cJ4.32). 
+(b) EVENT PROGRESSIVE 
+With event meanings (cf4.33-5), the progressive conveys the idea that an 
+event has duration, and has not yet come to an end. Contrast the instantaneous 
+present (cJ4.7) meaning of [l] with the duration implied by [2] or [3]: 
+The referee blows his whistle. 
+111 
+The referee is blowing his whistle. 
+l21 
+The train was approaching. 
+L31 
+Both [I] and [2] could be part of a radio commentary on a football match; but 
+[l] would suggest a brief blast on the whistle, while [2] would.tend to suggest 
+a continuous or repeated blowing of the whistle. The present progressive is a , 
+more common way of referring to a present event than the simple present, 
+because of the implication of duration that tends to accompany such events: 
+A: What { *does Mary do 
+B : She {
+*
+~
+~
+~
+~
+~
+n
+g
+}
+ 
+television. 
+(C) HABITUAL PROGRESSIVE 
+Combined with habitual meaning, the progressive implies that the repetition 
+takes place over a limited period: 
+The professor types his own letters. [The habit is permanent.] 
+The professor is typing his own letters while his secretary is ill. [The 
+habit is temporary.] 
+At that time she was having regular singing lessons. 
+Less frequently, the progressive combines with habitual meaning to suggest 
+that every event in a sequence of events has duration/incompletion: 
+Whenever I see her, she's working in the garden. 
+The Chief Secretary rises at 6.15 every morning. By 7 o'clock he has 
+taken a light breakfast, and is already reading the morning 
+newspapers. 
+Remember that whenyou're takinga rest, someone else is always working. 
+To have this interpretation, the clause must contain an adverbial of time 
+position or of frequency. 
+Note 
+[a] In combination with always, conrinuolly, or forever, the progressive loses its semantic 
+component of 'temporariness': 
+conrinuolly 
+Bill is [a,xair 
+] 
+working late at the oAce. 
+L41 
+I.forewr 
+J 
+The progressive in such cases often imparts a subjective feeling of disapproval to the action 
+described. Thus in [4], the speaker seems to suggest that working late at the office isan irritating 
+or deplorable habit. This suggestion is stronger when the adverb forewr is used. In other cases 
+there may be no such derogatory implication: A child isolwoys learning. 
+
+
+200 The semahtics of the verb phrase 
+[b] with referenceto theevent progressive(b), adiferent kind ofcontrast with the instantaneous 
+present is illustrated by certain verbs (eg: write, enclose, send, hasten) used with a 1st person 
+subject in letter writing: 
+I { ~ ~ i r l g )  
+to inform you that. . . . 
+The simple present in such cases has a force similar to that of a performative (cf4.7) such as I 
+(hereby) pronrise . . ., and this analogy is indeed confirmed by the occurrence of herewith (an 
+adverb similar to the hereby which can accompany performatives) in, eg: Ienclose herewith. . . 
+The simple present in this context is formal or official in tone, whereas the progressive is more 
+informal, and more appropriate to a private letter. 
+Situation types 
+4.27 
+To explain the constraints on the use of the progressive, as well as for other 
+purposes, it is useful to reconsider the stative/dynamic distinction of 4.4, and 
+to subdivide verb meanings into a larger number of categories. One such 
+subdivision is given in Fig4.27, where 11 categories are recognized, and 
+labelled A-K. It is important to note, also, that verb meanings can be 
+separated only artificially, in this respect, from their complementations. For 
+example, the verb write occurring in vacuo cannot be classified; for we may 
+observe an important difference between Jill is writing, which designates an 
+ongoing activity, and Jill is writing a novel, which designates an activity for 
+which a goalor objective is implied (and for which the name'accomplishment' 
+will be used). More detailed explanation must now be given of the categories 
+in Fig 4.27 opposite, and their relevance to the progressive. 
+Stative types A and B: qualities and states 
+4.28 
+Among stative situation types, a rough distinction may be drawn between 
+QUALITIES (Type A in Fig 4.27) and STATES (Type B in Fig 4.27). Qualities are 
+relatively permanent and inalienable properties of the subject referent. The 
+primary verbs be and have are preeminently quality-introducing verbs; but 
+they can also introduce the less permanent situation types called states. 
+Contrast: 
+I 
+QUALITIES 
+STATES 
+Mary is Canadian. 
+[l] 
+Mary is tired. 
+L31 
+Mary has blue eyes. 
+[2] 
+Mary has a bad cold. 
+l41 
+Normally suchistative situation types do not occur with the progressive (this 
+is especially trde of qualities): 
+*Mary is being a Canadian. 
+[la] 
+?*Mary is being tired. 
+[ W  
+*Mary is having blue eyes. 
+[2a] 
+?May is having a bad cold. 
+[4a] 
+If sentences such as [la-4a] do occur with the progressive, it is a sign that 
+they have been in some sense reinterpreted as containing a dynamic 
+predication. For example, Peter is being awkward signifies that 'awkwardness' 
+is a form of behaviour or activity, not a permanent trait. If sentence [3a] were 
+to occur, it would signify that Mary waspretending to be tired (ie indulging in 
+a deceptive activity), rather than in a state of real lassitude. 
+Although verbs with stative meaning have sometimes been called 
+'nonprogressive', we should observe that the definition of stative verbs is not 
+I C. 
+f-1 
+I 
+eg: lice. srarril, lie. sir (4.32) 
+Progressive a s p m  201 
+A 
+KEY 
+(1) signifies 
+'1r;msitive' 
+(that) sipifies 
+a following 
+Nonagentive D. 
+IGOINGS-ONI 
+r 
+eg: raitt, snow, hoif, 
+I 
+sltirlc,, glo~c. 
+I 
+Nonconclusive 
+I 
+I 
+and durative 
+L 
+Agentive E. 
+p i 7 i q  
+j 
+m: 
+drink, sew. ~ ~ ~ r i r e .  
+Itmt. 
+Nonagentive F. 
+pzEGq 
+<,g: ripen. grow up, inrprolr. 
+separarc., rurtr r~,i/ 
+Lconclusive 
+and durative 
+Agentive G. 
+ACCOMPLISHMENTS 
+?
+I
+ 
+eg: 
+- ~crire (t), ear (t), dritrk (t). 
+,fir/ up (t), discorer (t) 
+I 
+Nonagentive H. 
+IMOMENTARY EVENTS 
+Punctual 
+(4.35) 
+kick (t) 
+Nonaeentive J .  
+L. 
+TRANSITIONAL EVENTS~ 
+r 
+eg: drop, recerce (t), cafclt (t), 
+rake o j ;  orrioe, die 
+Conclusive 
+and punctual 
+Aeentive K. 
+L 
+IT~ANSITIONAL 
+ACTS] 
+eg: sir clotvrt, catch (a ball), 
+shoor (1). hegin (t), stop(t) 
+Fig 4.27 Situation types 
+
+
+202 The semantics of the verb phrase 
+so much that they are in~ompatible with the progressive, as that when they 
+are combined with the progressive, some change of interpretation other than 
+the addition of the 'temporary' meaning of the progressive aspect is required. 
+This change of interpretation can usually be explained as a transfer, or 
+reclassification of the verb as dynamic, eg as having a meaning of process or 
+agentivity. The representative stative verbs be, hope, and resemble, are 
+illustrated in Table 4.28: 
+Tnhle 4.28 
+I 
+NORMAL 
+NONNORMAL 
+SPECIAL EFFECT OF 
+NONPROGRESSIVE 
+PROGRESSIVE 
+PROGRESSIVE 
+I 
+The neighbours are 
+friendly. 
+The neighbours are being Suggests that 'friendliness' 
+friendly. 
+is a form of behaviour 
+(perhaps insincere). 
+I hope you will come. 
+r 
+I am hoping you will 
+Makes the speaker's 
+come. 
+attitude more tentative 
+and perhaps more polite 
+(4.37). 
+Tina resembles her sister. Tina is resembling her 
+With the comparative 
+sister more and more. 
+construction, the 
+progressive turns the 
+stative meaning into a 
+process meaning (4.34). 
+Another characteristic of such verbs, when they are expressing states, is that 
+they can be used in a 'temporary' sense in the simple present tense: 
+The manager is away this afternoon. 
+The manager works this afternoon. 
+For example, [S] is nonprogressive, and yet clearly refers to a limited period; 
+in contrast, [6] qannot refer to a temporary state of affairs; instead, it has to 
+be interpreted in a habitual sense ['The manager works this afternoon (being 
+Tuesday) every week']. Equally, in [7]: 
+The music they are playing sounds like Mahler. 
+l71 
+the choice of the progressive with the dynamic verb play indicates the same 
+limited time period as the use of the nonprogressive with the stative verb 
+sound. 
+Note 
+The constraints of the progressive cannot, it seems, be explained entirely in terms of meaning. 
+Since the use of the progressive aspect has been undergoing grammatical extension over the past 
+few hundred years, it is likely that its use is still changing at the present day, and that its 
+description at any one timecannot be totally systematic. This would explain the difficulties faced 
+by those attempting to account in every respect for the conditions for the use of the progressive 
+in terms of semantic generalizations. 
+'Private' states 
+4.29 
+Many stative verbs denote 'private' states which can only be subjectively 
+verified: ie states of mind, volition, attitude, etc. We may distinguish: 
+Progressive aspect 203 
+(a) INTELLECTUAL STATES (eg: know, believe, think, wonder, suppose, imagine, 
+realize, understand), especially when followed by a nominal clause as 
+obiect : 
+that the offer has been accepted. 
+*am understanding 
+(b) STATES OF EMOTION OR ATTITUDE (eg: intend, wish, want, like, dislike, 
+disagree,pity), especially when followed by clausal complementation: 
+She 
+to entertain the students. 
+Such verbs do, however, occur with the progressive when temporariness 
+or tentativeness is being emphasized (cf 4.37), especially when the pro- 
+gressive is combined with the attitudinal past (cf 4.16): 
+What were you wanting? 
+I was hoping you would give me some advice. 
+The same applies to some verbs of Type (a) above (eg think). 
+(C) STATES OF PERCEPTION (eg: see, hear, feel, smell, taste), with which we may 
+also place appearance as expressed by seem and appear. Perception verbs 
+are more fully discussed in 4.30 below. 
+(d) STATES OF BODILY SENSATION (eg: hurt, ache, tickle, itch, feel cold). For 
+predications belonging to this small but interesting category, the 
+progressive and the nonprogressive are more or less interchangeable 
+when referring to a temporary state: 
+hurts. 
+aches. 
+My foot {is hurting. 
+My back 
+. - 
+Note 
+The verbfeel is versatile in that it can occur in all four categories above: 
+(a) Ifeel that the play will be a success. 
+(c) The groundfeels soft. 
+(b) Wefelt very angry. 
+(d) She feels sick. 
+Feelcan also occur as a dynamic perception verb (cJ4.30). 
+Verbs of perception 
+4.30 
+In the sphere of perception, stative meaning can be expressed in two ways: 
+we can either place the perceiver in subject position, as in [la-Sal below, or 
+we can place the percept (or 'thing perceived') in subject position, as in [lb- 
+Sb]: 
+(i) PERCEIVER AT S 
+I can see the house. 
+We could hear singing. 
+I could feel vibrations. 
+Can you smell the soap? 
+I could taste the garlic in the soup. 
+(ii) PERCEPT AT S 
+The house looks empty. 
+The singing sounded far away. 
+
+
+204 T h e  semantics of t h e  verb phrase 
+The vibrationsfdt as if they could have been caused 
+by an earthquake. 
+[%l 
+It smells of lavender. 
+W1 
+The soup tasted strongly of garlic. 
+[5bl 
+To express the state of perception with Type (i), we use the modal can/could 
+followed by the verb of perception. The simple present or past would express 
+dynamic meaning, so that the act of perception would be seen as an event 
+with a defined beginning and endpoint. Compare: 
+I heard the bell ring. [event seen as a whole] 
+[61 
+I could hear the bells ringing. [perception continuing over aperiod] 
+[7] 
+( A  'mixed-aspect' sentence I heard the bells ringing is also a possibility.) The 
+present tense version of sentences like [6] is unusual: 
+I hear the bell ring! 
+Aha, I see you! 
+Such sentences sound histrionic or playful because hear andsee in this context 
+exemplify the instantaneous present (cf 4.7). More acceptable examples with 
+the simple present are sentences like Ismellsomething burning and Do you see 
+anything moving outside?, where emphasis is given to the suddenness of a 
+perception. 
+Sentences such as [la-5a] and [lb-5b] cannot normally occur with the 
+progressive aspect, even though they are likely to refer to temporary rather 
+than permanent states. This may be contrasted, however, with sentences 
+containing the perception verbs look (at) and listen (to), which, being agentive 
+and dynamic, describe an intentional activity, and occur quite commonly 
+with the progre$sive: 
+*I'm seeing 
+\ I'm lookinr at } these photographs. 
+A : What are you doing? B : 
+?*I'm hearing 
+1 
+] a new record. 
+, 
+I'm listening to 
+t 
+The English landuage lacks special agentive perception verbs for the other 
+three senses of touch, smell, and taste, so that the stative verbs feel, smell, 
+and taste must do duty here, as well as for the two stative meanings: 
+I'm feeling for the light switch. 
+What are yotl doing? I'm smelling the roses. 
+I'm tasting the wine, to see how sweet it is. 
+In summary, then, we may display the four distinct uses of perception verbs 
+as in Table 4.30. 
+Other verbs of similar behaviour to see, hear, etc are perceive and detect. 
+Note 
+[a] Look in sense 'percept at S' is exceptional in occurring commonly with the progressive: 
+You { ~ l m k i n g ]  
+tired this evening. 
+There is little discernible difference between the progressive and nonprogressive variants here. 
+[b] Of course, there are nonperceptual uses of the verbs in Toble4.30. These include the use of 
+see in the sense of 'meet': I'm seeing t/re monoger tomorrow. 
+Progressive aspect 205 
+Table 4.30 Percept~on verbs 
+STATIVE 
+DYNAMIC 
+PERCEPT AT S 
+PERCEIVER AT S 
+NONAGENTWE 
+AGENTIVE 
+look 
+can/could see 
+see 
+look (at) 
+sound 
+can/could hear 
+hear 
+listen (to) 
+feel 
+canlcould feel 
+feel 
+/eel 
+smell 
+can/could smell 
+smell 
+smell 
+taste 
+can/could taste 
+taste 
+taste 
+[c] Note the exceptional use of see and hear with the progressive (focusing on the pra'ess of 
+perception) in: 
+I need some spectacles. I'm not seeing things so well these days. 
+A :  Did you heara bell ring just then? , -- 
+B: No. I can't hear a thing. 
+A: .,.here 
+it goes again! l am hearing it now. 
+{ I  con heor it now. 
+In the following, too, the exceptional occurrence of the progressive seemstoarise from perception 
+being treated as an ongoing process: Your soup's tosting better euery day; MJ~ scorfis no longer 
+smellingojlownder. Such examples are very unusual, however. 
+Other states of 'being' and 'having' 
+4.31 
+The main verbs be and have, although they can both be used in dynamic 
+senses, are the most central and characteristic of stative verbs, and can 
+1 
+frequently be used in the paraphrasing of other stative verbs: 
+We agree with you. 
+- We are in agreement with you. 
+The water tasted bitter. 
+- The water had a bitter taste. 
+Apart from the 'private' verbs discussed in 4.29-30, there are other verbs 
+which are paraphrasable in this way, and can be fittingly called 'verbs of 
+being and having': 
+The box contains a necklace. 
+[= ' A  necklace is in the box'] 
+The can holds two gallons. 
+[= '. . . has a capacity of. . .'l 
+Your age doesn't matter. 
+[= '. . . is not important'] 
+It depends on the weather. 
+[= '. . . is dependent on . . .'l 
+Jim resembles his sister. 
+[='. . . islike.. .'l 
+She belongs to the tennis club. 
+[= '. . . is a member of. . .'I 
+These verbs also reveal their stative character in the above senses by their 
+unacceptability with the progressive: *The box is containing a necklace, etc. 
+Note 
+Again, exceptional uses of these as 'process' verbs may be found, eg: How much lvos the tank 
+containrng when you lost mnspected it? 
+Type C stance 
+4.32 
+In addition to the stative verbs noted above, there is a small but important 
+class of verbs which express the situation type we will call STANCE, and which 
+are intermediate between the stative and dynamic categories. The main 
+stance verbs are live, stand, sit and lie, and they are characterized by their 
+1 
+
+
+206 The semantics of the verb phrase 
+ability to be used both (a) with the nonprogressive to express a permanent 
+state, and (b) with the progressive to express a temporary state: 
+James lives in Copenhagen. [permanent residence] 
+James is living in Copenhagen. [temporary residence] 
+The city lies on the coast. [permanent position] 
+People were lying on the beach. [temporary posture] 
+His statue stands in the city square. [permanent position] 
+He is standing over there. [temporary posture] 
+Similar possibilities exist with the perfective aspect: the perfective 
+progressive, as well as the simple perfective, can be used to refer to a state 
+leading up to the present: 
+I have sat here for over two hours. 
+I have been sitting here for over two hours. 
+Speakers differ, however, in judging how to choose between the constructions 
+of [l] and [21. Some speakers feel that 121 suggests a more temporary state, 
+whereas others feel there is little to choose between the two variants. There 
+is also sometimes a feeling that [l] is different from [2] in implying that the 
+'sitting' is concluded at the present moment, while [2] implies that the posture 
+may well continue into the future. 
+Because of its intermediate status, the stance action type illustrates an 
+element of gradience (cf 2.60) in the stativeldynamic contrast. At one end of 
+the stativeldynamic scale, as Fig 4.27 shows, there are acts which lack 
+appreciable duration, such as nod and arrive; at the other end, there are 
+permanent qualities such as be tall. To some extent, the stativeldynamic 
+dichotomy is an artificial division of this continuum. We move now to the 
+bottom part of Fig 4.27, in order to consider the different varieties of dynamic 
+meaning. 
+Dynamic types D,-K 
+4.33 
+Among dynamic situation types in Fig 4.27, we have to distinguish eight 
+types according to three binary oppositions: 
+Table 4.33 Dynamic situation types 
+- 
+Durative 
+Punctual 
+l 
+l 
+Non- 
+D 
+IE 
+H 
+II 
+C O ~ C ~ U S ~ V ~  
+GOINGS-ON 
+ACTIVITIES 
+MOMENTARY 
+l MOMENTARY 
+I 
+EVENTS 
+\ACTS 
+l 
+I 
+F 
+I G 
+J 
+I K  
+Conclusive 
+PROCESSES 
+l ACCOMPLISHMENTS TRANSITIONAL \ TRANSITIONAL 
+I 
+l 
+EVENTS 
+IA(SIS 
+l 
+I 
+Nonagentive I Agentive 
+Nonagentive I Agentive 
+I 
+.. 
+The D U R A T I V E / P U N C T U A L ~ ~ ~ ~ ~ ~ C ~ ~ O ~  
+separates happenings which are capable 
+of having duration from those which are not. Since durative situation types 
+Progressive aspect 207 
+take place over a (normally limited) period of time, they characteristically 
+combine with the progressive. Punctual situation types, on the other hand, 
+are theoretically incompatible with the progressive aspect: they can occur 
+with the progressive, but only through a special interpretation (cf 4.35). 
+The CONCLWSIVE/NONCONCLUSIVE 
+contrast draws a line between those 
+situation types which result in a change of state and those which do not. For 
+example, it is essential to the meaning of opened in She opened the door that 
+the door ends up in a state of being open, which is different from the state in 
+which it started. The notions of completion and incompletion apply to the 
+conclusive situation types, but not to the nonconclusive ones. Conclusive 
+situation types are those which allow a resultative interpretation of the 
+perfective aspect (cf 4.22), eg: The weather has improved implies that 'the 
+weather is now better'. 
+The AGENTIVE/NONAGENTIVE 
+contrast is illustrated by John was thinking 
+and The sun was shining. The first is agentive, in contrast to the second, 
+because it implies that the subject refers to an agent or 'doer' of the action. 
+The 'doer' is typically human, and is the deliberate or self-activating initiator 
+of the action. To some extent, the agentivelnonagentive boundary is unclear; 
+but agentive situation types are by definition dynamic rather than stative. 
+The substitute verb do (cf 12.26) can substitute for an agentive situation type. 
+All dynamic situation types can combine with the progressive aspect, but 
+they have various implications for the interpretation of the progressive, and 
+it is to these that we now turn. 
+Durative situation types 
+4.34 
+Type D : GOINGS-ON 
+These are 'activities' carried out by inanimate forces; eg: 
+It is raining. 
+The wind is blowing hard. 
+Is your watch working? 
+The engine was running smoothly. 
+The difference between this type and Type E is that Type E is agentive. 
+Type I!?: ACTIVITIES 
+These (in contrast with Type G) are typically expressed by intransitive verbs 
+with animate subjects: 
+Jill was writing/working/singing/dancing/eating/sewing/swimming/ 
+etc. 
+But they also occur with some (normally noncount) direct objects: 
+The children are playing chess. Norman is readingpoetry. 
+and occasionally with the passive: The approaches to the city were being 
+watched. 
+Type F: PROCESSES 
+These denote a change of state taking place over a period: 
+The weather is getting warmer. 
+Our economic prospects are now improving. 
+The sun is ripening our tomatoes nicely. 
+
+
+208 The semantics of the verb phrase 
+As with Type G, the progressive with this type indicates the incompleteness 
+of the change. 
+Type G : ACCOMPLISHMENTS 
+These denote an action or activity which takes place over a period and has a 
+goal or endpoint. Intransitive verbs placed under Type E 'Activities' 
+generally become accomplishments when a direct object or an adverbial of 
+destination is added : 
+Jill is knitting herself a sweater. 
+The boys were swimming across the estuary. 
+By these additions, an activity becomes a task with a defined conclusion. 
+But the progressive indicates, with both processes and accomplishments, 
+that the task was not necessarily completed: 
+The boys were swimming across the estuary, but a giant wave made 
+them turn back. 
+One of the boys was drowning, but I dived in and saved him. 
+(Cf: 
+*One of the boys drowned, but Idived in and saved him.) 
+With accomplishments, there is a significant contrast between the 
+constructionsfinish V-ing and stop V-ing: 
+They havefinished widening the road. [The task is complete.] 
+They have stopped widening the road. [The task is not necessarily 
+complete, but the activity has ceased.] 
+Punctual situation types 
+4.35 
+Types H and 1: MOMENTARY EVENTS AND ACTS 
+The only difference between these two types is that His nonagentive: 
+The tops of the trees were waving in the wind, and the branches were 
+shaking and knocking against the side of the house. Downstairs, a 
+door was banging. 
+, 
+In this description, the verbs knock and bang can be said to describe 
+momentary events (ie events effectively without duration) and when thev are 
+used with the progressive, we cannot make sense of them dxcept by suppising 
+that some repetition of the event took place. The same is true with momentan, 
+acts, expressed by verbs such as nod (when transitive),fire, and jump: 
+John was nodding his head. 
+Someone wasfiring at us. 
+Kirov's horse is jumping well. 
+For example, Someone was tapping on the window would be inappropriate if 
+there was only one tap. In this respect, momentary event verbs may be 
+likened to count nouns such as germ,pea, oat, hair, lentil, which refer to small 
+objects, and for which the singular count use (agerm, a hair, etc) is exceptional 
+in comparison with the plural or noncount use. (On the analogy between 
+noun and verb categories, cf 4.4.) 
+Types J and K: 
+TRANSITIONAL EVENTS AND ACTS 
+These differ from Types F and G in that they have little or no duration, and 
+Progressive aspect 209 
+from Types H and I in that they involve a consequent change of state. 
+Transitional events are nonagentive: 
+The train is arriving:at platform 4. 
+The queen was dying. 
+Transitional acts are agentive: 
+I'm stopping the car at this garage. 
+It looks as if Juarez is scoring another goal. 
+Again, since the meaning of the predication effectively excludes duration, 
+the progressive requires a special interpretation. In this case, the interpreta- 
+tion is likely to be anticipatory; ie that the progressive refers to a period 
+LEADING UP TO the change of state: eg: The Boeing 747 is taking off refers to 
+the accelerating of the plane preparatory to the actual take-off. 
+Note 
+In other contexts, for example when the verb has a plural subject or object, a repetitive rather 
+than anticipatory interpretation of such verb meanings is possible: 
+At the airport, several freight aircraft were rakingoffnoisily. 
+Progressive aspect in relation to tense 
+4.36 
+The progressive generally has the effect of surrounding a particular event or 
+point of time with a 'temporal frame', whichcan be diagrammed: 
+< 
+X 
+That is, within the flow of time, there is some point of orientation from which 
+the temporary event or state described by the verb can be seen to stretch into 
+the future and into the past. With the present progressive, the time of 
+orientation is normally 'now', although it can also be a recurrent time or an 
+imaginary time, in accordance with the interpretation of the habitual 
+progressive or the historic or fictional present: 
+When the eight o'clock news comes on, I'm already travelling to work. 
+The gunfire is growing louder ahead of us, as suddenly a fearful hush 
+descends upon our company. 
+With the past tense, again the 'temporal frame' is often implied, this time by 
+reference to a past time of orientation T2 (cf 4.11 - 12) : 
+A moment later, we were hurrying for shelter beneath the trees. 
+Whereas the relationship between two simple past forms is normally one of 
+TIME-SEQUENCE, the relationship between a past progressive and simple past 
+form is one of TIME-INCLUSION: 
+When we arrived, Jan made some fresh coffee. 
+When we arrived, Jan was making some fresh coffee. 
+(Cf 14.27 Note [a] for exceptions.) The first example tells us that the coffee- 
+making followed the arrival; the second, that the arrival took place during 
+the coffee-making. The 'temporal frame', however, is not a necessary 
+condition of the past progressive : 
+l 
+We were watching the match all afternoon. 
+
+
+210 The semanticsof the verb phrase 
+Since the adverbial all afternoon here refers to a longish period, there is no 
+implication that the match forms a 'temporal frame' around the afternoon. 
+Note 
+The idea of a 'temporal frame' is related to that of 'interrelationship or identity' discussed in 
+4.25 Note [b]; cf: Ifhe said that. he was lying. 
+Other uses of the progressive aspect 
+4.37 
+In addition to its major function of indicating temporariness, the progressive 
+also has the following special uses: 
+(a) It may be used to refer to the future or to the future in the past (cf 4.44, 
+4.48): 
+Are you going to the meeting (tomorrow)? 
+They were getting married the following spring. 
+On the future semi-auxiliary construction begoing to + infinitive, cf 4.43. 
+(b) It may be used with the attitudinal past tense or the present tense, to 
+refer tentatively to a present wish or attitude: 
+I'm hoping to borrow some money. 
+I was wondering if you could help me. 
+Contrast these sentences with the less tentative, and potentially less 
+polite, use of the simple present: 
+I hope to borrow some money. 
+I wonder if you can help me. 
+Particularly when combined with the attitudinal past tense (cf 4.16), such 
+forms enable us to avoid the impoliteness which might well result from 
+expressing one's attitude too directly, eg in making a;equest. 
+(c) It may be used especially following the auxiliary will (or shall) with the 
+special implication that the action will take place 'as a matter of course' 
+in the futurel(cf 4.46): 
+I'll be seeing you next week. 
+Note 
+The 'matter-of-course' implication of will(or shall) with the progressive is also found with other 
+modal auxiliaries (cf 4.65 Note [a]), and possibly also with the past progressive in conversational 
+contexts; eg: I was talking to Ann, and she was telling me that the job is still vacant. In contrast to 
+the simple past tallied and told, the progressive here suggests a casual chat rather than a 
+purposeful discussion. 
+Perfective progressive 
+4.38 
+When the perfective and progressive aspects are combined in the same verb 
+phrase (eg: has been working), the features of meaning associated with each 
+of them are also combined. Nevertheless, the perfective progressive has a 
+Perfective progressive 2 1 1 
+semantic range that is not entirely predictable from the meanings of its 
+components. 
+Of the three features associated with the main meaning of the progressive 
+(cf 4.25), DURATION, LIMITATION OF DURATION, and POSSIBLE INCOMPLETENESS, 
+the first two give the perfective progressive a sense of 'temporariness', seen 
+in these examples : 
+I've been writing a letter to my nephew. 
+How have you been getting on? 
+It's been snowing again. 
+These sentences contain durative verbs which typically go with the 
+progressive aspect, and the meaning of the construction is roughly that of 
+TEMPORARY SITUATION LEADING UP TO THE PRESENT, comparable to the state- 
+up-to-the-present use of the simple perfective (cf 4.18ff). With verbs such as 
+live, stand, lie, etc, however, the limitation of duration is weak, and is not felt 
+at all by some speakeis: 
+We've lived in Europe all our lives. 
+We've been living in Europe all our lives. 
+Because of the lengthy time scale [2] is less likely than [l], but nevertheless 
+[2] is by no means unacceptable. 
+The element of 'limited duration' makes it difficult to use the perfective 
+progressive with punctual verbs: 
+He has been starting his car. 
+. . 
+-, 
+?*He has been starting his book. 
+Of these, [3] makes sense, although it reflects on the reliability of the car. On 
+the other hand, [4] is nonsensical because it assigns duration to something 
+which cannot have duration: the only way to make sense of it is to construe 
+it as an ironical remark 'He has been tryinglintending to start his book', in 
+accordance with the anticipatory (cf 4.35) or future (cf 4.37) interpretation of 
+the progressive. 
+4.39 
+The feature of possible incompleteness becomes evident when the perfective 
+progressive is combined with accomplishment and process predications: 
+{been cleaning 
+The simple perfective here has a resultative meaning: 'The windows are now 
+clean'. But the perfective progressive can be used even if the job is not 
+finished: 
+A: Have you cleaned the windows? 
+B: No, I haven't finished them yet. 
+A: Have you been cleaning the windows? 
+B: Yes, but I haven't finished them yet. 
+*I've written a novel, but I haven't finished it. 
+I've been writing a novel, but I haven't finished it. 
+
+
+21 2 The semantics of the verb phrase 
+Because of its resultative meaning, the simple perfective cannot be used with 
+accomplishment verbs when the clause contains an adverbial of duration: 
+They've been repairing the road for months. 
+*They've repaired the road for months. 
+An exception to fhis, however, occurs where the duration adverbial applies 
+to the resultant state itself or where the clause is negative (cf 8.S7f): 
+They'vegone to Spain for two weeks. 
+They haven't repaired the road for years. 
+If a conclusive verb is not accompanied by an adverbial of duration, the 
+implication is often that the effects of the happening are still visible: 
+You've been fighting again. ['I can tell that from your black eye'] 
+It's been snowing. ['Look, the ground is white'] 
+Have you been crying? ['Your eyes are red'] 
+In such cases, the activity indicated by the verb is assumed to have recently 
+ceased. When accompanied by an adverbial of duration, however, the 
+meaning of the verb is assumed to be still operative up to the present, and 
+possibly to persist in the future: 
+He's been losing money for years (and will probably continue to do so). 
+We may summarize the main use of the perfective progressive as follows: 
+The happenjng (a) has (limited) duration 
+(b) continues up to the present or recent past 
+, 
+(c) need not be complete 
+(d) may have effects which are still apparent. 
+4.40 
+As an additionkl possibility, the present perfective progressive may be used 
+in the iterative kense O~TEMPORARY HABIT UP TO RIE PRESENT, 
+comparable to 
+the habitual use of the present perfective (cf4.20): 
+Martin has been scoring plenty of goals (this season). 
+I've been workinn on the niaht shift for several weeks. 
+Again, it is imdlied that therepetition of the activity described may continue 
+into the future. 
+The meaning of the perfective progressive may combine with those of the 
+past tense and of the modal verbs: 
+The fire had been raging for over a week. 
+You should have been looking after the baby. 
+By Friday, we will have been living here for ten years. 
+[l] and [3] require an appropriate shift of the time of orientation from 'now' 
+(T,) to a point (Tz) in the past or the future. As has already been explained 
+with reference to the simple perfective (cf 4.19), the perfective progressive 
+when combined with the past tense or a modal verb loses its restriction to a 
+period of time leading up to the point of orientation. It may thus, unlike the 
+Some means of expressing future time 213 
+simple present perfective, be followed by an adverbial of time position. 
+Contrast: 
+*I haoe been talking to him at the time of the murder. 
+I had been talking to him at the time of the murder. 
+I must have been talking to him at the time of the murder. 
+Note 
+[a] The perfective progressive does not, however, combine freely with the passive voice. The 
+following sentence is felt to be awkward: 
+The road has been being repaired for months. 
+The awkwardnessofthe perfective progressive passive is probably due in part to the juxtaposition 
+of two forms of the verb be (cf 3.56). (The road has been geffing repaired for months, for example, 
+is more acceptable.) 
+[b] The perfective progressive can be ambiguous between habitual and nonhabitual readings. 
+Such ambiguities, however, are unlikely to cause genuine misunderstanding: 
+I haoe been cycling to work for the last three weeks. 
+The nonhabitual reading, implying that the speaker has been cycling continuously for three 
+weeks, in this case is factually absurd, but might provoke the comic response: So why don't you 
+get a job nearer home? 
+Some means of expressing future time 
+4.41 
+Although according to the analysis we have adopted (cf 4.3) there is no future 
+tense in English, it is useful at this point to consider the most important 
+constructions for expressing future time, particularly in independent clauses 
+(concerning dependent clauses, cf 14.22). Futurity, modality, and aspect are 
+closely interrelated, and this is reflected in the fact that future time is 
+rendered by means of modal auxiliaries, by semi-auxiliaries, or by the simple 
+present or present progressive forms. 
+Will/shall+ infinitive 
+4.42 
+The most common way of expressing futurity is the modal auxiliary 
+construction with will, shall, or 'U: 
+He will be here in half an hour. 
+Will you need any help? 
+No doubt I'llsee you next week. 
+If the crop fails there will be a famine. 
+The modal verb will (or the contracted form '11; cf 3.39-40) is used with 
+future meaning with subjects of all three persons. The infrequent modal shall 
+is used (especially in Southern Standard BrE) to indicate futurity, but only 
+with a first person subject: 
+No doubt I shall see you next week. 
+Although shall and, particularly, will are the closest approximations to a 
+colourless, neutral future, they do cover a range of meanings with modal 
+colouring, from prediction to volition (cf 4.57f). A strong teaching tradition, 
+
+
+2 14 The semantics of t h e  verb phrase 
+especially in BrE, has upheld the use of shallas the correct form, in preference 
+to will, with a first person subject in formal style. 
+Predictive will is particularly common in the clause superordinate to 
+conditional or temporal clauses: 
+You'll feel better iflwhen you take this medicine. 
+[S] 
+Even where no conditional clause is present, there is nevertheless frequently 
+an implication that the future event or state of affairs will result from, or 
+depend on, the fulfilment of certain future conditions which may not be 
+specified : 
+Take this medicine. You'll feel better in an hour or so. 
+How can you be sure that there will be a change of government at the 
+next election? 
+Turning to the voIitional examples, will and shall especially with the 1st and 
+2nd persons often express intention, eg in making agreements, promises, 
+threats, etc: 
+How soon will you announce your decision? 
+We shallensure that the repairs are carried out according to your 
+wishes. 
+Other volitional and obligational uses are discussed in 4.57f. 
+Note 
+With a 2nd or 3rd person subject, willcan also express an abrupt and quasi-military command: 
+You willdo as I say. 
+Officers will Ceport for duty at 0600 hours. 
+Be going to'+ infinitive 
+4.43 
+Another construction frequently used to express futurity, especially in 
+informal speech, is be going to followed by the infinitive. Its general meaning 
+is 'future fulfilment of the present'. Looked at more carefully, the construction 
+has two more:specific meanings, of which one, FUTURE FULFILMENT OF 
+PRESENT INTENTION, 
+is chiefly associated with personal subjects and agentive 
+verbs: 
+When are you going to get married? 
+Leila is going to lend us her camera. 
+I'm going tp complain if things don't improve. 
+The other medning, FUTURE RESULT OF PRESENT CAUSE, is found with both 
+personal and nonpersonal subjects: 
+It's going to rain. 
+She'sgoing to have a baby. 
+There'sgoing to be trouble. 
+You'regoing to get soaked. 
+As these examples suggest, the association of be going to with the present 
+often leads to the assumption that it indicates the proximity of the future 
+event. Unlike will and '11, be going to is not generally used in the clause 
+superordinate to a conditional clause: 
+If you leave now, you'll never regret it. 
+?If you leave now, you art- nevergoing to regret it. 
+Some means of expressing future time 2 15 
+Note 
+However, begoing to does occur with conditional sentences like the following: 
+If you're expecting a first-class hotel, you'regoing to be disappointed. 
+[I] 
+Since the time of orientation for begoing to is the present, it is used in conditional sentences only 
+when the causal or contingent link between the meanings of the two clauses exists at the present 
+time. In the more usual case, this link is placed in the future, and so will is used instead. The 
+special import. of begoing to in [l] can be emphasized by adding before the subject of the main 
+clause: 'I can already tell you that. . .' 
+Present progressive 
+4.44 
+The present progressive can refer to a future happening anticipated in the 
+present. Its basic meaning is: FUTURE ARISING FROM PRESENT ARRANGEMENT, 
+PLAN, OR PROGRAMME: 
+The orchestra isplaying a Mozart symphony after this. 
+The match is starting at 2.30 (tomorrow). 
+I'm taking the children to the zoo (on Saturday). 
+We have seen that the progressive cannot normally be used with certain 
+stative verb types (eg with the verb be) and this restriction also applies to the 
+use of the progressive for future time: 
+*Strawberries are being more expensive next week. 
+(c$ Strawberries will be more expensive next week.) 
+Like be going to, the present progressive suggests that the future happening 
+is imminent, unless this is contradicted by a more distant time mentioned in 
+the context. Contrast: 
+That does it! I'm leaving. ['Soon' is understood] 
+I'm leaving the university in two years' time. [when I've finished my 
+studies] 
+Note 
+[a] It is easy to confuse this future use of the present progressive with the anticipatory use of the 
+present progressive withtransitionaleventsoracts(c/4.35). 1; principle, however, thegistinction 
+is clear between a future event which is planned and imminent, and a future event for which 
+preparations are already taking place. I'm leaving, for example, could be understood in either of 
+these ways, but The oldman was dying can only be understood in the anticipatory sense. 
+[b] The future use of the present progressive is limited to actions brought about by human 
+endeavour. Hence a sentence such as 'The trees ore losirlg their leaves soon is inappropriate, 
+implying that a tree has control over its future. Similarly, He's dying next week could only refer 
+to a planned death, eg an execution. 
+Simple present 
+4.45 
+The simple present is, after the will/shallconstruction, the next most common 
+means of referring to future actions in English (cf 4.9). This future use of the 
+simple present is frequent, however, only in dependent clauses, where it is 
+regularly used after conditional and temporal conjunctions such as $and 
+when, as well as in some that-clauses (see further 14.22): 
+What will you say if I marry the boss? 
+At this rate, the guests will be drunk before they leave. 
+In main clauses, the future use of the simple present may be said to represent 
+a marked future of unusual definiteness, attributing to the future the degree 
+of certainty one normally associates with the present and the past. It is used, 
+for example, for statements about the calendar: 
+
+
+216 
+The semanticsof the verb phrase 
+..C.. 
+Tomorrow is Thursday. 
+Schoolfinishes on 21st March. 
+Also to describe immutable events or 'fixtures', whether or not these are 
+determined by human planning: 
+When is high tide? 
+What time does the match begin? 
+The simple present, like the progressive (cf4.44), is used with dynamic 
+transitional verbs arrive, come, leave, etc, both constructions having the 
+meaning of 'plan' or 'programme': 
+The plane  off} 
+at W: 30 tonight. 
+The simple present, however, stresses the predetermined nature of the 
+happening: while [lb] could well refer to a rescheduled take-off time (as a 
+result, say, of a delay), this interpretationof [la] would be unlikely. 
+Note 
+[a] Although the simple present is the normal type of future construction to use in conditional 
+clauses, the future use of willand begoing to in such clauses is by no means impossible: 
+If the crops {;be] 
+ruined by next month's drought, well hare to buy in extra id. 
+. 
+. 
+If you're (going to be) playing tennis against Jenny, you'd better borrow my racquet. 
+On the differences of meaning here, cJ14.22. 
+[b] Corresponding to the future use of the simple present in adverbial clauses is the following 
+use of the present perfective referring to the past in the future: 
+The winner will be declared when every competitor hasfinished the course. 
+Will /shall +: progressive infinitive 
+4.46 
+The modal vGb construction discussed in 4.42 can be used with the pro- 
+gressive infinitive in a way which simply combines reference to a future time 
+with the 'temporal frame' (cf 4.36) associated with the progressive: 
+When you reach the end of the bridge, I'll be waiting there to show 
+you the way. 
+This calls for nb special comment. Thea is, however, a separate use of the 
+will/shall + progressive construction to 'denote 'FUTURE AS A MAITER 
+OF 
+COURSE'. The use of this combination avoids the interpretation (to which will, 
+shall, and begoing to are liable) of volition, intention, promise, etc: 
+We'N beflying at 30 000 feet. 
+This, spoken b$ the pilot of an aircraft to his passengers, means '30 000 feet 
+is the normal and expected altitude for the flight'. If, on the other hand, the 
+pilot said: 
+We'llfly at 30 000 feet. 
+the impression might be quite different: it could well be that the pilot had 
+just decided to fly at the specified height. Because of such differences, it is 
+often an advantage to use this complex construction in situations where the 
+nonprogressive with will/shall might be lacking in tact or consideration: 
+W hen will you pay back 
+be paying back 1 the money? 
+S o m e  meansof expressing future time 217 
+Whereas [l] may seem like a rather abrupt demand for repayment, [2] seems 
+more tactful, since it implies that the repayment is something which will 
+happen 'as a matter of course'. In describing future happenings in which 
+there is no direct human involvement, however, the choice between the 
+progressive and nonprogressive alternatives is less important: 
+} at platform four. 
+The next train to London will be arriving 
+The only difference that need be mentioned here is that the progressive 
+construction tends to be more informal than the ordinary nonprogressive 
+construction. 
+Note 
+Verbs that do not normally take the progressive can do so after future ~vill/shall in this 'matter- 
+of-course' sense: He'll be owning his own house next. 
+Concluding comments on constructions expressing future time 
+4.47 
+The foregoing five constructions are the most important methods of referring 
+to future time. It has been found that in BrE the simple will/shallconstruction 
+is much the most usual, followed by the simple present construction. (But by 
+far the majority of simple present examples with future reference occur in 
+dependent clauses, and are syntactically conditioned.) Of the remaining three 
+constructions, be going to is the most common, followed by the present 
+progressive, and finally by the will/shall + progressiveconstruction. Although 
+this last construction is least frequent, it is quite common in conversational 
+contexts, and appears to be becoming more common. 
+Among other constructions referring to the future, reference must be made 
+to the two quasi-auxiliary constructions be to + infinitive (cf 3.45f) and be 
+about to + infinitive (cf 3.47). Be to is quite often used to refer to a future 
+arrangement or plan : 
+Their daughter is to be married soon. 
+There's to be an official inquiry. 
+In this use, be to + infinitive resembles the future use of the simple present 
+(cf 4.45), except that the simple present cannot normally refer to the future 
+unless accompanied by a time adverbial or some other future-referring 
+expression. 
+Be about to, on the other hand, expresses near future: 
+The train is about to leave. 
+I'm about to read your essay. 
+The meaning of be about to could be alternatively expressed by be on thepoint 
+of + V-ing, or by be going to together with the adverb just (meaning 'very 
+soon'): I'm just going to read your essay. 
+This by no means exhausts the variety of verb constructions referring to 
+future time. Futurity is often a secondary connotation of other modals than 
+will/shaN: eg with a dynamic verb, may or must usually locates the event in 
+the future: The weather may improve (tomorrow); You must have dinner with us 
+(sometime soon). The same secondary connotation of futurity is found with 
+
+
+218 The semanticsof the verb phrase 
+semi-auxiliaries such as be sure to, be bound to (cf 3.47), not to mention lexical 
+Meanings of the modal verbs 219 
+Few could have imagined at that time that this brave young 
+verbs such as hope and intend. 
+While it is valuable to note differences of meaning between different future 
+constructions, these differences should not be exaggerated. There are 
+occasions where the choice of one construction (say will + infinitive) rather 
+than another (say be going to + infinitive) has a scarcely perceptible effect on 
+meaning. At the same time, there are differences of acceptability and usage 
+which should not be ignored. Particularly, regarding the choice between will 
+and be going to : 
+(a) Will is usually preferred to begoing to in formal style. 
+(b) Be going to tends not to be repeated in a text referring pervasively to the 
+future. Thus a weather forecast may run as follows: 
+Tomorrow isaoina to be another cold day. There will be snow on 
+high ground, and many mountain roads will be impassable. . . . 
+Note 
+Be to + infinitive in referring to the future also conveys the connotations of 'requirement' and 
+'destiny' in examples such as: 
+You ore to be back by 10 o'clock. ['. . . required to be. . .'l 
+If he's to succeed in his new profession, he must try harder. 
+The prisoner is lo be handed over to the civil authorities for trial. 
+Future time in the past 
+4.48 
+Most of the future constructions just discussed can be used in the past tense 
+to describe something which is in the future when seen from a viewpoint in 
+the past. 
+, 
+(a) MODAL VERB CONSTRUCTION with would (rare; literary narrative style) 
+The time was not far off when he would regret this decision. 
+(b) BE GOING TO, + INFINITIVE (often with the sense of 'unfulfilled intention') 
+You were going to give me your address. ['. . . but you didn't. . .'l 
+The police were going to charge her, but at last she persuaded 
+them she was innocent. 
+(c) PAST PROGRESSIVE (arrangement predetermined in the past) 
+I was e t i n g  him in Bordeaux the next day. 
+(d) BE TO + INFINITIVE (formal); (i) = 'was destined to'; (ii) = 'arrange- 
+ment' 
+(i) He was eventually to end up in the bankruptcy court. 
+(ii) The meeting was to be held the following week. 
+(e) BE ABOUT TO + INFINITIVE ('on 
+the point of'; often with the sense of 
+'unfulfilled intention') 
+He was about to hit me. 
+Of all these constructions, only (a) and (di) can be considered genuine 
+expressions of future-in-the-past meaning, in that they alone can be 
+understood to guarantee the fulfilment of the happening in question. For 
+instance : 
+officer {
+~
+~
+~
+~
+~
+}
+ 
+the first President of the United States of America. 
+This sentence implies that the young officer (George Washington) did 
+eventually become president of the United States. The other constructions, 
+however (especially (b) and (e)), favour an interpretation of nonfulfilment. 
+Note 
+These future-in-the-past interpretations, whether or not they imply fulfilment, should be 
+distinguished from those of the same constructions used in indirect speech or free indirect speech 
+(c/ 14.31ff); eg: 
+I was convinced that no one would interfere. 
+Surely no one wouldobject, she thought. 
+He told us he wosgoing to resign. 
+In these cases, would and wosgoing to report what was said or thought to be the case, according 
+to some explicit or implicit 'speaker' or 'thinker'. 
+Meanings of the modal verbs 
+4.49 
+Like other terms used in analysing meaning in the complex verb phrase, such 
+as mood and aspect, MODALITY has been used in various senses. At its most 
+general, modality may be defined as the manner in which the meaning of a 
+clause is qualified so as to reflect the speaker's judgment of the likelihood of 
+the proposition it expresses being true. As with terms like present and past, 
+this semantic definition makes only an imperfect match with the correspond- 
+ingly-named formal category, that of modal auxiliary verbs. None the less, it 
+will serve to indicate in general terms the function which these verbs perform 
+in the language. 
+In the modal verbs, the constraining factors of meaning mentioned above 
+may be divided into two types: 
+(a) Those such as 'permission', 'obligation', and 'volition' which involve 
+some kind of intrinsic human control over events, and 
+(b) Those such as 'possibility', 'necessity', and 'prediction', which do not 
+primarily involve human control of events, but do typically involve 
+human judgment of what is or is not likely to happen. 
+These two kinds, between which there is a gradient, may be termed INTRINSIC 
+and EXTRINSIC modality respectively. One important observation about the 
+modals is that each one of them has both intrinsic and extrinsic uses: for 
+example, may has the meaning of permission (intrinsic) and the meaning of 
+possibility (extrinsic); will has the meaning of volition (intrinsic) and the 
+meaning of prediction (extrinsic). However, there are areas of overlap and 
+neutrality between the intrinsic and extrinsic senses of a modal: the will in a 
+sentence such as I'll see you tomorrow then can be said to combine the 
+meanings of volition and prediction. Another point of significance is that the 
+modals themselves tend to have overlapping meanings, such that in some 
+
+
+220 The semantics of the verb phrase 
+~ e a n i n g s  
+of the modalverbs 221 
+circumstances (but not in others), they can be more or less interchangeable. 
+Should and ought to, for example, are more or less interchangeable with the 
+meanings of 'obligation' and 'tentative inference'. Can and may overlap to a 
+small extent in the areas of permission and possibility, but this overlap is 
+almost entirely confined to written or formal English, and these modals are 
+very far from being generally in free variation. 
+Note 
+In place of intrinsic and extrinsic modality, other terminologies, such as n~odulorion and modality, 
+or root and epistemic modality, are widespread. An alternative practice, which we follow (cf4.51, 
+4.53), is to regard the root/epistemic distinction as a subcategorization of extrinsic modality. 
+Another term widely used for the modality of obligation and permission is deonfic. 
+4.50 
+The above points help to show why the use of the modal verbs is one of the 
+more problematic areas of English grammar, and one of the areas where 
+many studies have been made. Other factors which impede easy generaliza- 
+tion are the following: 
+(a) Certain modals such as can and will are extremely common, whereas 
+others, such as shall, ought to, and need (qua auxiliary) are relatively rare 
+(cf 3.39 Note). 
+(b) Although historically, most of the modals can be paired into past and 
+nonpast forms (can/could, may/might, will/would, shall/should), the 'past 
+tense' forms are only in some respects usefully classified as such from the 
+point of view of meaning. 
+(c) The use of the modals varies significantly from one part of the English- 
+speaking world to another. There are considerable differences in this 
+respect between AmE and BrE: for example, the three verbs described 
+as 'rare' above are in fact substantially rarer in AmE than in BrE; 
+moreover, Scots, Irish, and Northern English varieties resemble AmE in 
+some respects more than they resemble the 'standard' southern usage 
+which tends to be treated as representative of BrE. Increasingly even in 
+Southern Standard BrE the formsYormerly associated with AmE are 
+becoming the norm. 
+In view of such variations and complications, we can give only an outline of 
+the semantics of the modals here. For the purposes of this outline, we 
+consider the podal auxiliaries in groups with similar or overlapping 
+meanings. Welalso relate the meanings of the central modals (cf 3.39), where 
+useful, to the meanings of marginal auxiliaries such as ought to, haue (got) to, 
+and need. We shall give, where important, some idea of the frequency or 
+stylistic range of a modal. We begin by treating the present and past forms 
+(eg: can and could) together, and later (in 4.59-64) turn our attention to 
+special aspects of the use of the past forms could, might, should, and would. 
+The modals are often associated with particular pragmatic uses, eg in 
+requests, offers, etc, where the past forms tend to have implications of 
+tentativeness or politeness. We deal with these aspects of modal usage mainly 
+in the Notes, but cf also 4.63. 
+In the following sections (4.51 -65) we concentrate primarily on the modals 
+in declarative clauses. The negative and interrogative uses of the modals are 
+dealt with in 10.67f and 11.13 respectively. 
+4.51 
+MEANINGS OF THE MODALS 
+GROUP I 
+I 
+permission l 
+INTRINSIC 
+I 
++ 
+possibility, ) 
+ability" 
+EXTRINSIC 
+GROUP 11 
+I obligation I 
+INTRINSIC 
+n1usf"41 
+1 
+1 {should 
+haue (got) to 
+need (n~nassertive)~ 
+ought to 
+(4.55) 
+(4.56) 
+necessity 
+EXTRINSIC 
+I 
+COMMIT~ED~ J 
+I 
+NONCOMMITTED~ 
+I 
+GROUP 111 
+I "i'i" 1 
+INTRINSIC 
+will/would (4.57) 
+shall (rare and 
+restricted) (4.58) 
+(future) 
+EXTRlNslc 
+Fig 4.5 1 
+Notes to Fig4.51: 
+[a] The 'ability' meaning of can is considered extrinsic, even though ability typically involves 
+human control over an action. 'Ability' is best considered a special case of possibility (cJ4.52). 
+[bl On nonassertive restrictions in the uwof need as an auxiliary, 43.42. 
+[C] The meaning of the labels 'committed' and 'noncommitted' with reference to must, should, 
+etc is clarified in 4.54flbelow, esp 4.56; cf also Fig4.66. 
+. 
+Fig 4.51 gives a summary of the main modal meanings. The arrows separate 
+intrinsic from corresponding extrinsic meanings, and are a reminder that the 
+distinctions between these two are gradual rather than absolute. The Figure 
+does not, however, distinguish the EPISTEMIC uses of may, must and have (got) 
+to (cf4.53-5); these form a clear-cut subcategory of the 'possibility' and 
+'necessity' meanings. 
+Can/could 
+4.52 
+Three major meanings of these modals may be distinguished: 
+(a) POSSIBILITY 
+(especially in questions and negatives; cf10.67J 11.13) 
+Even expert drivers can make mistakes. 
+[l] 
+Her performance was the best that could be hoped for. 
+[21 
+If it's raining tomorrow, the sports can take place indoors. 
+[3] 
+
+
+222 The semantics of the verb phrase 
+In this sense, can is generally paraphrasable by it is possible followed by an 
+infinitive clause; for example, [l] may be paraphrased: 
+It is possible for even expert drivers to make mistakes. 
+[lal 
+Sometimes, can indicates a future possibility; thus, for [3] an appropriate 
+paraphrase would be: It will bepossible . . . 
+(b) ABILITY 
+Can you remember where they live? 
+L41 
+Magda could speak three languages by the age of six. 
+[51 
+They say BilI can cook better than his wife. 
+L61 
+For the 'ability' sense, can/could may be paraphrased by use of the be able to 
+construction, or in some cases by be capable of or know how to. However, the 
+same meaning can also be approximately captured by the be possible 
+construction; eg : 
+I could swim all the way across the lake. 
+implies : 
+It {;zld 
+be} possible for me to swim all the way across the lake. 
+For this reason, the 'ability'meaning of can/could can be considered a special 
+case of the 'possibility' meaning, viz one in which the possibility of an action 
+is due to some skill or capability on the part of the subject referent. 
+(C) PERMISSION 
+Can we borrow these books from the library? 
+In those days only men could vote in elections. 
+In this sense, can/could is less formal than may, which has been favoured by 
+prescriptive tradition (cf4.53). (Hoyever, might in the sense of past 
+permission is so rare - cf 4.61 Note [a] - that not even traditionalists would 
+favour its use in [8].) It is possible to paraphrase can in the sense of permission 
+by be allowed to : 
+Are we aflowed to borrow these books from the library? 
+174 
+I 
+Note 
+[a] con/cou/d[J possibility] is often used in a quasi-imperative manner, to suggest a course of 
+action to the addressee. The instruction can be made more polite by using could (cf 4.62n. or by 
+adding a conditional clause such as $you like: 
+You can sit here until I get back (if you like). 
+You children could help me move these chairs. 
+By turning the statement into a question, the speaker changes the suggestion into a rather polite 
+request: 
+Can/could you (please) check these figures? 
+[b] Can [= ability] occurs in certain informal negative verb phrases, such as cannot/can't help, 
+cannot/can't stand, and cannot/can't bear. The negative orientation of these phrases means that 
+their positive counterparts cannot be used, except in semantically negative contexts; eg in 
+questions with a negative bias, or in 'second instance' contexts where a contrast with the 
+negative is implied: 
+How can you bear that noise? [implies: 'It is unbearable'] 
+A: I can't help singing out of tune. 
+B: Well, you &ULD help it: you could simply ~ ~ Q U ~ E T .  
+Meanings of the modal verbs 223 
+[C] Can [=permission] is combinable with a future time adverbial (eg: You can borrow my 
+typewriter tomorrow); but can [= ability] normally is not: 
+?You can pass your driving test next time you take it. 
+For future ability, the construction to use is will beable to: 
+You ~vill beable to pass your driving test next time you take it. 
+except that can may be used in clauses, such as $clauses, in which the present tense is normally 
+used for future reference (cj14.22): 
+IF you can pass your driving test next month, you will be able to visit us more often during 
+the summer. 
+Id] On the special stative use ofcan/could[= ability] with perception verbs (eg: can see), cf 4.30. 
+There is a similar tendency to use this auxiliary with mental-state verbs such as remember and 
+understand, as in [41 above, where Can you remember. . .?is scarcely distinguishable in meaning 
+from Do you remeniber . . . 7 
+4.53 
+(a) POSSIBILITY 
+We may never succeed. [It is possible that we'll never succeed] 
+[l] 
+You may be right. [It is possible that you are right] 
+[2] 
+There might be some complaints. 
+[l 
+As these examples suggest, the most common meaning of may [= possibility] 
+is different from the possibility sense of can. To paraphrase may, we use it is 
+possible followed by a that-clause, rather than an infinitive clause. May in this 
+sense may also be paraphrased by It may be that. . . , or by the adverb perhaps 
+orpossibly. Thus [2] is equivalent to: 
+It may be that you are right. 
+Perhapslpossibly you are right. 
+This meaning of may is termed EPISTEMIC POSSIBILITY; 
+ie it denotes the 
+possibility of a given proposition's being or becoming true. May in the sense 
+of epistemic possibility is normally stressed, and is often associated with fall- 
+rise nuclear tone. 
+Might[ = possibility] can be used as a(somewhat more tentative)alternative 
+to may [= possibility], as in [3] (cf 4.63), and indeed is often preferred to may 
+as a modal of epistemic possibility. 
+Less commonly, in formal ~ n ~ l i s h ,  
+maylmight is used in the same possibility 
+sense as can/could, a sense which may be distinguished by the label ROOT 
+POSSIBILITY : 
+During the autumn, many rare birds may be observed on the 
+rocky northern coasts of the island. 
+v ]  
+May in [4] is a more formal substitute for can, and the whole sentence could 
+be paraphrased It is possible to observe. . . 
+(b) PERMISSION 
+You may borrow my bicycle if you wish. 
+[S] 
+Visitors may reclaim necessary travel expenses up to 
+a limit off SO. 
+L61 
+Might I ask whether you are using the typewriter? 
+l71 
+As a permission auxiliary, may is more formal and less common than can, 
+which (except in fixed phrases such as if I may) can be substituted for it. 
+
+
+224 The semanticsof theverb phrase 
+However, may is particularly associated with permission given by the 
+speaker. That is, a difference is sometimes felt between You may leave when 
+you Iike [= 'I permit you . . .'] and You can leave when you like [= 'You are 
+permitted . . .'l, which can mean permission in a more general and impersonal 
+sense. Not all English speakers acknowledge this distinction, however; and 
+the prescriptive bias in favour of may leads to its use in official documents 
+and notices, etc, as in [6] above, even where there is no restriction to 
+'speaker's permission'. 
+Again, might is used as a somewhat more tentative, and therefore polite, 
+variant of may [= permission], as in [7] (cf 4.61). It is rare and apparently 
+obsolescent in this usage. 
+Note 
+[a] In interrogatives and in auxiliary negation, may in the sense of epistemic possibility is 
+normally replaced by can (cf 10.67j; 11.13). Note the difference between: 
+She may not be serious. [It is possible that. . . not. . .l 
+She can't be serious. [It is not possible that. . .l 
+[b] There is a rare use of may with subject-operator inversion (cf 18.24) in volitional sentences 
+which parallel the function of the formulaic subjunctive (cf 3.60): 
+May the best man win! [= Let the best man win!] 
+May he never set foot in this house again! 
+May God bless you! [= God bless you!] 
+[c] Another'quasi-subjunctive'use of may/might isobserved in subordinateclausesofconcession 
+or purpose: 
+Strange as/though it may seem. . . (cf 15.39) 
+Christ d~ed, that we might live. (cf 15.48 Note [b]) 
+Particularly in purpose clauses, this construction is formal and somewhat archaic. 
+[d] Related to the above use of may in concessive adverbial clauses, there is a tendency for main 
+clauses containing may to have a concessive force preceding but: 
+We may have our differences from time to time, but basically we trust one another's 
+judgment. 
+181 
+The modal loses something of its'possibility'sense here, as is shown by the paraphrase: 
+I admit that we have our differences. . . but.. . 
+ie the proposition expressed by the first clause of [8] is presumed to be true but (perhaps out of 
+politeness) the modal construction is preferred to the alternative construction with the simple 
+present. 
+[e] The idiomatic expression moylmight Gust) as well is typically used to make a somewhat 
+reluctant or sardonic recommendation: 
+We may as wellstay here the night (as look for a better place elsewhere). 
+191 
+You mrght as ~vell tell the truth (as continue to tell lies). 
+[l01 
+The negative aspect of these recommendations is highlighted by the optional comparative 
+clause, which is udually omitted. Their force could be expressed as follows: 
+'There's no point in looking elsewhere. . .' 
+'There's no point in your continuing to tell lies. . .' 
+C/: may/migl~t/can/could well, 8.103. 
+Must 
+4.54 
+(a) (LOGICAL) NECESSWY 
+There must be some mistake. 
+You must be feeling tired. 
+The Smiths must have a lot of money. 
+The 'logical necessity' meaning of must is parallel to the use of may in the 
+sense of epistemic possibility; it may, indeed, be called 'epistemic necessity', 
+Meanings of the modal verbs 225 
+since it implies that the speaker judges the proposition expressed by the 
+clause to be necessarily true, or at least to have a high likelihood of being 
+true. Must in this sense means that the speaker has drawn a conclusion from 
+things already known or observed. For example, the speaker of [3] has 
+observed the Smiths living in a large house, travelling in an expensive car, 
+etc, and therefore draws the conclusion that they 'must' be rich. Must 
+[= logical necessity] cannot normally be used in interrogative. or negative 
+clauses. The negative of can [= possibility] fills the gap, so that You must be 
+joking ['It is necessarily the case that you are joking'] is synonymous with You 
+can't be serious ['It is impossible that you are serious]. Similarly: 
+She must be asleep = She can't be awake. 
+In addition to epistemic necessity, there is a ROOT NECESSITY meaning of must 
+in examples like : 
+To be healthy, a plant must receive a good supply of both : 
+sunshine and moisture. 
+141 
+Must here can be glossed 'It is essential for . . .' or 'It is necessary for . . .'. 
+There is, however, no implication in [4] of human control, and this 
+distinguishes the root necessity use of must from its other root sense of 
+obligation, to which we now turn. 
+(b) OBLIGATION or COMPULSION 
+You must be back by ten o'clock. ['You are obliged to be 
+back. . .'; 'I require you to be back. . .'l 
+[S] 
+We must all share our skills and knowledge. 
+... [61 
+Productivity must be improved, if the nation is to be prosperous. [7] 
+In these examples, there is the implication, to a greater or lesser extent, that 
+the speaker is advocating a certain form of behaviour. Thus must, unlike 
+have (got) to, typically suggests that the speaker is exercising his authority. 
+An apparent exception to this occurs where the subject is in the first person: 
+I must remember to write to Aunt Anna. 
+[g] 
+I'm afraid I must go now: I promised to be home at ten. 
+[g] 
+But this, we can say, is perfectly consistent with must [= obligation], because 
+the meaning is one of self-admonishment, ie the speaker in this case exercises 
+authority over himself, appealing to his own sense of duty, expediency, etc. 
+Note 
+[a] On the use of obligating must in negative and interrogative clauses, cf 10.67f; 11.13. 
+[b] Occasionally, must [= logical necessity] does occur with negations: 
+His absence must not have been noticed. 
+This has the same meaning as His absence can't have been noticed. Such sentences have been 
+regarded by many commentators as impossible, but are increasingly accepted and used, 
+especially in AmE. 
+[C] There is a similarly rare occurrence of must [= logical necessity] in questions: 
+Must there be some good reason for the delay? 
+This assumes a positive answer, and might be glossed: 'Does there have to be some good 
+reason. . .? 
+[d] Must [= root necessity] has a sarcastic use in some utterances with a 2nd person subject: 
+If you musl smoke, at least you could use an ashtray. 
+Why must you always be finding fault with that girl? 
+
+
+226 The semantics of the verb phrase 
+Need, have (got) to 
+4.55 
+The close relationship between must and the quasi-modals need, havegot to, 
+and have to (cf 3.42, 3.45, 3.48) deserves comment at this point. Need 
+(constructed as an auxiliary) is used (esp in BrE) as the negative and question 
+form of must in root senses: 
+Need they make all that noise? [= 'Do they needlhave to make all that 
+noise?'] (esp BrE) 
+You needn't worry about the test. [= 'You don't needlhave to worry 
+about that test'.] (esp BrE) 
+As the above glosses show, however, it is possible, and indeed, more common 
+even in BrE, to replace auxiliary need by need to or have to accompanied by 
+do-support (cf 3.37). 
+Have (got) to can also be substituted for must with little or no difference of 
+meaning. Compare the following with the parallel sentences in 4.54: 
+(a) (LOGICAL) 
+NECESSITY 
+There has (got) to be some mistake. (esp AmE) 
+[l] 
+To be healthy, a plant has to receive a good supply of both 
+sunshine and moisture. 
+W] 
+(b) OBLIGATION OR COMPULSION 
+You have (got) to be back by ten o'clock. 
+[51 
+We have all got to share our skills and knowledge. 
+l61 
+Productivity will have to be improved, if the nation is to be 
+prosperous. 
+171 
+In the logical necessity sense of [l], have (got) to is rather more emphatic than 
+must, and is found chiefly in AmE. In the obligation sense of [5-71, have (got) 
+to is often felt to be more impersonal than must, in that it tends to lack the 
+implication that the speaker is in authority. This is particularly noticeable 
+with a 1st person subject: 
+I'm afraid I have (got) to go now. 
+l81 
+Where must implies 'self-obligation', have (got) to implies 'obligation by 
+external forc S'. Thus [8] might be used where, for example, another 
+E 
+appointment ompels the speaker to leave at a particular time. 
+Since must has no past tense form and no nonfinite forms, have to is used 
+in many contexts where must is impossible (cf 3.30, 3.48), eg following a 
+modal verb : We'll haue to be patient. 
+Note 
+[a] Have to and hauegof to are used in sarcastic utterances like those illustrated for must in 4.54 
+Note [dl: 
+Do you haue to make that noise when you eat? 
+There is an equivalent past tense use of hod 10: 
+The rain was bad enough - but then it hod to snow! 
+The author of this sentence jokingly blames the weather's perverse behaviour. 
+p] Some native speakers do not recognize the distinction between 'selfobligation' (Ilwe must) 
+and 'obligation by external forces' (Ilwe hove to). 
+Meanings of the modal verbs 227 
+Ought to and should 
+4.56 
+Here we turn to another marginal auxiliary, ought to, and a synonymous use 
+of should. Although differing from must and have (got) to, these verbs express 
+the same basic modalities of 'necessity' and 'obligation'. Where they contrast 
+with must and have (got) to is in not expressing the speaker's confidence in 
+the occurrence of the event or state described. Hence [l] is nonsensical, but 
+[2] is not: 
+'Sarah { ~ ~ ~ o }  
+be home by now, but she isn't. 
+Sarah {2ft0} 
+be home by now, but she isn't. 
+(a) TENTATIVE INFERENCE 
+The mountains {z:o} 
+be visible from here. 
+131 
+These plants (Ihould 
+ought to } reach maturity after five yean. 
+[41 
+The term which best seems to characterize the 'noncommitted necessity' 
+meaning of should and ought to is 'tentative inference'. That is, the speaker 
+does not know if his statement is true, but tentatively concludes that it is 
+true, on the basis of whatever he knows. Apart from this tentativeness, should 
+and ought to differ from must in that they frequently refer to the future; eg: 
+The job should/ought to be finished by next Monday. 
+(b) OBLIGATION 
+You {%to} 
+do as he says. 
+The floor [
+~
+~
+0
+}
+ 
+be washed at least once a week. 
+Like must [= obligation], should and ought to generally imply the speaker's 
+authority; but unlike must, they do not imply that the speaker has confidence 
+that the recommendation will be carried out. In fact, with the perfective 
+aspect, should and ought to typically have the stronger implication that the 
+recommendation has not been carried out: 
+They {
+~
+~
+o
+]
+ 
+have met her at the station, 
+The likely implication of [7] is '. . . but they didn't'. In both senses (a) and (b) 
+should is more frequent than ought to. 
+Note 
+Another difference between should and oughr to (in the sense of tentative inference) and niust is 
+that the former modals tend to carry over from their obligational sense the suggestion that the 
+proposition within their scope is desirable. Contrast: 
+There sltould be another upturn in sales shortly. 
+Where should be another disaster shortly. 
+The second sentence is decidedly odd, suggesting that the speaker takes a favourable view of 
+disasters. 
+
+
+228 
+The semanticsof theverb phrase 
+Will/would ( Ill/ 'd) 
+4.57 
+From the semantic point of view, as well as from the historical point of view, 
+'11 and 'd are to be regarded as contractions of will and would respectively, 
+rather than of shall and should. To see this, we note that where shall and 
+should are not interchangeable with will and would, the contraction does not 
+substitute for shall/should, though it can for will/would. For instance, in [7] of 
+4.56 above, the contraction They'd have met her at the station is not possible 
+in the sense of 'ought to'. Conversely, in: 
+You will feel better after this medicine. 
+[l] 
+where will in the predictive sense could not be replaced by shall, the 
+contraction to 'I1 is possible: 
+You'll feel better after this medicine. 
+[ l 4  
+(a) PREDICTION 
+Under the heading of PREDICTION, three related uses of will/would are to be 
+distinguished. 
+(al) The common FUTURE predictive sense of will illustrated in [l] above has 
+already been discussed in 4.42 and 4.46. The corresponding 'prediction 
+in the past' sense of would (cf 4.48) is illustrated by: 
+I was told I would feel better after this medicine. 
+L21 
+(a2) The PRESENT predictive sense of will, which is comparatively rare, is 
+similar in meaning to must in the 'logical necessity' sense: 
+She,wi/l have had her dinner by now. 
+L31 
+That'// be the postman. [on hearing the doorbell ring] 
+[41 
+This meaning can be roughly paraphrased: 'It is (very) likely that. . .' 
+(a3) The HABITUAL predictive meaning often occurs in conditional sentences : 
+1f litmus paper is dipped in acid, it will turn red. 
+or in time!ess statements of 'predictability': 
+Oil dill float on water. 
+In addition, it occurs in descriptions of personal habits or characteristic 
+behaviour: 
+He'll talk for hours, if you let him. [said of a chatterbox] 
+She'll sit on the floor quietly all day. She'Njust play with her toys, 
+and you won't hear a murmur from her. [of a good baby] 
+Every morning he would go for a long walk. [ie 'it was his custom 
+to go . . .'l 
+In past tense narratives, would in this sense is a popular means of 
+describing habitual behaviour: 
+In the spring the birds would return to their old haunts, and the 
+wood would be filled with their music . . . 
+This use of would is rather more formal than the equivalent use of used 
+Meanings of the modal verbs 229 
+to, and unlike used to, needs to be associated with a time indicator, such 
+as In the spring in the above example. 
+(b) VOLITION 
+Again, three different subsenses may be distinguished. The volitional range 
+of willextends from the'weak volition'of WILLINGNESS to the 'strong volition' 
+of INSISTENCE. Between these two, there is the more usual volitional sense of 
+INTENTION, which often combines with a sense of prediction (cf 4.42,4.46) : 
+(bl) INTENTION 
+I'll write as soon as I can. 
+We won't stay longer than two hours. 
+The manager said he would phone me after lunch. 
+(b2) WILLINGNESS 
+Will/ Would you help me to address these letters? 
+I'll do it, if you like. 
+This meaning is common in requests and offers. On thegreater politeness 
+of would, cf 4.63. 
+If you 'will go out without your overcoat, what can you expect? 
+She 'would keep interrupting me. 
+This somewhat rare use implies wilfulness on the part of the subject 
+referent. The auxiliary is always stressed, and cannot be contracted to 
+'I1 or 'd. In this case, the past form would expresses past time, rather 
+than tentativeness or politeness. 
+Note 
+[a] The predictive meaning of will is sometimes weakened, so that it resembles the ability 
+meaning of con: 
+That's a fine car. How fast will it go? 
+The new grandstand lvill hold ten thousand spectators. 
+The negative of this 'potentiality' sense of tvill seems to have something of the personificatory 
+force of 'refusal' (ie the negation of willingness): 
+It's a good piano, but it just won't stay in tune. 
+I tried to open the dwr, but the key ivouldn't turn. 
+It is almost as if the piano or the key had a will of its own. 
+Ibl In requests, the sense of willingness (b2) is often expressed more tentatively and politely by 
+the use of the past tense form lvould: 
+Would you please be quiet? 
+Cfthe comparable use of could, 4.52 Note [a]. 
+[cl There is an idiomatic use of ivould with nuclear stress conveying a cerlain feeling of 
+exasperation at the behaviour of another: 
+A: Of course, Ian spoiled the whole show with his feeble jokes. 
+B: Oh, he WOULD (spoil the whole show). 
+The force is that Ian's foolish behaviour was utterly typical and predictable. There is no 
+equivalent use of will. 
+Shall 
+4.58 
+Shall is in present-day English (especially in AmE) a rather rare auxiliary 
+and only two uses, both with a 1st person subject, are generally current: 
+
+
+230 The semanticsof the verb phrase 
+(a) PREDICTION (with 1st person subjects) 
+Shall is a substitute for the future use of will in formal style: 
+(W'' 
+} win quite easily. 
+According to the opinion polls, 1 shall 
+When 
+we know the results of the election? 
+Especially in BrE, prescriptive tradition forbids will as a future auxiliary with 
+Ior we, but this prescription is old-fashioned and is nowadays widely ignored. 
+(b) VOLITION 
+(with 1st person subjects) 
+In the intentional sense, shall is again a formal (and traditionally prescribed) 
+alternative to will after Zor we: 
+We { ~ ~ 1 1 ]  
+uphold the wishes of the people. 
+In questions containing shaN Ilwe, shall consults the wishes of the addressee, 
+and thus moves from a volitional towards an obligational meaning. It is 
+suitable for making offers: 
+Shall I/we deliver the goods to your home address? [=Do you 
+want me/us to. . .?l 
+[l] 
+and for making suggestions about shared activities: 
+What shall we do this evening? Shall we go to the theatre? 
+[21 
+It is only in such questions that shall cannot regularly be replaced by will. 
+Note that [l] illustrates the exclusive use of we (cf 6.7), while [2] illustrates 
+the inclusive use, ie the use of we which includes reference to the addressee(s). 
+Note 
+[a] The inclusive we following shall is also found in tag questions following a 1st person 
+imperative (cf I l.lb, 11.26 Note [a]): 
+Let's havedinker out tonight, shaN we? 
+" 
+[b] Shall is in very restricted use with 2nd and 3rd person subjects as a way of expressing the 
+speaker's volition, either in granting a favour: 
+You shall do just as you wish. 
+She shallget her money as soon as she has earned it. 
+or in giving orders; 
+Youshalldo qxactly as I say. 
+He shall be punished if he disobeys. 
+In these cases shaN is archaic and 'authoritarian' in tone. 
+[c] A further restricted use of shall with a 3rd person subject occurs in legal or quasi-legal 
+discourse, in stipulating regulationsor legal requirements. Hereshallis close in meaning to must: 
+The vendorshallmaintain the equipment in good r~pair. 
+Note in this connection the archaic use of shalt in the Biblical Ten Commandments; eg: Thou 
+sltoltnof kill. (On the archaic 2nd person form shalt, cf 3.4 Note [b].) 
+Id] Although shouldcannot normally be regarded as a past tense form of shall, there areoccasions 
+when it is appropriately interpreted as such. In [3] below, should is a past tense equivalent of 
+shall in indirect speech, and in [41, it appears to be a tentative past tense equivalent of s/tall in 
+offers: 
+I felt sure that we should meet again. 
+131 
+Should I type these letters for you? 
+(41 
+The use of should illustrated in [3]can have a flavour of preciosity. 
+[e] Even in 1st person questions, where shall has generally been recognized as normal, it is 
+Meanings of the modal verbs 231 
+nowadays frequently replaced by more common verbal constructions. Eg: in [I]shaNIcould be 
+replaced by worrldyoulikeus to and in [2]shallcould be replaced by should. Both these substitutes 
+are typically AmE. 
+The past tense forms of the rnodals: could, might, would, and 
+should 
+4.59 
+The uses of the past tense modals could, might, would, and should have already 
+been illustrated in 4.52-8, but there is a need to examine the ways in which 
+their uses differ from the corresponding nonpast modals can, may, will, and 
+shall. Five particular uses of the past tense modals are noted in 4.60-4. 
+'Past time' in indirect speech 
+4.60 
+The past tense modals could, might, would, and should are used quite regularly 
+as past tense equivalents'of can, may, will, and shall in indirect speech 
+constructions (cf 14.34): 
+You can/may do as you wish. [= permission] 
+-She said we could/might do as we wished. 
+The king can do no wrong. [= ability] 
+-It was seriously argued that the king could do no wrong. 
+It may rain later. [= possibility] 
+- We were afraid that it might rain later. 
+What can be done? [= possibility] 
+- Nobody knew what could be done. 
+The plan will succeed. [= prediction] 
+- I felt sure that the plan would succeed. 
+Will you help me? [= volition] 
+- I wondered if he would help me. 
+ShaN I open the window? [in offers] 
+- She asked me if she should open a window. 
+Must, together with need (as auxiliary), ought to, and had better, has no 
+presentlpast distinction. These verbs are therefore unchanged in indirect 
+speech constructions (cf 14.34), even where they refer to past time. 
+Note 
+In free indirect speech (cf14.35) the reporting clause is absent, so that the modal verb may occur 
+backshifted to the past tense even in main clauses: 
+Could he be imagining things? (said Ahmed to himself.) 
+'Past time' in other constructions 
+4.61 
+Outside indirect speech contexts, the behaviour of the past tense modal forms 
+is less predictable. Could and would act as the 'past time' equivalents of can 
+and will; but on the whole, might and should do not act as the 'past time' 
+equivalents of may and shall (cf however Note [a]). 
+(a) CAN - COULD 
+There were no rules: wecould do just what we wanted. 
+[= permission] 
+In those days, a transatlantic voyage could be dangerous. 
+[= possibility] 
+Few of the tourists could speak English. [= ability] 
+
+
+232 T h e  semantics of the verb phrase 
+(b) WILL - WOULD 
+Later, he would learn his error. [= prediction; cf4.48,4.57] 
+The old lady would sit in front of the television continuously. 
+[= habitual prediction; cf 4.57 (a3)] 
+We tried to borrow a boat, but no one would lend us one. 
+[ = willingness] 
+He 'would leave the house in a muddle. [= insistence] 
+Outside indirect speech, however, would is not used in the sense of intention; 
+hence a sentence such as He would meet me the next day is almost inevitably 
+interpreted as free indirect speech. 
+Note 
+[a] There is a rare and archaic use of might outside indirect speech in the sense 'waslwere 
+permitted to': 
+We might leave the school only at weekends. 
+[b] Corresponding to must, which cannot normally be used in reference to past time outside 
+indirect speech or indirect thought wntexts, the past tense form had to can be used in main 
+clauses. Compare: 
+I must confess her latest novels bore me. - I had to confess her latest novels bored me. 
+[c] In contrast to the past modals could[= ability] and would [= willingness], the constructions 
+waslwere able to and wasl~vere permitted to (cf 4.66) emphasize not just the potentiality, but the 
+fulfilment of an action. For instance, We were ablelpermitted to leave the camp early typically 
+conveys the additional message: '. . . and, moreover, we did leave the camp early'. Hence was 
+able to, but not could, is acceptable in wntexts implying fulfilment: 
+I ran after the bus, and was able tocatch it. 
+[l] 
+*I ran after the bus, and couldcatch it. 
+l21 
+In the negative, however, this contrast between potential and fulfilled action is neutralized. 
+Hence the following are both acceptable, and mean the same: 
+I ran after the bus, but wasn't able to catch it. 
+I ran after the bus, but couldn't catch it. 
+[d] On the other hand, could and would may refer to habitual fulfilment: 
+1 could run after a bus and catch it twenty years ago, but 1 can't do that now. 
+I 
+', 
+Hypothetical meaning 
+4.62 
+The past tense modals can be used in the hypothetical (or unreal) sense of the 
+past tense (cf 4.16) in both main and subordinate clauses. Compare: 
+If United can win this game, they may become league champions. 
+[l] 
+If United cbuld win this game, they might become league 
+champions. 
+[2] 
+Sentence [2], unlike [l], expresses an unreal condition; ie it conveys the 
+speaker's expectation that United will not win the game, and therefore will 
+not become league champions. For past hypothetical meaning (which 
+normally has a contrary-to-fact interpretation), we have to add the perfective 
+aspect: 
+If United could have won that game, they might have become league 
+champions. 
+[31 
+The usual implication of this is that United did not win the game. 
+All past tense modals can be used in this way, to express the hypothetical 
+version of meanings such as ability, possibility, permission, prediction, and 
+volition. With the epistemic possibility of might, however, it is the meaning 
+Meanings of themodal verbs 233 
+of the followingpredication, rather than of the modal itself, that is interpreted 
+hypothetically. This will be evident from the following paraphrases: 
+They might have become champions. 
+[= It is possible that they would have become champions.] 
+We could have borrowed the money. 
+[= It would have been possible for us to borrow the money. (usually 
+with the implication '. . . but we didn't')] 
+On the hypothetical use of would here, cf4.64 below. In some contexts, 
+especially when referring to the future, the 'unreal' meaning of past modals 
+becomes weakened to something like improbability: 
+Not even a professional could do better than that. 
+From such instances, it is easy to understand how the hypothetical use of 
+past modals has become adapted to express tentativeness (cf 4.63). 
+Note 
+Couldlmight (+ perfective) are used in complaints or rebukes: 
+You couldlmight try to be more civilized! 
+You could/might have warned me she was coming. 
+The meaning here is close to the same construction with should [= 'ought to']: eg: You should 
+have warned us. . . Could and might are interchangeable in this type of utterance. 
+Tentativeness or politeness: could, might, and would 
+4.63 
+Closely related to the hypothetical use above are specialized uses of could, 
+might, and would in which the past tense form simply adds a note of 
+tentativeness or politeness : 
+(a) TENTATIVE PERMISSION (in polite requests) : 
+Could I see your driving licence? 
+I wonder if I might borrow some coffee? 
+(b) TENTATIVE VOLITION (in polite requests): 
+Would you lend me a dollar? [more polite than will, 44.57 (b2)] 
+I'd be grateful if someone would hold the door open. 
+(C) TENTATIVE POSSIBILITY 
+(I) in expressing a tentative opinion: 
+There could be something wrong with the light switch. 
+Of course, I might be wrong. 
+(11) in polite directives and requests (cf 4.52, Note [a]): 
+Could you (please) open the door? 
+You could answer these letters for me. 
+In these constructions, apart from the last-mentioned case of requests, could 
+and might have the same meaning. In (cI), they both express the epistemic 
+possibility associated with may. This is an exceptional case, in which could is 
+the past tense equivalent of may instead of can. 
+Note 
+There is a tendency for the difference between may and might (in a sense of tentative or 
+hypothetical possibility) to become neutralized. Thus some speakers perceive little or no 
+
+
+234 T h e  semanticsof t h e  verb phrase 
+difference of meaning between You may be wrong and You might be wrong. This neutralization 
+occasionally extends, analogically, to contexts in which only might would normally be considered 
+appropriate: 
+?An earlier launch of the lifeboat may [= might] kue ouerted the tragedy. 
+[l] 
+The fact that sentences such as [I] occasionally occur is a symptom of a continuing tendency to 
+erode the distinctions between real and unreal senses of the modals. 
+'Mood markers': would and should 
+4.64 
+Under this last heading of 'mood markers' we consider special uses of would 
+and should in which these modals have nothing to do with the cognate modals 
+will and shall, but are instead used to mark the MOOD of the clause. 
+(a) WOULD/SHOULD AS A MARKER OF HYPOTHETICAL MEANING 
+Would (and sometimes, with a 1st person subject, should) may express 
+hypothetical meaning in main clauses: 
+If you pressed that button, the engine would stop. 
+If there were an accident, we would/should have to report it. 
+Would/should + infinitive contrasts in syntactic distribution, but not in 
+meaning, with the past tense and the were-subjunctive, both of which express 
+hypothetical meaning in many subordinate clauses. Hence the following 
+cannot be interpreted as unreal conditions (although they might, with some 
+difficulty, be interpreted in some other way; cf 15.35 on open and hypothetical 
+conditions): 
+?If you preked that button, the engine stopped. 
+PI 
+?If you wouldpress that button, the engine wouldstop. 
+l41 
+In [3]; the hypothetical past tense is wrongly used in the main clause, whereas 
+in [4], the would construction is wrongly used in the subordinate clause. 
+Although the,conditional sentence, as in [l] and [2], is the most typical 
+context in whicp hypothetical would/should occurs, there are many other 
+contexts in which hypothetical would/should is appropriately used: 
+I'd hate to lose this pen. 
+[51 
+It would be impossible to estimate how many crimes went 
+undetected last year. 
+L61 
+Don't both r to read all these papers. It would take too long. 
+P 
+L71 
+In such sentences, there is often an implicit if. . .; for example, [7] could be 
+expanded: It would take too long ifyou did (try to read them all). 
+(b) SHOULD AS A MARKER OF 'PUTATIVE' MEANING 
+In this use (cf14.25), should + infinitive is often equivalent to the mandative 
+subjunctive (cf 3.59). In using should, the speaker entertains, as it were, some 
+'putative' world, recognizing that it may well exist or come into existence: 
+She insisted that we should stay. 
+It's unfair that so many people should lose their jobs. 
+Let me know if you should hear some more news. 
+Why should anyone object to her enjoying herself? 
+I can't think why he should have been so angry. 
+Meanings of the modal verbs 235 
+Putative should is more common in BrE than in AmE (cf further 16.30ff, 
+16.59, 16.70). 
+Note 
+[a] Hypothetical would as a 'mood marker' occurs in some types of subordinate clause; eg in 
+nominal clauses (except some clauses which occur with the hypothetical past tense instead of 
+would, egclauses introduced by imperative supposeor by wish; c/ 16.33) and in relative clauses: 
+I'm afraid the journey would be too expensive. 
+The journey was a disappointment to those who would have preferred to travel by road. 
+[b] An ironic or quasi-subjunctive use of should is current in certain Yiddishisms, especially in 
+AmE: 
+I should talk. PIshouldn't talk!'] 
+I should worry. I'Why should 1 worry?] 
+I should be so lucky. ['I'm unlucky.'] 
+[c] Hypothetical would when followed by a verb such as like, low, or prefer is used to indicate a 
+tentative desire in polite requests, offers, or invitations: 
+A: Would you mind taking part? 
+B: No, I'd low to. 
+A: Would you like some tea? 
+B: Thanks; but I'dprefercoffee, if there IS any. 
+Cf the use of would for tentative volition, 4.63 (b). 
+The modals with the perfective and progressive aspects 
+4.65 
+The perfective and progressive aspects are normally excluded when the 
+modals express 'ability' or 'permission', and also when shall or will expresses 
+'volition'. These aspects are freely used, however, with extrinsic modal 
+meanings other than ability; eg: 
+'possibility' 
+He maylmight have missed the train. 
+She can't/couldn't be swimming all day. 
+'necessity' 
+. He must have left his umbrella on the bus. 
+You must be dreaming. 
+'prediction' etc The guests will/would have arrived by that time. 
+Hussein will/would still be reading his paper. 
+(On the meaning of the perfective aspect after a modal, and in particular the 
+possibility of paraphrasing it by means of the simple past tense, cf 4.18J) 
+'Obligation' can only be expressed with the perfective or progressive when 
+combined with should or ought to: 
+'obligation' 
+I ought to be working now. ['. . . but I'm not'] 
+You should have finished it. ['. . . but you haven't'] 
+She shouldn't have left him. ['. . . but she did'] 
+As the glosses indicate, these modals, in contrast to must, often imply 
+nonfulfilment of the obligation. There are also examples which do not have 
+this counterfactual implication; eg: 
+Have you heard from Maria? She should have started her job on Monday. 
+The combination of both perfective and progressive constructions with the 
+modals is also possible, subject to the conditions already mentioned: 
+You must have been dreaming. 
+She couldn't have been swimming all day. 
+The guests would have been arriving by now. 
+(On the meaning of the perfective and progressive in this combination, cf 
+4.38f.) 
+
+
+236 ¸ he semantics of the verb phrase 
+Note 
+[a] The use of bviN + progressive in the sense of'future as a matter of course'(cf4.46) is paralleled 
+by other modals in the same construction: 
+Jill says she might be calliugthis afternoon. 
+[I] 
+means approximately 'It is just possible that Jill will be calling. . .' In contrast to [l], Jillsaysshe 
+might call this oJiernoon implies that the visit will depend on Jill's decision. 
+[b] Note the use of might/cauld + perfective in certain colloquial speech acts: 
+They col~ld/n~iglrt 
+have told me! [a complaint] 
+You could/might have been more careful. [a rebuke] 
+I nligllt have XNOWN someone would upset her. [an expression of irritation] 
+The meanings of marginal auxiliaries 
+4.66 
+We may use the expression 'marginal auxiliaries' to apply to all four 
+categories (marginal modals, modal idioms, semi-auxiliaries, and catenative 
+verbs) discussed in 3.40-51. Some of these have also claimed our attention 
+in this chapter; eg: used to (4.15), begoing to (4.43), ought to (4.56). But it is 
+worth noting how closely these verbs tend to follow the pattern of the 
+auxiliary verbs in the kinds of meaning they convey. On the one hand, we 
+have aspectual or time-indicating verbs such as used to, be going to, and be 
+about to (4.47). On the other hand, the largest group of marginal auxiliaries 
+are modal in their semantic function, eg: had better (3.45) and be able to. 
+The semantic groups displayed in the right-hand part of Table 4.66 show a 
+. 
+remarkable similarity to those of the modal auxiliaries, as indicated in Fig 
+4.51. We use the same terminology here, to make the comparison more 
+evident: 
+Table 4.66 Meanings of marginal auxiliaries 
+Meaning in the nonfinite verb phrase 237 
+In Table 4.66, several verbal constructions occur more than once, since, like 
+the modal verbs, their semantic ranges tend to stretch across more than one 
+category. This is particularly true of the extrinsic/intrinsic contrast which 
+not only applies to all modals (cf 4.49), but also to many of the marginal and 
+catenative constructions. Just as must and should, for example, have both 
+'necessity' and 'obligation' meanings, so do the semi-auxiliaries be bound to 
+and be supposed to : 
+The.plan is bound to fail. [= 'must inevitably fail'; necessity] 
+You are bound to pay your debts. [= 'are compelled to . . .'; obligation] 
+Their team is supposed to be the best. [= 'should be'; this is the 
+' recognized view] 
+You were supposed to be here at nine. [= 'ought to have been'; 
+obligation] 
+The fact that semi-auxiliaries and catenatives have nonfinite verb forms (cf 
+3.47-9) means that two or even more modal concepts can be combined in a 
+sequence of verb phrases: 
+We may have to play it again. [possibility + obligation] 
+You should be able to find enough food. [tentative inference + ability] 
+She must have been willing to help. [necessity + volition] 
+The students are going to have to be able to play three different 
+instruments. [prediction + necessity + ability] 
+It is normal, in such combinations, for an extrinsic modality to precede an 
+intrinsic one, as the examples show. 
+Note .,. The quasi-adverbial status of many semi-auxiliary or catenative verbs can be shown by 
+paraphrases such as the following: 
+She appears to like the show. 
+= She apparently likes the show. 
+She is certain to enjoy the meal. 
+= She will certainly enjoy the meal. 
+Meaning in the nonfinite verb phrase 
+4.67 
+Our discussion of meaning in this chapter has concentrated on finite verb 
+phrases, and in conclusion we must give some attention to nonfinite verb 
+phrases. The same semantic distinctions apply to both finite and nonfinite 
+verb phrases, in so far as the structural possibilities of the nonfinite verb 
+phrase permit. We have seen, however, in 3.56 that the modal construction 
+and the distinction between present and past tense do not apply to the 
+nonfinite verb phrase; and in 4.18 f that the nonfinite perfective construction 
+has the general meaning of anteriority. Distinctions of aspect are the only 
+ones which are expressed within the constructional possibilities of a single 
+
+
+238 T h e  semanticsof the verb phrase 
+nonfinite verb phrase. Even then, the full range is only possible within an 
+infinitive phrase: 
+to be winning his race. [simple progressive] 
+to have won his race. [simple perfective] 
+to have been winning his race. [perfective 
+progressive] 
+In a n  -ing participle phrase in adverbial clauses, the perfective/nonperfective 
+contrast is sometimes available: 
+Eating a hearty breakfast, 
+Having eaten a hearty breakfast] We prepared 
+long journey. [l1 
+[21 
+From [l], we understand that the eating and the preparation took place 
+together, while from [2], we understand that the breakfast preceded the 
+preparation. 
+But the progressive/nonprogressive contrast is not normally applicable 
+here, since -ing participle phrases are incapable of expressing this distinction 
+formally (cf 3.56). Moreover, the -ing participle itself is not, in spite of its 
+appearance, necessarily associated with the progressive: 
+Being an enemy of the Duke's, 
+Realizing he was in danger, 
+he left the court immediately. 
+[3] 
+Having no news of his wife, 
+(For further discussion of the semantics of such -ing participle constructions, 
+see 16.40.) 
+To prove this point, the -ing participles in [3] are all stative and 
+incompatible with the progressive: 
+*He was being an enemy of the Duke's. 
+?*He was realizing he was in danger. 
+*He was having no news of his wife. 
+Nevertheless, there are constructions in which the -ing participle construction 
+has aspect contrast with the infinitive, and is progressive in meaning (cf 
+16.52f): 
+shoot at him. 
+Whereas the indnitive shoot suggests a single shot, the -ing participle suggests 
+a repetitive action lasting over a period of time, in accordance with the 
+interpretation of the progressive aspect in finite verb phrases referring to 
+momentary events (cf 4.35). In: 
+climb the tower. 
+' 
+watched them {climbing the tower. 
+the infinitive climb suggests that they reached the top of the tower, whereas 
+the participle climbing connotes the potential incompleteness of the 
+progressive. 
+The -ed participle phrase has no formal contrasts of aspect, and is therefore 
+Meaning in t h e  nonfinite verb phrase 239 
+the most restricted type of phrase in terms of semantic contrasts. Here again, 
+however, there is a potential contrast with the passive -ing participle phrase: 
+climbed by a student. 
+I saw the tower being climbed by a student. 
+The participle climbed in [6] is the passive counterpart of the infinitive climb . 
+in [4]; it describes the climb as a completed event, whereas [7] describes it as 
+in progress, and as possibly incomplete. 
+Note 
+[a] The structural contrast between infinitive and -ing participle complementation occurs with 
+categories of verb other than the perceptual verbs see, hear, etc illustrated above. In these other 
+cases, however, there is almost no semantic contrast of aspect: 
+She started { ~ ~ ~ , )  
+She likes {:$zi,] 
+[g] 
+Eating in [8] and talking in [g] are thus not to be classified as progressive (c. 16.40). 
+Ibl With certain main verbs which imply anterior time in their complementation (c/ 16.39). such 
+. . 
+. . 
+as admit, remember, regret, there is no contrast of meaning between complementation by a 
+perfective and by a nonperfective -ing participle phrase: 
+admitted 
+We remembered 
+leauing early. 
+[l01 
+{regretted } {hauing lefi early. 
+[Ill 
+In spite of the difference of construction, [l01 and [l I] are virtually synonymous with each other. 
+4.68 
+Although nonfinite verb phrases have no modal verbs, the meanings of the 
+modals can be added to them through the use of semi-auxiliaries such as have 
+to, be (un)able to, be allowed to, be about to, etc: 
+I am sorry to have to repeat this warning. 
+Being unable to free himself, he lay beneath the debris until rescued. 
+The suspects admitted being about to commit a crime. 
+Many inmates hate not being allowed to leave the premises. 
+Bibliographical note 
+General treatments of the meaning and use of verb constructions: Coates and Leech (1980); 
+Edmondson et a1 (1977); Leech (1971); Palmer (1974). 
+On tense and aspect in general, see Crystal (1966); G. Lakoff (1970b); Lyons (1977). Vol2; 
+Schopf (1984); Zandvoort (1962). 
+On the perfective aspect, see McCoard (1978); Ssrensen (1964). 
+On stative, agentive, and other classes of verb meaning, see Bache (1982); Cruse (1973); 
+Ikegami (1973); Jawbson (1980a); Malczac (1979); Mourelatos (1978); Quirk (1970b); Sag 
+(1973); Vendler (1957). 
+On expression of future time, see Aarls (1969); Close (1977, 1980); Haegeman (forthcoming 
+a); ~aegeman and Wekker (1984); Tottie (1974); Wekker (1976). 
+On modal meanings in general, see Coates (1982); Halliday (1969); Hermetin (1978); 
+Hofmann (1979); Johannesson (1976); R. Lakoff (1972); Leech and Coates (1980); Lyons (1977), 
+Vol. 2; Matthews-Bresky (1975); Palmer (1977, 1979); Standwell (1979); Von Wright (1951); 
+Wells (1979). 
+Studies of particular modal auxiliaries include: Coates (1980); Haegeman (1981a, 1981b. 
+1983); Jacobsson (1962, 1977b); Palmer (1980); Quirk (1981); Stubelius (1962); Zandvoort 
+(1963). 
+
+
+5 
+Nouns and determiners 
+5.1 
+Types of noun phrase 
+Noun classes: count, noncount, and proper nouns 
+Concrete and abstract nouns 
+Nouns with dual class membership 
+Reclassification 
+Partitive constructions 
+Partition in respect of quality 
+Partition in respect of quantity 
+Measure partitive nouns 
+Noncount nouns and their count equivalents 
+Determinatives 
+Central determiners 
+The articles 
+Other central determiners 
+Central determiners and noun classes 
+Predeterminers 
+, All, both, half 
+All and whole 
+The multipliers double, twice, etc 
+The fractions one-third, two-fifihs, etc 
+Postdeterminers 
+(a) Cardinal numerals 
+(b) Ordinal numerals and 'general ordinals' 
+(c) Closed-class quantifiers 
+(d) Open-class quantifiers 
+The use of articles with common nouns 
+Specific and generic reference 
+Specific reference : definite and indefinite 
+Uses of the definite article 
+(a) Immediate situation 
+(b) Larger situation (general knowledge) 
+(c) Anaphoric reference: direct 
+(d) Anaphoric reference: indirect 
+(e) Cataphoric reference 
+(f) Sporadic reference 
+(g) The 'logical' use of the 
+(h) The use of the with reference to body parts 
+Uses of the indefinite article 
+
+
+Nonreferring uses of the indefinite article 
+The indefinite article and the numeral one 
+Uses of the zero article 
+The zero article compared with unstressedsome 
+The zero article with definite meaning 
+Noun phrases in a copular relation 
+Noun phrases with sporadic reference 
+(a) Some 'institutions' of human life and society 
+(b) Means of transport and communication 
+(c) Times of day and night 
+(d) Seasons 
+(e) Meals 
+(f) Illnesses 
+Parallel structures 
+Fixed phrases involving prepositions 
+The articles in generic reference 
+The generic use of the indefinite article 
+The generic use of the zero article 
+The generic use of the definite article 
+With singular noun phrases 
+With plural noun phrases 
+Some nationality words 
+The articles with abstract noncount nouns 
+Proper nouns 
+Proper nouns behaving as common nouns 
+(a), Number 
+(b)! Determination 
+\ 
+(c) I Modification 
+Names with no article 
+Personal names 
+Temporal names 
+Geographical names 
+other locative names consisting of proper noun 
++ common noun descriptor 
+Names with the definite article 
+Structure of names with the 
+Classes of names typically preceded by the 
+Number 
+Number classes 
+(A) Singular invariable nouns 
+(B) Plural invariable nouns 
+(Ba) Summation plurals 
+(Bb) Pluralia tantum ending in -S 
+(BC) Unmarked plural nouns: people, police, etc 
+(C) Regular plurals 
+The pronunciation of the regular plural 
+The spelling of the regular plural 
+(D) Irregular plurals 
+(Da) Voicing and -S plural 
+(Db) Mutation 
+(DC) The -en plural 
+(Dd) Zero plural 
+(I) Animal names 
+(11) Nationality nouns 
+(111) Quantitative nouns 
+(IV) Nouns with equivocal number 
+Foreign plurals 
+(De) Nouns from Latin ending in -us /as/ 
+(Df) Nouns from Latin ending in -a /a/ 
+(Dg) Nouns from Latin ending in -urn /am/ 
+(Dh) Nouns from Latin ending in -ex, -ix 
+(Di) Nouns from Greek ending in -is /IS/ 
+(Dj) Nouns from Greek ending in -on 
+(Dk) Nouns from French: bureau, corps, etc 
+(Dl) Nouns from Italian ending in -0 /au/ 
+(Dm) Nouns from Hebrew: kibbutz - kibbutzim 
+Compounds 
+Forms of address 
+Gender 
+(a/b) Personal malelfemale nouns 
+(c) 
+Personal dual gender 
+(d) 
+Common gender 
+(e) 
+Collective nouns 
+(f/g) Higher animals 
+(h/i) Lower animals and inanimate nouns 
+Names of countries 
+Case 
+Common case and genitive case 
+The forms of the genitive inflection 
+The 'zero genitive' 
+The genitive and the of-construction 
+Genitive meanings 
+Gender of the genitive noun 
+The genitive in relation to noun classes 
+The genitive with superlatives and ordinals 
+
+
+Noun heads with the genitive 
+The grammatical status of the genitive 
+Genitive as determinative 
+Genitive as modifier 
+The group genitive 
+The independent genitive 
+The 'local genitive' 
+The 'post-genitive' 
+Bibliographical note 
+Noun classes: count, noncount, and proper nouns 
+245 
+Types of noun phrase 
+5.1 
+The noun phrase typically functions as subject, object, and complement of 
+clauses and as complement of prepositional phrases. Consider the different 
+subjects in the following sentences: 
+The girl 
+The blonde girl 
+The blonde girl in blue jeans 
+The blonde girl wearing blue jeans 
+The blonde girl who is wearing blue jeans 
+She 
+is my sister. 
+Sentences [l -51 are alike in having the same noun (girl) as noun-phrase head 
+(cf 2.28, 17.2). The noun phrase in [l] has the simplest structure, consisting 
+of only the definite article and the head; in [2] it also has a premodifying 
+adjective (blonde); in[3-51 the noun phrase has, inaddition, postmodification: 
+in [3] a prepositional phrase (in blue jeans); in [4] a nonfinite clause (wearing 
+blue jeans); and in [5] a relative clause (who is wearing blue jeans). In [6] the 
+noun phrase consists of only one word (she), which is one of a closed class of 
+grammatical words called personal pronouns. Such pronouns can 'deputize' 
+for noun phrases and hence cannot normally occur with determiners such as 
+the definite article, premodification, or (normally) postmodification: 
+*the blonde she 
+?she in blue jeans 
+Since noun phrases of the types illustrated in [2-51 include words and 
+structures that will be dealt with in later chapters (adjectives, prepositional 
+phrases, clauses), it will be convenient to reserve the treatment of 'complex' 
+noun phrases incorporating such items until Chapter 17, which deals with 
+the noun phrase as a whole. The present chapter will be restricted to the 
+constituency of the 'basic' noun phrase, ie the classes of nouns together with 
+articles or other closed-class determinative elements that can occur before 
+the noun head, including predeterminers like all, central determiners like 
+these, and postdeterminers like last and few: 
+all these last.few days 
+Noun classes: count, noncount, and proper nouns 
+5.2 It is necessary, both for grammatical and semantic reasons, to see nouns as 
+falling into different subclasses. That this is so can be demonstrated by taking 
+the four nouns Sid, book, furniture, and brick and considering the extent to 
+which it is possible for each to appear as head of the noun phrase functioning 
+as object in the sentence I saw . . .: without any determiner (a); with the 
+lightly stressed determiners the /21a/ (b), a /a/ (c), some /sam/ (d); and in the 
+plural (e). The result of this test can be seen in Table 5.2: 
+
+
+Note 
+246 Nouns and determiners 
+Table 5.2 Test table for noun classes 
+(a) 
+Sid 
+*book 
+Jurniture 
+brick 
+(b) 
+*the Sid 
+the book 
+the furniture 
+the brick 
+(C) *a Sid 
+a book 
+*a furniture 
+a brick 
+(d) 
+*some Sid 
+*some book 
+some furniture 
+some brick 
+(e) 
+*Sids 
+books 
+*furnirures 
+bricks 
+The difference between column 1 (with only one possibility) and column 
+2 + 3 (with all possibilities) indicates the degree of variation between the 
+noun classes. Nouns that behave like Sid in column 1 (Confucius, Paris, Sierra 
+Leone, etc) are PROPER NOUNS, which will be further discussed in 5.60ff 
+The nouns in the other columns are COMMON NOUNS, but there are 
+important differences between them. Those which, like book in column 2 
+(bottle, chair, forest, idea, etc), must be seen as denoting individual countable 
+entities and not as an undifferentiated mass, are called COUNT nouns. Nouns 
+which, like furniture, conform to the pattern of column 3 (as do bread, grass, 
+warmth, music, etc), must by contrast be seen as denoting an undifferentiated 
+mass or continuum. These are called NONCOUNT nouns. 
+Finally we have nouns in column 2 + 3 which can be either count or 
+noncount nouns (eg: brick, cake,paper, stone), in that we can view a noun like 
+brick either as the noncount material [l], or as constituting the countable 
+object [2]: 
+The house is built of brick. 
+He used bricks to build the house. 
+The type headed 2 + 3 may be classified grammatically in two ways: (a) 
+either as a lexical class of noun which combines the characteristics of count 
+nouns and noncount nouns, or (b) as two separate items, one count and the 
+other noncourit. The former mode of analysis is convenient for nouns like 
+brick and cakelwith little difference in rheaning between count and noncount 
+uses. Therefore such nouns will be said to have 'dual class membership' (cf 
+5.4). 
+Although in sentences such as I like music, I like Sid, the two nouns look 
+superficially alike in terms of article usage, we will say that music has ZERO 
+ARTICLE but tqat Sid has NO ARTICLE. The label 'zero' is appropriate in the 
+case of common nouns which have article contrast, eg: music as opposed to 
+the music (cf 5.52fn in: 
+I like music and dancing. 
+I think the music is too loud in here. 
+If, however, we disregard special grammatical environments like the Sid I 
+mean is tall (cf 5.64), proper nouns have no article contrast (Sid/*the Sid), and 
+will therefore be said to have 'no article'. 
+COUNT nouns, as they are termed in this book, are by some grammarians called 'countable' 
+nouns; similarly, our term NONCOUNT nouns corresponds to 'mass' nouns or 'uncountable' nouns 
+in other grammars. 
+Noun classes: count, noncount, and proper nouns 247 
+Concrete and abstract nouns 
+5.3 
+Cutting across the grammatical and semantic count/noncount distinction, 
+there is a semantic division into nouns like pig which are CONCRETE (ie 
+accessible to the senses, observable, measurable, etc) and nouns like di8culty 
+which are ABSTRACT (typically nonobservable and nonmeasurable). But while 
+abstract nouns may be count (like remarklremarks) or noncount (like warmth/ 
+*warmrhs), there is a considerable degree of overlap between abstract and 
+noncount (cf 5.58). Figure 5.3 shows the noun classes introduced so far. 
+oncrete : hun. pig, toy, . . . 
+count 
+abstract: 
+dificilty, remark.. . . 
+common 
+huner,gold. . . . 
+nouns 
+noncount 
+\proper: 
+John. Paris, . . . 
+Fig 5.3 The most important noun classes 
+Nouns with dual class membership 
+5.4 
+The division of nouns according to countability into count nouns and 
+noncount nouns is basic in English. Yet the language makes it possible to 
+look upon some objects from the point of view of both count and noncount, 
+as in the case of cake: 
+A: Would you like a cake? B: No, I don't like cake. 
+Such nouns may be said to have dual class membership. In other cases, eg: 
+paper, there is no readily perceptible parallelism but a notable difference in 
+meaning between the two nouns: 
+I want an evening paper. ['newspaper'] 
+[l] 
+Wrap the parcel up in brown paper. ['wrapping paper'] 
+[]a] 
+Note also the variation of quantifiers (eg: rnuch/many) in some of the 
+following examples of count and noncount nouns: 
+She was a beauty in her youth. 
+[COUNT] 
+L21 
+She had great beauty in her youth. 
+[NONCOUNT] 
+[2al 
+She's had many dz@culties. 
+[COUNT] 
+L31 
+She's not had much dz$culty. 
+[NONCOUNT] 
+134 
+He's had several odd experiences. 
+[COUNT] 
+[41 
+He hasn't had much experience. 
+[NONCOUNT] 
+[4al 
+There were bright lights and harsh sounds. 
+[COUNT] 
+[S] 
+Light travels faster than sound. 
+[NONCOUNT] 
+[sal 
+She will give a talk on Chinese art. 
+[COUNT] 
+[61 
+That's foolish talk. 
+[NONCOUNT] 
+[6al 
+The lambs were eating quietly. 
+[COUNT] 
+[71 
+There is lamb on the menu today. 
+[NONCOUNT] 
+[ W  
+In many other cases, the type of distinction to be seen in the count noun Iamb 
+
+
+248 
+Nouns and determiners 
+(the animal, as in [7]) and the noncount noun lamb (the meat from the animal, 
+as in [7a]) is achieved by separate lexical items, as in: 
+They raise a great many calves, pigs, and sheep. 
+W e  eat a great deal o f  veal, pork, and mutton. 
+Other count/noncount pairs realized by different lexical items are the 
+following : 
+a garment - clothing 
+a job, a task - work (cf 5.9) 
+a laugh - laughter 
+a suitcase - luggage 
+a 'permit -permission 
+a poem - poetry 
+a weapon - arms (cf 5.77) 
+a machine - machinery 
+Note also the contrast between the noncount noun money and the count 
+nouns naming different units of money: 
+W e  haven't much money left. We've only got a few coins/two dollar 
+bills/some pound notes. 
+Note 
+The distinction between count nouns and noncount nouns is not fully explainable as necessarily 
+inherent in 'real world' denotata. This is clear when we compare the words of languages closely 
+related to English (c! 
+5.9). Rather, the justification for the count/noncount distinction is based 
+on the grammatical characteristics of the English noun. 
+Reclassification 
+5.5 Nouns may also be shifted from one class to another by means of conversion 
+. , 
+(cf App 1.53). Thus a noncount noun like cheese can be 'reclassified' as a 
+count noun involving a semantic shift so as to denote quality partition 'kind/ 
+type/form of', eg: 
+A :  What cheeses have you got today? 
+B: Well, we have Cheddar, Gorgonzola, and Danish Blue. 
+Similarly, a noun like coffee, which is normally noncount, as in [l], can be 
+reclassified as a count noun to mean an 'appropriate unit of' as in [la] and 
+[l b], or a 'kind/sort/brand of'as in [lc] and [Id]: 
+Do you want tea or coffee? 
+Can I have a coffee, please. ['a cup of coffee'] 
+Two coffee&, please. ['two cups of coffee] 
+This is a nice coffee. 
+I like Brazilian cofees best. 
+Note 
+There is a special case ofreclassification in cases like the following: 
+Are you cosmetics? 
+Here there is no coreference relation between subject and complement as in Are you a teaclrer? 
+The complement represents instead a compressed form of the predication; eg: Arc you (selling) 
+cosmerics? In this use of the noun there is an implied contrast: 'cosmetics as opposed to toys, 
+jewellery, etc in a department store'. Similarly: 
+Are you 103? ['the occupant of room number 103, as opposed to 104, etc'] 
+The contrast may also be more explicit, as in: 
+Are you chtrrchor chapel?['a member of the Churchof England or a nonconformist'] 
+In theselast cases we may argue that the noun has been reclassified as an adjective (cfApp 1.51), 
+as in They i e  wry Oxbridge. 
+7 
+Noun classes: count. noncount, and proper nouns 249 
+Partitive constructions 
+Partition in respect of quality 
+5.6 
+Both count and noncount nouns can enter partitive constructions, ie 
+constructions denoting a part of a whole. Such constructions express both 
+quality partition (eg: a kind of paper) and quantity partition (eg: a piece of 
+paper). Quality partition is expressed by a partitive count noun like kind, sort, 
+or type followed by an of-phrase, eg: 
+SINGULAR PARTITIVES 
+PLURAL PARTITIVES 
+a new kind of computer 
+new kinds of computers 
+a delicious sort of bread 
+delicious sorts of bread 
+another type ofresearch 
+other types of research 
+Quality partition of noncount nouns may thus be expressed either by a 
+partitive construction or by reclassification (cf 5.5): 
+a nice kind of coffee - a nice coffee 
+English types of cheese - English cheeses 
+Note 
+Whether we are dealing with count or noncount nouns, we can express the quality partition in 
+the forma + adjective + noun, such that a sentencelike the followingissuperficiallyambiguous: 
+We are importinga new Italian shirt. 
+It may mean either 'a new type of' or 'a new item' (the former interpretation naturally being 
+more likely in this case). 
+Partition in respect of quantity 
+5.7 
+(a) Noncount nouns 
+Noncount nouns are seen, as we have said, as denoting an undifferentiated 
+mass. However, the expression of quantity and thus countability may be 
+achieved by means of certain GENERAL PARTITIVE NOUNS, in particular piece, 
+bit, item, followed by an of-phrase: 
+SINGULAR PARTITIVES 
+PLURAL PARTITIVES 
+apiece of cake 
+twopieces of cake 
+a bit ofchalk 
+some bits of chalk 
+an item of news 
+several items of news 
+Quantity of noncount nouns may thus often be expressed either by partitive 
+nouns or by reclassification (cf 5.5): two lumps of sugar = two sugars. 
+The most widely used partitive expression is a piece of, which can be 
+combined with both concrete and abstract nouns, eg: 
+Concrete : a piece ofbacon/chalk/coal/land/paper 
+Abstract: a piece of advice/information/news/research/work 
+Bit generally implies a small quantity: a bit of rice/news/fun/research. With 
+abstract nouns, item is used (liesides piece): 
+an item of business/information/news ['a news item'] 
+Item is not generally used with concrete nouns: *an item of oillcake (BUT an 
+item of clothing). 
+In addition to these general partitives there are some more restricted and 

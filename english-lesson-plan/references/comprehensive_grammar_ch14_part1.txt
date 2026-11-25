@@ -1,0 +1,1252 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 14: The Complex Sentence
+Covers: Coordination, Subordination, Reported speech, Conditional clauses
+[Part 1 of 9]
+============================================================
+
+992 The complex sentence 
+Finite, nonfinite, and verbless clauses 993 
+Finite, nonfinite, and verbless clauses 
+$1 
+14.5 
+We recognize three main structural types ofclauses: 
+'1 :I , 
+FINITE CLAUSE: a clause whose verb element is finite (such as takes, 
+took, can work, has worked, is writing, was written; cf 3.52ff), eg: 
+I can't go out with you because l a m  studying this evening. 
+NONFINITE CLAUSE: a clause whose verb element is nonfinite (such as to 
+ji 
+work, having worked, taken; cf 3.53), eg: 
+c 
+Knowingmy temper, I didn't reply. 
+VERBLESS CLAUSE: a clause that does not have a verb element, but is 
+nevertheless capable of being analysed into clause elements, eg: 
+Although always helpful, he was not much liked. 
+We recognize nonfinite and verbless structures as clauses because we can 
+analyse their internal structure into the same functional elements that we 
+distinguish in finite clauses. Consider, for example, the analysis of the 
+nonfinite clause in: 
+Knowing [V] my temper [Od], I didn't reply. 
+The analysis depends on the analogy with the corresponding finite clause: 
+I[S] know [V] my temper [O,]. 
+Similarly, the verbless clause although always helpful in: 
+~lthoudh [conj] always [A] helpful [C,], he was not much liked. 
+It is analysed as in the corresponding finite clause: 
+~ I t h o u ~ h  
+[conjl he [S] was [V] always [A] helpful[Cs], he was not much 
+liked. 
+\ 
+One structurai type of clause may be embedded within another: 
+Too nervous to reply after other speakers had praised her devotion to 
+duty, Margaret indicated that she would speak later. 
+[l] 
+The italicized subordinate clause in [l] is a verbless clause that contains a 
+subordinate ponfinite clause (beginning to reply) that in turn contains a 
+subordinate finite clause (beginning after other speakers). 
+Note 
+We recognize a structure as a clause only when it is describable in terms of clausal rather than 
+phrasal structure. Hence the subject in [21 is considered anoun phrase becauseit has the structure 
+of a noun phrase with conquest as its head: 
+William's conquest of England brought about a change in the status of the English 
+language. 
+[21 
+Compare William's conquests of other countries, where the head of the phrase shows that it can 
+take the number contrast that is characteristic of most nouns. On the other hand, the phrase 
+structure of William's conquest of England is related to clause structure (William conquered 
+England) through nominalization (cf 17.51ff). Both the clause and the phrase can be described 
+semantically as a sequence of agentive, activity, and affected, but semantic grounds are not 
+sufficient for syntactic analysis. Only the clause do we analyse syntactically as a sequence of 
+subject, verb, and object. For example, considerpart-time teaching in : 
+I enjoypart-time teachir~g. 
+It has the structure of a noun phrase with teaching as head and part-time as premodifier. Contrast 
+reaching undergraduates in : 
+I enjoy reachbig undergraduates. 
+It has the structure of a clause (as in I teach undergraduates) with teaching as verb and 
+undergraduaresas object. On the other hand, there is structural ambiguity in: 
+I enjoy teaching. 
+Teaching may be a noun phrase with only a heador a clause withonly a verb (c/ 15.13). 
+l 
+Nonfinite clauses 
+14.6 
+The nonfiniteclause may be withor without asubject. The classes of nonfinite 
+verb phrase (cf 3.53) serve to distinguish four structural classes of nonfinite 
+verb clauses: 
+(i) TO-INFINITIVE 
+without subject: The best thing would be to telleverybody. 
+with subject: 
+The best thing would be for you to telleverybody. 
+The infinitive clause with to plus a subject is found characteristically in 
+constructions with anticipatory it (cf 18.33ff),fir being used to introduce the 
+subject : It would be better for you to tell everybody. 
+(ii) 
+BARE INFINITIVE 
+without subject: All I did was hit him on the head. 
+withsubjeci: 
+Rather than you do the job, I'd prefer to finish it 
+myself. 
+The bare infinitive is found characteristically in pseudo-cleft sentences 
+(cf 18.29f), where the infinitival to isoptional: 
+What they did was (to) dig a shallow channelaround the tent. 
+(iii) 
+-ING PARTICIPLE 
+without subject: Leaving the room, he tripped over the mat. 
+with subject: 
+Her aunt having left the room, I asked Ann for some 
+personal help. 
+When the subject of -ing clauses is expressed, it is often introduced by a 
+preposition (cf 14.19 Note [b]): 
+With the audience turning restive, the chairman curtailed his long 
+introduction. 
+On the question of genitive subjects, cf 15.12. 
+(iv) -ED PARTICIPLE 
+without subject: Covered with confusion, they apologized abjectly. 
+with subject: 
+The discussion completed, the chairman adjourned 
+the meeting for half an hour. 
+Categories (i) and (iii) are used most frequently; category (ii) is relatively 
+rare. 
+
+
+994 The complex sentence 
+Finite, nonfinite, and verbless clauses 995 
+Except for the -ed clause, which is inherently passive (cf 14.7), all types of 
+nonfinite clauses have both active and passive forms, for example: 
+It would be possiblefor my son to drive you to the airport. 
+-It would be possible for you to be driven to the airport by my son. 
+Rather than Michaelguarantee the loan, it can be done by his father. 
+-Rather than the loan beguaranteed by Michael, it can be done by 
+his father. 
+The parents havingpaidfor the damaged window, the police were not 
+called. 
+- The damaged window having been paidfir by the parents, the police 
+were not called. 
+Progressive and perfective forms may function in the verb phrase of nonfinite 
+clauses, though the nonfinite verb paradigm is somewhat defective (cf 3.56). 
+But modal auxiliaries are excluded, since they have neither infinitives nor 
+participles. 
+In negative nonfinite clauses, the negative particle is generally positioned 
+before the verb or the to of the infinitive: 
+It's his fault for not doing anything about it. 
+. 
+The wisest policy is (for us) not to interfere. 
+Adverbs and brief prepositional phrases that intervene between not and the 
+verb in finite clauses may also come-between not and the verb: 
+. 
+It's his fault for not ever doing anything about it. 
+When not is inserted, there is often some aspectual marking: 
+The purse not having been found, 
+we went to the police. 
+The purge not yet found, 
+On the split ihfinitive, cf 8.21. 
+14.7 
+The normal range of clause types (cf 10.2) is available for most nonfinite 
+clauses, as in this set of to-infinitive clayses: 
+SV 
+I expect them to come. 
+SVO 
+They wanted us to learn economics. 
+SVC 
+Joe supposed the stranger to be friendly. 
+SVA 
+It's great for everybody to be here. 
+SVOO I$'s best for you to give him a call. 
+SVOC Paul prefers me to make the drfference clear. 
+SVOA He got her to put the car in the garage. 
+The subject of nonfinite clauses, however, is commonly absent. 
+Because it is generally both syntactically and semantically passive, the -ed 
+participle clause is restricted to the four types of passive clauses. In [l] the 
+subordinator when introduces the -ed clause: 
+(S) V, - active SVO 
+When questioned, she denied being a member of the group. 
+111 
+(S)VwC - active SVOC 
+Considered works of art, they were admitted into the country 
+without customs duties. 
+(S)VpJ - active SVOA 
+L21 
+Kept in the refigerator, the drug should remain effective for at 
+least three months. 
+[31 
+(S)VmO - active SVOO 
+Allowed unusualprivileges, the prisoner seemed to enjoy his 
+captivity. 
+l41 
+14.8 
+Because nonfinite clauses lack tense markers and modal auxiliaries and 
+frequently lack a subject and a subordinating conjunction, they are valuable 
+as a means of syntactic compression. Certain kinds of nonfinite clause are 
+particularly favoured in written prose, where the writer has the leisure to 
+revise for compactness. We recover meanings associated with tense, aspect, 
+and mood from the sentential context. We can also normally see a 
+correspondence with a finite clause with a form of the verb BE and a pronoun 
+subject having the same reference as a noun or pronoun in the same sentence 
+(cf 15.588). For examples 14.7 [l-41, one might make the following 
+insertions : 
+When (she was) questioned, she denied being a member of the 
+group. 
+[lal 
+(Since/Because/As they were) considered works of art, they were 
+admitted into the country without customs duties. 
+[2al 
+(If it is) kept in the refrigerator, the drug should remain effective 
+for at least three months. 
+Pal 
+(Since/After he was) allowed unusualpriuileges, the prisoner 
+seemed to enjoy his captivity. 
+144 
+On the other hand, [5] shows how the advantage of compactness must be 
+balanced against the danger of ambiguity; for the absence of a subject leaves 
+doubt as to which nearby nominal element is notionally the subject: 
+I 
+We met you (when you?/we? were) leaving the room. 
+[51 
+With infinitive clauses, a corresponding finite clause also enables one to 
+identify an understood subject: 
+I asked to go. - I asked ifIcould go. 
+I asked him to go. - I asked ifhe would go. 
+When no referential link with a nominal can be discovered in the linguistic 
+context, an indefinite subject may be inferred, or else the 'I'of the speaker: 
+To be an administrator is to have the worst job in the world. ['For a 
+person to be . . .'l 
+The prospects are not very good, to be candid. ['. . . if I am to be candid'] 
+. b 
+Contrast: 
+It's hard work to be a student. [indefinite subject; cf 10.42fl 
+It's hard work, to be honest. [I as subject; cf 8.1251 
+
+
+996 
+The complex sentence 
+Verbless clauses 
+14.9 
+Verbless clauses take syntactic compression one stage further than nonfinite 
+clauses and like them are also commonly subjectless. Once again (cf 14.8), it 
+is often possible to postulate a missing form of the verb BE and to recover the 
+subject, when omitted, from the context: 
+Whether right or wrong, he always comes off worst in argument. 
+['whether he is right or wrong'] 
+One should avoid taking a trip abroad in August wherepossible. ['where 
+it is possible'] 
+, . 
+Verbless clauses camalso sometimes be treated as reductions of nonfinite 
+clauses : 
+Too nervous to reply, he stared at the floor. ['Being too nervous to 
+reply. . .'l 
+(Here the verbless clause itself contains a subordinate nonfinite clause, to 
+reply.) 
+When the subject is present, only the verb has to be recovered, though it is 
+not always possible to insert it without juxtaposing the clause (cf [2] below): 
+73 people have been drowned in the area, many of them children. 
+['many of them being children'] 
+[l] 
+There he stood, a tray in each hand. ['a tray was in each hand'] 
+[2] 
+The subject is often introduced by with (cf 14.15): 
+With the children at school, we can't take our vacations when we 
+want to. 
+L31 
+Since it is uiually possible to interpret the clause as having an omitted BE, 
+the verbless clause is limited to the two clause-types SVC and SVA, with or 
+without a subordinator (sub): 
+She looked at him expectantly, her eyes fullofexcitement and 
+curiosityi [S (V) C] 
+[4l 
+I do not wish to describe his assertiops, some of them offensive. 
+[S (V) C1 
+[51 
+He looked remarkably well, his skin clear and smooth. [S (V) C] 
+[6] 
+Though somewhat edgy, she said she would stay a little longer. 
+sub [S (V) C] 
+171 
+We can myet again tomorrow, ifnecessary. sub [S (V) C] 
+t81 
+Mavis sat in the front seat, her hands in her lap. [S (V) A] 
+[g1 
+While at college, he was a prominent member of the dramatic 
+society. sub [(S V) A] 
+[l01 
+It is also possible in [g] to view the understood verb as HAVE ('having her 
+hands in her lap', cf 'with her hands in her lap'), in which case the structure 
+is [(S V) 0 A]. 
+Optional adverbials may also be added, either initially or finally: 
+'Thank you very much,' said Raymond, ever mindful of his manners. 
+[(S V) Afrequency Csl 
+Formal indicatorsof subordination 997 
+Loath to reply for fear of offending herparents, she strode out of the 
+room. [(S V) C, A,,I 
+Though now frail, they were quite capable of looking after themselves. 
+sub [(S V) At,,, CS] 
+When the verbless clause is reduced to its minimum of a single complement 
+or adverbial, it may not be easy to distirlguish it from an appositive 
+construction (cf17.65ff), a nonrestrictive postmodifier (cf 17.48f), or an 
+adverbial which is a direct constituent of the main clause. The initial 
+prepositional phrase below is an adverbial of the sentence: 
+Of humbleparentage, he began his working life in a shoe factory. 
+It might be regarded as an adverbial realized by a verbless clause consisting 
+of just a complement, because its analysis is directly parallel to nominal or 
+verbless clauses like: 
+A man of humble parentage, . . . 
+-Born of humble parentage, . 
+Similarly, if the final noun phrase below had been placed next to the subject 
+we would have recognized it as full apposition: 
+The river lay in its crescent loop entirely without movement, an artifice 
+of green-black liquescent marble. 
+As it is, we could regard it as a verbless clause functioning as an adverbial. 
+Indeed, many instances of partial apposition with noun phrases (cf 17.66) 
+could be equally regarded as verbless clauses, eg: 
+Judge Clement Turpin, now a federal appeals court judge, is being 
+considered for appointment to the US Supreme Court. 
+Formal indicators of subordination 
+14.10 
+Subordination is generally marked by a signal in the subordinate clause. The 
+signal may be of various kinds: 
+(i) The clause is initiated by a subordinating conjunction (14.1 lff). 
+(ii) The clause is initiated by a wh-element (14.20). 
+(iii) Initial elements in the clause are inverted (14.20). 
+(iv) The presence of certain verb forms in finite clauses is determined by 
+the type of subordinate clause (14.21ff). 
+(v) The verb element of the clause is either nonfinite or absent (14.20). 
+More than one subordination signal may cooccur in the same subordinate 
+clause. For example, a nonfinite or verbless clause may be introduced by a 
+subordinating conjunction (cf 14.15ff). 
+Note 
+[a] The verb form in the superordinate clause may also be affected by the type of subordinate 
+clause. The clearest example is in the hypothetical condition relationship (cf 15.36). 
+[b] For nonfinite and verbless clauses that are not part of a superordinate clause, cf11.40/: 
+
+
+998 The complex sentence 
+Subordinators 
+14.11 
+SUBORDINATORS (or more fully SUBORDINATING CONJUNCTIONS) are the most 
+important formal device of subordination, particularly for finiteclauses. Like 
+prepositions, which they resemble in having arelatingfunction, subordinators 
+forming the core of the class consist of a single word, but there is a larger 
+range of complex subordinators which function, to varying degrees, like a 
+single conjunction. In addition, there is a small class of correlative 
+subordinators, which combine two markers of subordination, one being a 
+subordinator. 
+Subordinators may be restricted to particular types of clauses, as the 
+following sections show. 
+Subordinators for finite clauses 
+14.12 
+Most subordinators may introduce finite clauses. Here is a list of those 
+subordinators. They are divided into simple, complex, and correlative 
+subordinators. The correlative subordinators-are listed and discussed in 
+14.13. 
+SIMPLE SUBORDINATORS 
+after, although, as, b.ecause, before, directly (informal, esp BrE), if, 
+immediately (informal, esp BrE), lest (esp AmE), like (informal, esp 
+AmE), once, since, that, though, till, unless, until, when(ever), where(uer), 
+whereas, whereupon, while, whilst(a minority alternative to while, esp BrE) 
+COMPLEX SUBORDINATORS 
+ending with that: 
+but that, in that, in order that, insofar that (formal, rare), in the event that, 
+save that (literary), such that 
+ending with dptional that: 
+(a) participle form: 
+assuming, considering, excepting, given, granted, 
+granting, provided, providing, seeing, supposing ](that) 
+(b) others: \ 
+except, for all, l 
+(that) 
+\ 
+now, so 
+ending with as: 
+according as, as far as, as long as, as soon as, forasmuch as (formal), 
+inasmuch as (formal), insofar as, insomuch as (formal) 
+Others: 
+1 
+as if, as though, in case 
+Note 
+[a] The distinction in form between the simple and complex subordinators is in part 
+orthographic, since some of the simple subordinators are internally (that is morphologically) 
+complex. But their orthographical unity points to the central place of the simple subordinators 
+in the system. 
+[bl In addition, the following archaic subordinators still have a limited currency: albeit, whence, 
+whereat, lvlrerefore, whither. 
+[cl Many of the subordinators indicate more than one logical relationship. The relationships are 
+discussed in subsequent sections of this chapter. 
+Formal indicatorsof subordination 999 
+[d] The omission of an optional that in the complex subordinators tends to lower the level of 
+formality. On the other hand, the inclusion of tlrot may avoid ambiguity (~(14.41). 
+[e] About and without are used as subordinators for finite clauses in informal style, but are not 
+generally considered acceptable: 
+?She explained to us about there's nothingfor teenagers to do in the village. 
+?We can't even read in our bedroom without one of the children comes barging in wanting 
+something. 
+They are among recent examples of a continuing trend to use prepositions also as subordinators. 
+On account (on (esp AmE), another recent example, has achieved somewhat greater 
+acceptability in informal style: 
+I can't come now on account (on I how to look afier my baby brother. 
+~ 
+~ 
+.. . 
+. 
+.
+.
+ 
+[I] But that is a subordinator in the sense 'except (that)': 
+She would have ignored Edward hut tlrot she knew he would have complained to her sister. 
+Occasionally tlmt is omitted: 
+It never rains but it pours. 
+Except is used without that in the sense 'unless'(cf 15.34): 
+I wouldn't be here except 1 had to. 
+But that is often added when except has the senseAonly'(cf 15.44): 
+I'd lend you my car except (that) I may need it later this afternoon. 
+[g] The temporal subordinators, interrogative whether and if, and conditional ifcan alone serve 
+as truncated subordinate clauses functioning as exclamation tags: 
+A: Brian will attend the class when it suits him. 
+If 1 
+. . 
+B: (*h, yes) !,Ah! 
+Virtually any conjunction can function alone as an echo question: 
+A: I11 let you know ifthere are going to be refreshments. 
+B: in But surely you promised you would arrange it. 
+A: We're arriving in New York aJier you leave. 
+B: i ~ t e r ?  
+But I was hoping to see you there. 
+Correlative subordinators 
+The correlative subordinators are divided into five sets, listed below. The 
+second correlative endorses the meaning of the first. For correlative 
+coordinators, cf 13.338. 
+CORRELATIVE SUBORDINATORS 
+such 
+such 
+" )  
+1 . . . (that) 
+l e s s  
+} 
+} . . . than 
+more (/-er) 
+no sooner 
+. . . than, when (informal) 
+barely 
+hardly } 
+} . . . when, than (informal) 
+scarcely 
+(C) the 
+. . . the 
+
+
+1000 The complexsentence 
+(e) subordinator plus 
+optional conjunct 
+. . .yet, nevertheless, etc 
+(even) though 
+Once 
+} } . . then in that case 
+since [reason] 
+unless 
+because 
+. . . therefore 
+seeing (that) 
+The (a) set consists of the unique proportional correlative as . . . so 
+(cf 15.51), also typical of formal and deliberative style. The conjunct 
+emphasizes the relationship indicated by the initial subordinator: 
+As the strength of the defenders failed, so the courage of the attackers 
+grew. 
+The omission of so tends to give a temporal interpretation ('all the while 
+that') to the subordinator as. 
+The (b) set contains comparative correlatives (cf 15.63ff). In this set the 
+subordinate clause is positioned finally. The first element functions as degree 
+modifier in the superordinate clause, while the second is a subordinator 
+introducing the final subordinate clause: 
+, 
+{more ashamed 
+angrier 
+than I have ever been. 
+He had no sooner arrived than he asked for food. 
+The (c) set]consists of the unique pair of proportional correlatives the . . . 
+the (cf 15.51): 
+The harder they worked, the hungrier they became. 
+['As they worked harder, so they became hungrier.'] 
+If the order Qf the two clauses is reversed, the meaning relationship is 
+changed (cf Nfte [d] below): 
+\\ 
+The hungrier they became, the harder they worked. 
+['As they became hungrier, so they worked harder.'] 
+The (d) set contains the whether . . . or correlatives used in two different 
+types of suboqdinate clauses: alternative interrogative clauses (cf 15.6) and 
+alternative cdnditional-concessive clauses (cf 15.41). In the interrogative 
+construction the or-clause is optional: 
+They didn't tell me whether I should write to the manager (or whether 
+I should see him personally). 
+In the conditional-concessive construction, on the other hand, the or-clause 
+isobligatory. In both instances, the correlativeor coordinates twosubordinate 
+clauses (cf the either . . . or correlative, 13.33f), unlike the previous sets, 
+where only one correlative is attached to the subordinate clause. Or is also an 
+Formal indicatorsof subordination 1001 
+optional correlative in the alternative interrogative clause introduced by g 
+(cf 15.6). 
+The (e) set combines a subordinator in an initial subordinate adverbial 
+clause with an optional conjunct (cf 8.134ff) in the superordinate clause. The 
+conjunct emphasizes the relationship indicated by the subordinator: 
+Though the workers were unhappy with some aspects of the proposed 
+new contract, nevertheless they overwhelmingly voted in favour of it. 
+[CONCESSIVE 
+CLAUSE; ~f 15.39ff 1 
+Ifthis year's harvest is good, then they will not need to import wheat. 
+[CONDITIONAL 
+CLAUSE; 
+cf 15.33ff ] 
+Because you have not replied to my formal letter of May 1, I am 
+therefore withdrawing my offer. 
+[REASON 
+CLAUSE; 
+cf 15.45ff ] 
+Some writers avoid the conjunct as redundant in these examples. Its insertion 
+is more usual in an insistently persuasive argument or in a formal and 
+deliberative style of writing, especially if the initial subordinate clause is 
+lengthy and the relationship then needs to be recalled. The effect is to balance 
+the two parts of the system, an effect akin to parallelism (cf 19.7), and to 
+remind the reader or hearer of the force of the argument. 
+Note 
+[a] The range of correlative subordinators can be extended somewhat in literary style to include, 
+for example, where. . . there and when . . . then: 
+When her imagination was stirred, then there descended upon her a frenzy to inscribe her 
+thoughts. 
+[b] The following occur with ~ubject-o~eratir 
+inversion (c/ 18.24) in the first clause: 
+no sooner. . . than 
+barely/hardly/scarcely . . whenlbefore 
+There is traditional objection to the use of when as correlative with no soorler and to the use of 
+than as correlative with the three negative adverbs. 
+[c] Since subordinate adverbial clauses are usually in E position, the correlative in sets (a), (b), 
+and (c) can be seen as providing the condition for the clause to be in I position and subsequently 
+endorsing the force of the clause. 
+[d] The may be used in two ways to introduce a final subordinate clause without a preceding 
+initial correlative the. In the first use, it correlates with a comparative in the superordinate 
+clause, the construction then belonging to set (c): 
+They became (the) hungrier the harder they worked. 
+The construction is equivalent in meaning to the correlative the. . . the construction: 
+The harder they worked, the hungrier they became. 
+[cf *Harder they worked, hungrier they became.] 
+The equivalence provides an argument for suggesting that the firs1 clause is semantically 
+subordinate, as in sets (a) and (b). 
+In the second use, the is noncorrelative. It combines with a comparative, chiefly to introduce 
+a final subordinate clause of purpose, especially a to-infinitive clause: 
+They moved to the front, the better to hear the speaker. 
+Less formally: 
+They moved to the front in order to hear the speaker better. 
+In formal style, the purpose clause may be initial: 
+Themoreeasily to induce witnesses to testify, we areconductingour hearings in private. 
+Marginal subordinators 
+14.14 
+As with complex prepositions (cf9.10ff'), it is difficult to distinguish 
+categorically between complex subordinators and free syntactic construc- 
+tions. Several marginal types require discussion. 
+
+
+, , 
+1002 
+The complex sentence 
+F 
+S i , . , 
+Type 1 consists of a habitual combination of a subordinator with a 
+preceding or following adverb; for example even $and $only. We regard 
+these as subordinators because the meaning of the subordinator is affected 
+by the presence of the adverb. In contrast, combinations such as only tyand 
+just as consist of a premodifier preceding a subordinator. 
+Type 2 consists of noun phrases that commonly function as temporal 
+adverbials; for example, the moment (that) and every time (that). We consider 
+these to be more like free syntactic constructions than like complex 
+subordinators. The relationship between the moment and the following clause, 
+for example, can be explained as the head of a noun phrase modified by a 
+restrictive relative clause, the noun phrase functioning as adverbial of time. 
+Compare : 
+I recognized him that moment. I recognized him the moment I saw him. 
+The phrase permits the range of structural variations that one would expect 
+from that analysis. For example: 
+at 
+{ ~ f : ~ }  
+I saw him, I recognized him. 
+precise 
+very 
+Other examples of such free constructions include during the period when, 
+until such time as, since the days that. 
+Type 3 consists of prepositional phrases ending in the fact that. They 
+express relationships of reason or concession. Because they can be replaced 
+more concisely by a simple conjunction, they are considered to be stylistically 
+clumsy. Examples include : 
+becausepf the fact that 
+due to the fact that 
+['because'] 
+on accoupt of the fact that 
+in (the) light of the fact that 
+in spite ojthe fact that 
+regardless of the fact that } M t h o ~ h l  
+These allow some variation of the preposition and considerable variation of 
+the head of the noun phrase. Compare: 
+that they were sick, I went to visit them. 
+my belief 
+Only in spite of the fact that can be replaced by a simple conjunction (eg: 
+although), yet it is clear that all the phrases have a similar function. We 
+should therefore regard them as prepositional phrases followed by a clause in 
+apposition to the noun-phrase complement. 
+Type 4 consists of participle fonns such as supposing (that) and provided 
+(that). The participles form a gradient. Some retain certain properties 
+characteristic of verbs, while those that are most like simple conjunctions 
+Formal indicators of subordination 1003 
+.have lost all such properties. Thus, like other particifiles, supposing and 
+assuming can be expanded by adverbials: 
+supposing 
+for the sake of argument 
+assuming 1 { as a result of your advice ]that 
+But such expansion is not permitted for some of the other participle ~OITIIS : 
+for the sake of argument 
+as a result of your advice 
+On the other hand, like many verbs, seeing and considering can be followed 
+by conjunctions other than that: 
+Seeing 
+how he reacted . . . 
+Considering 
+But most important of all, the conjunctional seeing, provided, providing, and 
+given are now distinct from the participles in meaning and in not requiring 
+subject identification (cf 15.58f), so that they cannot be viewed as the verb in 
+a participle clause. 
+Note 
+[a] The premodifier in the free constructionsof type 1 may be focusing (cf 8.1 16). as in even when 
+and only if; intensifying (cf8.104), as in ewr since and just as (in the similarity sense); or 
+specifying further the time relationship, as in just whenand afew days before. 
+[b] There are other conjunction-like prepositional phrases similar to those in type 3, but not 
+ending in thefact that; for example, in the event that, on thegrounds that, in thesense that. 
+Subordiiators for nonfinite and verbless clauses . 
+14.15 
+Nonfinite and verbless clauses are subordinate by virtue of the absence of a 
+finite verb as the verb element of the clause. They are, however, sometimes 
+introduced by a subordinator, which generally signals the clause to be 
+adverbial. 
+The structural classes of clauses vary in the subordinators that they admit. 
+However, all the classes except for that of the bare infinitive clauses may be 
+introduced by the subordinators with and without. A noun phrase (not 
+necessarily the subject) is required after the subordinator: 
+Without you to consult, I would be completely lost. 
+With the mortgagepaid, they could afford to go abroad for their 
+vacation. 
+Don't walk around with your shirt hanging out. 
+With you as myfriend, I don't need enemies. 
+Note 
+Rather than is found with all types of clauses, including finite clauses, but it is generally best 
+treated as a quasi-coordinator (cf 13.103), with matching forms in the clauses (but cf4.19 Note 
+[cl): 
+They were screaming rather than singing. 
+She telephoned rather than wrote. 
+He wanted to sunbathe rather than (to) swim. 
+The part after rather than refers to an earlier assumption that is rejected; rather than is here 
+equivalent to 'and not'. 
+Subordinators for bare infinitive clauses 
+14.16 
+Bare infinitive clauses are limited to the two synonymous subordinators 
+rather than and sooner than (cf 14.15 Note for the function of rather than as 
+
+
+1004 
+Thecomplex sentence 
+quasi-coordinator). The matrix clauses express the subject's preference (cf 
+15.52): 
+He paid the fine rarher than appeal to a higher court. 
+Sooner than waitjor a reply to your letter, I would telephone her. 
+The bare infinitive clause occasionally takes a subject: 
+Rather than ~cirrerr drive in his present state, I'd prefer to drive him home 
+myself. 
+Note 
+[a] In contrast to the constraints on the quasi-coordinator ratlter than, when clauses are 
+introduced by the subordinators rather than and soofter than the verb forms do not need to match 
+and the subordinate clause may be initial as well as final. 
+[b] If aouldor should is in the matrix clause, radcr and sooner may be moved into that clause 
+when the subordinate clause is final: 
+He would rather pay the fine tllan appeal to a higltcr court. 
+Such sentences have an obvious resemblance to comparative constructions and admit various 
+comparative adverbs: 
+pay the fine than appeal to a higher court. 
+cheewy 
+Subordinators for to-infinitive clauses 
+14.17 
+To-infinitive clauses may be introduced by several subordinators: as if, as 
+though, fir, in order, so as, whether . . . (or), with, and without. For in this 
+function is restricted to infinitive clauses with their own subject, and indeed 
+is often obligatory (cf 15.10): 
+It would be an absurd ideajbr them to move to another house at this stage 
+of thefr careers. 
+Since for may be combined with the subordinator in order to, it seems to be a 
+device for introducing the subject rather than to be a true subordinator: 
+In order for you to be eligibte for a student grant, your parents must 
+receiv less than a stipulated annual income. 
+e 
+Whether (with or without correlative or) introduces a subordinate interroga- 
+tive clause: 
+, 
+I don't know whether to put on the air-conditioning today. 
+In the absence of a subject in the subordinate clause, the subject is 
+understood a$ identical with that of the matrix clause. 
+Subordinators for -ed clauses and verbless clauses 
+14.18 
+Clauses with an -ed participle and verbless clauses may be introduced by 
+some subordinators that are also used for finite clauses (cf 14.12): 
+although, as [manner], as if, as soon as, as though, even if, if, once, though, 
+unless, until [only -ed participle clauses], when(euer), where(ver), whether 
+. . . or [conditional-concessive], white, whilst (esp BrE) 
+These clauses can be related to finite clauses for which the subject and the 
+verb BE are supplied (cf 14.9): 
+Note 
+Formal indicators of subordination 1005 
+When taken according to the directions, the drug has no side effects. 
+['When the drug is taken . . .'l 
+[l] 
+Although not yet six months old, she was able to walk without 
+support. ['Although she was not yet . . .'] 
+[2] 
+Unless told otherwise, be here every night. ['Unless you are told 
+. . .'; you is implied subject of the imperative superordinate 
+clause] 
+U1 
+lfnecessary, he will take notes for you. ['If his taking notes is 
+necessary, . . .'l 
+141 
+The subject of the subordinate clause must generally be understood as 
+identical with that of the matrix clause, but for verbless clauses such as 
+necessary and wherepossible it may refer to the matrix clause as a whole, as in 
+example [4]. 
+[a] The if-clauses may be used for hypothetical conditions (cf 14.19 Note [a], 15.35): 
+The milk would not turn sour ifboiled. pif it were boiled] 
+I would have typed your manuscript for you ifnecessary. ['if it had been necessary to d o  so'] 
+[b] There is a stereotyped construction in which the -ed participle follows no sooner than: 
+(It was) no sooner said than done. 
+Subordinators for -ing clauses 
+Clauses with an -ing participle may be introduced by any of the subordinators 
+for -ed participle clauses (cf 14.18), except that the subordinators where, 
+wherever, as [manner], and as soon as are excluded (cf Note [a] below) : 
+although, as if, as though, even if, if, once, though, unless, until, when(ever), 
+whether. . . or [conditional-concessive], while, whilst (esp BrE) 
+Unlike -ed participle and verbless clauses, however, these -ing participle 
+clauses cannot be regarded as strictly elliptical clauses, since the -ing participle 
+does not necessarily represent a progressive form in the equivalent finite 
+clause. The -ing participle neutralizes that aspectual distinction : 
+When returning merchandise, be sure to bring your receipt. ['When you 
+return. . .' or 'When you are returning. . .'l 
+The nonequivalence of the -ing participle in these clauses with the finite 
+progressive is most conspicuous when the progressive aspect is ruled out, as 
+with the perfective or a verb used statively (cf 4.27ff): 
+Once having left thepremises, you must buy another ticket to reenter. 
+['Once you have left. . .) 
+Though understanding no Spanish, she was able to communicate with the 
+other students. ['Though she understood no Spanish, . . .'l 
+[a] -ing clauses introduced by if, even if, and unless are restricted to open conditions (cf 15.33, in 
+which they are roughly equivalent to'in cases where'. Even so, ifsounds somewhat stilted: 
+Ifcomingbycar, take the A10 and turnoffat theA414. 
+Euen ifand unless are relatively more acceptable in such contexts: 
+i2sr} 
+rcceiuing uisim, patients must observe normal hospital rules. 
+[bl Afier, before, and since (subordinators with finite clauses) differ from subordinators such as 
+when or while in that they are followed by -i~tgclauses but not by -edclauses or verbless clauses: 
+He took a shower kz:] returnin; home. 
+
+
+1006 
+The complex sentence 
+Since nroving here, I have felt more relaxed. 
+These three also differ from the subordinators listed above in 14.19 in that they allow a subject 
+in the -ing clause : 
+Since nry conring here, life has become more comfortable for my parents. 
+L31 
+The differences suggest that after, before, and sirace are better classed with prepositions such as 
+on and tlrrongl~ (both ofwhich permit a subject in the-ingclause) rather than with subordinators: 
+He took a shower 011 returnit~glton~c. 
+[]a] 
+Tl~rarrglr my nroving here, life has become more comfortable for my parents. 
+[c] Like as ~ ~ s l l a s  
+and instead a/. rarher th~n 
+is a preposition, not a quasi-coordinator (cf 13.103), 
+when it is followed by an -ing participle clause that does not match the verb in the matrix clause 
+(cf 14.15 Note): 
+Their actions precipitated the war rathcr tlran auerting if. 
+As lvellas visiting Niagara Falls. we spent a day in Toronto. 
+He intends to go as he is, instead ~J'clionging into his best clothes. 
+Other indicators of subordination 
+14.20 
+We now turn to other indicators of subordination apart from subordinators. 
+(i) Wh-elements are initial markers of subordination in subordinate 
+interrogative clauses (cf 15.5f) and subordinate exclamative clauses (cj15.7), 
+in wh-relative clauses (cf 15.8f, 17.9ff), and in conditional-concessive clauses 
+(cf 15.41j). The subordinating wh-words are: 
+who, whom, whose, which 
+when, where, what, why, how 
+whoever, whomever (rare), whichever 
+wherever, whenever, whatever, however 
+whosoever, whomsoever, wheresoever, whatsoever, howsoever (all rare; 
+legal ?nd religious) 
+(ii) The relative pronoun that, which can often replace wh-pronouns, is a 
+subordination marker in restrictive relative clauses (cf 17.9f): 
+The style that we are examining in this exhibition was an unusual one. 
+The relative pFonoun is to be distinguished from the subordinator that, which 
+does not operate as an element in the subordinate clause. 
+I 
+\ 
+(iii) Subject-operator inversion is a marker of subordination in some 
+conditional, similarity, and comparative clauses (cj15.36,15.50 Note, 15.74). 
+It is typical of a literary and elevated style of persuasion. The operators that 
+permit the inversion are had, were, should, and (less commonly) could and 
+might: 
+I 
+Had I been less forthright, I would have acquired more support. 
+Were she here, she would support the motion. 
+Inversion of a different kind - the fronting of the whole or part of the 
+predication - may occur with the subordinators as, though, and that (cf 15.39, 
+15.47): 
+' 
+Eloquent though she was, she could not persuade them. 
+(iv) The absence of a finite verb is itself an indicator of subordination, 
+since nonfinite and verbless clauses are necessarily subordinate: 
+The verb phrase in subordinateclauses 1007 
+Denying any interest inpolitics, she claimed that she wished to continue 
+in forensic medicine. 
+There are only two types of subordinate clauses that have no clear indicator 
+of subordination within them: 
+(a) Nominal that-clauses allow the omission of that in certain contexts 
+(cj15.4), but they may be said to be recognizable as subordinate through the 
+potentiality for the insertion of that: 
+I suppose I can use your phone. 
+- I suppose that I can use your phone. 
+Compare also the omissibility of relative that, 17.13ff. 
+(b) Some comment clauses (cf 15.54) have no overt mark of subordination,. 
+but - as with the zero relative clauses mentioned in (a) -they generally lack 
+an obligatory verb complementation: 
+I have no alternative, Isuppose. 
+It could be worse, you know. 
+= You know, it could be worse. 
+# You know (that) it could be worse., 
+The verb phrase in subordinate clauses 
+14.21 
+In general the rules for the uses of forms and categories of the verb phrase - 
+such as tenses, aspects, and modal auxiliaries - apply both to subordinate 
+and independent clauses. Nevertheless, there are cases in which choices 
+affecting the verb phrase of a subordinate clause are determined by the 
+particular type of subordinate clause it belongs to. With temporal since- 
+clauses, on the other hand, it is the choice of verb phrase in the matrix clause 
+that is more obviously affected. 
+Such determinations constitute a signal of subordination additional to 
+other signals, such as initial subordinators. They are a particularly 
+conspicuous signal when the verb phrase in the subordinate clause prevents 
+that clause from constituting an independent sentence, even with the 
+omission of the subordinator, as in (Though) he be the President himself: Less 
+obviously, the meaning of the verb phrase would be different in an 
+independent clause, as in (When) the game ends. 
+Note 
+Dependency relations ofthis kind are not necessarily found in disjunct clauses, particularly style 
+disjunct clauses (cf 15.21), where verb choices are primarily deuendent on the circumstances of. 
+the speech act. Contrast, for example, the matching tenses in [l), where the since-clause is an 
+adjunct, with the absence of matching in [2], where the since-clause is a style disjunct: 
+Since they really wanted to know, they conducredtheir own investigation. 
+[I] 
+Since you really want to know, they conducted their own investigation. 
+[21 
+
+
+1008 
+Thecomplex sentence 
+The present tense in adverbial and nominal clauses 
+14.22 
+The simple present is commonly used in preference to the auxiliary willor (in 
+BrE, optionally with I and we) shall in certain types of adverbial clauses to 
+express future meaning (cf also 14.26): 
+W hen 
+After 
+Before 
+As 
+If 
+As soon as 
+Once 
+- he arrives, the band will play the National Anthem. 
+Even if tomorrow's match is cancelled, Lancashire will still be at the top 
+of the league. 
+He'll come in case he's wanted. 
+While I am away, the children will look after the house. 
+Whether or not they win this battle, they won't win the war. 
+Whatever they say, I won't pay. 
+Wherever she goes, I'll go. 
+The subordinators involved belong to the temporal, conditional, and 
+conditional-concessive categories (cf 15.25, 15.34, 15.4lf). Temporal since, 
+however, is excluded (cf 15.26). 
+Clauses of similarity (cf15.50) and proportion (cf 15.51) may also have the 
+simple present to express future meaning: 
+Next time I'll do as he says. 
+The har$er you exercise, the better you'll feel. 
+Nominal that- and wh-clauses tend to contain the simple present when the 
+matrix clause (as well as the subordinate clause) refers to the future; but 
+when the matrix clause refers to the present, will is likely to be used in the 
+subordinate clause. Contrast: 
+In a few4'?inutes I'll ask him what he wants tomorrow. 
+The question is what he will want tomorrow. 
+However, thete are exceptional verb hnstructions like hope, bet, see (to it), 
+take care, be careful, and (both in the imperative) suppose and assume, after 
+which the simple present is often or (for take care and be careful) regularly 
+used : 
+I hope t$at the parcel comes in time. [also will come] 
+Suppose be loses his way. 
+Let's assume our opponents win the election. [also will win] 
+I'll see that nobody disturbs you. [also will disturb] 
+Take care that she doesn't fall. 
+Will and won't occur in adverbial clauses, particularly in $clauses, in 
+certain uses. In general, the difference between the simple present and the 
+modal is that the simple present refers to an assumed future actual situation 
+whereas the modal refers to the assumed predictability of a situation or of 
+situations. More specifically, willand won't are commonly used: 
+If the water rises above this level, then we must warn everybody. 
+[cf'when 
+the water rises above this level, if it does so'] 
+[l Oal 
+Replacement of the modal by the simple present in [l11 and [l21 produces 
+uninterpretable sentences. 
+The verb phrase in subordinate clauses 1009 
+(i) where the modals have a volitional meaning: 
+If you'll help us, we can finish early. ['are willing to'] 
+[l] 
+If you won't help us, all our plans will be ruined. ['refuse to'] 
+l21 
+If he'Npay, I'll go with him. 
+l31 
+If you'll use it, you can have it. 
+l41 
+The use of the simple present in [l -41 would suppress the volitional meaning. 
+In [5] the volitional meaning is metaphorically transferred to inanimate 
+objects: 
+If your car won't start, call me any time and I'll help. ['refuses to'] 
+[5] 
+(ii) where the modals express timeless and habitual prediction: 
+If drugs willcure him, this drug should do the job. 
+[61 
+If sugar willdissolve in a hot liquid, this chemical will do so too. 
+[7] 
+Will can be replaced by can in [6] and [7]. In both sentences, the conditional 
+clause does not refer to a specific actual situation. 
+(iii) where the modals express the present predictability of the occurrence or 
+nonoccurrence of a future situation: 
+If you won't arrive before six, I can't meet you. ['If you won't be 
+arriving before six'] 
+K81 
+If the game won't befinished until ten, I'll spend the night at your 
+place. ['If the game is not going to be finished until ten'] 
+191 
+If the water will rise above this level, then we must warn 
+everybody in the neighbourhood. ['If the water is going to rise 
+above this level, then we must now plan to warn everybody in 
+the neighbourhood'] 
+[l01 
+If she won't be here before midnight, there's no need to rush. 
+[l11 
+If we definitely won't win, why should we bother to play? ['If we 
+definitely aren't going to win, . . .'l 
+[l21 
+The simple form is less usual in [g-121 than the progressive. 
+In [8-121 the matrix clause expresses the present consequence of the 
+present predictability. In [8-91 the consequence is a present decision to take 
+a future action, while in [IO- 121 it is a present decision that affects present 
+action. 
+The modal can be replaced by the simple present in [g-91, but with a 
+different implication. Contrast [g] with [gal: 
+If you don't arrive before six, I can't meet you. ['in the event of 
+your arrival after six'] 
+[gal 
+The situation in the conditional clause of [8a] is viewed as possibly occurring. 
+In [l01 replacement of the modal by the simple present yields the implausible 
+sentence [loa]: 
+
+
+1010 
+T h e  complex sentence 
+Note 
+[a] The simple present may be used for future reference in relative clauses that together with 
+their antecedent express similar relationships 10 those expressed in the adverbial clauses: 
+1'11 speak to her the first opportunity I haw. 
+And similarly in appositive that-clauses modifying an appropriate noun phrase head : 
+We'll be there tomorrow on the assumption that it doesn't rain. 
+[b] The simple present in a conditional clause may refer to a state in present time: 
+If you likeit, I'll give it to you. 
+For dynamic situation types, the present progressive is used to refer to present time: 
+If she's ~vorking, 1 won't interrupt her. 
+The hvpothetical past and past perfective 
+. - 
+14.23 
+The verbs in hypothetical conditional clauses are backshifted, the past tense 
+form being used for present and future time reference and the past perfective 
+form for past time reference (cf 15.36). When these forms have such 
+hypothetical implications we term them HYPOTHETICAL PAST and HYPOTHET- 
+ICAL PAST PERFECTIVE. The general rule for verbs in both clauses of 
+hypothetical conditions may be expressed thus: 
+Table 14.23 Verbs in hypothetical conditions 
+future 
+reference 
+HYPOTHETICAL 
+PAST PERFECTIVE MODAL 
+PAST PERFECTIVE 
+The modal host commonly used in the matrix clause is would. It is used to 
+express the hypothetical implication, without necessarily any other modal 
+implications : 
+If she {:F to try} harder next time, she wouldpass the examination. 
+[future r~ference: 'but I expect s h ~  
+won't try harder'] 
+If they were alive, they would be moving around. 
+[present reference: 'but I assume they are not alive'] 
+If they had invited him to the conference, he would have attended. 
+[past reference: 'but they didn't invite him'] 
+As the brackefed implications indicate, the hypothetical meaning is more 
+absolute in the past, and amounts to an implied rejection of the condition; 
+whereas with present and future reference the meaning may be merely one 
+of negative expectation or assumption, the positive not being ruled out 
+completely. Depending on the lexical verb, the progressive might be necessary 
+to convey present reference, as is indeed the case for try: 
+If she were trying harder, her parents wouldn't be so anxious. 
+When modal auxiliaries are used in hypothetical conditional clauses they 
+combine with past and past perfective. In the matrix clause they replace 
+The verb phrase in subordinate clauses 
+101 1 
+would, since two modal auxiliaries cannot cooccur. Modals in hypothetical 
+conditions, apart from hypothetical would, are would in other uses, could, 
+might, and should: 
+If they would help us, we couldJinish early. [volitional would, 'would be 
+willing to'] 
+If we had enough money, we could buy a typewriter. 
+If you could type, you might save a lot of time. 
+I might have married her if she would have agreed. 
+If they had asked me, I would have had ro speak. [have to as substitute 
+for must, which lacks a past form] 
+If he had apologized, you should have done so too. [obligational should] 
+Some BrE speakers maintain a distinction between would and should in the 
+matrix clause parallel to that between will and shall (cf4.42): 
+If I had been at home last night, I should have heard the noise. 
+Hypothetical past or past perfective are obligatory in certain other 
+constructions that have hypothetical meaning: 
+It's time you were in bed. 
+I wish this bus went to the university. 
+If only I had listened to my parents! 
+They are optional with other constructions that also have hypothetical 
+meaning (on the subjunctive were, cf14.24): 
+He acts as if he knew you. 
+It's not as though we were poor. 
+Suppose we told her the truth. 
+Imagine your child played truant. 
+I'd rather we had dinner now. 
+Generally a negative inference can be drawn, which is more strongly negative 
+with the hypothetical past perfective. Thus vonly I had listened to my parents 
+implies 'I did not listen to my parents', and He acts as ifhe knew you implies 
+the expectation 'He doesn't know you'. In I'd rather we had dinner now, the 
+hypothetical past may express tentative politeness rather than hypothetical 
+meaning. 
+Note 
+[a] The hypothetical past is also used after an archaic Would that, which expresses a wish: 
+Would that everyone treated me as considerately. 
+[b] Restrictive relative clauses modifying generic noun phrases (cf 15.34 Note [il) and their 
+matrix clauses take the same forms as hypothetical conditionals if they refer to a hypothetical 
+situation: 
+Any person who had behaved in that way would hate been dismissed. 
+[c] We have shown that the rules for past reference in a hypothetical condition require a past 
+perfective in the conditional clause and a past perfective modal, generally would have, in the 
+matrix clause: 
+If I had seen her, I would haue told her. 
+The operators are frequently contracted in informal style: 
+If I'd seen her, I'd haue told her. 
+In informal speech, the haue in the second phrase is frequently reduced to /av/ or /a/. so that I 
+would haue may be rendered /a~da/. Informal AmE speech may have matching modals in both 
+clauses: 
+If I'dhatx seen her, I'dhaue told her. 
+
+
+10:12 T h e  complex sentence 
+The first part of both clauses may then be rendered lardal. The contraction for the operator in 
+the conditional clause is sometimes misinterpreted as replacing had rather than ~vould, giving 
+rise to an error that is found in uneducated writing and its fictional representation: 
+If I hadda seen her, I ~votrlrla told her. 
+The nonstandard spelling I'da is similarly found as a representationof la~dal, and ofis a frequent 
+misspelling of have when hauc follows a modal. 
+[d] In informal AmE the hypothetical past is sometimes used for past reference in place or the 
+hypothetical past perfective: 
+If they invited her to the conference, she would have attended. 
+[e] Ambiguities are occasionally found between open and hypothetical conditions (cf 15.35). 
+since open conditions take the full range of verb forms: 
+If he found a patient listener, he ~vouldpourout his troubles. 
+This sentence may be a hypothetical condition referring to the future ('I don't think he'll find a 
+patient listener') or an open condition referring to the past (mould having a habitual meaning). 
+[r] In subordinate clauses following I 11Ch (that), the hypothetical past may be replaced by 
+hypothetical ~vouldor by a to-infinitive: 
+she visited 
+her to visit 
+The present and past subjunctive 
+14.24 
+The present subjunctive (cf 3.58ff) is used very occasionally in formal style 
+in open conditional clauses (cf 15.33 Note [d], 15.36) and in concessive 
+clauses (cf 15.41 Note [b], 15.42 Note [b]): 
+If any person be found guilty, he shall have the right of appeal. 
+Whatever be the reasons for their action, we cannot tolerate such 
+disloyalty. 
+' 
+Whether she be right or wrong, she will have my unswerving support. 
+More usually, the simple present indicative is used. 
+Clauses of   on cession (cf 15.398) and purpose (cf 15.48) may also very 
+occasionally ih formal style contain a present subjunctive (esp in AmE) to 
+express putative rather than factual meaning (cf 14.25): 
+Though he be the President himself, he shall hear us. 
+They rem4ved the prisoner in order that he not disturb the proceedings 
+any furtly. 
+l 
+The more usual verb forms for the th>ugh-clause are the simple present 
+indicative or pdtative should followed by the infinitive. Clauses of purpose 
+require modal auxiliaries, and therefore only the should-construction is a 
+possible alternative. 
+The present ,subjunctive is also used in that-clauses (esp in AmE) after 
+verbs, adjectivqs, or nouns that express a necessity, plan, or intention for the 
+future : 
+Congress has voted that the present law be maintained. 
+[l] 
+We insistes that {:L~~] 
+leave at once. 
+l21 
+They expressed the wish that 
+131 
+It is essential that a meeting be convened this week. 
+141 
+The verb phrase in subordinateclauses 1013 
+l 
+Notice that this mandative subjunctive (cf 3.59) is used even when the matrix 
+verb is past (cf 14.25 Note [c]). If the matrix verb is present, the distinction 
+between subjunctive and indicative is neutralized except in the third person 
+singular or if the verb is be. In BrE, putative should with the infinitive is far 
+more common. In both AmE and BrE, indicative forms are also occasionally 
+used in this construction; for example, lefi in [2] and is in [4]. 
+In general, the present subjunctive occurs more frequently in AmE than in 
+BrE; in BrE it occurs chiefly in formal style. 
+The past (or were-) subjunctive (cf 3.62), which is a form distinct from the 
+past indicative only in the first and third person singular forms of be, is used 
+in formal style in hypothetical conditional clauses and in other constructions 
+with hypothetical meaning exemplified in 14.23: 
+I wish she were not married. 
+L51 
+~f only I were not so nervous. 
+161 
+If she were here, she would speak on my behalf. 
+l71 
+The stuffed dog barked as if it were a real one. 
+181 
+Suppose he were lost. 
+[g] 
+I'd rather I were in bed. 
+[l01 
+In nonformal styles, hypothetical past or indicative forms replace subjunctive 
+were: . 
+I wish she was not married. 
+[sal 
+If only I was not so nervous. 
+[6al 
+If she was here, she would speak on my behalf. 
+L74 
+The stuffed dog barked as if it was a real one. 
+*
+.
+ 
+[8al 
+Suppose he {r} 
+lost, what would you do? 
+[gal 
+L
+,
+ 
+I'd rather I was in bed. 
+The present indicative is a possible alternative after as ifand as though when 
+the reference is to present time (eg: 'The stuffed dog bark$ as if it is a real 
+one') and after imperatives suppose and imagine. 
+Note 
+[a] The use of the present subjunctive seems to be increasing in BrE in that-clauses. There is a 
+greater use of the subjunctive than the indicative if the agentive (perhaps implied) in the that- 
+clause is shown to be willing to perform the action. Contrast: 
+The committee was impressed by the candidate, but recommended that she reapply when 
+she had been awarded her PhD. 
+He was uery reluctant to leave, but I recommended that he went. 
+. But in both instances the usual form for BrE is the should-construction, here shouldgo: 
+[b] The were-subjunctive cannot replace the hypothetical past in constructions introduced by 
+It's rime (that), eg: It's time I was in bed. 
+[c] May and ntigltt are alternatives, also in formal style, to the present subjunctive in purpose 
+clauses (cf 15.48). in concessive clauses with though, euen though, and even f(cf 15.39fl), and in 
+conditional-concessive clauses (415.41 f): 
+Poor though you might be, you cannot live all your life on charity. 
+Let us fight on, that the light ofjustice and freedom may not die in our land. 
+Whatever may be the justification for their actions, we cannot tolerate such disloyalty. 
+But there may be a difference in meaning between the subjunctive and the modal auxiliaries. In 
+the last example, the subjunctive does not cast doubt on the factuality of its clause; that is, 
+Wltateucr be the jusrificarion for their actions presupposes that there is justification, whereas the 
+sentence with may allows the possibility that there is nojustification. 
+
+
+1014   he complex sentence 
+[d] Present subjunctive come is used in a temporal clause (generally initial) without a 
+subordinator: 
+Conre winter, we'll have to pay a good deal more for vegetables and fruit. ['When winter 
+comes, . . .'l 
+Putative should 
+14.25 
+The modal auxiliary should is used extensively (esp in BrE, cf 14.24) in that- 
+clauses to convey the notion of a 'putative' situation, which is recognized as 
+possibly existing or coming into existence. Contrast: 
+I'm surprised that he should feel lonely. 
+I'm surprised that he feels lonely. 
+While [l] questions the loneliness, [2] accepts it as true. Here, as often, the 
+difference is mainly one of nuance, since the factual bias of the matrix clause 
+overrides the doubt otherwise implicit in the should-construction. On the 
+other hand, the nonfactuality is clearer in these examples: 
+It's unthinkable that they should deny my request. 
+I prefer that she should drive. 
+I'm anxious that I shouldn't be in the way. 
+They've arranged that I should absent myself for part of the committee 
+meeting. 
+I can understand their eagerness that you should be the main speaker. 
+It worries me that their children should travel alone. 
+The nonfactual bias of the should-construction emerges most clearly in 
+instances where the construction is close in meaning to a conditional if- 
+clause : 
+It's a pity that they should be so obstinate. 
+It's a pity ifthey are so obstinate. 
+In a further stage of remoteness, the conditional clause has putative should: 
+It's a pity ifthey should beso obstinate. ['It would be a pity if they 
+turned out to be so obstinate'] 
+Putative should is used in that-clauses when the matrix clauses contain 
+verbs, adjectiles, or nouns that conveygn emotional reaction or that express 
+a necessity, plan, or intention for the future. In the latter case, a that-clause 
+with should is frequently replaceable by an infinitive clause: 
+I prefer her to drive. 
+They've arranged for me toabsent myselfforpart of the committeemeeting. 
+It is also freqhently replaced (esp in AmE) by a present subjunctive (cf 14.24): 
+I prefer that she drive. 
+We insisted that the meeting be adjourned. 
+It was intended that you be the candidate. 
+Indicative firms are occasionally used in BrE instead for [3] and [4]. 
+A past verb in the matrix clause does not necessarily affect the form of 
+should in the subordinate clause, even though the subordinate clause refers to 
+a past situation: 
+The verb phrase in subordinateclauses 1015 
+I was surprised that he should feellonely when he was in California. 
+But it is also possible to use a perfective form: 
+I was surprised that he should havefelt lonely when he was in California. 
+Note 
+(a] Should is also used in a subject that-clause when the matrix clause contains such verbs as 
+show, indicate, prove, demo~lstrate, require, and demand: 
+That they should r e h e  to sign the petition required great courage. 
+It shows how considerate she is that she sliould drive you all the way to the airport. 
+[b] Putative should also occurs in some idiomatic questions and exclamations: 
+How should I know? 
+That he should dare speak in that tone of voice to me! [cf 1 1.411 
+Who should come in but my youngest sister! 
+[c] The use of the present subjunctive or putative should in the subordinate clause evokes clearly 
+the suasive meanings (cf 16.32) of the matrix verbs insist and suggest: 
+1 insisted['required'] that he :,":Echonge his clothes. 
+1 
+l 
+L61 
+I insisted ['asserted'] that he changed his clothes. 
+[71 
+She suggestedl'recommended'] that I tiauld 
+be responsible for the arrangements 
+[g] 
+1
+1
+ 

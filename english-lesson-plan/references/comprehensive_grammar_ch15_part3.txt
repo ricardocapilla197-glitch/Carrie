@@ -1,0 +1,1547 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 15: Syntactic and Semantic Functions of Subordinate Clauses
+Covers: Nominal clauses, Relative clauses, Adverbial clauses, Comparative clauses
+[Part 3 of 10]
+============================================================
+
+In both Type (v) and Type (vi), the subject of the main clause can be equated 
+with the prepositional object of the infinitive clause, so that the infinitive 
+clause ends with a deferred preposition: 
+She is pleasant to talk to. (- It is pleasant to talk to her.) 
+This paper is terribly flimsy to write on. 
+Is the cloth sufficient to make a dress out of? 
+In Type (vi), as well as in Type (v), for + subject may be inserted before the 
+infinitive verb: Are these books free Cfor visitors) to borrow? [= 'Are these 
+books available. . . to borrow?']. 
+[ES(vii)l It is important to be accurate 
+16.82 We saw in 16.72 that a that-clause following an adjective may prove to be a 
+subject postponed by extraposition (cf 18.33). A to-infinitive clause following 
+an adjective may have the same source: 
+It is essential to spray the trees every year. 
+- To spray the trees every year is essential. 
+The infinitive clause can also be introduced by for + subject: 
+It is vital (for the children) to be properly clad. 
+It will be strange (for us) to be living alone. 
+Adjectives of Types (ii) and (iii) in 16.72 ([E2b]) may have this construction: 
+important, fortunate, lucky, surprising, etc. Possible also belongs to this group. 
+An additional group of adjectives occurring after anticipatory it are those 
+adjectives (chiefly naming evaluative attributes of persons) which occur in 
+pattern [E5(i)] (cf 16.76). The adjective in this group is often followed by an 
+of-phrase identifying the person(s) being discussed: 
+It was wrong (of him) to tell lies. 
+It is nice of you to phone. 
+[E61 Adjective'complementation by an -ing participle clause 
+L6.83 
+A number of sub-types of this pattern may be mentioned. 
+(i) Busy is followed by an -ing participle clause without subject: 
+Margery islbusy writing letters. , 
+l 
+(ii) Worth and worthwhile, on the other hand, occur both with and without 
+subject: 
+It is scarcely worth(whi1e) (youlyour) going home. 
+Here worth(whi1e) follows preparatory it, and the participle clause is an 
+extraposed sqbject (cf 18.34). Other adjectives of this pattern arepointless 
+and useless (It's pointless buying so much food), and adjectives of Type 
+[E2b(iii)] (cf 16.72) also sometimes have this complementation: absurd, 
+awkward, fortunate, annoying, etc. 
+(iii) Elsewhere worth and worthwhile accompany an -ing participle clause 
+without subject, but with a passive meaning, comparable to that of the 
+infinitive clause in pattern [E5(v)] (cf 16.80): 
+Complementation of abstract nouns 1231 
+The cartons are worth(whi1e) saving. 
+(- It's worth(whi1e) saving the cartons). 
+(iv) There is a variant construction in which a preposition occurs between 
+the adjective and the participle clause. In some cases the preposition is 
+optional (cf (i) above): 
+I'm busy (with) getting the house redecorated. 
+We're fortunate (in) having Aunt Mary as a baby-sitter. 
+In other cases, the preposition is obligatory: 
+We are used to not having a car (cf 16.69 Note [c]). 
+I'm hopeless at keeping the garden tidy. 
+She's not capable of looking after herself. 
+Note 
+[a] The adjectival constructions in (il) above may be compared, in some cases, with nominal . 
+constructions of equivalent meaning: 
+It's no goodluse telling him anything. 
+There's no point (in) telling him anything. 
+Such constructions are introduced either by anticipatory it (cf 18.33) or by existential there (cf 
+18.45). AmE also has There's no use tellmng hrm anything. 
+[b] Worthwhile is sometimes spelled as two words. The vacillation between the spellings 
+worthwhile and worth while reflects an unclarity about the status of this sequence, which may 
+alternatively be regarded as the preposition worth (cf9.6) followed by a noun. Compare: 
+It's not worrh your while siaying. 
+It's not 
+Complementation of abstract nouns 
+16.84 
+In this concluding section we will show, as a connecting link between this 
+chapter and the next, how the patterns of complementation described for 
+verbs and adjectives in 16.20-83 are also to be found with abstract nouns 
+which are morphologically related to those verbs and adjectives. (Cf 
+nominalization, 17.5 lfl, and appositional constructions, 17.26, 17.35.) For 
+example, the noun likelihood is derived from, and semantically related to, the 
+adjective likely. It is therefore not surprising that a construction associated 
+with the adjective is found with the corresponding noun: 
+It is likely that Joan will get married. 
+111 
+The likelihood is that Joan will get married. 
+121 
+the likelihood that Joan will get married 
+[3] 
+But the assumption of correspondence cannot be automatic, for it may fail in 
+both directions: 
+Joan is likely to get married. 
+*Joanls likelihood to get married 
+*It is likely of Joan's getting married. 
+n the likelihood of Joan's getting married 
+
+
+1232 ~omplernentation of verbs and adjectives 
+In the following section, w e  illustrate how many of these patterns can be 
+matched with corresponding patterns of noun complementation. Some fairly 
+regular changes, it will be observed, take place in the conversion from the 
+verb o r  adjective patterns to their nominalizations (cf 17.51jj'). For instance, 
+a preposition must b e  inserted between a head noun and a n  immediately 
+following noun phrase o r  adjective. The list begins with monotransitive 
+patterns, because there a r e  n o  nominalized forms of copular verb comple- 
+mentation. (Many o f  the noun complementation 
+particularl; in 
+categories [C] a n d  [D], are stylistically awkward.) 
+16.85 
+Table 16.85 Verbladjective and noun complementation compared 
+VERB~ADJECTIVE COMPLEMENTATION 
+NOUN COMPLEMENTATION 
+[Bl] 
+He examined the room. 
+[B21 
+Paul lacks confidence. 
+[BZpr] They rely on her. 
+[B31 
+I predict that it'll rain. 
+[B41 
+I doubt whether he will win. 
+[B51 
+We enquired(about) where to 
+[B61 
+She refused to answer. 
+[B71 
+He denied having taken it. 
+[B81 
+X needs us to work harder. 
+[B91 
+She resented his/him losing. 
+his examination of the room 
+Paul's lack of confidence 
+their reliance on her 
+my prediction that it'll rain 
+my doubt (about) whether he will win 
+go. 
+our enquiry (about) where.to go 
+her refusal to answer 
+?his denialof having taken it 
+(c8 his denial of the theft) 
+the need for us to work harder 
+her resentment of his/him losing 
+[Cl ~ r l  
+Thev elected Joe (as) leader. 
+their election of Joe as leader 
+['~2prj X c&tified Max (&)insane. 
+the certification of Max as insane 
+[C31 
+X expelled Sue from school. 
+the exmlsion of Sue from school 
+[c41 
+~ h e i  
+chose Jim to be boss. 
+[C71 
+Wegot her elected. 
+[Dl] 
+Ipaid him five pounds. 
+[D21 
+It protected Rio from attack. 
+[D31 
+X warnedus that it would snow. 
+[D3pr] He admitted to me that he told lies. 
+[D41 
+X reminde'd us (of) who he was. 
+[D51 
+X advised us (on) what to do. 
+[D61 
+S ~ G  
+invited me to stay. 
+their ihoice of Jim to be boss 
+*our getting of her elected 
+my payment to him of five pounds 
+theprotection of Rio from attack 
+the warning to us that it would snow 
+his admission to me that he told lies 
+X's reminder to us of who he was 
+the advice to us on what to do 
+her invitarion to me to stay 
+[El] 
+I was impazient with Freda. 
+my impatience with Freda 
+[E21 
+It was certdin that we would lose. 
+\the certainty that we would lose 
+[E31 
+I was carefil (over) what to say. 
+my care over what to say 
+[E51 
+Sam was qliick to reply. 
+Sam's quickness to reply 
+[E61 
+I was lucky meeting you. 
+my luck in meeting you 
+These structures, with abstract nouns will be studied further in the next 
+Bibliographical note 1233 
+On general asoects of verb classification and comdementation. see Alexander and Kunz 
+(1964)T~llerton(1982); Bresnan (1970); Chomsky (1985, Ch. 2);  illm more (1968, l977a, 1977b); 
+Halliday (1967-1968); Jain (1978); Lyons (1977, Ch. 12); Rosenbaum (1967a. 1967b); Ureland 
+(1973). 
+Some basic patterns of complementation are discussed in Bald (1972); DuBkovA (1976); 
+Fillmore (1965); Huddleston (1969). 
+On verb complementation by finite clauses (especially by that-clauses), see Behre (1955); 
+Greenbaum (1976a. 1977a); G. M. Horn (1978); Kiparsky and Kiparsky (1970); Quirk (1981); 
+Storms (1966). 
+On verb complementation by nonfinite constructions, see Andersson (1985); Bladon (1968); 
+DuSkovi (1979); Eagleson (1972); van Ek (1966); Freed (1979); MachlEek (1965). 
+On the properties of specific verbs with regard to meaning and complementation, see Bald 
+and Quirk (1970); Behre (1973); Bolinger (1971b); Fodor (1970); Kempson and Quirk (1971); 
+Pittman (1970); Poldauf (1967); Postal (1971); Zandvoort (1961). 
+On adjectivecomplementation, see Alexander and Matthews (1964); Bolinger (l96la); Herbst 
+(1983. 1984): Lees (1960b). 
+,
+.
+,
+.
+ 
+. 
+, 
+Other studies relevant tocomplementation include Bridgeman (1965); Emonds (1976); Nickel 
+(1968); Norrick (1979); Nosek (1965); Postal (1974). 
+chapter. 
+I 
+l 
+Bibliographical note 
+On phrasal verbs afld other types of multi-word verbs, see Akimoto (1983); Bolinger (1971a); 
+Carvell and Svartvik (1969); Cowie and Mackin (1975); Dixon (1982b); Fraser(1976); Kennedy 
+(1920); Live (1965); Makkai (1972); Sroka (1972); Witton(1979). 
+
+
+.48 
+Restrictive and nonrestrictive prepositional 
+postmodif cation 
+.49-50 
+Positioti ;~ntl v;~rictl St~nction;~l 
+rcl;~lionsl)ip 
+17.51-54 
+Nominalization 
+.S4 
+Tlic gr;lclicncc I'roln tlcvcrh;~l Ilouns via vcrl>:~I llollns 
+to participles 
+17.55-60 
+Minor types of postmodification 
+.55 
+Postmodification by adverb phrase 
+.56-59 
+Postposed adjectives 
+.S7 
+Type (a) : .sonlehody higger 
+.58 
+Type (h): (I n~is!rrkc f~~l)icr~lr?/'&~itorrr.v 
+.59 
+Type (c) : !he presiclen! elect 
+.60 
+Postposed 'mode' qualifier: Lobster Nelvburg 
+17.61-64 
+Multiple postmodification 
+.62 
+Ambiguity and constraints on multiple postmodification 
+.63-64 
+Pushdown elements 
+17.65-93 
+Apposition 
+.65 
+The nature of apposition 
+.66 
+Full and partial apposition 
+.67 
+Strict and weak apposition 
+.68 
+Nonrestrictive and restrictive apposition 
+.69 
+Definedldefining relationships 
+.70 
+Combinations of appositional types 
+.71 
+More than two units in apposition 
+.72 
+Ambiguity between apposition and other constructions 
+.73 
+Explicit indicators of apposition 
+.74-87 
+The scale of strict nonrestrictive apposition 
+.75-80 
+(A) Equivalence 
+.76 
+(Ai) Appellation 
+.77-78 
+(Aii) Identification 
+.78 
+Postponed and anticipated identification 
+.79 
+(Aiii) Designation 
+.80 
+(Aiv) Reformulation 
+31-84 
+(B) Attribution 
+.82 
+Defining appositive with article omitted 
+.83 
+The relation of apposition to verbless adverbial clause 
+.S4 
+Defining appositive with adverbial 
+35-87 
+(C) Inclusion 
+.86 
+(Ci) Exemplification 
+.87 
+(Cii) Particularization 
+.88-91 
+Strict restrictive apposition 
+.S9 
+Geographical namcs 
+.90 
+Citations 
+.91 
+Apposi~ivcs will1 1ii111ics 
+01' pcrso~is 
+.92 
+Weilk apposilio~l 
+.93 
+Apposition with general nouns 
+Premodification 
+Types of pre~nodifying item 
+Restrictive and nonrestrictive premodification 
+Premodification by adjectives 
+Nonpredicative adjectives 
+Prcmodification by - i t r ~  p;~rticiplcs 
+Prcmodilicatio~~ 
+by -(,(l p;lrticiplcs 
+Premodification by nouns 
+Plural attributive nouns 
+Premodification by genitive 
+Premodification by adverb and other phrases 
+Premodification by sentence 
+Relative sequence of premodifiers 
+Precentral, central, postcentral, and prehead position 
+General principle for the order of premodiliers 
+Hypotactic relations and order of premodifiers 
+Multiple adjectivelnoun premodification 
+The 'group genitive' 
+Multiple heads 
+17.121-122 
+Special relations between heads and modifiers 
+.l21 
+Some problems of coordination 
+.I22 
+Discontinuity between head and modifier 
+17.123-124 
+Conclusion 
+.l23 
+Reduced explicitness and increased economy structure 
+.l24 
+Types of noun-phrase structure in relation to variety 
+Bibliographical note 
+
+
+1238 The noun phrase 
+lntroduction 
+The indefinitely c o m p l e x  noun phrase 
+17.1 
+Just as the sentence may be indefinitely complex, so may the noun phrase. 
+This mus! be so, since sentences themselves can be reshaped so as to come 
+within noun-phrase structure. For example, the Sollowing sentences [la--c], 
+simple and complex, can bccotnc one silnplc scntcncc [2] with n vcry complcx 
+noun phrase as subject: 
+The girl is Mary Smith. 
+[lal 
+The girl is tall. 
+[Ibl 
+'I'hc girl was standing in Lhc corncr. 
+IIcl 
+You waved to thc girl when you cntercd. 
+lldl 
+The girl became angry because you knocked over her glass. 
+[Icl 
+Tllc. tallgirl stnr~rlirlg irr tlre confer who hecnrtle (rtlgr~' hecorrse yolr 
+litlocliecl o~!er her g/cr,s.s c~/ic,r~'orc 
+11~crr~ec1 
+to Ire. 11.1rcrl ~'otr c,rttcrecl is 
+, Mary Smith. 
+[21 
+Moreover, starting from [2], we could reconstruct any of thc sentences listed 
+in [la-e]- and in fact we could not understand the noun-phrase subject 
+(printed in italics) of [2], unless we recognized its constituent parts as they 
+are set out in [la-e]. 
+Yet [2] has introduced many changes. We have, for example, suppressed 
+all or part of the verbs in[Ic] and [Id]; we have put tall, which is complement 
+in [I b], as a modifier before the noun girl; we have replaced the girl of [le] by 
+1~110. 
+After describing determinatives and nouns in Chapter 5, the purpose of 
+the present chapter is to state the conditions governing the making of noun 
+phrases by processes such as those indicated above. 
+Noun-phrase c o n s t i t u e n t s  
+17.2 
+In describing noun phrases we need to distinguish the following constituent 
+parts: 
+(A) The HEAD, around which (for the most part) the other constituents 
+cluster and which dictates concord with other parts of the sentence: 
+[The tall girl standing in the corner] is my sister. 
+[The tall girls standing in the corner] are my sisters. 
+[The tall giri in the corner /*::L / has a blue sweater] is my sister. 
+whiclt 
+I saw the tall girl in [the 
+was full of people]. 
+lntroduction 
+1239 
+(c) ~x)sltlclcr~llincr.s, wl~iul~ li~llow c c ~ ~ l r ; ~ l  
+t l c l c ~ l ~ ~ i ~ ~ c ~ . s  
+11111 
+I)ICC.C(ICI 
+, 
+premodifiers, eg adjectives. Postdeterminers include c3g numerals, 
+mur~y,/rw, secerul (cf5.20.J): 
+the mutfy new offices 
+the.1i.11' survivors 
+(C) The PREMODIFICATION, which comprises all the items placed before the 
+hcad other than dcterminatives, notably adjectives (or, rather, adjective 
+phrases, cj'7.20) and nouns: 
+some furniture 
+some experlsice furniture 
+some r?cJry c.\pcr~.sir,c, furniture 
+solnc r)~,ry ~'.v/i~,tf.sirr 
+r$icr, l'urniturc 
+some very cery e.~pe)@)f.si~e 
+office furniture 
+(D) The POSTMODIFICATION, comprising all the items placed after the head, 
+notably: 
+prepositional phrases: 
+the car ofct.si(le rlrr .src~r;~rf 
+nonfinite clauses: 
+the car stor~clit~g 
+otrr.sic1~ tile .srutiott 
+relative clauses: 
+the car tltat stoorl outsitl~~ 
+the smriorl 
+complementation (cf 15.63f): 
+a bigger car rlrarr tl~crr 
+Restrictive a n d  nonrestrictive modification 
+17.3 
+Modification can be restrictive or nonrestrictive. The modilication is 
+RESTRICTIVE when the reference of the head is a member of a class which can 
+be identified only through the modification that has bcen suppl~ed. The girl 
+in example [2] in 17.1 is only identifiable as Mary Smith provided we 
+understand that it is the particular girl who is tall, who was standing in the 
+corner, and who became angry. Such modification would not have been 
+actually necessary unless there had bcen other girls present, tall but not in 
+the corner, or in the corner but not tall, or who had not become angry. 
+Restrictiveness, then, indicates a l~mitation on the possible reference of the 
+head. 
+Alternatively, the referent of a noun phrase may be viewed as unique or as 
+a member of a class that has been independently ident~fied (for example in 
+the preceding context). Any modification given to such a head is additional 
+information which is not essential for identification, and we call it 
+NONRESTRICTIVE. For example, the relative clause is110 is irr the confer in [I] is 
+nonrestrictive: 
+Mary Smith, ~vlto is in the corner, wants to meet you. 
+[I1 
+By reason of being designated by a proper name, Mary Smith's identity is 
+independent of whether or not she is in the corner (though the information 
+on her present location may be useful enough). If a man says [2], the daughter 
+is identified as being one out of two daughters in the family and also as 
+younger than the other daughter: 
+Come and meet my yourzgerdaughter. 
+[21 
+[2] is thus an example of restrictive premodification. If, on the other hand, a 
+(B) The DETERM~NAT~VE, 
+which includes 
+(a) predeterminers, ie all items which can precede any central determiner 
+(includingzero article) in a noun phrase, eg: all, both, double (cf 5.15,ff): 
+all the furniture 
+both those musicians 
+(b) central determiners, including those items listed in 5.1 l,J; eg the 
+articles, this, sorne: 
+some new office furniture 
+all those finelilusicians 
+
+
+1240 The noun phrase 
+Introduction 
+1241 
+man (in a monogamous society) says [3], the premodifier hercutyirl is 
+~~n~lcrstootl 
+;IS nonrcstriclivc: 
+Come and meet my hecrrc/$rl wife. 
+1.11 
+Another cx;~mplc: 
+l tlon'l want him I 0  put his rqly ~losc illto my I~ousc ; I ~ ; I ~ I I .  
+1111 
+SCII~CI~CCS 
+[I]. [3], ilnd [4] arc incvitahly nonrcstriolive since - being trcntctl 
+as unique - Mary Snritlr, ii,i/h, iu1d nose, in tllcsc sentences will not :~tlini( 
+restriction. But almost any head that can be restrictively modified is also 
+susceptible of nonrestrictive modification, eg: 
+The tall girl, iid~o is (I cl~~r~ti.st, 
+is Mary Smith. 
+L51 
+Here the only infor~nation offered to identify the girl as Mary Smith is the 
+allusion to her tallness; the mention of hcr work as a dentist is not offered as 
+an aid to identification but for additional interest. 
+Other nouns which have nonrestrictive postmodification include those 
+with generic reference: 
+The giant panda, which is to he jouiid in the remote parts of China, lives 
+exclusively on bamboo shoots. 
+Note 
+In "o~ular narrative style, there is a nonrestrictive use of pre~nodifying adjective in c;ises like 
+the.foilowing(cfcleft sentences. 18.26 Note [bl): 
+Reporters hounded an e~~lbnrrrrssed 
+Ben Miles over his TV galfe I;lst week and in reply to 
+one questioner the rr,l/ropp,v Milesmade things still worse by. . . 
+17.4 
+The fact that nonrestrictive relative clauses are not essential for identification 
+enables us in [l] and [la] to make different parts of the sentence into a relative 
+clause: 
+My brother, who is all engineer, lives in America. 
+Ill 
+My brother, who lives in America, is an engineer. 
+[lal 
+Semantic equivalence is still preserved in [I] and [la] (although there is a 
+difference in focus). A nonrestrictive relative clause may resemble an 
+adverbial clause (cf simultaneous meaning, 15.28), eg: 
+The predications OS the two clauses [2a] and [2h] are contrastive. 
+Nonrestrictive relative cl;~uscs InEly ;~lso imply othcr ;ttlvcrhi;~l f~~nctions, 
+st~cll 
+;IS ci~tlsc 
+('I>CC;IIIS~ 
+IIC II;I(! 1hec11 very IIcI~IIII', 
+'l'or I)ci111: vc1.y I I c I ~ I ' L I I ' )  ill 
+[31: 
+Hy conlr;Ist, rcstrictivc rclillivc cl;ltlscs will1 gc~icr;~l 
+;~~tIccctlcnIs 
+(c:/'17.21) 
+express conditional rcli~tionship, t.g: 
+Students ivlro ~vork horcl pass thcir cx;tms. ['ISstt~tlcnts work hard, they 
+pass their exams.'] 
+17.5 
+Proper nouns cannot have restrictive modification whcn they have the 
+normal unique denotation. However, whcn the proper noun tc~nporarily 
+takes on features of a common noun, restrictive modific:ttion is possible 
+(cf 5.64): 
+the Springfield that is in Illinois 
+the Johrrsor~ who wrote the dictionary 
+[I] 
+[21 
+Nor are restrictive relative clauses possible with nonnoininal t~ntccedents 
+(cf'sentential relative clauses', 17.9): 
+He likesdogs, which surprises me. 
+131 
+Nonassertive heads cannot have nonrestrictive modification: 
+*I won.t see anyperson, 
+{anyone, 
+) W ~ O  hrs not made m appointment. 
+141 
+By contrast, nonrestrictive modification is possible with assertive heads: 
+Someone, who sounded like your mother, called to say she wanted 
+to see you. 
+151 
+Nonspecific determiners like any, all, and eoery usually have only restrictive 
+modification : 
+*Every hook, which is written to deceive the reader, should be 
+banned. 
+L61 
+*ANthestudents, who had failed the test, wanted to try again. 
+[71 
+My brother, ivho has lived in Americafor over 30 years, can still 
+speak Italian. 
+[21 
+In [2], the relative clause is grammatically optional, like any othcr 
+nonrestrictive item, but semantically obligatory as the correlate of still in the 
+superordinate clause. The relative clause here can be paraphrased as an 
+adverbial clause [2a], with initial position (unlike the relative clause) [2bl, or 
+as an adverbial prepositional phrase [2c]: 
+My brother can still speak Italian, although he has lived in America 
+jor over 30 years. 
+Pal 
+Altl~ough he has lived b~ America for over 30 years, my brother can 
+still speak Italian. 
+[2bl 
+A$er over 30 years iii America, my brother can still speak Italian. 
+[2c] 
+However we may occasionally find nonrestrictive 'as well as restrictive 
+modification, as in: 
+All thestudents, who had returned from their vacation, wanted to 
+take the exam. 
+181 
+But positional variation of all is possible only with a nonrestrictive clause 
+(cf 5.16,6.50): 
+The stude~lts, who had all (ofthenr) returned from thcir vacation, 
+failed the test. 
+Pal 
+*The students who had all (ofthenl) failed the test wanted to try 
+again. 
+[sal 
+
+
+1242 The noun phrase 
+17.6 
+WC sh;lll draw ilttcntion to the distinction between restrictive and 
+nonrcstrictivc in thc clcscription of tl~c ~notlilic;~lio~l 
+types 1;ltcr on, hut two 
+general points may be of value now. 
+First, modification at its 'most rcstrictivc' tcnds to comc nftcr the head: 
+Any person ~ ~ h o  
+~t~ishes 
+to see me must make an appointment 
+By contrast. ourdecision touscan item as a premodificr(such as nonrcstrictivc 
+.silbt in o .sil/y,/i)on oltcn rcllccts our wish that it hc taken for granted and not 
+be interprcted as a specilic idcntilicr. 
+Secondly, restrictive modification tends to begiven more prosodieemphasis 
+than the head, since there is n built-in contrast. as in (qfexamples in 17.3): 
+Susan is my B ~ t ~ e r  
+d;~ughtcr 
+John is my ~
+A
+q
+l
+ 
+son. 
+Nonrestrictive modification, on the other hand, tcnds to be unstresscd in 
+prehead position: 
+In post-head position, its 'parenthetic' relation is endorsed by being given a 
+separate tone unit (frequently with reduced prominence and narrow pitch 
+range); or, in writing, by being enclosed by commas (cJ'17.22). 
+Temporary and permanent modification 
+17.7 
+There is a second dichotomy that has some affinities with the distinction 
+between restrictive and nonrestrictive but rather more with the contrast of 
+nonprogressive and progressive in predication (cJ'4.25ff'), or permanent and 
+temporary in agential nouns (cJ'App I.34J'). Modificatiotl in noun-phrase 
+structure may also be seen as permanent or temporary (cJ'7.21), such that 
+items placed in premodification position are typically given the status of 
+PERMANENT or, at any rate, characteristic features. Although this does not 
+mean that postmodification position is committed to either temporariness or 
+permanence, those adjectives which have to be predicative have a notably 
+TEMPORARY reference. Thus [l] would be understood as [la]: 
+the corirteous man 
+[I] 
+the man w~ko is courteous 
+[ie 'normally and not merely at this moment'] 
+[ I d  
+In contrast, [2] would be understood as having reference only to a specific 
+time, and this corresponds to the nonoccurrence of [2a]: 
+The man is ready. 
+*the ready man 
+(On the relevance of the distinction in determiners between indefinite and 
+definite, cf 5.26ff'.) On this basis, we see that timidity and fear are contrasted 
+in part according as the first is seen as permanent [3], the second as temporary 
+[41: 
+a man who is timid 
+- a timid man 
+[31 
+a man who is &aid 
+.c *an afraid man 
+L41 
+Just as some modifiers are too strongly identified with temporary status to 
+:Ippcilr in prchc:lci position, so thcrc can hc motlilic;~lion constr:linccl to 
+prchcad position hccausc it indicates pcrnlallcnt st;~ttts. 'l'lll~s the toe wllicl~ 
+is characteristically (and permanently) big in rclation to thc rcst is called t l t ~  
+hig too, and WC cannot say of it *The toe is hi8 willlout tlcstroying this 
+permanent characteristic and making the cxprcssion sccm to rcl'cr only (for 
+example) to a tcmporary swelling. Compilrc also 1/71> orifi.irtrr1 ['first, carlicst'] 
+vprsioi~ beside His 118ork is quite origi~rol['of ;I new type'], which would permit 
+;~dvcrhi:ll intlic:~tion oftimc sp;ld (IIOII,, ol~~.r~:s, 
+ctc; cf7.K7). 
+The explicitness of postmodification 
+17.8 
+In gcneral, premodification is to be interprcted (and, most frequently, can 
+only be interpreted) in terms ofpost~nodilic:~tion 
+:~nd its greater cxplicitncss. 
+That is, sorne trill college girls will be interprctcd as 'son~e girls who are tall 
+and who are (studying) at a college'. The prcn~odificd noun phrase [I] may 
+include, for example, all of the relations which are explicit in the postmodified 
+noun phrases [la-e]: 
+an oil man 
+Ill 
+a man who sells oil 
+[la] 
+a man who delivers oil 
+[I bl 
+a man who produces oil 
+[]cl 
+a man who i?tvestigates oil 
+[Id1 
+a man who advocates the rise of oil 
+[]cl 
+What normally happens, as in the case of big toe (in 17.7) and oilt~tan [I], is 
+that ambiguity does not arise since one sense is selected in a specific context 
+(cflexicalization, App I.9fl). Thus, for example, the question 'Will the oil 
+man call today?' will normally carry only one interpretation in any given 
+context. 
+Explicitness in postmodification varies considerably, however. It is greater 
+in the finite relative clause [21 than in the nonfinite -ing clause [2a], from 
+which the explicit tense (is?/w)as?) is absent, though this in turn is more 
+explicit than the prepositional phrase [2b], from which the verb indicating a 
+specific posture is absent: 
+the girl who was standing it7 the corller 
+the girl standing in the corner 
+L21 
+l2al 
+the girl in the corner 
+[2bl 
+Reduction in explicitness in the noun phrase is closely related to the 
+linguistic and situational context. There is, typically, a progression from 
+'more explicit' to 'less explicit' in a discourse. One instance of such sequential 
+and gradual reduction from sentence [3], via relative clause [3a], via 
+prepositional phrase [3bl, to pro-form [3c], can be seen in Anthony Burgess's 
+novel Inside Mr Ettderby. When flying to Rome, the main character of the 
+novel is warned by an American passenger: 
+'Your ticket does not entitle you to undisputed monopolization of 
+the john.' [ie the lavatory] 
+[31 
+The fellow passenger who issued this warning is subsequently referred to as: 
+
+
+1244 The noun phrase 
+t h ~  
+America~l who had olrsted Enderhy.fi.o~~l 
+the johrt 
+[ h ]  
+Postmodification by finite clauses 
+:~nd finally: 
+:ill A~~~cric:~ll, 
+1101 tI1v jo1111 
+IIII~,, l)c~isuI his C:IIIICKI IO sl~oot 
+I3cl 
+The order of presentation in this chapter will bc I'rom mosl cxplicil to lcast 
+explicit. We therefore start with the most explicit type of noun-phrase 
+modification, ie postmodification by finite clause. 
+Types of postmodifying finite clauses 
+17.9 
+We distinguish two major types of finite clauses as noun-phrase postmodifiers, 
+RELATIVE clauses [l] and APPOSITIVE clauses [2]: 
+The news that appeared in the papers this morning was well 
+received. 
+[l] 
+The news that the team had won calls for a celebration. 
+[21 
+Although superficially similar, the difference between these two types of 
+finite clause becomes apparent, for example if we try to replace that by which 
+in the two examples: 
+The news which appeared in the papers this mor~ling was 
+well received. 
+[lal 
+*The news which the team had wor~ calls for a celebration. 
+Pal 
+Thus that is not replaceable by a wh-pronoun in appositive clauses, as it is in 
+relative clauses. More significantly from a general point of view, that in [2] 
+has no function as clause element within the that-clause, as it has in relative 
+clause structure. Thus in [l], the relative pronoun is subject; in [lb] it is 
+object: 
+The news which we saw in thepapers this m o r ~ ~ b ~ g  
+was well 
+received. 
+[lbl 
+Appositive clauses will be further discussed in 17.265 The type of relative 
+clause represented by [l] is called an ADNOMINAL relative clause, and will be 
+discussed below. 
+In addition to adnominal relative clauses, we distinguish NOMINAL relative 
+clauses, as in [3], and SENTENTIAL relative clauses, as in [4]: 
+What surprises me is that they are fond of snakes and lizards. 
+L31 
+They are fond of snakes and lizards, which surprises me. 
+[41 
+Nominal relative clauses are unique among relative clauses in that they 
+'contain' theirantecedents. They are discussed, with other nominal dependent 
+clauses, in 15.8f: 
+Postmodification by finiteclauses 1245 
+In sentential relative clauses, the ;inteccdent is not nominal but clausal, ie 
+in [4] the wholc clause Tlrcy trrc~,/i11111 
+r!/ s~lokibs 1111rl 1i;orils is postmotlifictl by 
+11'11ir.11 
+.v~~r/~ri.sl~.v 
+III~,. 
+'I'II:II lllis is so ~ : I I I  I)c sccn i l l  ll~c clloicc 01' 
+S~IIL:LII:II. vc1.1) 
+concord (sur/~risc,s). 'l'l~c scntenlial rel;~livc clause h;~s ;~llinitics with, o n  tllc 
+one hand, nominal rclativc clauses. ;~ntl, on the othcr hand, with coordinate 
+clauscs ((:/'l 3.501'): 
+The adnominal relative clause is the central type of relative clause, and, 
+unless indicated otherwise, 'relative clause' here mcnns 'adnominal relative 
+clause'. Within such relative clauses we make a distinction between restrictive 
+[5] and nonrestrictive [6] (cf 17.3 fj'): 
+Snakes 1s11ich orc,l~oiso~~olr.v 
+shoultl bc i~voidcd. 
+[51 
+Ratllcsnakcs, wlriclr itre poiso~to~rs, 
+should hc avoidcd. 
+161 
+Among those two types, the restrictive is the more common, and will be 
+treated before the nonrestrictive. 
+Characteristics of relative clauses 
+17.10 
+Part of the explicitness of relative clauses lies in the specifying power of the 
+relative pronoun. It may be capable of 
+(i) showing concord with its antecedent, ie the preceding part of the noun 
+phrase of which the relative clause is a postmodifier [external relation]; 
+and 
+(ii) indicating its function within the relative clause either as an element 
+of clause structure (S, 0 ,  C, A), or as a constituent of an element in the 
+relative clause [internal relation]. 
+Gender concord 
+17.11 
+Concord is on the basis of a two-term 'gender' system, personal and 
+nonpersonal (cf 5.1058,6.8j'), and applies only to the wh-series: 
+Joan, lvllo. . . 
+London, w11ich . . . 
+the boy/people who. . . 
+the fox/animals ~vhich. . . 
+the human being who. . . 
+the human body ~vltich , . . 
+the fairy who. . . 
+the unicorn 11hic11 . . . 
+It will be seen from these examples that 'personality' is ascribed basically to 
+human beings but extends to creatures in the supernatural world (angels, 
+elves, etc) which are thought of as having human characteristics such as 
+speech. Pet animals can be regarded as 'personal' (at least by their owners; 
+cf 5.109f): 
+Rover, wlto was barking, frightened the children. 
+On the other hand, human babies can be regarded (though rarely perhaps by 
+their parents) as not having developed personality: 
+This is the baby which needs inoculation. 
+
+
+1246 The noun phrase 
+Thot1~11 
+ships m:~y I:~kc the pcrson:~l pronoun slrc,, the rcl:~tive pronoun is 
+rcgul;trly ~~otipcrso~~;tl 
+(1.1 5.1 1 1  Nofc): 
+Is {:llLj 
+~ / I ~ ~ , s / I $  
+iv11iiI1 is due to lci~vc L r  a (.itrihhc;~n cruisc tomorrow? 
+Collcctivc nouns (cf5.IOX) arc norm;tlly Ircatctl as pcrson;~! when thcy 
+have plural concord (csp in BrE), and as nonpcrson;tl whcn they havc singular 
+concortl : 
+responsible for this decision 
+The gcndcr contrast is ncutralizcd whcn the 1l.11-series is rcplaccd by flrlrt or a 
+zero relative: 
+She must be the rricestpersort tlr~t ever lived. 
+That must be the riice~r tlting that ever happened. 
+With coordinated antecedents of mixed gender, the choice of relative 
+pronoun Inay create a problem. It does not arise when zero relative is possible 
+or when that is chosen, eg: 
+she likes most 
+With wh-pronouns, the principle of proximity seems to be favoured (cf 10.35): 
+the people and things which amuse her most 
+the things and people ivho l 
+Which can have a personal noun as its antecedent when the relative is a 
+complement with the semantic role of characterization attribute (cf10.20): 
+He imagined himself to be an artist, which he was not 
+Note 
+[a] Other nonhuman creatures besides pets may take ~vho even in sentences where this involves 
+an annarent clash with the neuter pronoun i/; thus, from a recent work of nonfiction: 
+. . 
+the chameleon ,160 changes its colours 
+This is less likely however when the relative pronoun is object in its clause, as we sec from the 
+following examples on two successive pages of a work on zoology: 
+the black rhinoceroses ,!'ha live in the park 
+the white rhinoceros a,hicb we saw in the wildsoutside the park 
+On the factors involved in this diference, cf 17.16. 
+[b] It so happens that, in familiar speech, the word clrornctrr can be used in the sense of'person', 
+and the wordpersor~nliry can be used for somebody who has achieved notoriety. In consequence, 
+we may have not only [ I ]  and [2] but also [la] and 12x1: 
+Charles has a fine character ~vhich he inherits from his father. 
+[ I ]  
+Smith has a strange personality ~vhiclr repels many people. 
+L21 
+- .  
+Charles is a strange character ~vlru dislikes parties. (familiar) 
+[lal 
+Smith is now a famous personality lvlro is often interviewed on television. 
+[2;11 
+17.12 
+The nominal relative clause is common with definite nonpersonal reference 
+(though with a different pronoun from that used in adnominal relative 
+clauses; cf15.8L 6.35 Note [b]): ~vhat, ivharever, whichever. 
+What is most highly valued in the tribe is valour. 
+[l] 
+This is 117hrr1 I c-rrn't rtntlcrs~rr~~~l. 
+L21 
+SIIC'II 
+(111 I I ~ / ~ ~ I I ~ ~ I ~ O ~ ~ ~ ~ ~ I I , Y ~ ~ ~ ,  
+131 
+Choose ~t:hiclrc~:c,r 
+yorr like ho.vt. 
+141 
+In the case of tlclinite personal rcl'crcncc, the only pronoun i\ ~t~l~ucr.r,r: 
+*who 
+1 
+Wl,oel.er~ hclpcd me h;ts gone. 
+A pcrsonal pronoun + :I rel;~tivc pronoun, on thc olhcr h:111~l, 
+is possihlc only 
+in archaic or very formal contexts: 
+He who made this possible deserves our gratitude. 
+L61 
+It is more acceptablc if Ire has gcncric rcfcrcncc, ;IS in [7], which howcvcr 
+also sounds archaic: 
+He who helps the handicapped deserves our support. 
+L71 
+The normal expressions are [7a] and [7b]: 
+Anyone 
+Allybody IIJIIO helps the handicapped deserves our support. 
+l 
+[7al 
+Those who help the handicapped deserve our support. 
+[7bl 
+Replacement is impossible with plural *the), ~vho/~v/riclr, and also with 
+singular *it which: 
+What 
+I can't understand is this: 
+That is acceptable with which only in very formal style: 
+That ~vhich is most highly valued in the tribe is valour. 
+[[a1 
+Note 
+In relation to 'it ~td~iclf 
+. . ., there is a similar coostraiat on postmodific;~tion by some other 
+structures: 
+?He ir~ thecorr~~r 
+is my new boss. 
+' N  in !he corrtrr is an antique. 
+[a1 
+[gal 
+Postmodification followingy~~fr 
+is possible in informill and peremptory vocatives (cf10.53): 
+You ir~ rhrc~~rrrer, 
+stop chattering! 
+[8bl 
+Restrictive relative clauses 
+17.13 
+The choice of relative pronoun is dependent, in particular, on the following 
+three factors: 
+(a) the relation of the relative clause to its antecedent: restrictive [l] or 
+nonrestrictive [2], eg: 
+The woman who is approaching us seems to be somebody I 
+know. 
+[l1 
+The Bible, 1141icl1 has been retrarulate~l, remains a bestsellcr. 
+[2] 
+(b) the gender type of the antecedent: personal [3] or nonpersonal [4] 
+(cf 17.11 f),eg: 
+the person who I was visiting 
+the hook which I was reading 
+
+
+1248 
+The noun phrase 
+Postmodification by finite clauses 
+1249 
+(c) the function of the relative pronoun as subject, object, complement, or 
+;~tlvcrbi;~l 
+(inclucling its role ;IS prcposition;~l complcmcnt) or ;IS n 
+constituent 01' :In clc~ilcnt in tllc rcl;~livc cl:~usc, 
+:IS ;I tlclcrlni~lcr (in 
+ll'h03~ /lOllW C/' 17. 14). 
+In the Sollowingdiscussio~l ol'clioicc of rcl;~tivc pronoun, WC will first m;~ke 
+a ilivision i~ilo rcslriclivt: a~itl no~lrcslriclivc rcl;~livc cl:~t~scs, :l1111 Illcl1 
+consider other factors, such as metlial or linal position ol' tllc rclativc clause 
+in rcl;ltion to tlic supcrortlinatc cl;lusc, ;lnd Icngtll of the rcl;ltivc cl;wsC. 
+The set of rclativc pronouns has been givcn in 6.32/]: It is in the 
+nonrestrictive relative clauses that the most explicit forms of relative 
+pronoun, ie the ivlt-series (who, ivhonr, u'hich, wltose) are typically used 
+(cfl7.22). In restrictive clauses, frequent use is madeof the ivh-pronouns and 
+also tlrrrt or 'zero' relative. Tlrcrt dircrs from thc wh-scrics: 
+(a) in not having gender marking and thus being independent of the 
+personal or nonpersonal character of the antecedent; 
+(b) in not having an objective form (like ~vlro/~~hom); 
+(c) in not having a genitive (like whose of ivlto and which), thus not being 
+able to function as a constituent of an element in the relative clause. 
+17.14 
+In restrictive rclative clauses, the pronouns given in the survey bclow are 
+used. When we indicate a parenthesized relative pronoun, it means that thcre 
+is the option between that-relative and 'zero': 
+This is the book (that) l bought at the sale 
+When we use parentheses only '( )', this is to indicate 'zero': 
+This is the book ( ) I  bought at the sale. 
+S, 0 ,  C, A in the survey below means that the relative pronoun functions 
+respectively as subject, object, complement, and adverbial (or complement 
+in a prepositional phrase functioning as adverbial) in the relative clause with 
+personal and nonpersonal antecedents: 
+C: This is 1101 lhc type ol~iio(ler~~ 
+( a! )~~lrorrr tlic burgl;~r lirctl tlic gun. 
+I() J 
+(or1 11,11iclr 1 was ill 
+A :  She arrivctl the day 
+1 was ill (on), 
+S: They are delighted with 
+0 :  They are delighted with 
+With a personal antecedent, the relative pronoun can show the distinction 
+between ~vho and whom, depending on its role as subject of the relative clause, 
+or as object, or as prepositional complement: 
+l 
+who spoke to him 
+[subject] 
+[l1 
+the person 
+to whom he spoke 
+[prepositional complement] 
+[2] 
+ivho(m) he spoke to [preposition;~l co~nplenicnt] 
+[2a] 
+uBo(m) he met 
+[object] 
+l31 
+When the governing preposition precedes its complement, as in the rather 
+formal [2], the choice of whom is obligatory. When it does not, as in [2a], or 
+when the relative pronoun is the object of the verb, as in [3], there is some 
+choice between ivho or whom: the latter is preferred in formal English, the 
+former is preferred in informal use, where however the zero form is by far 
+the most common. 
+If the pronoun is a possessive detecminer of the noun phrase, the form is 
+whose : 
+The woman ~vhosecio~rghter 
+you met is Mrs Brown. ['The woman 
+is Mrs Brown; you met her daughter.'] 
+L41 
+The house whose roof was damaged has now been repaired. ['The 
+house has now been repaired; its roof was damaged.'] 
+[S1 
+In cases like [5] where the antecedent is nonpersonal, there is sorne tendency 
+to avoid the use of ~ultose (presumably because many regard it as the genitive 
+only of the personal ivlto), but avoidance involves stylistic difficulty. There is 
+the stiffly formal and cumbersome of ~l~hich: 
+The house the roof of wlzich was damaged . . . 
+[5al 
+Other variants are clumsy or unacceptable in standard English: 
+?The house that they damaged the roof of. . . 
+[Sbl 
+*The house that the roofwas damaged of. . . 
+[5cl 
+Satisfactory alternatives can however be found, such as [Sd], or even [5e]: 
+The house that had its roof damaged. . . 
+[sdl 
+The house with the damaged roof. . . 
+[5el 
+
+
+1250 The noun phrase 
+Postrnodificatior~ by fir~itc clauses 
+1251 
+111 :iny c:~sc, in solnc liclds ol'disco~irsc sucll :IS m;tthc.m;tlics, no evasion is 
+fclt to bc ncccssary : 
+Thrtt :IS s111>.icct :tnd t11r11 or 'cro ;IS ol~,jccl art p~,crcrrc(l 
+10 11~l1ii.11 
+when tllc 
+antecctlcnl is nonpcrsonal (I//, ~~rj,l/tilrg, 
+c,r:rrj,//riltg. /trn//ri~a, /i//k,, or /II~I(./I: 
+Let ABC be n trianglc u~/~ose 
+,sic/(,.s ;tre of unequal Icngth. 
+All 
+~hu! strikes you as otld 
+(thrrt) you find odd. . . 
+The of'11'1ticIt construction is sometimes placed bcforc its hcad (like wdtose). 
+Thus WC liavc [7] bcsidcs the more usual [7a] and [7h]: 
+There was littl(> rho! ['not much that'] intcrcstcd him at the motor 
+show. 
+Much 1ht11 ['much of what'] has bccn s;~id tonight will soon bc 
+forgotten. 
+S tich the rc~.s~tl!.s will soon bc ptthlislied . . . 
+171 
+t11c. rc~.srilt,s~/'i~~ltii./~ 
+will sot111 hc pl~hlisl~cd 
+. . . 
+[7;1] 
+The investiy;ltion ["l1' 
+[ivhose results will soon be published . . . 
+17bI 
+When the anteccdent is modificd by a stlpcrl;ilivc or hy one of t l ~ c  post- 
+~lclcr~iti~icrs,/ir.~t, 
+lrr,s!, I I O , V ~ ,  rj111),, the rcli~livc lpri111c1t111 
+:IS s~11~;ccI 
+is ust~;tlly 
+tItc11, ;~ntl, as object, ~/ta/ or zero r;rlhcr 111;111 1rItii.11 or 11~11o01r) 
+(d'5.22): 
+Relative pronoun as subject and objcct 
+17.15 
+When thc antecedent is personal and the pronoun is the subject of the relative 
+clause, who is favoured, irrespective OS the style and the occasion; thus [I] 
+rather than [la], though there is nothing wrong or odd about the latter: 
+She must be one of the most rcmarkablc wonicn thar ot:rr livcd 
+They eat the finest food 
+(!hat) money can buy. 
+People who live in new houses . . . 
+People that live in new houscs . . . 
+In such sentences, an alternative to a postmodifying copular relative clause 
+with an adjective as complement is pre- or postposition of the adjective 
+(cj'7.21): 
+Zero cannot replace the subject in a relative clause such as [2] and [3]: 
+*The table ( ) stands in the corner has a broken leg. 
+D1 
+*The man ( )stands over there I know. 
+131 
+However, constructions 'are encountered that are arguably exceptions; for 
+example, in very informal speech where the antecedent is an indefinite 
+Note 
+[a] The pronunciation of rAar as a relative pronoun is generally reduced to !Oat,, whcre;~s the 
+demonstrative rllor (cf6.40) has the rull form /&at/. 
+[blOne reason why zero relativesubject isun;icceptablelnay be rel;~led to perceptloll. In ex;~mple 
+[Z], it isonly when encountering the verb/tos(tl~cscvenlll word in the sentvncc) III;II the reader/ 
+hearer can interpret this sequence as a relative constrt~ction, inste;~d of an expccted S V A  
+slructurc ending with canlcr, as in [Zo]: 
+The table stands in the corner. 
+[2;1] 
+Compare the situalion with the ;tcceplable zero a~nstruction ol' nonsubject function in [Zb], 
+where it is clear on reaching)olr (the third word) lhatyoa begins a new construction: 
+The table you see svanding in Ihe corner has a broken leg. 
+[2bl 
+pronoun: 
+?Anybody ( )does that ought to be locked up. 
+H] 
+The reason for putting a question mark in [4] is, first, that it is of doubtful 
+acceptability; secondly, that many speakers would condemn it as slovenly; 
+thirdly, that it may result from the subaudibility of a relative pronoun who or 
+tllat and thus not strictly be zero at all. 
+A commoner type of example is to be found in existential and cleft 
+sentences (cf 18.44ff; 18.25ff): 
+Relative pronoun as object and prepositional complement 
+17.16 
+With the antecedent still personal but with the pronoun now object of a verb 
+or prepositional complement, there is a much stronger preference for thar or 
+zero, perhaps to avoid the choice between ~vho and ivltortt. Thus [I] rather 
+than [la]: 
+There's a table ( ) stands in the corner. 
+[S] 
+It's Simon ( )did it. 
+[61 
+Sentences [S] and [6] would again be very colloquial, and the use of that or a 
+tvh-item would be regarded as more acceptable: 
+People (t/zat) I {::; ; , . , ] 
+There's a table (::i;chj stands in the corner. 
+[6al 
+However, there are good reasons for distinguishing such that/~vhich-clauses 
+from adnominal relative clauses. The obligatory nature of such portions of 
+existential or cleft sentences would argue against our equating them with 
+postmodifications in noun-phrase structure (cf 18.48). 
+Again, there is nothing actually wrong about [la]; but 1vho11r here would seem 
+pedantic to many people, while ieho as object in rcliltive clauses is informal 
+and tends to be regarded as incorrect. Since, thercforc, neither 117lto nor ivhont 
+is wholly satisfactory, that (and particularly zero) is frequently used despite a 
+personal antecedent. 
+
+
+1252 The noun phrase 
+Avoidance of whotrl may not be the only factor influenciog tliat 21s object 
+with pcrson;~l ;~ntcccdcnt. C;l.:~~nrn;~tic;ll ol),jccls :~rc more likely to he 
+~ionpcrsonnl, or Lo ci~rry nonpcrso~l:~l 
+implic:~tion. ~II:III 
+s~10,iccI~. 
+There are sevcral other faclors inlluencing the seleclion of a pronoun Ll1:1t 
+is object or prcposition;~l coliiplctncnt in the relative clnusc, espccinlly wliert 
+I I I C  ~ I I I I C C C ~ I C I ~ I  is I ~ O I ~ ~ C ~ S O I I ; I ~ .  
+011c is the proxi111ity ol' Ihc rcl;~tivc CI;IUSC 
+to 
+the head ol'lllc nnlccctlc~ll ~>llr;ise; 
+~ I I I ( I ~ ~ I C ~  
+is IIIC ~ C ~ I C C  
+01 ~ o t ~ ~ l ) l ~ x i l y  
+I I I ' I I I C  
+subject of the antecedent phrase. 
+When complex phrases or clauses intervene between the antecedent head 
+and the relative pronoun, ~vllich is generally preferable to that and very much 
+preferable to zero: 
+I have  interest.^ outside my immediate work and its problems] which I 
+find satisfying]. 
+When the antecedent of the relative clause is no more complex than 
+determiner + head, tl~at is by many preferred to which and zero: 
+I'll take you to [the building [that all elderly university teachers prefer]]. 
+On the other hand, when the subject of the relative clause is a personal 
+pronoun, zero is preferred to either which or that, especially if the relative 
+clause itself is fairly short and simple: 
+Who's drunk [the milk [( ) I bought]]? 
+Finally, other things being equal, more informal discourse will tend to 
+have a preference for zero. In the following example from an informal 
+conversation, the zero construction could not appropriately have been 
+replaced by any of theother relative pronouns that are available in the system 
+(who, whom, that): 
+You learn a lot about [authors [you didn't know too much about to start 
+with]]. 
+Postmodification by finiteclauses 
+1253 
+general, it is certainly true that n41-pronouns with initial preposition arc used 
+prctlornin;~ntly in (i~rrn;~l 
+I'nglish: 
+'I'lie pcrson to ~~,hotrr 
+xrly cornplainls sllol~ld be ;~tltlrcssctl is . . . 
+[I] 
+Initiill prepositions are normally ;ivoiclcd in morc infot.~n;~l 
+usc. where thcy 
+woultl hc felt It1 Iic stillctl or polnpculs. A (lrkrr~.(l ~rtcposilio~~ 
+is tnorc 
+gc~~cr;~lly 
+11hc0 will1 ~ ~ r c p o s i l i ~ ~ r ~ ; ~ l  
+vcrl)s: 
+That's the book ( ) he's been looking,for. 
+(21 
+But many prepositions (especially those dealing with temporal and other 
+abstract relations) cannot easily be deferred (cJ"9.6): 
+?That was the meeting (that) l kcpt filllilig ilslccp tlroing. 
+I31 
+One might find [3;1], but in familiar spcccli ;In :~tlvcrl>i:~l 
+rcli~tivc with 11,hol 
+or n~ltere (cj'17.18) would be preferred to rhrritrg ~i~liiclr: 
+That was the meeting during vIlic11 I kept falling asleep. 
+P a l  
+Prepositions expressing spatial relations allow a deferred preposition even 
+when the preposition is complex: 
+This is the house he stood h,fiarit of: 
+141 
+However, clarity of expression would often influence us in the direction of a 
+construction otherwise regarded as formal if a final preposition leads to 
+clumsiness. Consider the following sentence: 
+It was in a book that a former teacher of mine thought ofat one 
+time presenting me with some quotations from. 
+[51 
+Hearing or reading it, we may successively have to rcjcct tlic intcrprctations, 
+first, that the former teacher thought of the book; second, that the tcacher 
+thought of presenting me with the book, before the belated,frotri enables us 
+to achieve thecorrect interpretation ('. . .from 1vhic11 a former teacher. . .'). 
+A deferred preposition may be the only natural choice when there is 
+coordination of one prepositional and one nonprepositional construction in 
+the relative clause. Thus instead of the clumsy [6], zero relative and a deferred 
+preposition would be far more natural, as in [6a]: 
+Relative pronoun as adverbial 
+17.17 
+When the relat~vc pronoun is the complement of a prepos~t~on 
+(and, together 
+w ~ t h  the preposltlon funct~onlng as A), some cho~ce exists In plac~ng a 
+preposltlon wh~ch has a wh-pronoun as 11s complement No such cho~ce 
+exlsts w ~ t h  
+that, where postpos~tlon wlth deferred preposlt~on represents the 
+sole pattern 
+the dog ran torvardc 
+under whlch the boy crawled 
+the boy crawled under 
+The cholce of relative clause structure ~nvolves styl~st~c 
+dist~nct~ons 
+In 
+You should restrict yourself to words with il!l~ich you are familiar 
+and whicli you can use confidently. 
+[6l 
+You should restrict yourself to words ( )you are familiar 11,ith and 
+can use confidently. 
+[6a] 
+But note that [6a] requires subject ellipsis, since coordination with zero 
+relatives is not fully acceptable: 
+?You should restrict yourself to words ( )you are familiar ivitli and 
+( )you can use confidently. 
+[6bl 
+17.18 
+In adverbial expressions of place, time, and cause, there is a wide range of 
+choice in addition to what was statcd in 17.17 for the relative pronoun as 
+adverbial. The preposition + pronoun can be replaced by special adverbs 
+(cf 7.53), q: 
+
+
+1254 
+The noun phrase 
+7'1ii1 t's tlrr pluc'e "l "llic'll ~ I i c  
+W;IS horn. 
+wirerc, l 
+That's the reaso~l 
+she spoke. 
+Note thnt,/i~r  hicl, cl, in 13) h:~s limited :~cccptahility. 
+However, there are considerable and colnplicatcd rcstrictions on tllesc 11811- 
+forms which operate in relative clauses expressing place, time, and cause. 
+Many speakers find their use along with the corresponding antecedent 
+somewhat tautologous -especially tlic type the recrsorr n,l~y 
+- and prefer the 
+ndl-clause without antecedent, ie a no~ni~lal 
+relative clause (cf 15.81'): 
+Is this where she was born? 
+[La1 
+That was when she lived here. 
+[2al 
+That's why she spoke. 
+[ h ]  
+There is no relative how parallel to where, when, and ~ V ~ J J  
+to express manner 
+with an antecedent noun [4], but only [4a]: 
+*That's the way how she spoke. 
+L41 
+That.s h01" 
+{ 
+she spoke. 
+the wa,v (that) 
+[4al 
+The followingpatterns can be distinguished for time expressions in a sentence 
+such as '. . . was Thursday'. 
+Pattern l : antecedent + preposition + wh-pronoun: 
+the day on ~diich she arrived 
+Pattern 2: antecedent + II~-pronoun + deferred preposition: 
+the day which she arrived 011 
+Pattern 3: antecedent + fhat + deferred preposition: 
+the day that she arrived on 
+Pattern 4: antecedent + zero relative + deferred preposition: 
+the day she arrived on 
+Pattern 5 : antecedent + wh-adverb: 
+the day when she arrived 
+Postmodification by finiteclauses 
+1255 
+17.19 
+There ; ~ r c  i~lso restrictions on the ;~ntccctlcnt noc~ns. With rcl:~tive cl;~uscs 
+wl~cre tlic aritcccdcr~t denotcs c;~usc or rc;lsoll, rz9tr.~orr is virtu;~lly the only 
+possible antecedent; whcrc the ilntecedcnts dcnote place and time, the most 
+generic nouns (plc~cp, period. tinre, ctc) tllso seem to he preferred. Thus pattcrn 
+5 is acceptable: 
+the office ithere he works 
+Howcvcr, many woultl prcfcr altcrn;~tivc expressions (patterns 1. 2. 3, 4, 
+wlicrc piltlcrn I is most li~rrn;~l 
+ant1 p;ltlcrn 4 1c;lsl li)rm;~l): 
+l 
+at icrltich he works 
+[pattern I] 
+the ofice 
+which he works at 
+[pattern 21 
+that he works at 
+[pilltern 31 
+( ) Ire works at 
+[pattern 41 
+i 
+011 ivhicll she was born 
+[pattern I] 
+the day 
+>vhich she was born otl [pattern 21 
+that she was born or1 
+[pattern 31 
+( ) she was bent or1 
+[pattern 41 
+Place adjuncts in relative clauses admit of two further patterns: one with 
+where and omission of the preposition (pattern 5), the other with the deferred 
+preposition at (pattern 9): 
+tlleplace 
+wl~ei-e she works 
+[pattern 51 
+( ?where she works at 
+[pattern 91 
+Pattern 5 is acceptable, whereas pattern 9 is of doubtful acceptability. It 
+requires a fairly specific antecedent, eg: 
+the governnlent briildir~g where she works at 
+With ageneral antecedent, such asplace, we may find the followit~g patterns, 
+which however are not acceptable to all speakers: 
+{ 
+she stays when she's in London. 
+(?)That's the place she uarks. 
+[l1 
+she studies. 
+L21 
+L31 
+However, a final at (pattern 4) would be fully acceptable, at least in familiar 
+usage: 
+{ 
+she stays at when she's in London. 
+[lal 
+That's the place she ~tvrks at. 
+[IaI 
+she studies at. 
+[3al 
+With a generalized antecedent such as way, expressing direction, we usually 
+have zero rather than 111at: 
+Was that the way she werlt? ['Was that where she went?'] 
+17.20 
+In expressions of time, omission of the preposition is usual whether the 
+pronoun is that or zero: 
+
+
+1256 
+The noun phrase 
+(that) she normally arrives ((!l)? 
+i~~/rc,n 
+she normally arrives? 
+*II,/I,~~ 
+SIIC II(~III:IIIY 
+;~rrivcs 
+(I!'! 
+What was tlr~ 
+tlay (thar) she Iefl (or!)'? 
+When (less frequently and more formally) the pronoun is ,1~11icl1, 
+however, the 
+preposition must be expressed in all three instances, and it would be usual to 
+make it precede the pronoun (pattern 1): 
+5.30 is the tinw at which she normally arrives. 
+1 don't remember the c h j ~  
+on which she left. 
+He worked for the whole three months during ilhich he lived there 
+With expressions of manner and reason, the zero construction is usual 
+(occasionally that), and there is no preposition (patterns 6 and 7): 
+That's the ,say (that) he did it. ['That's how he did it.'] 
+t41 
+Is this the reason (that) they came? ['Is this why they came?'] 
+L51 
+In more formal style, we might find pattern 1 : 
+That's the way in which he did it. 
+[ h ]  
+The rare use of for which after reason strikes most people as clumsy and 
+unnatural, while the reason why seems tautologous; there is general preference 
+for zero [5a] or a nominal relative clause [5bl: 
+the reason they came? 
+[sal 
+B lhat lwhY theY " m e ?  
+t5bl 
+However, after other nouns whichexpress adverbial-related meanings similar 
+to reason and way, no that or zero construction without preposition is possible. 
+Thus not [6] and [7] but only [6a] and [7a]: 
+*This is rhe style he wrote it. 
+This is the style he wrote it in. 
+11~ 
+this the {
+~
+~
+~
+~
+e
+)
+ 
+she came? 
+[7al 
+There is a tendency to favour nlhen or where if the antecedent is already the 
+complement of a prepositional phrase, ie [8] rather than [gal (to avoid 
+repetition of the preposition): 
+nhen his son arrived. 
+He died On the(fa~'{an ivl~icl~ 
+his son arrived. 
+Occasionally plural antecedentscan be met with, as in: 
+T/IL~IIIOI?IL,III 
+( ).1~011 
+(/[I .s~~~ll~~l/lifl~ 
+I / I ~ : I ~ ~ / ~ ~ ~ I A ~ ~ ~ ~ ~ ~  
+ will? lhcy are 211 your Illroi~l . . . 
+l91 
+Thr rlrolla~lll ( ).roll r~ll/i:(~ 1/11. i0li~orI~1111~(' 
+( I /  ~ l ! ! i ! ~ ! ~ l i ~ $ ~ ~ ( I r ~ ! k ~ ~ l ~  
+<(.III hc ~ . r l l h i l ! r i l \ ~ i l l ~  
+111 Yllll. 
+1101 
+I YIW I'll iw~ou~~li~l. 
+~ Y ~ ~ P I I I I J  
+SPPIIIS 10 Ihc lillr ~ I I c ~ I .  
+.I> IICIL.. 1111. V I ~ D ) C C  
+I 1 1  '11~.1v\'. 
+1,111 L I ~ ~ ~ ~ , ) , I I C  
+1111: 
+Tllr i/rl!> she, orril.nln1 lhe cwgircrr rv;!s sunny. 
+1111 
+Telescoped relative cla~~ses 
+17.21 
+Thc distinction between restrictive ancl nonrcstrictivc is valu:~hle, but we 
+should be prepared to view it as a gradient rather then as ;I dichotomy 
+between two homogeneous categories. Onc type of relative construction 
+which demonstrates the need for this approach can bc illustr;~ted by the 
+following example of TELESCOPED relative construction : 
+All this I gave up for the mother ~vho rlee(led r7rtJ. 
+[I1 
+In [I], mother may be seen as having an appos~tional relation to a noun phrase 
+whose head is a general noun such as l)ersorl, a,.comp;~n~cd by a relat~ve 
+clause as postmodifier: 
+All this I gave up for al>ersorr who r~ee(lc~(ed 
+rrre, ie 111q r~rotlrer. 
+[!a1 
+Another example: 
+This book is about a Bloomsbury 1sirnpI.v clorr't rc~cogrlize. ['about a 
+place I simply don't recognize; but I ought to recog~lize becausc 
+I know Bloomsbury and the book says it is Bloomsbury'] 
+t7.1 
+Nonrestrictive relative clauses 
+17.22 
+In nonrestrictive relative clauses, the most explicit formsof relative pronouns, 
+ie the wh-series, are typically used. The relative pronoun can be subject, 
+object, complement, or adverbial. Here is a survey of the dilferent forms for 
+personal and nonpersonal antecedents: 
+S: I spoke to Dr Spolsky, *th(rt was unwilling to give further details. 
+{*:l 
+has onlyjust bccn rcviewcd, was 
+published a year ago. 
+lvhorrr 
+0 :  I spoke to Dr Spolsky i:: I 
+l met after the inquest. 
+0: This excellent book, 
+Freda has only just received for review, 
+was published a year ago. 
+
+
+1258 The noun phrase 
+Postmodification bv finite cli~uses 1259 
+11~1rk~h 
+C: Anna is a vegetarian, [I!:: 
+I not.11~ clsc is i t  our kttnily. 
+1t~hic11 
+C: She wrtnts low-calorie food, {:/I; } this vcgctrblccurry certainly i s  
+A : This is a tiew type of word processor, 
+( aburct 11~11ic.11 
+there has been so ti~t~ch 
+publicity. 
+11.11ic11 
+[:/~;t } here I;IS bccti so tni~ch pi~hiici'y CI~O~II. 
+As cat1 be seen, the choice of pro~iouns is restricted to ~c~l~n(m) 
+and 11~hic11. 
+Nonsubject n~lto is thought by many to be moreobjectionable in nonrestrictive 
+than in restrictive clauses (cf17.14). Zero cannot occur, and that is very rare. 
+With nonrestrictive relative clauses, we usually have a tone unit boundary, 
+often accompanied by a pause, before the relative clause; and, often, a 
+repetition at the end ofthe relative clause of the nuclear tone of the tone unit 
+preceding the relative clause. In writing, nonrestrictive relatiollship is usually 
+marked off by commas (cf App 111.19). Compare: 
+WRITTEN: Then he met Mary, who inuited him to aparly. 
+SPOKEN: Then he ]met M ~ R Y ~  
+- who bll~~ited 
+him to a  PAR^^( 
+By contrast, with restrictive relative clauses, there is usually no tone unit 
+boundary or pause before the relative clause; nor in writing is the relative 
+clause separated by a comma from what precedes. Compare: 
+WRITTEN: That's the girl (that) he nlet at theparty. 
+SPOKEN: /That's the girl (thal) he rnet at the ~ i n t y l  
+It must be emphasized that these are typical rather than obligatory prosodic 
+features. The followingexample is exceptional in having a prosodic boundary 
+before the relative clause though it is unquestionably restrictive: 
+but In the /LONG R ~ J N ~  
+- \these are ~ b ~ c e s l  
+that wtll lb~tlmatelyl - (wln 
+SUPPORTI 
+from the mabor~ty of the people In thts c6uNtryI 
+17.23 
+Nonrestrlctlve relatlonshlp IS often semantically very slmtlar to coordtndt~on, 
+wlth or wtthout conjunction (cf l3 l j ) ,  or adverbldl subordlnatton 
+(cf 15 1 7 j )  Both types are lndlcated by paraphrdses in the following 
+, 11,hir.11 
+w;ls cnvclt~pctl in liy:. 
+I IC got lost on Snowtlon ; il wits cnvclopctl i n  I'op. 
+, 11dr(v1 it was cnvclopctl in fog. 
+, tt./~ir/l slic lias sltrdictl. 
+; she h;~s stutlicd I/I(,I)I. 
+She read a paper on lamprcys , 11~11ich 
+slic h;ls done rcscarcl~ or,. 
+, or1 11~11ic.h 
+she has tlonc rcscarch. 
+: she h:ts tlonc rcsc;~rcli on r11or11. 
+My brother, 11,ho hits lived in A~ncric:~ 
+sincc boyhood. can still 
+speak fluent Italian. 
+My brother can still speak fluent It:tlir~n, a~rrl Irc Ii;~s livctl in 
+America sincc boyhood. 
+My brother can still speak Italian ~lthurrgh he lias lived in 
+America since boyhood. 
+Note 
+A nonrestrictive interpretation is occ;~sion;~lly 
+introduced hy IImf when ;I premod~licr or 
+determiner would make ;I rcstrictivc cl;~use ;~bst~rd, 
+but when 11.hic.11. 

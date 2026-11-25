@@ -1,0 +1,1614 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 15: Syntactic and Semantic Functions of Subordinate Clauses
+Covers: Nominal clauses, Relative clauses, Adverbial clauses, Comparative clauses
+[Part 1 of 10]
+============================================================
+
+1 180 Complementation of verbs and adjectives 
+I 
+is coming alone. 
+will be coming alone. 
+(A) indicative verb: I suppose that he will.come alone. 
+has come alone. 
+(B) putative should: I regret that he should be so stubborn. 
+(C) subjunctive verb: I request that she go alone. 
+(A) with the indicative is the most usual type. The putative should type (cf 
+14.25) (B) is more common in BrE than AmE, and (C) the mandative 
+subjunctive (cf 3.58-9) is more common in AmE than in BrE. In BrE the 
+subjunctive is felt to be formal, and is found typically in official styles of 
+writing. Corresponding to these three constructions, it is necessary to 
+recognize only two main categories of superordinate verbs. Type (i) may be 
+i l 
+called FACTUAL, since it goes with the indicative verb (A), and introduces 
+3 
+what one might generally describe as factual or propositional information. 
+Type (ii) may be described as SUASIVE; such verbs imply intentions to bring 
+I 
+about some change in the future, whether or not these are verbally formulated 
+I 
+as commands, suggestions, etc. Suasive verbs can be followed in the that- 
+clause by all three constructions (A-C), but the indicative (A) construction is 
+restricted, and is not generally accepted in AmE. 
+There are two minor categories, Type (iii) emotive verbs (cf 4.29, 10.23) 
+and Type (id hypothesis verbs, which are dealt with in 16.33. These types 
+are displayed in Fig 16.30: 
+i 
+CLASSES OF VERB 
+VERB PHRASE IN THA 7-CLAUSE 
+l I 
+(16.31) (eg: claim) 
+! 
+Type (ii) SUASIVE 
+(B) putative should 
+i 
+Type (iii) EMOTIVE 
+(C) mandative subjunctive verb 
+Minor 
+I 
+Fig 16.30 Monotransitive verbs with a that-clauseascomplementation (Class [B3]) 
+Type (i 
+S) HYPOTHESIS 
+I (16.33)\(eg: wish) 
+Note 
+In terms of the speech act classes of 11.2, Type (i) (factual) verbs are associated with the 
+expression of speech acts concerned with STATEMENTS, while Type (ii) (suasive) verbs are 
+(D) hypothetical past OR were- 
+subjunctive 
+Type (i): Factual verbs 
+16.31 W e  may subdivide factual verbs into 'PUBLIC' and 'PRIVATE' types. The 
+former consists.of speech act verbs introducing indirect statements: 
+They agree/admit/claim that she was misled. 
+The superscripts 1-5 in the lists below are to be interpreted as follows: 
+Types of verb complementation 
+1 181 
+1 : The verb also occurs in the active with a to-infinitive.directly following: 
+He promised to come (cf 16.38). 
+2: The verb also occurs with a following noun phrase followed by a to- 
+infinitive: They supposed her to be dead (cf 16.50). 
+3: The verb is also a member of the suasive group below, in 16.32. 
+4: The pro-form so can stand in place of the that-clause (cf 12.28); eg: I think 
+SO. 
+5: Say occurs with an infinitive, as in She said to come before ten in the 
+directive sense of 'She told us to come before ten'. 
+Examples: 
+acknowledge2 boast 
+declare2 
+mention 
+report2 
+add 
+certifv2 
+deny2 
+object 
+retort 
+admit2 
+claim1 
+disclose 
+predict4 
+say2.4. 
+5 
+afirm2 
+comment 
+exclaim 
+proclaim2 
+statezv4 
+agree1* 
+complain 
+explain2 
+promise'.2.4 
+submit 
+allege2 
+concede3 
+forecast 
+pronounce2 
+suggest3 
+announce2 
+confess2 
+foretell 
+prophesy 
+swear 
+argue 
+confide 
+guar~ntee'.~ protest 
+testify2 
+assert 
+confirm2 
+hint 
+remark 
+vow' 
+bet 
+contend 
+insist3 
+repeat 
+warn2 
+convey 
+maintain4 
+reply 
+' 
+write 
+The 'PRIVATE' type of factual verb expresses intellectual states such as belief 
+and intellectual acts such as discovery. These states and acts are 'private' in 
+the sense that they are not observable: a person may be observed to assert 
+that God exists, but not to believe that God exists. Belief is in this sense 
+'private'. Examples of such verbs are: 
+accept 
+doubt 
+imaginezv4 
+realize 
+anticipate 
+dream 
+imply 
+reason 
+ascertain 
+ensure3 
+indicate4 
+recall 
+assume2s4 
+establish 
+infer4 
+reckon'. 
+estimate2 
+insure 
+recognize2 
+calculate 
+expect ' 9  
+judge2 
+reflect 
+check 
+fancy2 
+know2 
+remember 
+conclude 
+learn1 
+reveap 
+conjecture 
+feel2 
+mean's2 
+see 
+consider2 
+find2 
+note2 
+sense 
+decide'. 
+foresee 
+n o t i ~ e ~ ' ~  show2 
+deduce 
+forget1 
+observe2 
+signify 
+deem2 
+gather4 
+perceive2.4 
+suppose274 
+demonstrate 
+guess4 
+s ~ s p e c t ~ . ~  
+determine'. 
+hear4 
+presuppose2 
+thinkzv4 
+discern 
+hold 
+pretend' 
+understand2' 
+discove? 
+hope1' 
+prove2 
+Many of theseverbs, especially the 'public'verbs, are also used for introducing 
+direct speech; eg: 
+'Perhaps it's time to leave', suggested Tim. 
+
+
+1 182 Complementation of verbs and adjectives 
+Types of verb compleme~itation 1 183 
+For detailed discussion of this use of verbs of speaking and thinking, cf 
+14.30fl. 
+' 
+Note 
+[a] Not included in the first list above are verbs expressing manner of utterance, such asntumble, 
+mutter, shout, whimper, whisper, and yell. These can introduce direct speech quotations (eg: 'I am 
+ill', she muttered), but they can also introduce indirect or reported speech by means of a that- 
+clause: She muttered that she was ill. The list of such verbs is large, and some verbs occur more 
+easily with that-clauses than others do. 
+[bl All the following phrasal verbs belonging to this 'factual' category are 'public' verbs: chime 
+in, let on, let out, make out,pointout, report back: 
+Timpointedout that the train was often late. 
+In this construction, the particle has to precede the that-clause. 
+[c] Among the 'private verbs', see, suppose, and assume can be used with a that-clause in which 
+the present tense refers to future time (cf14.23): 
+See (to it) that they get something to eat. 
+See here means 'make sure'. 
+[d] Doubt, being a verb of negative meaning, is typ~cally followed by nlhether/f(cf 15.6. 16.35). 
+But more especially when it is in a nonassertive context, doubt occurs with a that-clause: 
+1 don't doubt (but) that they'll accept at once. 
+Note that in thisconstruction, doubt is sometimes followed by but. Doubt cannot be followed by 
+an alternative ivh-clause (cf15.6): 
+*I doubt whether or not they'll accept. 
+Type (ii): Suasive verbs 
+16.32 
+These verbs can be followed by a that-clause either with putative should (cf 
+14.25) or with the mandative subjunctive. A third possibility, a that-clause 
+with an indicative verb, is largely restricted to BrE: 
+should leave 
+People are demanding 
+the company. 
+[l] 
+leaves (esp BrE) 
+It is more difficult, in the case of suasive verbs, tomake a subdivision between 
+'PUBLIC' and 'PRIVATE' verbs: for this reason, we present the verbs below in a 
+single list. ~eSertheless, generally it is useful to see a distinction between the 
+'public' verbs bhich describe indirect directives (such as request; cf 14.33), 
+and the 'private' verbs which describe states of volition or desire, such as 
+intend : 
+agree' 
+demand' 
+allow2 
+\ desire'*2 
+arrange' 
+. determine1 
+ask'. 
+' enjoin2 
+beg'. 
+ensure 
+command2 entreat2 
+concede 
+1 grant 
+decide' 
+i p
+t
+ 
+decree4 
+lnstruct2 
+intend1. 
+move4 
+ordain2.' 
+order2 
+pledge', 
+p r a ~ ' . ~ . ~  
+prefer'.2*4 
+pronounceZ 
+propose1. * 
+recommend2 
+request1.* 
+require 
+resolve1 
+rule 
+stipulate 
+~ u g g e s t ~ . ~  
+urge2 
+vote'.2 
+The superscripts 1,2 and 4 have the same meaning as in 16.31 above. The 
+choice between the three constructions in the that-clause in [l] above varies 
+between AmE.and BrE. For detailed discussion of these preferences, cf 
+14.25. 
+It will be noted that the noun phrase + infinitive construction (416.50) is 
+a common alternative to the that-clause for suasive verbs: 
+the news to be suppressed. 
+intended{that the 
+(should) be 
+(more formal) 
+With some verbs, such as allow, the infinitive construction is by far the more 
+usual. 
+Other types of verb with that-clause complementation 
+Type (iii): Emotive verbs 
+16.33 This consists of a small group of verbs such as regret, marvel, rejoice, and 
+wonder, which can occur with (A) the indicative or (B) the putative should 
+construction, but not with the mandative subjunctive construction: 
+worries about it. 
+should worry about it. 
+*worry about it. 
+Semantically, this group belongs with adjectival constructions such as be 
+sorry, be anxious (cf 16.71). 
+Type (iv): Hypothesis verbs 
+The two verbs wish end (in the imperative) suppose may be followed by a 
+that-clause containing a verb in the hypothetical past or the were-subjunctive: 
+I wish (that) she were here; She wished she hadn't spent the money; Suppose 
+(that) one of us died. Cf 14.24 on the use of tense and mood following these 
+verbs, which may also occur in a number of other patterns. In particular, for 
+otherusesofwish,cf16.38, 16.41,16.44, 16.46, 16.57. 
+The modal idiom would rather (or its contraction 'd rather) (cf 3.46) is a 
+third example of a hypothesis verb: 
+I'd rather you didn't mention the piice. 
+Many residents would rather that the bus service were subsidized. 
+Complementation by an extraposed subject that-clause 
+16.34 
+The that-clause in examples like It seems that you are mistaken is not an object 
+of the verb, but rather an extraposed subject. Nevertheless, it resembles other 
+that-clauses we have been examining (a) in having a deletable that, and (b) 
+in being semantically associated with the preceding verb. Moreover, no 
+nonextraposed that-clause is possible in this case (*That you are mistaken 
+seems), and so it seems appropriate to include this with that-clause 
+complementation. The main verbs occurring in this pattern form two groups 
+of synonyms: (i) seem and appear; and (ii) chance, happen, and transpire: 
+It appears that Frank lost his temper. 
+It happened that the weather was exceptionally cold. 
+The phrasal verbs come about [= 'happen'] and turn out [='transpire'] also 
+belong here. Appear and seem can be followed by the pro-form so: It seems/ 
+appears so. The adverb so sometimes occurs before happen or one of its 
+synonyms: It so happenslhappened that. . . . 
+Note 
+[a] A related construction with extraposed object (c/ 18.35) occurs in the following transitive 
+phrasal verbs: 
+let (it) out; noise (it) about/abroad;put (it) about; rub (it) in: 
+Jack let (it) out [ =  'divulged'] that the animal had been stolen. 
+
+
+1 184 . Complementationof verbs and adjectives 
+The it which occurs as preparatory object is in this case optional, although the omission is not 
+usual. In the comparable construction lake it that, the ir is obligatory: I take it that you are 
+enjoying yourselves. 
+[b] Compare the complementation of seem, appear, etc by an as fclause (cf16.24 Note [a]). 
+[c] On the related constructions It strikes me that . . . , It accurs/seents ro me that . . . , cf 16.59 
+Note, 16.60 Note. 
+[B41 Wh-clause as object 
+16.35 
+Many of the verbs which take a that-clause as object can also take a wh- 
+interrogative clause (cf 15.5ff): 
+I asked her to confirm whether the flight had been booked. 
+Can you confirm which flight we are taking? 
+They haven't yet confirmed how much the flight costs. 
+Notice that in all three illustrative sentences above, confirm occurs in what 
+may be described as a nonassertive context (cf 2.53). The use of the wh- 
+interrogative clause (which generally implies lack of knowledge on the part 
+of the speaker) is particularly common where the superordinate clause is 
+interrogative or negative. On the other hand, there are some verbs which 
+themselves express uncertainty, such as ask and wonder: these occur with the 
+wh-clause without this nonassertive constraint. Examples of verbs taking the 
+wh-interrogative clause are: 
+anticipate [NA] 
+doubt 
+note [NAI3 
+argue [NA]' 
+enquire2p3 
+notice [NAI3 
+arrange [NAI3 
+establish3 
+observe [NAI3 
+ascertain3 
+explain3 
+perceive [NAI3 
+askzs3 
+express 
+point out [NA] 
+beware2 
+fathom [NA] 
+ponder3 
+calculate [NA]~ find out2' 
+predict [NA] 
+care [NA]" 
+I 
+forget3 
+prove 
+checkzp3 
+i 
+guess 
+realize [NA] 
+choose3 
+hear [NA]' 
+record [NA] 
+confirm [NA] 
+imagine [NAI3 
+reflect2 
+consider [NAI3 
+indicate [NAI3 
+remember [NA]~ 
+decide2. 
+' 
+inquire2. 
+say [NAI3 
+demonstrad / 
+judge3 
+see [NAI3 
+depend2 
+know [NAI3 
+show3 
+disc/ose 
+/earn [NA]~ 
+tell [NA]" 
+discover3 
+make out [NA] 
+think [NAI3 
+discuss3 
+mind [NA]' 
+wonder3 
+The symbol [NA] 'after a verb indicates that this complementation is 
+particularly likely 40 occur in a nonassertive context. The superscripts 1-3 
+are interpreted as follows: 
+1 : This verb is part of a negative or predominantly negative construction 
+when combined with the wh-interrogative clause: not care; not mind; can't 
+fathom; can't tell. 
+2: The verb is basically a prepositional verb, and has a preposition which 
+may be optionally added (see below). 
+Types of verb complementation 
+1185 
+3: The verb can also occur with a following wh-infinitive clause (cf 16.37); 
+eg: I didn't know what to say. 
+The preposition of a prepositional verb is optionally omitted before a wh- 
+clause, and hence it is convenient to include in the above list verbs for which 
+the wh-clause is basically a prepositional object. For example: 
+I inquired (about) whether the tickets were ready. 
+They haven't yet decided (on) which flight they will take. 
+For the corresponding passive, again, the preposition is optional, whether or 
+not the nominal clause is in extraposition: 
+Which flight they will take has not yet been decided (on). 
+It has not yet been decided (on) which flight they will take. 
+Sometimes there is a slight difference of meaning if the preposition is 
+included; contrast: 
+She asked what he wanted. 
+Z She asked about what he wanted.. 
+Whereas ask introduces the question which the speaker actually asked and 
+for which she requires an answer, ask about does not indicate what the 
+question might have been. Other prepositional verbs in this class are: argue 
+(about); beware (of) (cf 3.54 Note); not care (about); check (on); depend (on); 
+hear (about); reject (on). There is also the phrasal-prepositional verbjind out 
+(about). 
+Note 
+A few verbs are followed by a wh-exclamative clause (indirect exclamation; cf 10.104) beginning 
+with what or how: I realized what a fool I had been; I know how busy you are. These clauses are 
+difficult to distinguish from wh-interrogative clauses. Other verbs in the pattern include excfaim, 
+express, marvel, refict, think. 
+Complementation by a nonfinite clause 
+Nonfinite clauses in complementation 
+16.36 When a nonfinite clause follows the verb it is often difficult to separate three 
+of the major types of complementation which we distinguished in 2.16. This 
+is especially true if a noun phrase intervenes between the superordinate verb 
+and the verb of the nonfinite construction: 
+They like the children to visit them. 
+, 
+They supposed the children to be guilty. 
+They asked the children to bring some food. 
+l 
+On the face of it, all three of these sentences conform to the same pattern 
+(verb + noun phrase + to-infinitive . . .). But there are reasons for classifying 
+i 
+them differently : 
+[l] exemplifies MONOTRANSITIVE complementation (16.38fn 
+(c8 They like the children's visits - SVO) 
+[2] exemplifies COMPLEX TRANSITIVE complementation (16.43fl 
+(c8 They supposed the children guilty - SVOC) 
+
+
+1 186 Complementation of verbs and adjectives 
+[3] exemplifies DITRANSITIVE complementation (16.55m 
+(c$ They asked the children a question - SVOO) 
+We will return in 16.64ff to differences between examples such as these. At 
+present, since we are dealing with monotransitive complementation, we are 
+concerned only with the type illustrated by [l]. In nominal function, only two 
+kinds of nonfinite clause normally occur: the to-infinitive clause and the -ing 
+participle clause. Hence nonfinite clauses functioning as object can be 
+distinguished, for the present purposes, in terms of the categories in Table 
+16.36: 
+Table 16.36 Nonfinite clauses as object 
+Without subject 
+With subject 
+to-infinitive 
+[B61 Jack hates 
+[BSI Jack hates 
+to miss the train. 
+her to miss the train. 
+-ing participle 
+[B71 Jack hates 
+[B91 Jack hates 
+missing the train. 
+her missing the train. 
+In Table 16.36, the italicized parts are analysed as nonfinite clauses acting as 
+direct object. The status of the infinitive clause and its subject in pattern [B81 
+is discussed in 16.41. Later, in 16.66, we consider the arguments for 
+considering her an object in the [B81 and [B91 examples. 
+The following criteria confirm that the italicized portion of [B6-B91 is 
+basically a nonfinite clause as direct object: 
+(A) The nonfinite clause can be replaced by a pronoun it coreferring to a 
+clause, or by a noun phrase nominalizing the meaning of a clause: 
+Everyone Iiees it; He likes her frequent visits. 
+(B) The nonfinite clause can be made the focus of a pseudo-cleft sentence (cf 
+18.29): 
+What eveyone likes (best) is to talk to her. 
+What evebone likes (best) is talking to her. 
+What he likes (best) is for her to call ojien. 
+In this versib of [B8], as the infinikve clause is now in complement 
+position, the introductory for has to make its appearance. 
+(C) For [B81 the introductory for itself, where it appears, is a marker of the 
+construction as a nonfinite clause. 
+(D) Correspondingly, for [B9], a subject pronoun in the objective case can 
+often be replaced, in formal style, by a possessive pronoun (cf 14.6): 
+He doesn't like melmy coming often. 
+This is what one would expect (cf 15.12) given that me and-my can both 
+be subjects of an -ing clause. 
+Not all verbs that we consider direct objects satisfy all these criteria. 
+Nevertheless, it is on this basis that the verbs listed below are included in the 
+classes [B6-B91. 
+Types of verb complementation 1187 
+[B51 Wh-infinitive clause as object 
+16.37 It is as well to begin the survey of nonfinite clauses as objects with clauses 
+which happen to be immediately related to those dealt with in 16.35. These 
+are wh-infinitive clauses (cf 15.5): 
+He learned how to sail a boat as a small boy. 
+You must not forget when to keep your mouth shut. 
+I couldn't decide (on) which bicycle to buy. 
+The last example illustrates the occurrence of the optional preposition with 
+prepositional verbs, as already observed with finite clauses of the same type. 
+The corresponding passive pattern also occurs: 
+The Curies discovered how to isolate radioactive elements. 
+- How to isolate radioactive elements was discovered by the Curies. 
+The passive with extraposition (cf 16.30,16..35) is also sometimes possible: 
+l 
+Early in the present century, it was discovered how to isolate radioactive 
+elements. 
+The verbs marked '3' in the list in 16.35 above provide a sample of verbs 
+occurring with the wh-infinitive clause as object. 
+Note 
+Many verbs which introduce wh-infinitive clauses rarely if ever introduce yes-no interrogative 
+clauses (introduced by whether) of the same type: I haveforgotten how to swim but not ' I  have 
+forgotten whether to swim. Among such verbs are demoytrote, discowr, and explain. Neveriheless 
+in unusual contexts such sentences can be found: 
+I have forgotten whether to unfieeze thisfood before cooking it. 
+[B61 Subjectless infinitive clause as direct object 
+When a subjectless infinitive clause is direct object, the 'understood' subject 
+of the infinitive clause is always the same as the subject of the superordinate 
+clause. Verbs taking this kind of complementation are listed below, 
+subdivided into semantic categories: 
+(i) dread [By, B81 
+(iv) choose [B71 
+(vi) ask 
+(vii) affect 
+hate [B7, B81 
+hope 
+beg 
+claim 
+like [B7, B81 
+intend [B7, B81 
+decline 
+profess [B71 
+loathe [B7, B81 
+mean [B7, B81 
+demand 
+(viii) afford [B71 
+love [B7, B81 
+need [B71 
+offer 
+attempt [B71 
+prefer [B7, B81 
+plan [B71 
+promise 
+contrive 
+propose [B71 
+refuse 
+(ii) begin [B71 
+endeavour 
+want [B7, B81 
+swear 
+cease [B71 
+fail 
+wish [B81 
+undertake 
+learn 
+commence [B71 
+UU W 
+continue [B71 - 
+(v) deign 
+manage 
+start 1 ~ 7 1  - 
+disdain [B71 
+neglect 
+- 
+- 
+(iii) forget [B71 
+help [B7, B81 
+scorn [B71 
+remember [B71 
+venture [B71 
+regret [B71 
+omit 
+try [B71 
+
+
+1 188 Complementa'tion of verbs and adjectives 
+The symbols to the right of some verbs indicate that these verbs also occur 
+with the subjectless -ing clause (Type [B7]) or with the infinitive clause with 
+a subject (Type [BSI). From the latter group, however, verbs such as ask are 
+excluded, because the construction of sentences like He asked me to help is 
+ditransitive (cf 16.63) rather than monotransitive. 
+We now add a list of prepositional verbs belonging to the same pattern 
+[B6pr]. The preposition is omitted before the infinitive clause object (cf 9.2), 
+but is present where the prepositional object is a noun phrase or, for that 
+matter, an -ing clause. Compare : 
+I 
+about the baby. 
+[Blprl 
+She didn't bother about feeding the baby. 
+[B7prI 
+to feed the baby. 
+[B6prI 
+In the following list, the verbs are placed in semantic groupings corresponding 
+to some of those above (apart from an additional miscellaneous group (ix)), 
+and the omitted preposition is placed in square brackets: 
+(i) long Br] [BSI 
+ache b r ]  
+aim Vor] [BSI 
+aspire [to] 
+burn b r ]  
+burst Vor] 
+(not) care Vor] 
+clamour Vor] [BSI 
+itch Vor] [B81 
+yearn h r ]  [BSI 
+(iii) bother [about] [B7, B81 
+condescend [to] 
+delight [in] [B71 
+hesitate [about] [B71 
+(vi) agree [to/on/about] [B81 
+assent [to] . 
+consent ltol 
+- - 
+(vii) pretend [to] 
+(viii) strive vor] 
+seek Vor] 
+6x1 arrange b r ]  [B7, B81 
+decide [on] [B71 
+resolveJon] [B71 
+prepare Vor] [B71 
+serve Vor] [B71 
+Examples: 
+' 
+Martin longe? to leave home. 
+They sought tq make amends. 
+I would hesitate to interfere. 
+\ 
+We've decided to move to a new house. 
+Note 
+[a] We distinguish the verbs of Type [B61 from catenative verbs (c/ 3.49) of 'seeming' and 
+'occurrence' preceding infinitive clauses which are not direct objects, but which relate 
+semantically to a that-' lause as subject: He appears to like the show - That he likes the show 
+appears [true]. The veks in this class correlate closely with those occurring with ohliytow 
+extraposition of the subject (cfl6.34) appear, seem, chance, happen, turn out: 
+It appearedlchanced that the children were asleep. 
+- The children oppeared/chancedto be asleep. 
+[b] Another group of verbs which are closely associated with a following infinitive but which do 
+not belong to Type [B61 includes hasten, conspire, and set our: 
+I hastened to reassure her. 
+They conspired to murder Caesar. 
+He set out toconquer the world. 
+Types of verb complementation 11 89 
+The to-infinitive here, however, has a resnltative meaning which makes the construction 
+resemble on the one hand that of a catenative verb, and on the other hand that of an intransitive 
+verb followed by an adjunct. With pay and (to a lesser extent) wait, the adjunct status is more 
+obvious, as is clear from thqpossibility of fronting the infinitive clause: 
+You have to pay to go in. 
+- (In order) togo in, you have to pay. 
+He waited to see her. 
+- ?(In order) to see her, he waited. 
+Similarly, unlike begin + infinitive, the infinitive following stop is purposive; contrast: 
+She [S] began [V] toeat lunch [O]. 
+em: She [S] stopped [V] to eat lunch [A]. 
+On the other hand, these two verbs have matching uses in complementation Type [B71: 
+eating lunch 
+[B71 Subjectless -ing participle clause as object 
+16.39 
+Again, with this type of complementation, the subject of the nonfinite verb 
+is usually identical with the subject of the preceding verb: 
+I love listening to music. 
+The accused denied having met the witness. ' 
+- 
+['The accused denied that heishe had met the witness'] 
+This rule accounts for the restriction that when the participle is followed by 
+a reflexive pronoun, the pronoun normally has to agree (in number, person, 
+and gender) with the subject of the superordinate clause: 
+E:] enjoys singing to [if',":!] 
+- 
+But with one small group of verbs (marked '2' in the list below) it is not the 
+understood subject of the participle, but its understood object that is identified 
+with the subject of the superordinate clause. In such cases, therefore, the 
+participle construction matches in meaning the passive of the corresponding 
+infinitive construction [B6]: 
+mending. 
+painting. 
+That door needs{to be painted. 
+(The above use of need is often replaced, in dialectally restricted usage, by an 
+equivalent use of want.) 
+For an additional group of verbs (marked '3' in the list below), the subject 
+of the participle is indefinite, and is independent of the subject of the 
+preceding verb. For example, in He recommended introducing a wealth tax, it 
+is clear that the person recommending the tax is likely to be different from the 
+person(s) who would be responsible for introducing it. The meaning of this 
+sentence is equivalent to that of He recommended the introduction of a wealth 
+tax. 
+In the following list of verbs in the pattern of [B7], Types (i) and (ii) 
+correspond to Type [B6(i)] ('emotive') and Type [B6(ii)] ('aspectual'). The 
+verbs grouped under (iii) are however in this case a miscellany, since further 
+semantic grouping is difficult. 
+
+
+1 190 Complementation of verbs and adjectities 
+(i) (can't) bear' 
+(not) fancy1 
+miss' 
+begrudge1 
+hate1 
+regret's4 
+detestt 
+like1 
+relish1 
+dislike' 
+loathe1 
+resent1 
+dread' 
+love1 
+(can't) stand1 
+enjoy 
+(not) mind' 
+(ii) cease 
+quit 
+commence 
+resume 
+continue 
+(iii) admit4 
+avoid 
+confess4 
+consider 
+deny4 
+deserve2 
+discouraget9 
+envisage'. 
+escape 
+j i ~ r ~ e t ' . ~ . ~  
+(can't) help' 
+imagine1 
+involve', 
+justijj~'.~ 
+need'. 
+permit1' 
+propose 
+r e ~ a l l ' . ~ . ~  
+start' 
+stop' 
+recommend1. 
+remember'. 
+repent 
+require2 
+risk', 
+The verbs of Type (i) preceded by a negative (such as can't bear) have a built- 
+in negative bias, so that they cannot occur in straightforward assertive 
+contexts : 
+Cora doesn't mind waiting. 
+?*Cora minds waiting. 
+They can, however, occur in nonassertive contexts: 
+Do you mind waiting? 
+How can anyone bear wearing clothes like that? 
+and also in 'seiond instance' contexts, ie where the construction refers back 
+to a nonassertive occurrence of the same construction earlier in the discourse: 
+A: I 
+working with that girl. 
+don't fancy 
+B: ~ell.'~~I'm 
+afraid you'll HAVE to 
+I 
+l 
+Superscripts in (he above lists are interprkted as follows: 
+1: The verb also occurs in pattern [B9], ie with a subject preceding the 
+participle (cf 16.42). 
+2: The participle has a 'passive' interpretation (see above). 
+3: The participle has 'independent' interpretation; ie the subject of the 
+participle clkuse is not necessarily coreferential with the subject of the 
+preceding verb, and may have indefinite meaning. 
+4: The participle may occur with a perfective construction: 
+I admit having seen it. 
+111 
+But with such verbs, the nonperfective construction can also be used with 
+past meaning. Thus [l] is synonymous with [2]: 
+I admit seeing it. 
+121 
+Typesof verb complementation 1191 
+This paraphrase relation, however, exists mainly with verbs of dynamic 
+meaning; contrast verbs of stative meaning: 
+I admit knowing him. 
+# I admit having known him. 
+5: On the construction with try, cf 16.40. 
+Examples of prepositional verbs belonging to this class ([B7pr]) are: 
+bank on1 
+decide on 
+play at 
+see about1 
+count on1 
+delight in' 
+resort to 
+shrinkfiom 
+Examples of phrasal verbs ([B7ph]) are: 
+break off 
+give up 
+leave off 
+put off 
+take up 
+Examples of [B7ph-pr] are: 
+do away with 
+get around to 
+go in for 
+look forward to 
+The following sentences illustrate these patterns: 
+We countedon getting there early. 
+[B7prl 
+I've taken up playing tennis. 
+' 
+[ B ~ P ~ I  
+Jim is looking forward to having the house to himself. 
+, 
+[B7ph-pr] 
+It is important to notice that the to inger around to, look forward to, and resort 
+to is not an infinitive marker, but a preposition. Hence I am looking forward 
+to seeing you is grammatical, but not *I am looking forward to see you. 
+Note 
+[a] The superscript 'l' in the above lists is not added to verbs like stop, a1tho"gh a noun phrase 
+can be inserted between the participle and the preceding verb in such cases: 
+They stopped (her) working all night. 
+This is because the construction containing the extra noun phrase (her in the above example) is 
+arguably complex transitive (cf 16.53) rather than monotransitive (as is evident from the 
+marginally acceptable passive ?She was stopped working UN night). 
+[b] Also we exclude from the above lists catenative verbs such as go in We went running and get 
+in Get mouing! (cf3.49). 
+Choice between the infinitive and participle constructions ([B61 and [B7]) 
+16.40 
+Where both constructions [B61 and [B71 are admitted, there is usually felt to 
+be a difference of aspect or mood which influences the choice. As a rule, the 
+infinitive gives a sense of mere 'potentiality' for action, as in She hoped to 
+learn French, while the participle gives a sense of the actual 'performance' of 
+the action itself, as in She enjoyed learning French. In the case of try, the 
+double meaning is particularly clear: 
+to bribe the jailor. 
+111 
+tried(bribing the jailor. 
+P ]  
+[l] implies that Sheila attempted an act of bribery, but did not manage it; [2] 
+implies that she actually did bribe the jailor, but without (necessarily) 
+achieving what she wanted. With other verbs, the difference is more subtle, 
+and may be overruled or neutralized by the meaning of the verb of the main 
+clause. For example, the negative meaning of avoid and escape cancels out 
+the sense of 'performance' in He escaped/avoided being branded as a traitor. 
+
+
+1 192 
+Complementation of verbs and adjectives 
+Let us consider more carefully three classes of verb which take both 
+constructions : 
+(i) EMOTIVE VERBS (see ~
+~
+p
+e
+ 
+(i) in the lists in 16.38 and 16.39). With the 
+verbs which take both constructions (dread, hate, like, loathe, love, and 
+prefer) the bias of the infinitive towards 'potentiality' tends to favour its 
+use in hypothetical and nonfactual contexts; eg: 
+Would you like{?,::) 
+my stamp collection? 
+I hate{ ?seeming 
+"Seem}rude, bYtyou're blocking the view. 
+O n  the other hand, the participial construction is favoured where the 
+speaker is referring to something which definitely happens or has 
+happened : 
+Brian loathed 
+~n the country. 
+(But with would loathe, the infinitive is just as acceptable as the -ing 
+participle.) 
+Here to live implies that Brian could exercise choice about where to 
+live, whereas living presupposes that he actually did live in the country, 
+and probably had no choice in the matter. But in other contexts there is 
+little appreciable difference between the two constructions: 
+]for yourself, or [~:.~]i~ a restaurant? 
+Do you prefir cobking 
+(ii) ASEECTUAL VERBS of beginning, continuing, and ending also in many 
+cases take ;both constructions : 
+Lucy stalted/continued/ceased 
+{l0 
+writing 
+write) while in hospital. 
+In such examples as this, there is no observable difference of meaning 
+between the constructions. But in other cases, a contrast between 
+'potentiality' and 'performance' may influence the choice: 
+to speak, but stopped b'ecause she objected. 
+speaking, and kept on for more than an hour. 
+The association of the -ing participle with the progressive aspect may 
+also influence a preference for the participle where multiple activities 
+are involved: 
+to open all the cupboards. 
+He began opening all the cupboards. 
+Here opening is more appropriate than to open. While some verbs in this 
+group (begin, continue, cease, start), allow both constructions, others 
+(finish, stop) allow only the participle construction. (Go on and keep (on) 
+may be classified as catenative verbs (cf 3.49); onfinish/stop followed by 
+the infinitive, cf 16.38 Note [b].) 
+Types of verb complementation 1 193 
+(iii) RETROSPECTIVE VERBS. For three verbs forget, remember, and regret, the 
+'potentiality'/'performance' distinction becomes extended into the past 
+so that there is a temporal (as well as in part modal) difference between 
+the two constructions. The infinitive construction indicates that the 
+action or event takes place after (and as a result of) the mental process 
+denoted by the verb has begun, while the reverse is true for the participle 
+construction, which refers to a preceding event or occasion coming to 
+mind at the time indicated by the main verb: 
+I remembered to fill out the form. ['I remembered that I was to fill 
+out the form and then did so'] 
+I remembered filling out the form. ['I remembered that I had filled 
+out the form'] 
+i 
+I forgot togo to the bank. ['I forgot that I was to go to the bank, and 
+therefore did not do so'] 
+I forgot (about) going to the bank. [rare without about; 'I forgot that 
+I went to the bank'or '. . . that I should have gone. . .'] 
+I regret to tell you that John stole it. ['I regret that I am about to tell 
+you that John stole it'] 
+I regret telling you that John stole it. ['I regret that I told you that 
+John stole it'or '. . . that I am now telling you . . .'l 
+[B81 Complementation by to-infinitive clause (with subject) 
+16.41 The verbs in this group (as distinct from the apparently similar 'object + 
+infinitive' construction; cf 16.50) are restricted to a small number chiefly 
+denoting (not) liking or wanting: (can't) bear, desire, hate, like, love, prefer, 
+want, and wish: 
+They don't like the house to be left empty. 
+I wouldn't want you to lose your way. 
+After these verbs, the noun phrase preceding the infinitive cannot be made 
+the subject of a passive main clause: *The house isn't liked to be left empty (by 
+them). 
+There is moreover an alternative construction (chiefly restricted to AmE) 
+in which the noun phrase is preceded byfor which marks it as the subject of 
+an infinitive clause, rather than as object of the main clause: 
+Jack prefers for his wife to drive the truck. (esp AmE) 
+These two observations point in the direction of a monotransitive analysis of 
+such verbs. 
+In the following, however,for has a different status and must occur in both 
+AmE and BrE : 
+They arranged for Mary to come at once. 
+In this case the construction is that of a prepositional verb arrange for 
+([Blpr]), the infinitive clause acting as prepositional object. Other examples 
+
+
+1 194 Complementation of verbs and adjectives 
+where for occurs as part of a prepositional verb are: askfor, call for, ache for, 
+aim for, burn for, burst for, care for, clamour for, crave for, hope for, itch for, 
+long for, plan for, prepare for, wait for, yearn for: 
+We were all aching/burning/bursting for the performance to begin. 
+They planned for the mayor to arrive on the following day. 
+For some of the verbs in these clauses, the that-clause with should ([B3(ii)]) is 
+an alternative form of complementation : 
+They planned that the mayor should arrive on the following day. 
+A further reason in favour of a monotransitive analysis of verbs of Type 
+[Blpr] is the possibility (in some cases) of a passive, with or without 
+extraposition : 
+For the administration to resign so quickly was not called for. 
+It had been arranged for the food to be served indoors. 
+Note 
+[a] Some [Bgpr] verbs, such as arrange for, planfir, and preparefir, also have a [B21 construction 
+in which they are followed by a direct object. Compare: Haw you arranged the meeting? Hove 
+you arranged for the meeting? Compare also She asked for the children to leaue and She asked the 
+children to leaue. 
+[b] Desire, expect, and intend, although they fit into this category with respect to introductory for 
+and the extraposed passive, also accept the passive of the 'raised object' which applies to [C41 
+(cf 16.50). Thus expect, for example, permits two associated passives: 
+It was not expected for the administration to resign. 
+The administration was not expected to resign. 
+The former of these, however, is felt to be awkward and of marginal acceptability. On such 
+conflicts of classification cf 16.64ff. 
+[B91 Complementation by -ing participle clause (with subject) 
+16.42 
+Verbs which Ccept this pattern comprise a considerable subset of those 
+verbs accepting the subjectless -ing clause as object: they include the verbs 
+marked '1' in the list of 16.39. The genitive form of the subject is an option 
+in formal English (cf 15.12), but is often felt to be awkward or stilted: 
+I dislike himlhis driving my car. 
+We look fortward to youlyour becoming our neighbour. 
+l 
+In some cases, particularly when the subjbct of the participle is not a pronoun 
+and does not have personal reference, the genitive option is rare: 
+Peter stopped the { ?vehicle's }crashing into the fence. 
+, 
+The genitive is a}so rare with a pronoun with nonpersonal reference: 
+I look forward to 
+getting warmer in spring. 
+' 
+{?is] 
+The verbs of negative meaning stop, prevent, and prohibit have a related 
+ditransitive construction (cf 16.56f) in which the preposition from precedes 
+the -ing clause as second object : 
+They tried toprevent the planefrom landing on the runway. 
+Types of verb complementation 1 195 
+Thus thefiom is optional. 
+In the very few cases where we have a choice between an -ing participle 
+and a to-infinitive construction there is usually felt to be a difference of aspect 
+or mood such as that described in 16.40: 
+I hate the children to quarrel [. . . they're ordinarily such good 
+friends]. 
+[l] 
+I hate the children quarrelling [. . . all the time]. 
+L21 
+[I] focuses on the children's 'potential' for quarrelling; [2] emphasizes their 
+'performance' - the point being that they do quarrel, rather often in fact. An 
+aspectua: difference is uppermost in: 
+chiming (. . . all night long). 
+to chime (. . .just when I'm going to sleep). 
+The infinitive suggests a single chime, while the participle suggests continual 
+chiming (cf4.35,4.67f). 
+Note 
+Verbs of the 'observational' type, eg: notice in I noticed him writing a letter, do not belong in this 
+group, and are dealt with in 16.53. For such verbs, the genitive is not a possible alternative: *I 
+noticed his writing a letter. 
+Complex transitive complementation 
+16.43 
+In 2.16 we applied the term COMPLEX TRANSITIVE to verbs in the patterns 
+SVOC and SVOA. In this chapter we extend the term to other clause patterns 
+in which an object is followed by another element which is not an object (eg 
+a nonfinite clause). A distinguishing characteristic of complex transitive 
+.. complementation is that the two elements following the verb (eg object and 
+object complement) are notionally equated with the subject and predication 
+respectively of a nominal clause. For example: 
+MONOTRANSITIVE : 
+She presumed that her father was dead. 
+[l] 
+She presumed her father to be dead. 
+COMPLEX TRANSITIVE : 
+l21 
+She presumed her father dead. 
+[31 
+In [3], her father (0) and dead (C) are equivalent in meaning to a separate 
+clause, viz the that-clause in [l]. This relationship remains where the object 
+complement is expanded into an infinitive clause, as in [2]. Yet her father to 
+be dead, in spite of its clause-like meaning and appearance, does not act 
+syntactically as a single constituent, as is evident in the passive, where the 0 
+, 
+is separated from its complement: 
+Her father was presumed (by her) to be dead. 
+This divisibility into two elements of a semantically clausal construction 
+following the verb is the defining property of complex transitive complement- 
+ation. 
+We begin with three already familiar patterns of complex transitive 
+complementation: those corresponding to [Al-A31 (cf 16.21 -4). 
+Note 
+On the similarities between complex transitive and ditransitive complementation, see 16.66fi 
+
+
+11 96 Complementation of verbs and adjectives 
+Types of verb complementation 1 197 
+[Cl] Adjective phrase as object complement 
+16.44 
+The SVOC pattern (cf 2~16) in which the object complement is an adjective 
+phrase is found with verbs which, like copular verbs, may be divided into 
+CURRENT and RESULTING types: 
+You should keep the cabbage fresh. 
+That music drives me mad. 
+The verb keep in [l] introduces the current attribute fresh, while the verb 
+drive in [2] introduces the resulting attribute mad. These two verbs therefore 
+exemplify the two main categories of complex transitive complementation in 
+this pattern. The current verbs (cf 16.21f) are usually staiive, and the 
+resulting verbs are always dynamic. Further examples of each type are: 
+CURRENT 
+RESULTING 
+(i) hold [C21 
+(v) drive [C41 
+keep [C21 
+get [C41 
+leave [C21 
+make lC2. C41 
+(ii) call [C21 
+prove [B3; ~ 2 , - ~ 4 ]  
+confess [B3, C2, C41 
+render [C41 
+profess [B3, C2, C41 
+send 
+pronounce [B3, C2, C41 
+turn 
+report [B3, C41 
+(vi) certify [B3, C2, C41 
+(iii) like 
+prefer [B31 
+declare [B3, C2, C41 
+proclaim [B3, C2, C41 
+want 
+wish [B3, C2, C41 
+(iv) believe [B3, C2, C41 
+consider [B3, C2, C41 
+deem [ ~ 3 :  
+C2, C41 
+find [B3,(=2, C41 
+hold [B3, C41 
+imagine [B3, C2, C41 
+judge [ ~ 3 , \ , ~ 2 ,  
+C41 
+presume [B3, C2, C41 
+rate [C2,&] 
+reckon [B3; C2, C41 
+suppose [B3, C2, C41 
+think [B3, C2, C41 
+Type (i) is a cate ory of current verbs of general meaning; Type (ii) consists 
+of factual speech i 
+ct verbs (cf 16.31); Type (iii) of volitional verbs; Type (iv) 
+of verbs of intellectual state; Type (v) of general resulting verbs; and Type 
+(vi) of resulting verbs referring to speech acts which have the performative 
+force of declarations. (Hold occurs twice in the above list: as a general verb 
+[Type (i), as in She held her head high]; and as an intellectual state verb [Type 
+(iv), as in I hold you responsible]). The symbols added after some verbs 
+indicate other related complementation types to which those verbs belong: 
+[B31 The verb can also be used monotransitively (cf Note [a]) with a 
+that-clause. 
+[C21 The verb can also occur with a noun phrase as object complement. 
+[C41 The verb can also occur with an object + infinitive construction. 
+Examples: 
+The secretary left all the letters unopened. 
+(9 
+The doctors pronounced her condition utterly hopeless. 
+(ii) 
+I want my coffee stronger than this. 
+(iii) 
+We've alwaysfiund the assistants veryfiiendly. 
+(iv) 
+The long walk made us all hungry. 
+(v) 
+They have declared the house unfit for habitation. 
+(vi) 
+Note that the adjectival complement may contain modifiers and adjectival 
+complementation (cf 16.68-83). A passive construction in which the direct 
+object becomes subject is also an important criterion: 
+All the letters were lefi unopened (by the secretary). 
+(i) 
+Her condition waspronounced utterly hopeless (by the doctors). 
+(ii) 
+Note 
+[a] There is sometimes a meaning difference between the object complement co?structlon and 
+the corresponding that-clause [B31 or object + infinitive [C41 construction: 
+I imagined myself severely ill. 
+L31 
+# I imagined myself to be severely ill. 
+[4l 
+Sentence [3] suggests that the speaker is indulging in a flight of fancy; sentence [41 suggests that 
+the speaker is deluding himself (eg that he is a hypochondriac). A difference is also to be 
+observed between 151 and [61: 
+They got him angry. 
+[4 
+# They got him to be angry. 
+[61 
+where [5] suggests 'made him angry in spite of himself', and [6] suggests 'persuaded him to be 
+angry'. (Yet a third meaning is represented by Don't get me wrong ['Don't misunderstand me'].) 
+Two further contrasts are: 
+We found the children undernourished. ['We encountered them in that condition'] 
+[7] 
+# We found the children to be undernourished. 
+[g] 
+['Our examination revealed their condition'] 
+and : 
+He declared the meeting official. 
+L91 
+He declared the meeting to be official. 
+[l01 
+where [g] has a performative and resultative force ('The meeting becameofficial as a result of his 
+announcement') not regularly present in [IO]. 
+[b] Haw in sentences such as We have two employees sick is not a member of the [Cl] category, 
+but belongs to a special have-existential construction to be discussed, with existential sentences 
+in general, in 18.51. Since it has no passive, thisclause construction lacks one criteria1 feature of 
+complex transitive constructions: *Two employeesare hadsick. 
+[c] There is a variant order in which the object complement precedes the object; eg: He thought 
+desirable most of the women in the room (cf 18.37). This order tends to occur when the object is a 
+long noun phrase. 
+16.45 
+In addition to the verbs listed in 16.44 above, there are many verbs which 
+belong more peripherally to Type [Cl]. Their membership is more peripheral 
+in one or both of the following respects: (a) They occur only in restricted 
+sequences such as rub . . . dry (cf 16.17); (b) They can occur in the [Bl] 
+monotransitive construction without appreciable change of meaning; ie, the 
+object complement is optional, and resembles an optional adverbial. In the 
+following typical collocations, the object noun phrase is symbolized by N : 
+
+
+Types of verb complementation 1199 
+1 198 Complementation of verbs and adjectives 
+CURRENT 
+RESULTING 
+bring (a child) up healthy' 
+Boil (an egg) so$' 
+buy N cheap1 
+crop (hair) short1 
+return (a'letter) unopened1 
+freeze N hard1 
+serve (food) hot/coldl 
+paint N redlbluel . . .' 
+sell N cheap/newl 
+roll N flat 
+sweep (the floor) clean1 
+colour N blue/yellow/. . .l 
+dye N pinklgreenl . . .l 
+knock (someone) senseless 
+polish N smooth1 
+scrape N clean' 
+swing (a door) open 
+For those combinations marked 'l', the object complement could be easily 
+omitted without a change in the basic sense of the verb. 
+Among resulting attributes, the adjectives open, loose,free, and clean are 
+particularly common: push N open, shake N loose, set N free, wipe N clean. 
+The collocations make sure and make certain are 
+in that the object 
+is a that-clause and always follows the adjectival complement: 
+Please make sure/certain that you enclose your birth certificate. 
+~ h e i e  
+is no passive *be made sure/certain . . . With other collocations, the 
+that-clause object is postponed by extraposition (cf 18.35): 
+He found it strange that no one else had arrived. 
+I think it very odd that she left without saying goodbye. 
+The emperor pronounced it illegal for landlords to enfranchise their 
+tenants. 
+Extraposition is optional with make N clear, and therefore the preparatory it 
+may be omitted : She made (it) clear that we were regarded as trespassers. 
+Note 
+[a] Some collocations, require the object to be a reflexive pronoun: I laughed mysel/sick; They 
+roared themselves hoaise. Here the object complement cannot be omitted: 'I laughed myself: 
+[b] The resultative paqern illustrated in this section is quite productive, and occurs with rare or 
+newly-converted verbs,such as sellotape and scotchtape: sellotape Nfit (BrE); scotchtape Nflat 
+<AmE). Similarly: 
+1 
+\ 
+I've deepjrozen the bread solid. 
+[C21 Noun phrase as object complement 
+16.46 
+Most of the verbs listed in 16.44 can occur also with a noun phrase 
+l 
+complement. In addition, there are a few verbs which occur with a noun 
+phrase, but not with an adjective phrase, as complement, eg: appoint. These 
+verbs, marked 'l' in the list below, can also occur with the object + infinitive 
+construction : 
+The queen ajpointed William Cecil (to be) her personal secretary. 
+The list is subdivided into categories corresponding to those in 16.44: 
+(i) hold2 
+(iv) believe 
+(v) appoint1* 
+2* 
+keep2 
+consider2 
+choo~e'.~.~ 
+leave2 
+deem 
+e l e ~ t " ~ , ~  
+(ii) call 
+esteem1* 
+2. 
+make 
+confess 
+find 
+prove 
+profess 
+imagine2 
+vote' 
+pronounce 
+judge2 
+(vi) 
+presume 
+(iii) wish 
+certifv2v3 
+rateZ 
+christenlS3 
+reckon2 
+crown1s2v3 
+suppose 
+declare 
+think 
+proclaim 
+n ~ m e l . ~ , ~  
+The superscript '2' indicates that the as-construction (cf 16.47) is also possible. 
+The superscript '3' indicates that the verb is also monotransitive, and that 
+the verb retains the same meaning when the object complement is omitted. 
+Hence She appointed him secretary implies that she appointed him. Examples 
+of each sub-type follow. With profess and wish, which are used to illustrate 
+sub-types (ii) and (iii) respectively, a reflexive pronoun as object is normal. 
+She held her niece (a) captive for several years. 
+6) 
+The princeprofissed himself a supporter of free speech. 
+(ii) 
+I have often wished myself a millionaire. ' 
+(iii) 
+Charles does not esteem him a trustworthy adviser. 
+(iv) 
+The committee has elected you its chairman. 
+(v) 
+Her parents named her Sophia after her grandmother. 
+(vi) 
+Some verbs in this pattern are unlikely to occur in the active; eg: think, 
+believe, reckon. The following are examples of the passive construction: 
+Her niece was held (a) captive for several years. 
+(i) 
+She was named Sophia after her grandmother. 
+(vi> 
+As with Type [Cl], the object may be a clause postponed by extraposition: 
+We have made it a condition that the new agreement be signed by ail the 
+original signatories. 
+He has proved it a fallacy that old age brings wisdom. 
+Note 
+[a] The zero article occurs optionally with captive and prisoner as object complements, as in (i) 
+above: She held her niece (a) caprice. Hold . . . captiw/prisoner and keep . . . captive/prisoner are 
+unusual in that the omitted article is indefinite rather than definite. Examples of the zero article 
+with definite meaning (cf5.42) are: 
+Edgar was judged overall winner. 
+They appointed Sue captain of the athletics team. 
+[b] The object + infinitive construction with tobe, as with Type[CI], is not alwaysequivalent to 
+the pattern with a phrasal object complement. For example, name can be used with to be only if 
+the following noun phrase designates a future roleor status: 
+Her parents named her ('to be) Gladys. 
+The selectors named her (to be) a member of the touring team. 
+As can be used with name only on the same condition as applies to to be: 'Her parents named her 
+as Gladys (cf16.47 below). 
+[c] The copular relation can obtain not only between the object and complement as in [l], but 
+also between subject and complement as in [2]: 
+
+
+1200 Complementation of verbs and adjectives 
+She made him a good husband. (SV0,C.) 
+She made him a good wife. 
+(SVOiCJ 
+01 
+(21 
+[I] has the passiveanalogue He lvasn~adeagwdhusba~~d; 
+but in the entirely different construction 
+of 121, where the copular relation is between she and a good wi/e. no passive is possible. The 
+meaning is: 'She was a good wife to him'. A prepositional verb of this same unusual pattern is 
+strike. . . as in, for example: 
+He struck me as a brilliant strategist. 
+where a brilliant strategist is subject complement. 
+[Clpr] and [C2pr] Object complement following prepositional verb 
+The preposition as designates a copular relation, particularly in specifying a 
+role or status associated with the direct object: Thechurch condemned the relic 
+as a fraud. Following a complex transitive verb and a direct object, the 
+prepositional complement of as functions semantically as an attribute, and 
+may be termed a 'prepositional object complement' in the same way as the 
+noun phrase following a transitive prepositional verb is called a prepositional 
+object: 
+a genius. 
+[C21 
+as a genius. 
+[Czpr] 
+to be a genius. 
+[C41 
+- He was cohidered (as) a genius. 
+to be a genius. 
+Consider as, like regard as, class as, etc, therefore exemplifies yet another type 
+of prepositional verb: one that is followed by a prepositional object 
+complement rather than a prepositional object. 
+Occasionally the preposition for occurs in this copular function, instead of 
+as : 
+He took these words as evidence. 
+He took mefor a fool. 
+l 
+In the fo~lowin~list, 
+for verbs in column (i) the preposition is optional, where 
+for verbs in col$mn (ii) the preposition is obligatory: 
+(i) appoint (as)' 
+choose (as) : 
+count (as) 
+deem (as) I 
+esteem (as)' 
+rate (as) 
+reckon (as) 
+report (as) / 
+elect (as)' I 
+certifv (as) 
+crown (as)' 
+make (into)' 
+proclaim (as) 
+(ii) accept as 
+acknowledge as 
+characterize as 
+class as , 
+define as 
+describe as 
+intend as' 
+mistake for 
+regard as 
+see as 
+take aslfor 
+treat as 
+use as 
+Most verbs in [Clpr] and [CZpr] can also introduce an adjective phrase in the 
+function of prepositional object complement: 
+Types of verb complementation 1201 
+The experts rated his paintings (as)poor but representative of 
+their class. 
+They classed Jane aspartially sighted. 
+The media described the situation as hopeless. 
+The situation was described as hopeless. 
+Verbs not allowing this construction are marked '1' in the above lists. The 
+construction is exceptional in allowing an adjective phrase to occur after a 
+preposition. A more orthodox construction is obtained by adding the word 
+being before the adjective phrase, and thereby converting the prepositional 
+complement into a nominal -ing clause: 
+The media described the situation as being hopeless. 
+Note 
+[a] Count as and rate as can also occur in an analogous asconstruction without the object, as 
+'prepositional'copular verbs; eg: This counts/ratesasa notablesuccess (cf 16.22 Note Ibl). 
+[b] Although as is classed as a preposition in the above pattern, it in some ways resembles the 
+conjunction as which introduces clauses of comparison (cf 15.71). Consider the following curious 
+examples, in which as introduces on the one hand a clause and on the other hand a noun phrase 
+in an appositional relation to the clause: 
+Report me as I am - a  superannuated don. 
+He described her as hefound her, a liar. 
+[C31 ~dmplementation by object and adjunct ., 
+16.48 
+Our next category, Type [C3], consists of verbs which occur in the SVOA 
+pattern (cf 2.16), ie verbs which have as their complementation an object 
+followed by a predication adjunct. The most characteristic adjuncts to occur 
+in this pattern are prepositional phrases of space, and more particularly of 
+direction; eg: 
+I slipped the key into the lock. 
+He stood my argument on its head. 
+Take your hands out ofyourpockets. 
+The passive is illustrated by: 
+The key was slipped into the lock. 
+[lal 
+Sentence [2] exemplifies the abstract or metaphorical use of such verbs and 
+adiuncts. Manv of the verbs which fit into this pattern are causative verbs of 
+motion: put, get, stand, set, sit, lay, place, send, bring, take, lead, drive, etc. 
+The class is open-ended, since verbs normally without causative meaning 
+can be adapted to this function; eg: show, see, elbow, etc in: 
+The attendant showed us to our seats. ['conducted us. . .'] 
+May I see you home? ['escort you. . .'l 
+He elbowed and bribed his way to fame. 
+They talked me into it. ['persuaded me. . .'l 
+Other verbs are associated with space position adjuncts rather than direction 
+adjuncts : 
+They left the papers at my ofice. 
+Always keep your eyes on the road when driving. 
+
+
+1202 Complementation of verbs and adjectives 
+The attackers caught us offour guard. 
+He wished them at thebottom ofthe sea. 
+Again, the spatial meaning of the adjunct may beunderstood in some abstract 
+or metaphorical sense, as in the third example above. 
+Adjuncts of other semantic types are less common, but instances are the 
+adjunct of manner following treat: 
+badly. 
+Her parents treated her 
+asllike a small child. 
+and the optional adjunct of duration following last: 
+This money will have to last you (Cfor) sixmonths). 
+Note 
+[a] Treot has a different meaning when the adjunct is omitted: 
+Her parents treated her. [= 'did something pleasant for her'] 
+[b] Superficially similar to the above pattern is that illustrated by remind andfirnisl~ followed by 
+an object and a prepositional phrase: 
+She reminds me of my sister. 
+They furnished all the passengers with lge jackets. 
+These however are classed as transitive prepositional verbs (cf 16.7-S), and will be dealt with in 
+16.56f below. The difference between these prepositional verbs and verbs of complementation 
+Type [C31 is that in the former case the lexical verb governs a particular preposition, remind. . . 
+oj; furnish . . . with. (Alternative prepositional constructions are sometimes available, however: 
+provide . . . with,provide . . .fir.) 
+Variants of complex$ransitive complementation 
+16.49 
+We now examine variants of complex transitive complementation in which 
+the direct object is followed by a nonfinite clause acting as predication 
+adjunct. All four kinds of nonfinite construction (cf 14.6-8) are possible: 
+[C51 bare infinitive : 
+[C71 -ed participle : 
+I heard someone slam 
+We saw him beaten by the 
+The nonfinite clause in these patterns (in italics in the above table) has no 
+subject itself, but its implied subject is always the preceding noun phrase, 
+which is object of the superordinate clause. This noun phrase, which if a 
+personal pronoun is in the objective case, is commonly termed a RAISED 
+I 
+OBJECT (cf further 16.64ff3: semantically, it has the role of subject of the 
+nonfinite verb; but syntactically it is 'raised' from the nonfinite clause to 
+function as object of the superordinate verb. Hence in general, this noun 
+phrase (in italics in the table below) can become subject of the corresponding 
+passive. (The passive of [C51 normally requires substitution of a to-infinitive 
+for a bare infinitive; the passive of [C71 is of marginal currency; cf 16.54 
+Note [a].) 
+Types of verb complementation 1203 
+I [C41 He was known to be a spy. 
+[C61 Ann was caught reading my 
+I 
+diary. 
+I 
+On the face of it, the patterns [C41 and [C61 are indistinguishable from the 
+monotransitive patterns [B81 (eg: She hates the train to be late) and [B91 (eg: 
+She hates the train being late), in which the nonfinite clause has a subject of its 
+own. The ability of the noun phrase preceding the nonfinite verb to become 
+subject of a passive is, however, an important distinction between them (see 
+further 16.51 and 16.53). 
+[C51 Someone was heard to slam 
+the door. 
+Note 
+These patterns [C41 and [C61 are distinguished from corresponding patterns in which the 
+nonfinite clause is an adverbial by the fact that the implied subject of the nonfinite verb is 0 
+rather than S. Note the ambiguity of: 
+She left him tofinish the job. 
+She left him holding the baby. 
+[C71 He was seen executed by a firing 
+squad. 
+[C41 Object + to-infinitive complementation 
+16.50 
+The verbs in this group are rather numerous, and may be subdivided, 
+semantically, into the following categories: 
+" 
+(i) announce 
+(iii) intend 
+(vii) assist 
+declare 
+mean 
+bother 
+proclaim 
+pronounce 
+report 
+repute [esp P] 
+rumour [P onlyl 
+say [P onlyl 
+tip (esp BrE) 
+(ii) assume 
+believe 
+conceive (formal) 
+consider 
+expect 
+feel 
+find 
+imagine 
+know 
+presume 
+reckon 
+see [P onlyl 
+suppose 
+take 
+think [esp P] 
+understand 
+(iv) appoinf 
+elect 
+name 
+vote 
+(v) cause 
+drive 
+force 
+get [no P] 
+lead 
+prompt 
+bribe 
+condemn 
+dare 
+defy 
+encourage 
+help 
+induce 
+inspire 
+press 
+summon 
+(vi) allow 
+authorize 
+compel 
+constrain 
+enable 
+entitle 
+equip 
+fit 
+oblige 
+permit 
+require 
+[P = Passive] 
+
+
+1204 Complementation of verbs and adjectives 
+Types of verb complementation 1205 
+Types (i) and (ii) correspond to the factual verbs of category [B31 discussed 
+in 16.31: the nonfinite construction following these verbs can often be 
+replaced by a that-clause with an indicative verb. Compare: 
+The police reported that the traffic was heavy. 
+[B31 
+= The police reported the traffic to be heavy. (formal) 
+[C41 
+{ 
+John believed that the stranger was a policeman. 
+[B31 
+= John believed the stranger to be a policeman. (formal) 
+[C41 
+With factual verbs such as these, the nonfinite clause normally contains the 
+verb be or some other verb of stative meaning. Especially when the nonfinite 
+main verb is other than be, the finite clause (of pattern [B3]) is preferred to 
+the infinitive one, except that the infinitiveconstruction providesaconvenient 
+passive form: 
+The traffic was reported to be heavy. 
+The stranger was believed to be a policeman. 
+Some verbs in this construction have no that-clause equivalent: 
+They tipped him to be the next president. (esp BrE) 
+- He was tipped to be the next president. 
+(*They tipped that he would be the next president.) 
+Some verbs (marked [P only] in the list above) occur only in the passive 
+version of this construction: 
+The field marshal was said to be planning a new strategy. 

@@ -1,0 +1,1273 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 14: The Complex Sentence
+Covers: Coordination, Subordination, Reported speech, Conditional clauses
+[Part 7 of 9]
+============================================================
+
+type, more than one clause element can be contrasted. For example, there 
+are two contrasts in: 
+I 
+i 
+2 
+I 
+2
+ 
+S more aboutfilms than Susan does about music. 
+Even three-variable and four-variable comparisons are possible: 
+I 
+2
+ 
+3 
+I 
+2 
+Walter played the piano more skilfully than his brother conducted 
+3 
+the orchestra. 
+I
+2
+ 3 
+4 
+I
+ 
+2
+ 
+Walterplayed the piano more often in Chicago than his brother conducted 
+3 
+4 
+concerts in the rest of the States. 
+On the other hand, the contrast may affect only part of a clause element. 
+For example, the verbs may be lexically identical and differ only in tense or 
+in the addition of a modal auxiliary. In such cases it is normal to omit the 
+rest of the comparative clause after the auxiliary: 
+I hear it more clearly than I did. ['than I used to hear it'] 
+I get up later than I should. ['than I should get up'] 
+If the contrast lies only in tense, it may be expressed in the comparative 
+clause solely by an adverbial: 
+She'll enjoy it more than (she enjoyed it) last year. 
+This provides the basis for the total ellipsis of the subordinate clause in 
+examples like : 
+You are slimmer (than you were). 
+You're looking better (than you were (looking)). 
+The only contrast may be in the modality expressed in the main clause or 
+through a pushdown comp-element in the comparative clause (cf 15.65): 
+He's a greater painter than people suppose (he is). 
+She thinks she's fatter than she (really) is. 
+. 
+The comp-element itself may contain a partial contrast without the pushdown 
+device : 
+She is a better psychologist than ((she is) a)pathologist. 
+The house is much taller than it is wide. 
+When the contrast involves two points on the same scale, one higher than 
+the other, the part following than cannot be expanded into a clause. Than is 
+then functioning as a preposition in a nonclausal comparison (cf 15.64 Note 
+[a]): 
+It's hotter than just warm. (cf It's hotter than 90°.) 
+He's taller than tall. 
+She's wiser than merely clever. 
+She became prettier than just middling pretty. 
+We drove farther than (beyond) Chicago. 
+They fought harder than that. 
+We have to build it stronger than this. 
+When the contrasts are not on precisely the same semantic scale, the 
+construction is comparative and can be expanded : 
+He's more shrewd than (he is) clever. 
+(He's more shrewd than clever can also be the quasi-coordinative type, 'He's 
+shrewd rather than clever', cf 15.64 Note [b]). 
+It is perhaps the existence of this nonclausal comparison of degree that 
+makes it necessary to repeat the subject and verb in sentences such as The 
+house is much taller that it is wide, since *The house is much taller than wide 
+would suggest the absurdity of a semantic overlap between talland wide. The 
+
+
+1134 Syntactic a n d  semantic functionsof subordinate clauses 
+quasi-coordinative type, however, allows semantic disparity: It's a big house, 
+but more tall than wide ['tall rather than wide']. 
+Note 
+[a] There is a restriction on the partial contrast in the verb element. It is acce~table to sav: 
+I stared at her more often than I (should houe done. (BrE) 
+But it is odd to use the simple present or future sholl/a~ill alone as the partial contrast in the 
+comparative clause: 
+*I liked her better than I do. 
+*Tom saw Betty more often than he t~~ill. 
+We need to add a temporal adverbial to point the contrast: 
+I liked her better than I do now. 
+Tom saw Betty more often than he will i t  thefiture. 
+[bl Analogous to the nonclausal comparison exemplified in It> hotter than just worm is another 
+type of nonclausal comparison expressed by more than followed by one of a range of syntactic 
+units: 
+I am more than koppy to hear that. 
+He more than complained; he threw the whole book of rules at me. 
+They were more thon slightly wounded. 
+She behaved more thanfoirly to him. 
+Semantically, more thon expresses a higher degree, but it also conveys a comment on the 
+inadequacy of the linguistic expression. For example, the last sentence could be rephrased 
+'Fairly is an inadequate word to describe the way she behaved to him'. 
+[c] The contrast between the two clauses is, exceptionally, positive versus negative in the idioms 
+more ojien thon not'and more likely than not (cf 15.64 Note [c]). 
+[dl There are two other contexts in which the comparative clause is omitted. One is where there 
+is anaphoric reference to an implied or actual preceding clause or sentence: 
+I caught the bus from town; but Harry came home even later. [ie'later than I came home'] 
+The other is where the reference is to the extralinguistic situation: 
+You should have come home earlier. [ie'earlier than you did'] 
+Functions of comparative more 
+15.69 The comparative item (which, for present purposes, we identify with the 
+word more) may have seven different functions within the comp-element: 
+(i) determidative (cf 5.lOff): 
+Isabelle has more books than her brother (has). 
+(ii) head of a noun phrase: 
+More (of qyjiiends) are in New York than (are) here. 
+(iii) subjunct (Q8.88ff): 
+\ 
+I agree with you more than ((I agree) with) Robert. 
+(iv) modifier of an adjective head: 
+The article was more objective than I expected (it would be). 
+(v) modifier of a premodifying adjective: 
+It was a more heated discussion than we thought it would be. 
+(vi) modifier okan adverb: 
+The time passed more quickly than (it passed) last year. 
+(vii) modifier of a premodifying adverb: 
+I am more severely handicapped than you (are). 
+In each of the above examples, the whole comp-element is in italics. It will 
+be noticed that in some cases more can constitute the whole of the comp- 
+element. More is a determiner in (i), a pronoun in (ii), and an adverb in all 
+the others. 
+Comparativeclauses 1135 
+In functions (i) and (ii), more refers to quantity and can be replaced in 
+count contexts by a greater number of, as in the first two sentences above, and 
+in noncount contexts by a greater amount of. 
+Function types (iv) and (v) have to be distinguished because of the semantic 
+implications of (v). Consider: 
+There are more intelligent monkeys than Herbert. 
+[l] 
+In [l] we normally imply that Herbert is a monkey of a certain level of 
+intelligence (c$ How intelligent a monkey is Herbert?). That is, by placing the 
+comparative adjective before the noun, we imply that the noun is part of the 
+comp-element and therefore is also implied in the comparative clause. On 
+the other hand, by placing the comparative adjective after the noun, we 
+readily admit the more plausible interpretation that Herbert is a man: 
+There are monkeys more intelligent than Herbert. 
+This difference of meaning accounts for the insult implied in: 
+I've never met a more intelligent monkey than our Chairman. 
+?'he same distinction applies to the difference between (vi) and (vii): 
+I've never seen a dog more obviously friendly than your cat. 
+*I've never seen a more obviously friendly dog than your cat. 
+This last sentence is semantically unacceptable because it implies that the 
+: 
+dog is a cat. 
+The normal position for the adjective phrase is shown in the example for 
+(v), but it can also be preposed 121, or (less usually) postposed [2a]: 
+It was more heated a discussion than we thought it would be. 
+121 
+It was a discussion more lively than we thought it would be. 
+[2al 
+The adverb phrase in (vii) can also be postposed: 
+I am handicapped moreseverely than you (are). 
+Note 
+[a] In its determinative function in (i) or as modifier of an adjective in (iv), more is the 
+comparative of the quantifiers many or much. Thus, more expensiueclothes is ambiguous in: 
+Morton has more expensive clothes than I have. 
+In one interpretation more modifies expensiue, the adjective phrase then being comparative; in 
+the other interpretation more determines the noun phrase ('a 
+greater quantity of expensive 
+clothes'). 
+[b] The modifying sequences more of a . . . and less of a . . . occur with gradable singular or 
+noncount noun heads: 
+He's more of a fool than I thought (he was). 
+It was less of a success than I imagined (it would be). 
+Cfthe howquestion, How much of afool is he? ['To what an extent is he (in your view) a fool?] 
+[c] The comparative items more, -er, and less cannot be used in a definite noun phrase in the 
+comparative construction: 
+*Sally has the better radio than Daniel (has). 
+Contrast: 
+Sally has the better radio (of the two). 
+In certain contexts we can use compared with or relative to instead: 
+The superior reception of Sally's radio accounts for its higher price tag compared with that 
+for Daniel's radio. 
+
+
+113.6 Syntactic and semantic functionsof subordinate clauses 
+Comparative clauses 1 137 
+Contrast: 
+Sally's radio has a higher price tag than Daniel's (radio) (has). 
+[dl The determiner other is used as a comparative item: 
+I don't have any otlrcrcups than those((that1which) I have)in thesink. 
+It can be (less usually) postposed: 
+I don't have cupsother than those ((thatlwhich) I have) in the sink. 
+15.70 
+When more is a determinative or a head of a noun phrase - functions (i) and 
+(ii) in 15.69 - the unit no more ( . . . ) than is synonymous with only as many 
+( . . . ) as in countable contexts or with only as much ( . . . )as in noncountable 
+contexts : 
+Paul has no more friends than I have. 1'. . . only as many as. . .'] 
+I have no more money than you have. [' . . . only as much as. . .'] 
+Ted got no more (of the votes) than he needed. [' . . . only as many 
+as . . .'l 
+She said no more than we expected. [' . . . only as much as. . .'l 
+But when more is an adverb (or its inflectional variant -er is used), as in the 
+other function types in 15.69, no more . . . than has special implications. 
+Consider: 
+Rachel is no more courageous than Saul (is). 
+The sentence implies that both Rachel and Saul are not courageous ('Rachel 
+is not courageous, any more than Saul is courageous'). Here are some further 
+examples : 
+Tom is no more athletic than he ever was. ['Tom is not athletic, any 
+more than he ever was athletic.'] 
+I can no more apologize than I could kneel to them. 
+I would no more think of hitting a student than I would a policeman. 
+No more. . . than has the same meaning when more modifies a gradable noun: 
+She is no more a fool than you (are). ['She is not a fool, any more than 
+you are', 'She is not more foolish . . .'l 
+They are np more scholars than my,pby (is). ['They are no more 
+scholarly. . .'l 
+The rhetorical effect of the construction is not so much to make a comparison 
+as to intensify the negation. That effect is most obvious when the comparison 
+is absurd (cf rhetorical $clauses, 15.37): 
+He's no mbre your friend than I'm your mother. 
+Not any more ( . . . ) than is an emphatic variant of no more . . . than: 
+Paul hasn't any more friends than I have. ['only as many as. . .'l 
+Rachel isn't any more courageous than Saul (is). ['Rachel isn't 
+courageous, any more than . . .'] 
+Not more . . . than, on the other hand, is different from both no more. . . than 
+and not any more . . . than when more is an adverb or modifies a gradable 
+noun : 
+This last sehtence allows for the possibility that Rachel is less courageous 
+than Saul. It may also be merely a denial sentence in response to Rachel is 
+more courageous than Saul (is). 
+Similar distinctions apply to no Iess ( . . . )than, not any less ( . . . ) than, and 
+not less ( . . . ) than, except that the double negative is less common and as a 
+consequence the distinctions are somewhat blurred. 
+Comparisons of equivalence: as. . . as 
+15.71 
+Broadening our discussion of comparison, we take into account not only 
+comparisons of nonequivalence (lack of equivalence on some scale) such as 
+those expressed by more and less, but also comparisons based on other 
+relationships. One such relationship is that of equivalence, expressed 
+principally by the correlatives as . . . as. 
+The as . . . as construction is grammatically parallel to the more . . . than 
+construction, except that the asparadigm lacks the determinative, pronoun, 
+and subjunct functions of more; these gaps are filled by as many (count) and 
+as much (noncount). We can therefore parallel the functions of more listed in 
+15.69, substituting as many and as much where necessary: 
+(i) determinative: Isabelle has as many books as her brother (has). 
+(ii) head of a noun phrase: As many of my friends are in New York as 
+(are) here. 
+(iii) subjunct: I agree with you as much as ((I agree) with) Robert. 
+(iv) modifier of an adjective head: The article was as objective as I 
+expected (it would be). 
+(v) modifier of a premodifying adjective: It was as lively a discussion as 
+we thought it would be. 
+(vi) modifier of an adverb: The time passed as quickly as (it passed) last 
+year. 
+(vii) modifier of a premodifying adverb: I am as severely handicapped as 
+you (are). 
+The reason for differentiating (iv) and (v) and also (vi) and (vii) are the same 
+as in the more . . . than construction (cf 15.69). Contrast I've never seen a dog 
+as friendly as your cat with the unacceptable *I've never seen as friendly a dog 
+as your cat. 
+Notice that the adjective phrase precedes the determiner in (v). The phrase 
+can also be postposed (cf 15.69): 
+It was a discussion as lively as we thought it would be. 
+The adverb phrase in (vii) can also be postposed: 
+I am handicapped as severe[y as you (are). 
+There are parallels between a positive as . . . as sentence and negative more 
+. . . than and less. . . than sentences: 
+Caesar was as ruthless as Attila. 
+Attila was not more ruthless than Caesar. 
+Caesar was not Iess ruthless than Attila. 
+Rachel is not more courageous than Saul (is). 
+
+
+1 138 Syntactic and semantic functions of subordinate clauses 
+Comparative clauses 1 139 
+But they are not.exactly synonymous, since [2] allows. the.possibility that 
+Attila was less ruthless and [31 that he was more ruthless. Similar parallels 
+exist between a negative as . . . as sentence and positive more . . . than and 
+less. . . than sentences, but the negative as. . . as sentence (eg: Caesar W& not 
+as ruthless as Attila) encourages the interpretation of less . . . than, though a 
+heavy stress on the first as allows the interpretation of more . . . than (eg: 
+Caesar was not as ruthless as Attila; indeed, he was more ruthless). 
+In negative superordinate clauses, as. . . as can be replaced by so . . . as, 
+especially when there is total or considerable omission in the subordinate 
+clause : 
+He's not as naughty as he was. 
+He's not so naughty as he was. 
+He's not so naughty (now). 
+Some prefer to use so . . . as with negative clauses. But for some people so 
+tends to carry the absurd implication of a possibility that is then negated, 
+and they therefore find it odd to say: 
+(?)Her baby is not so old as I thought. 
+The reason is that for them the sentence implies that a baby can be old. In 
+other words, an unmarked term old (cf 7.88) cannot be used in this context to 
+cover the whole scale. 
+The first as in the as . . . as construction is sometimes omitted in two 
+contexts: (a) after a copular verb; (b) where a copular verb is implied. 
+(a) The omission of as tends to occur particularly in more informal style, 
+especially if only a noun phrase follows. The single as provides a less 
+emphatic compaiison and is closer to like when as is followed by a noun 
+phrase: 
+They were g k d  as gold while you were away. 
+At the sight, she turned pale as a ghost. 
+You look pretiy as ever. 
+the subject complement may be fronted as in [4], or it 
+se the subject and copul\a are ellipted, as in [5]: 
+White as sno;, it was. 
+Proud as ever, isn't he? 
+l 
+(b) In a rather llterary style, the first as may be omitted in verbless and 
+subjectless suppledentive clauses: 
+Lawson, implacable as ever, contented himself with a glare of 
+defiance. 
+[61 
+Cautious as the rest of her family, she would not give an immediate 
+reply to myquestion. 
+[71 
+He climbed over the wall and dropped onto the ground on the 
+other side, agile as a cat. 
+L81 
+The addition of a verb (where that is possible) would convert the clause 
+into a finite concessive or circumstantial clause with fronting of the subject 
+complement (cf 15.39, 15.47): 
+Cautious as the rest of the family was, she seemed willing to give an 
+immediate reply to my question. 
+Note 
+[a] Count as nrany ( . . . ) as and noncount as n~uch ( . . . ) as are equivalent to more ( . . . ) than 
+when they are premodified by a times-phrase: 
+Five times as many peoplecame to the demonstration as (did) last time. 
+Five times niorepeaple came to the demonstration than (did) last time. 
+1 paid three times as much for the meal as they did. 
+I paid three times more for the meal than they did. 
+Other lexical comparatives can also be used: 
+={ 
+The Gross National Product isfour timesas much/high as (it was) a decade ago. 
+The Gross National Product isfour timesmore/higher than (it was) a decade ago. 
+Twice is used with asmany asor asmuch as rather than with more. 
+Fractions are also used in the as many ( . . .)as and as mucli ( . . . )as constructions: 
+We have a thirdas many students in our class as we had last term. ['a third of the number'] 
+I paid halfas much for the meal as they did. ['half the price'] 
+When again is added, the meaning is equivalent to niore ( . . . ) than: 
+Houses cost a thirdas muchagain this year as they did five years ago. 
+= i 
+['The price is one third higher.'] 
+Houses cost one thirdmore this year than they did five years ago. 
+['Housescost a third more.'] 
+= i 
+There were a thirdasmany orrestsagain for assault this year as there were last year. 
+There were a thirdmore arrests for assault this year than there were last year. 
+But there is uncertainty and divided usage with the constructions when again is added. Some 
+speakers find percentages odd in these constructions: 
+5Oper cent as much 
+{?50per cent as much again] as Iasi year' 
+[b] The construction analogous to mareof a .  . . than (cf 15.69 Note [b]) is as much of. . . as: 
+It was asmuch ofa successas I had imagined it would be. 
+He's as much of a fool as I thought (he was). 
+Analogous to lessof a .  . . than is as littleofa . . . as: 
+It was aslittleofa successas I had imagined it would be. 
+There are no such constructions for plural nouns. 
+[c] As. . .as is used like more. . . than and less. . . than in a nonclausal comparison containing an 
+explicit standard of comparison after the second as (cf 15.64 Note [a]): 
+. The car goes as fast as 100 miles an hour. 
+A reliable quartz watch can cost as little as ten dollars. 
+He drinks as many as three bottles of milk a day. 
+Our factory consumes as much as 500 tons of solid fuel per week. 
+Comparisons of sufficiency and excess 
+15.72 
+Comparative clauses of sufficiency and excess combine the notions of 
+sufficiency or excess with the notions of purpose (cf 15.48) or result (cf 15.49). 
+They differ from comparative clauses of nonequivalence and equivalence 
+(cf 15.63ff) in that they do not match the matrix clause in terms of identical 
+and contrasting elements, and therefore they do not lend themselves to 
+ellipsis. Their structure is relatively independent of the structure of the 
+matrix clause. 
+
+
+1140 Syntactic and semanticfunctionsof subordinate clauses 
+Enough and too 
+15.73 
+One type of comparative construction contains a word or phrase expressing 
+the notion of sufficiency or excess followed by a to-infinitive clause of 
+purpose, result, or condition (cf 15.34 Note [g]). The most common word for 
+sufficiency is enough (as adverb, determiner, or pronoun) and the most 
+common word for excess is the adverb too. Here are some examples of this 
+type of comparison: 
+You're old enough to look ajier yourself. ['. . . so that you can look after 
+yourself.'] 
+I'm much too tired to go out. ['. . . with the result that I won't go out.'] 
+Your teacher was excessively generous to give you an A. ['. . . if he gave 
+you an A.'] 
+They must bepretty cruel to do that. ['. . . if they do that.'] 
+They worked enough to be hungry. 
+He protested too much to be sincere. 
+This coat is just the right length tojt you. 
+There was enough food to feed an army. 
+She knows enough about the topic to explain it to you. 
+Four thousand dollars is an excessive amount to charge even for a luxury 
+cruise like this. 
+There isn't suficient milk to give everybody some. 
+Paraphrase pairs may,be constructed with antonymous items, in which 
+one sentence is positive and the other negative; one sentence has enough or 
+one of its synonyms, and the other tooorone of its synonyms: 
+~ h e ~ ' r e  
+rich enough to own a car. 
+They'relnot too poor to own a car. 
+The bodk is suficiently simple to understand. (formal) 
+The book is not excessively difficult to understand. (formal) 
+If the context all'bws, the infinitive clause may be omitted. Suficient(1y) and 
+excessive(1y) are  ore formal synonyms of enough and too. 
+The negative force of too is shown ip the use of nonassertive forms 
+(cf10.60f). Contrast: 
+She's old enough to do some work. ['She is old enough so that she can do 
+some work.'] 
+She's too oldfo doany work. ['She is so old that she can't do any work.'] 
+Here are further kxamples of too followed by nonassertive forms: 
+He's too weak to help you at all. 
+She's too polite to ever say anything like that. 
+The infinitive clause may also contain a subject: 
+It moves too quickly for mostpeople to see (it). 
+The television in the apartment above was loud enough for us to 
+hear (it). 
+My ambitions are modest enough for me to fufil (them). 
+He was old enough for us to talk to (him) seriously. . 
+Her parents are sufficiently generous for her to take a long vacation 
+abroad at their expense. 
+As the first four of these examples indicate, a direct object or the object of a 
+prepositional verb in a to-infinitive clause may be omitted or retained if it 
+substitutes for the superordinate subject. When there is no subject in the 
+infinitive clause, it is identified with the superordinate subject or with an 
+indefinite subject: 
+She writes quickly enough tofinish thepaper on time. ['for her to finish 
+the paper on time'] 
+The knife is sharp enough to carve the turkey. ['for it to carve the turkey'] 
+And there may be ambiguity as to which identification to make: 
+She was too young to date. ['. . . to date others' or 'for others to date her'] 
+When the subject of the superordinate clause is agentive (cf 10.19), it may be 
+redundantly repeated: 
+She writes quickly enough for her tofinish thepaper on time. 
+She's too politefor her to ever say anything like that. 
+A: Will John lend me money? 
+B : John's much too mean for H ~ M  
+to lend you money. 
+That optional redundancy (sometimes justifiable for emphasis) parallels the 
+optional redundancy that we have. just observed for a direct object or 
+prepositional object. The infinitive may be passive in form: 
+The writing is too faint to be read. 
+In that case the implied subject is identical with the superordinate subject 
+and it is either the implied agent known from the situational context or 
+previous linguistic context or it is indefinite ('to be read by anyone'). But the 
+infinitive may be active without a subject or object (cf Note [bl): 
+The writing is too faint to read. ['for anyone to read'] 
+The food is good enough to eat. 
+When neither subject nor object is expressed in the infinitive clause, 
+ambiguity is possible with verbs that may be used transitively. 
+She is friendly enough 
+[(for us)] to eat ["". 
+] 
+The lamb is too hot (for it) 
+(anything). 
+As we see from the last example, when an adjective phrase modified by too 
+in turn modifies a singular count noun, the phrase precedes the indefinite 
+article (cf 15.71 : as lively a discussion'as . . .). There is no plural or noncount 
+equivalent for this construction. Instead, we have to postpose the adjective 
+phrase: It's food too good to throw away; They arepersons too good to swindle. 
+
+
+1 142 Syntactic and semantic functions of subordinate clauses 
+Comparative clauses 1 143 
+The same problem does not arise withenough, which is usually a postmodifier; 
+but enough usually premodifies when it is a determinative: We have enough 
+money to last. 
+Note 
+[a] There is a threefold ambiguity in If's too hot to eat. Two o f  the meanings have been illustrated 
+above : The larrrb is too hot @r it to eat (artyfhing)) and The lamb is too hot Vor us/me/artyone) to eat 
+(if). In the third meaning it is the prop-it used as a subject to refer to the weather. Both a subject 
+and a direct object can then be supplied: It is too hot (fbr arryone) to eat (anyfhirrg). 
+[b] Traditionally, grammarians have regarded the infinitive clause in The writing is too/aint to 
+read as having a passive meaning ('to be read'), but we analyse it as having an unexpressed 
+subject and object ('for anyone to read the writing'). 
+[C] The constructions enough o/a . . . and.too much of a . . . should be compared with those 
+mentioned in 15.69 Note [bl and 15.71 Note [b] (eg: moreoja . . . thanand asmuchofa . . .as): 
+He's enough of a coward to do that. 
+That's toomuch o f  a bother to think about. 
+CJalso : He ~vas/oolenough to go out ~vithout a coat. 
+So. . . (that) and such . . . (that) 
+15.74 
+The pairs of correlatives so . . . (that) and such . . . (that) also introduce 
+constructions that combine the notion of sufficiency or excess with the notion 
+of result. The adverb so premodifies an adjective or adverb, whereas the 
+predeterminer such precedes a noun phrase. The adjective premodified by so 
+may itself premodify the head of a noun phrase. For both so and such, the 
+noun phrase may have either the indefinite article or the zero article. So 
+precedes the indefinite article together with the adjective it premodifies, but 
+such (whose noun phrase need not have an adjective) does so alone. 
+I'm so happy to hear your good news that I could kiss you. 
+They walked so quickly that I couldn't catch up. 
+So few (p'pople) came to the meeting that it was adjourned. 
+The children had so good a time that they wouldn't leave. 
+The soldiers encountered such (great) resistance that they retreated. 
+The apartment has such a (beautiful) view that I intend to rent it. 
+The correlativk that is sometimes omitted in informal style: 
+He polisheb the floor so hard you could see your face in it. 
+1 
+\ 
+There is a ciose correspondence between so . . . that and such . . . that 
+constructions, when the that-clause is negative, and constructions with too 
+and an infinitive clause: 
+It's so good a movie that we mustn't miss it. 
+- It's too good a movie to miss. 
+It was sucd a pleasant day that I didn't want to go to school. 
+- It was too pleasant a day to go to school. 
+There may also be a close correspondence between on the one hand so . . . 
+that and such . . . that constructions, when the that-clause is positive, and on 
+the other hand'constructions with enough and an infinitive clause: 
+It fliesso fast that it can beat the speed record. 
+- It flies fast enough to beat the speed record. 
+I had such a bad headache that I needed two aspirins. 
+- I had a bad enough headache to need two aspirins. 
+But the correspondence often does not obtain, since so and such are not used 
+with adjectives and adverbs in their unmarked sense (cf7.88); they indicate 
+a high degree. Thus, the enough-construction cannot replace the so . . . that 
+and such . . . that constructions in the following contexts: 
+The lion was so tame that the lionkeeper could enter its cage. 
+[l] 
+The lion was tame enough for the lionkeeper to enter its cage. 
+[21 
+It was such a clear introductory lecture that we decided to take the 
+course. 
+[31 
+It was a clear enough introductory lecture for us to decide to take 
+the course. 
+[4l 
+While [l] asserts that the lion was very tame, [2] does not; and similarly [3] 
+asserts that the lecture was very clear but [4] does not. 
+So expresses a high degree when used alone with a verb, and such does the 
+same when its noun phrase does not contain an adjective premodifier: 
+I so enjoyed it that I'm determined to go again. 
+['I so much enjoyed it. . .'] 
+There was such a crowd that we couldn't see a thing. 
+['There was such a large crowd . . .'] , 
+Compare exclamatory how and what: How I enjoyed it!, What a crowd there 
+was! In a more formal variant, so and such may be positioned before 
+correlative that; an intonation break (or in writing, a comma) is normal 
+before that: 
+I enjoyed it so, that I'm determined to go again. 
+The crowd was such, that we couldn't see a thing. 
+Such can be positioned here only if the sentence is rephrased to make it 
+follow a copular verb. It also differs here from so in that it identifies ('of that 
+type') and does not intensify (cf also 15.49 Note [b]). 
+In another variant, found in informal style, the that-clause is positioned 
+first, but that is omitted: 
+Icouldn't keep my eyes open, I was so tired. 
+PI 
+The first clause is semantically and intonationally subordinate, but it is 
+preferable to regard the construction as paratactic. Compare: 
+I was so tired, I couldn't keep my eyes open. 
+[sal 
+In a more formal variation of [5] the element containing so is fronted; 
+subject-operator inversion is usual: 
+He had no need to make speeches, so impregnable was hisposition. 
+[6] 
+She was exhausted by four, so hard had she worked. 
+[7] 
+Another informal variant (with regional restriction) of [5] substitutes 
+intensifier that for so: 
+I was 'that tired I couldn't keep my eyes open. 
+15bI 
+But intensifier that is more common without the correlative clause: 
+Why should you be (all) that tired in the morning? 
+[81 
+
+
+1, 
+1 , 
+1144 Syntactic and semanticfunctionsof subordinate clauses 
+L '  
+1 
+Note 
+[a] In a formal and.somewhat archaic usage, the subordinate.clause in a such . . . as construction 
+ii 
+is finite: 
+.l i 
+They were fed such sumptuous fare as kings dream 05 
+The paraphrase of such.. . as by 'of a kind which' suggests that these clauses are relative rather 
+than comparative. Less restricted is so . . .as with the infinitive: 
+His temper was so violent as to make even his closest conlpa~rionsfear 
+him. 
+[b] In formal (especially literary) style, the comp-element is sometimes fronted, accompanied by 
+:i 
+!{ 
+subject-operator inversion: 
+I 
+To such lengths did she go in rehearsal that two actors walked out. 
+[c] In philosophical exposition, such that is often used, sucl~ here being identifying: 
+If there is a four-sided figure such that three of its angles are 90°, the remaining angle will 
+also be 90". 
+Syntactic function of comparative clauses 
+15.75 
+There are two major analyses for the syntactic function of the comparative 
+clause in comparisons of nonequivalence (more/-erlless (. . .) than) and of 
+equivalence (as. . . as). One traditional analysis is presupposed in our use of 
+the term comp-element - the comp-element on its own is a clause element 
+and the comparative clause is an adverbial: 
+S V 
+C, 
+A 
+~ o h n  
+is'more intelligen! khan Bill is! 
+One argument in favour of this analysis is that in inflected comparative 
+adjectives or adverbs (eg : longer, faster) the comp-element is morphologically 
+one word. But morphological and syntactic units do not necessarily coincide; 
+otherwise, for example, we would need to give different syntactic analyses to 
+she's not and she isn't. Closer parallels might be the syntactic function of the 
+genitive inflection in the group genitive (eg: the President of Mexico's 
+daughter, cf 17.1 19) and of the inflections in the structure of the verb phrase 
+that exhibit morphological discontinuities to express aspectual and voice 
+categories (eg:'the discontinuous combination of be and -ing to express 
+progressive aspect in She's running). 
+An alternative, and better, analysis is to regard the comparative clause 
+together with the preceding comparative item (including instances where 
+that item is the i jflection -er) as a degree ydifier, even though it is commonly 
+a discontinuous modifier: 
+John is more intelligent than Bill (is). 
+Susan spoke longer than Zexpected (she would (speak)). 
+There was less noise than (there was) yesterday. 
+Helen is as nergetic as Tom (is). 
+e 
+The comparativk clause then provides complementation for the comparative 
+more or the inflection -er. The modifier is sometimes postposed, and is then 
+continuous : 
+more (so) than l 
+Bill (is). 
+This construction is possible even for an adjective or adverb that is normally 
+inflected, but in that case more replaces the inflection: 
+John looks good, more (so) than Ted (does). 
+Comparative clauses 1 145 
+In this second analysis, neither the camp-element nor the comparative 
+clause are clause elements. See Figs 15.75a and 15.75b: 
+structureof sentence: 
+S v 
+c, 
+John islmore intelligent than Bill is' 
+structure of C,: 
+comp-element 
+comparative clause 
+I 
+i n t e l r l  
+'that1 r 
+is' 
+premodifier 
+degree modifier of HEAD 
+Fig 15.75a Comparative construction with more 
+structure of sentence: 
+S v 
+c, 
+Mary i&ounger rhan Tom is' 
+..structure of C,: 
+compelement 
+comparative clause 
+I 
+younger 
+L G Z  
+A 
+,base 
+suffix, 
+HEAD 
+complementation of -er suffix 
+Fig 15.75b Comparative constructon with -er suKx 
+The comparative clause is usually separated from the comp-element when 
+the comp-element is the subject: 
+More fatal accidents occur in the home than on the roads. 
+But such a separation of premodification and noun head from postmodifica- 
+tion is not unusual when a long noun phrase is subject (cf l8.39f): 
+[gy] 
+dficult questions were posed [it:] 
+were convincingly 
+answered by the panel of experts. 
+On the other hand, in comparisons of sufficiency and excess (cf 15.72ff) the 
+comparative clauses are more appropriately analysed as adverbials, since 
+those clauses can properly be identified with adverbial clauses of purpose or 
+result (cf 15.48f). Their restriction to final position is easily explained: 
+
+
+1146 Syntactic and semanticfunctionsof subordinateclauses 
+adverbial clausesof result are always positioned finally; adverbial clauses of 
+purpose, though,normally mobile, are restricted to final position in these 
+comparative constructions because they are linked to a first correlative (eg: 
+as, too). 
+Bibliographical note 
+On nominal clauses in general, see especially Aijmer (1972); Huddleston (1971). Chapters 4 and 
+5; Kiparsky and Kiparsky (1970); Lees (1960a); Stockwell et al (1973), Chapter 8; Vendler 
+(1968). On that-clauses in particular, see Behre (1955); Elsness (1982); Hooper (1975); Storms 
+(1966). On other specialized topics, see Jacobsson (1971); Kjellmer (1980); LuelsdorlT and 
+Norrick (1979); Thompson (1973). 
+On adverbial clauses of time in general, see especially Edgren (1971). On more specialized 
+topics, see Aarts (1979); Declerck (1979a; 1979b); Heindmaki (1978); Karttunen (1974); 
+Mittwoch (1980). 
+On adverbial clauses of condition and concession, see Geis (1973); Haegeman (1984; 
+forthcoming a); Haegeman and Wekker (1984); Haiman (1974); Kjellmer (1975b); Morreall 
+(1980); Yamanashi (1973). 
+On clauses of reason, see Altenberg (1984). which is the source of the data in Table 15.47, and 
+Heinamski (1975). 
+On comment clauses, see Emonds (1973); LakolT, G. (1974); Mittwoch (1979). 
+On clauses introduced by insleadof or rarher than, see Dietrich and Napoli (1982); Jacobsson 
+(1977a); Thompson (1972). 
+On adverbial -ingclauses, see Greenbaum (1973b). 
+On comparative clauses, see especially Huddleston (1971), Chapter 6. See also Hale (1970); 
+Huddleston(1967); Jsrgensen(l980);Lees(1961); Mittwoch(1974);Rivara(1975);Smith(1961). 
+I 
+6 complementation of verbs 
+and adjectives 
+l ii 
+'i 
+16.1 
+Introduction 
+1150 
+Multi-word verbs 
+Verb-particle combinations 
+Phrasal, prepositional, and phrasal-prepositional verbs 
+1152 
+Type I (Intransitive) phrasal verbs 
+1152 
+Type I1 (Transitive) phrasal verbs 
+1153 
+Type I 
+prepositional verbs 
+1155 
+Prepositional verbs contrasted with phrasal verbs 
+1156 
+Type I1 prepositional verbs 
+1158 
+Phrasal-prepositional verbs 
+1160 
+A summary of types of multi-word verbs 
+1161 
+Some semantic and syntactic distinctions 
+Semantic criteria for idiomatic status 
+Syntactic criteria for prepositional verbs 
+The prepositional passive 
+The criterion of question forms 
+Criteria for distinguishing phrasal and prepositional 
+verbs 
+1166 
+Other multi-word verb constructions 
+1167 
+Verbs in relation to verb complementation 
+, . 
+1168 
+Verbs in intransitive function 
+1169 
+Types of verb complementation 
+1170 
+Copular complementation 
+1171 
+[AI] Adjective phrase as subject complement 
+1171 
+[A21 Noun phrase as subject complement 
+1173 
+Semantic notes on copular verbs 
+[A31 Complementation by an adjunct 
+Monotransitive complementation 
+1176 
+Complementation by a noun phrase as direct object 
+1176 
+[Bl] With the passive 
+1176 
+[B21 Without the passive 
+1177 
+Variants of monotransitive complementation 
+1177 
+Complementation by noun phrase as prepositional object 1 177 
+[Blpr] Prepositional verbs 
+1177 
+[Bl ph-pr] Phrasal-prepositional verbs 
+1179 
+Complementation by a finite clause 
+[B31 That-clause as object 
+
+
+Type (i): Factual verbs 
+Type (ii): Suasive verbs 
+Other types of verb with that-clause complementation 
+Complementation by an extraposed subject 
+that-clause 
+[B41 Wh-clause as object 
+Complementation by a nonfinite clause 
+Nonfinite clauses in complementation 
+[B51 Wh-infinitive clause as object 
+[B61 Subjectless infinitive clause as direct object 
+[B71 Subjectless -ing participle clause as object 
+Choice between the infinitive and participle 
+constructions ([B61 and [B7]) 
+[B81 Complementation by to-infinitive clause (with 
+subject) 
+[B91 Complementation by -ing participle clause (with 
+subject) 
+Complex transitive complementation 
+[Cl] Adjective phrase as object complement 
+[C21 Noun phrase as object complement 
+' [Cl pr] and [CZpr] Object complement following 
+prepositional verb 
+[C31 Complementation by object and adjunct 
+Variants of complex transitive complementation 
+[C41 object + to-infinitive complementation 
+[C51 Object + bare infinitive complementation 
+[C61 Object + -ing participle complementation 
+[C71 Object + -ed participle complementation 
+Ditransitive complementation 
+[Dl] Noun phrases as both indirect and direct object 
+[D21 Object and prepositional object 
+Verbs of complementation types [D11 and [D21 
+Vaiiants of ditransitive complementation 
+[D31 Indirect object + thdt~clause object 
+[D3pr] Prepositional object + that-clause object 
+[D41 Indirect object + finite wh-clause object 
+[D51 Indirect object + wh-infinitive clause object 
+[D61 Indirect object + to-infinitive clause object 
+~ u j t i ~ l e  
+analysis and gradience in verb complementation 
+Gradience 
+Adjective complementation 
+[El] Adjective complementation by a prepositional phrase 
+[ ~ 2 ]  
+Adjective complementation by a that-clause 
+[E2a] Adjectives with experiencer as subject 
+[E2b] Adjectives with anticipatory it as subject 
+1224 
+[E31 Adjective cdmplementation by a wh-clause 
+1225 
+[E41 Adjective complementation by a than-clause 
+[E51 Adjective complementation by a to-infinitive clause 
+[E5(i)] Bob is splendid to wait 
+[ES(ii)] Bob is slow to react 
+[ES(iii)] Bob is sorry to hear it 
+[E5(iv)] Bob is hesitant to agree with you 
+[E5(v)] Bob is hard to convince 
+[ES(vi)] The food is ready to eat 
+[ES(vii)] It is important to be accurate 
+[E61 Adjective complementation by an -ingparticiple clause 1230 
+16.84-85 
+Complementation of abstract nouns 
+1231 
+Bibliographical note 
+1232 
+
+
+I 
+1 150 Complementation of verbs and adjectives 
+Introduction 
+16.1 In 2.32 we defined COMPLEMENTATION as 'part of a phrase or clause which 
+follows a word, and completes the specification of a meaning relationship 
+which that word implies'. In this chapter, we examine the ways in which 
+lexical verbs and adjectives determine, in this way, the grammatical patterns 
+that follow them. We began this task in 2.19, where verbs were classified into 
+various types (transitive, intransitive, copular, etc) according to their 
+complementation. Now we must go further, and examine patterns of greater 
+variety. But before doing so, we must analyse the phenomenon of multi-word 
+verbs, a topic of peculiar importance in English. This study will occupy the 
+first seventeen sections of the chapter, as a necessary prelude to the study of 
+verb complementation. 
+Multi-word verbs 
+Verb-particle combinations 
+. 
+16.2 
+The main category of multi-word verbs consists of such combinations as 
+; 
+drinkup, disposeof, andget away with, which we will study under the headings 
+of PHRASAL VERB, PREPOSITIONAL VERB, and PHRASAL-PREPOSITIONAL VERB 
+respectively. However, these combinations are considered multi-word verbs 
+only where they behave as a single unit. 
+Since the verb has been considered a class of word (cf 2.35), it may seem a 
+contradiction $0 speak of 'multi-word verbs'. The term 'word' is frequently 
+used, howeveri not only for a morphologically defined word class, but also 
+for an item which acts as a single word lexically or syntactically (cf 9.10ff on 
+complex prepbsitions). It is this extended sense of 'verb' as a 'unit which 
+behaves to some extent either lexically or syntactically as a single verb' that 
+we use in labels.such as 'prepositional verb'. Thus in the sentence: 
+We dispose$of the problem. 
+l 
+\ 
+the word disposed remains morphologically a verb, being the item which has 
+variable inflection (dispose/disposes/disposed, etc); but the sequence disposed 
+of also functions in various ways as a single unit, such that for some purposes 
+the sentence can be reasonably divided into: 
+[We] [dispol?ed ofl [the problem]. 
+rather than into! 
+[We] [disposed] [of the problem]. 
+The words which follow the lexical verb in expressions like drink up, 
+dispose of, and 'get away with are morphologically invariable, and will be 
+given the neutral designation PARTICLES. They actually belong to two distinct 
+but overlapping categories, that of prepositions and that of spatial adverbs 
+(though such adverbs are not necessarily used with spatial meaning). The 
+term 'particle' will therefore apply to such words as these (see the fuller lists 
+in 9.7 and 9.66), when they follow and are closely associated with verbs. 
+Multi-word verbs 1 151 
+PARTICLES 
+(A) against, among, as, at, beside, for, from, into, like, of, onto, upon, with, etc. 
+(B) about, above, across, after, along, around, by, down, in, off, on, out (AmE), 
+over, past, round, through, under, up, etc. 
+(C) aback, ahead, apart, aside, astray, away, back,forward(s), home, infront, 
+on top, out (BrE), together, etc. 
+(On out as a preposition, cf 9.18 Note.) 
+Those grouped in list (A) are prepositions only; those in (C) are spatial 
+adverbs only (unless they form part of a complex preposition, as in out of); 
+and those in (B) can be either prepositions or spatial adverbs, and in the 
+latter function are known as 'prepositional adverbs' (cf 9.65f). List (C) 
+includes adverbs like away and on top, which correspond to complex 
+prepositions such as away from and on top of and so are also known as 
+prepositional adverbs (cf 9.66). Thus we include particles which form the 
+first element of a complex preposition: 
+Come along (with uslme). 
+They moved out (of the house). 
+The most obvious difference between the ure~ositions and the s~atial 
+adverbs 
+- - 
+is that where prepositions require a following noun phrase as a prepositional 
+complement, there is no such requirement for adverbs (cf: however. the 
+phenomenon of deferred prepositions, 9.6). Hence ~lasses'(~), 
+(B), and (C) 
+can be distinguished as follows: 
+. - 
+PREPOSITIONAL CONSTRUCTION 
+ADVERBIAL CONSTRUCTION 
+(A) 
+The dog went for me. 
+*The dog went for. 
+(B) 
+Jack fell down the hill. 
+Jack fell down. 
+(C) 
+*We must not look back thepast. 
+We must not look back. 
+Particles of Class (B) are the only ones which are acceptable in both 
+constructions. 
+Not all multi-word verbs consist of lexical verbs followed by particles. We 
+shall illustrate other types, such as those of takepride in, cut short, seefit, or 
+putpaid to, in 16.7-8 and 16.17. 
+Note 
+[a] Although the inflection of a multi-word verb is regularly attached to the lexical verb, the 
+occurrence of'slipsof the tongue'such as the following (noted during a radiointerview) deserves 
+attention: 
+*The editor must do precisely as he seefits. 
+This anomalous shift of the inflection from the verb to the adjective testifies to a tendency for 
+speakers to perceive the multi-word verb as a single grammatical unit. 
+[bl On the exceptional use of some Class (A) words as adverbs (eg: to), cf 9.66 Notes [a] and [b]. 
+[cl The lexical verbs occurring in multi-word verbs are frequently the most common lexical 
+verbs, and are typically associated with physical movement or state: eg: come, fall, get, giw, go, 
+keep, make, put, and toke. At the other extreme, however, are words which occur as verbs only 
+when combined with particles, eg: beaver in beawr oway, egg in egg on, and eke in eke out: 
+She egged him on. 
+*She egged (him). 
+Note also that some normally intransitive verbs can become transitive when combined with a 
+particle, and that conversely some normally transitive verbs can become intransitive when 
+combined with a particle: 
+They arelivitrgit down. 
+*They are living it. 
+The plane took off. 
+*The plane took. 
+
+
+1 152 Complementation of verbs and adjectives 
+Phrasal, prepositional, and phrasal-prepositional verbs 
+Type I (intransitive) phrasal verbs 
+16.3 
+Our procedure in 16.3-9 will be to illustrate the main categories of multi- 
+word verbs, before the criteria for certain distinctions are considered more 
+carefully in 16.1 1 - 16. One common type of multi-word verb is the Type I or 
+intransitive phrasal verb consisting of a verb plus an adverb particle, as 
+exemplified in : 
+The plane has just touched down. 
+Did he catch on? 
+He is playing around. 
+The prisoner finally broke down. 
+I hope you'll get by. 
+She turned up unexpectedly. 
+How are you getting on? 
+When will they give in? 
+The plane has now taken off. 
+The tank blew up. 
+Such phrasal verbs are usually informal. The particles above come from 
+Class (B) in 16.2, but similar examples can be given with particles from Class 
+(C) : 
+One of my papers has gone astray. 
+The news made him reel back. 
+. 
+The favourite romped home. 
+The two girls have fallen out. [= 'quarrelled'] 
+The particle functions like a predication adjunct (cf 8.26fn, and usually 
+cannot be separated from its lexical verb: 
+?*The news made him reel distractedly back. 
+Although some of these are more idiomatic and cohesive than others, we will 
+draw a distinction between such phrasal verbs, on the one hand, and FREE 
+COMBINATIONS'~~ 
+which the verb and the adverb have distinct meanings on 
+the other. In phrasal verbs like give in ['surrender'], catch on ['understand'], 
+and blow up ['explode'], the meaning of the combination manifestly cannot 
+be predicted from the meanings of verb and particle in isolation. But in free 
+combinations tie verb acts as a normal iytransitive verb, and the adverb has 
+its own meaning. For example: 
+He walkedpast. [= 'past the object/place'] 
+I waded across. [= 'across the river/water/etc'] 
+Past and across here are adverbs (cf 9.65,16.4 Note [d]), but their function is 
+equivalent to t at of a prepositional phrase of direction. The separability of 
+verb and adver $ in terms of meaning is shown by possible substitutions: for 
+wade in wade across, for example, we could substitute walk, run, swim, jump, 
+fly, etc; and for across we could substitute in, through, over, up, down, etc. In 
+other cases, the particle may have an intensifying or aspectual force, as in 
+liven up, go on, or chatter away. 
+There are also syntactic signs of cohesion. In free combinations, it is often 
+possible to place a modifying adverb right (or sometimes straight) between 
+the adverb particle and the verb: 
+Go rightlstraight on. 
+Drink right up. 
+Walk straight in. 
+Multi-word verbs 1 153 
+This insertion is to differing extents unacceptable with phrasal verbs: 
+?The prisoner broke right down. 
+*She turned right up at last. 
+Another sign of a free combination is the possibility of placing the adverb 
+before the verb with subject-verb inversion (or without inversion where the 
+subject is a pronoun): 
+Out came the sun. 
+Up you come. 
+On we drove into the night. 
+But with phrasal verbs this is not possible: 
+*Up blew the tank. 
+*Up it blew. ['exploded'] 
+*Out he passed. ['fainted'] 
+However, in this as in other criteria, there is an unclear boundary between 
+phrasal verbs and free combinations. With They chattered away the inversion 
+is very marginally acceptable: ?*Away they chattered. Some examples are 
+more acceptable if the particle is reduplicated according to the pattern of 
+iterative coordination (cf 13.101): 
+On and on he went about his wife and family. 
+And where the phrasal verb makes metaphorical use of spatial adverbs, 
+inversion seems quite acceptable: 
+Down came the prices, and up went the sales. 
+There was a gust of wind, and out went the light. 
+We examine the boundary between multi-word verbs and free combinations 
+more genera!ly in 16.12. 
+Type I1 (transitive) phrasal verbs 
+16.4 
+Many phrasal verbs may take a direct object, and may therefore be described 
+as transitive. However, to simplify comparison with prepositional verbs, we 
+will call them Type IIphrasal verbs, as contrasted with Type I (or intransitive) 
+phrasal verbs. Examples are: 
+We will set up a new unit. 
+He can't live down his past. 
+Shall Iput away the dishes? 
+I can't make out what he means. 
+Findout if they are coming. 
+We pushed home our advantage. 
+She's bringing up two children. 
+She looked up her friends. 
+Someone turned on the light. 
+I've handed in my registration. 
+They have called off the strike. 
+They may have blown up the bridge. 
+Examples here and in 16.3 show that some combinations, such as give in and 
+blow up, can be either Type I or Type 11. In some cases, eg: give in, there is a 
+substantial difference in meaning, and in others, eg: blow up, there is not (cf 
+App 1.18). 
+With most Type I1 phrasal verbs, as with free combinations of the same 
+pattern, the particle can either precede or follow the direct object: 
+
+
+1 154 
+Complementation of verbs and adjectives 
+They turned on the light. 
+They turned the light on. 
+Bearing in mind the adverbial status of the particle, we would indeed expect 
+the latter order (SVOA) to be the more usual, even though it means a 
+separation of the particle from its verb. When the object is a personal 
+pronoun, the S V 0 A order is in fact the only one allowable: 
+*They switched on it. 
+They switched it on. 
+The particle tends to precede the object if the object is long, or if the intention 
+is that the object should receive end-focus (cf 18.3f). 
+As before, phrasal verbs have to be distinguished lexically from free 
+syntactic combinations of verb and prepositional adverb. Contrast: 
+She took in the box. 
+['brought inside'] 
+[FREE COMBINATION] 
+She took in her parents. ['deceived'] 
+[PHRASAL 
+VERB] 
+The verb and particle in put out the cat, for instance, preserve their separate 
+meanings in that combination, as well as in a wide range of comparable 
+combinations: put + down/outside/away/aside; take/turn/bring/push/send/ 
+drag + out. A highly idiomatic expression likeput off['postpone'] has no such 
+variants at all, for the two wordsput and offare fused into a unit which allows 
+for no substitution for the individual elements. Once again, there are unclear 
+cases between these two extremes: some substitutions, but a limited number 
+only, can be made in a 'semi-idiomatic' example such as Turn out the light: 
+WithType 11 phrasal verbs, there isno sensitive method of testing cohesion 
+by placing th$ particle before the subject (cf 16.3), as this construction is 
+scarcely possible even with free combinations: ?*Out he took a gun. The 
+other test of independence, insertion of an adverb before the particle, can 
+however be used: 
+The pilot jd ked the lever right back. 
+r 
+The danceqthrew her hands wildly about above her head. 
+(Again, right is 'an intensifier of the particle, rather than an adverbial in 
+itself.) Contrast the phrasal verb ?*They put the meeting hurriedly off. Where 
+there is an ambiguity between idiomatic and nonidiomatic interpretations of 
+the same combination, insertion of an adverb will select the nonidiomatic 
+one. Thus [I], uqlike [2], can mean 'She reared the girls': 
+She brought the girls up. 
+She brought the girls right up. 
+But [2] can only have a spatial meaning 'She caused the girls to come up (the 
+stairs, etc)'. 
+.. 
+Like transitive verbs in general, Type I1 phrasal verbs can normally be 
+turned into the passive without stylistic awkwardness (but cf Note [c]): 
+Aunt Ada brought up Roy. - Roy was brought up by Aunt Ada. 
+Multi-word verbs 1 155 
+Note 
+[a] Some Type I1 phrasal verbs do not easily allow the possibility of placing the particle after the 
+object (unless the object is a pronoun): 
+They had giwn up hope. 
+- ?They had giwn hope up. 
+They laiddown their arms. 
+- ?They laid their arms dowt~. 
+This fixing of the SV A 0  order tends to occur, as the above examples illustrate, where there is a 
+strong idiomatic bond (frequently matching a change from literal to metaphorical) between the 
+phrasal verb and the object. In addition, the particle cannot normally be placed after a clausal 
+object, such as an -ing clause, even when the clause is short: 
+Shegaue up trying. 
+- 'Shegave trying up. 
+[b] Conversely, some phrasal verbs do not easily allow the placement of the particle before the 
+object. In some cases the SVAO order is probably avoided because of ambiguity: 
+Get that parcel offright away! - Get offthat parcel right away! 
+Here the transitive phrasal verbget. . . offcan beconfused with the intransitiveverbget followed 
+by the preposition off. This latter construction occurs, for example, in Get off that stool- it's just 
+beenpainted! but would suggest an inappropriate meaning in the above sentence. Other reasons 
+for avoiding the S V A 0  order include coordination of particles: 
+I switched the light on andoff. 
+- ?I switchedon andoffthe light. 
+Also, as in [a] above, the order tends to be fixed by idiomatic convention: 
+{ 
+cryingmy eyesout. 
+{ 
+cryingout my eyes. 
+1 was laughing my head 08 
+*I was laughitrg offmy head. 
+sobbing my heart out. 
+sobbing out my heart. 
+In these cases of conventionalized hyperbole, the SVAO order is impossible. 
+[c] Another restriction on phrasal verbs is that some of them do not have a passive. These are 
+principally combinations for which the object is idiomatically limited to a particular noun or 
+pronoun: 
+The trainpickedup speed. 
+- *?Speed waspickedup (by the train). 
+Jill and her boss don't hit it off. - *It is not hit off(by Jill and her boss). 
+rare not good friends'] 
+[d] As in intransitive combinations, so in transitive verb-adverb combinations the adverb may 
+be semantically equivalent to a reduced prepositional phrase, from which the complement has 
+been omitted: 
+Theypulled the cart along. 
+['along the road, etc'] 
+Mow the furniture out. 
+['out of the house, etc'] 
+These are clearly free combinations, not phrasal verbs. 
+[e] Expressions like be fed up, be run down appear to be passive phrasal verbs without a 
+corresponding active: 
+I was fed up with the noise. 
+- *The noise fed me up. 
+Yet these are not true passives, but rather 'pseudo-passives'(cf 3.77). as we see from their ability 
+to combine with an intensifier such as thoroughly, and a copular verb such as look: 
+He looked thoroughly fed up. 
+and also by the impossibility of an agent by-phrase: 
+*I was fed up by the noise. 
+Type I prepositional verbs 
+1615 
+Here, as in 16.3, we use Type I as a label for multi-word verbs without a 
+direct obiect. A ~re~ositional 
+verb consists of a lexical verb followed by a 
+prepositibn with which it is semantically and/or syntactically associated. The 
+preposition, as is to be expected, precedes its complement: 
+Look at these pictures. 
+Can you cope with the work? 
+I don't care for Jane's parties. 
+I approve oftheir action. 
+We must go into the problem. 
+His eyes lighted upon the jewel. 
+In these examples, the lexical verb is followed by a particle which is 
+unequivocally a preposition (ie from Class (A) in 16.2). 
+In using the term PREPOSITIONAL VERB we indicate that we regard the 
+
+
+1 156 Complementation of verbs and adjectives 
+second noun phrase in a sentence like [l] as the complement of the preposition 
+at and not as the direct object of a verb look at: 
+Many people looked at thepictures. 
+[l] 
+This is despite the fact that the passive is frequently possible (with some 
+stylistic awkwardness) as in [la]: 
+The picture was lookedat by many people. 
+[lal 
+The intransitive interpretation, on the other hand, is justified (for example) 
+by the potentiality of adverbial insertion: 
+Many people looked disdainfully at the picture. 
+where insertion between V and 0, is usually avoided: 
+*?Many people examined disdainfully the picture. 
+The noun phrase following the preposition in such constructions is termed a 
+PREPOSITION,4L OBJECT. 
+There are therefore two complementary analyses of a sentence like She 
+looked after ['tended'] her son: 
+ANALYSIS 1 : S 
+v 
+A 
+h- 
+She looked after herson 
+-U 
+ANALYSIS 2: 
+S 
+v 
+0 
+The former analysis is the one we follow if we call this kind of construction 
+intransitive. Analysis 2, on the other hand, highlights the resemblance 
+between She looked after her son and She tended her son. By naming this 
+category of prepositional verbs 'Type 1', we avoid the unclarity which results 
+from the use of 'intransitive' or 'transitive' in this connection. The above 
+analyses are discussed further in 16.13- 15. 
+Note 
+Whereasa sequenceof verb and prepositionlikeliwat isapurely nonidiomatic freecombination, 
+in prepositional verbs like look at, lookjor, etc the verb word has a literal use, but has a fixed 
+association with the)preposition. These cases may, in their turn, be distinguished from other 
+prepositional verbs, $: go into ['investigate'] wherqboth words form a semantically idiomatic 
+(often metaphorical) Init (616.12 for a further exploration of these categories and their relation 
+to a scale of idiomaticity). 
+Prepositional verbs contrasted with phrasal verbs 
+16.6 We must now briefly attend to another distinction between similar-looking 
+constructions.  fie following exemplify Type I prepositional verbs which 
+contain particles of Class (B) in 16.2, and are therefore capable of confusion 
+with Type I1 phrasal verbs (cf 16.4): 
+She called on her friends. 
+You should invest in property. 
+We saw through his imposture. 
+She came by a fortune. 
+I've come across a problem. 
+The car ran over a bump. 
+These are distinguished from almost all Type I1 phrasal verbs by the inability 
+of the particle to be moved to a position after the following noun phrase: 
+Multi-word verbs 1157 
+I 
+l 
+(I) She called on her friends. - *She called her friends on. 
+[ c -  (2) She switched on the light. - She switched the light on.] 
+(la) She came by a fortune. - *She came a fortune by. ['acquired'] 
+[c- (2a) She put by a fortune. 
+- Sheput a fortune by. ['kept']] 
+Similarly, the order of particle and pronoun is different: 
+(lb) She calledon them. 
+NOT *She called them on. 
+(2b) She switched it on. 
+NOT *She switchedon it. 
+Another criterion is stress. Both constructions generally permit the corre- 
+sponding passive, but in the Type I1 phrasal verb (2), a higher degree of 
+stress (including nuclear stress when the particle is in final position) usually 
+falls on the adverb particle. In the prepositional verb (l), on the other hand, 
+the stress normally occurs on the lexical verb preceding the particle: 
+(lc) He 'called on the dean. 
+- The dean was CALLED on. 
+(2c) She switched 'on the light. - The light was switched d ~ .  
+The same contrast of stress is observed in other constructions with a 

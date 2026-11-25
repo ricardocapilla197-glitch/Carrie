@@ -1,0 +1,1163 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 14: The Complex Sentence
+Covers: Coordination, Subordination, Reported speech, Conditional clauses
+[Part 6 of 9]
+============================================================
+
+It was Uust) as Iimagined. ['. . . similar to what I imagined.'] 
+141 
+When the verb is dynamic, as in [l-31, similarity is combined with manner. 
+The clause in [4], on the other hand, expresses pure similarity. 
+If the as-clause is placed initially, as in [S], correlative so introduces the 
+matrix clause in formal literary style: 
+(Just) as a moth is attracted by a.light, so he was fascinated by her. 
+[5] 
+The clause then expresses an analogy. 
+Adjunct clauses of comparison are also predication adjuncts. They are 
+introduced by as if, as though, and like (informal, esp AmE). As with 
+similarity clauses, when the verb is dynamic they also convey a manner 
+meaning. If the comparison is factual, the verb in the comparison follows the 
+normal rules for temporal reference: 
+He ljoks as ifhe's getting better. 
+If the comparison is hypothetical (implying lack of reality), a subjunctive or 
+hypothetical past may be used as an alternative (cf 14.23f): 
+(I'm 1 
+She treats me as if 
+I was 
+a stranger. 
+{I were] 
+\ 
+He talks as k{i: 
+apoato in his mouth. 
+She treated me as though I were 
+a stranger. 
+{i :i 
+b e e j  
+I 
+The subordinLtors as, as if, and as though introduce nonfinite and verbless 
+clauses : 
+Fill in the application form as instructed. 
+He bent down as iftightening hisshoe laces. 
+You should discuss the company with him as though unaware that you 
+were being considered for a job. 
+As ifand as though may also introduce to-infinitive clauses: 
+She winked at me as ifto say that Ishouldn't say anything. 
+Semantic rolesof adverbial clauses 
+1 1 11 
+Note 
+[a] An as-clause that blends manner with similarity may allow subject-operator inversion if:the 
+clause consists only of the subject and the operator: 
+His conducting of the third movement shows the subtlety of his interpretation, as does liis 
+earlier recording ofthe Mass in C. 
+The present owner is a keen art collector, as were severalof her ancestors. 
+[bl There are prescriptive objections to the use or like as a subordinating manner or comparison 
+conjunction, but it is commonly used as such in informal style, especially in AmE. It is more 
+acceptable when it expresses pure similarity, as does the preposition like, though it still tends to 
+be confined to informal style: 
+It was Gust) like I inlagined. (informal) 
+144 
+Compare the casual : 
+?It was (just) like what I imagined. (casual) 
+[4bl 
+[c] Adverbial clauses of comparison are not to be confused with the comparative clauses in 
+15.63g 
+Clauses of proportion 
+15.51 
+Proportional clauses involve a kind of comparison. They express a pro- 
+portionality or equivalence of tendency or degree between two situations. 
+They may be introduced by as, with or without correlative so (formal), or by 
+the fronted correlative the. . . the followed by comparative forms: 
+As he grew disheartened, (so) his work deteriorated. 
+As the lane got narrower, (so) the overhanging branches made it more 
+difficult for us to keep sight of our quarry. 
+The more she thought about it, the less she liked it. 
+The harder he worked, the happier he felt. 
+' 
+The fronting of the comparative elements results in the kind of syntactic 
+ordering found in relative and wh-interrogative clauses: 
+The later you arrive [A S V], the betterthe food is [C, S V]. 
+The more you tell him [O, S V Oil, the less notice he takes [O, S V]. 
+On the correlative the-clauses, cf further 14.13 and (as expressing a con- 
+tingency meaning) 15.30. 
+I 
+Note 
+[a] Correlative clauses of proportion are found in some aphoristic sentences such as The more, 
+the merrier (cf11.43). 
+[b] The subordinators insofar as, inasmuch as (formal), and insofar rhat (formal, rare) introduce 
+adjunct clauses of extent or degree: 
+We agreed with the lecturer only insofar as she condemned thegovernment's domesticpolicies. 
+['. . .only to the extent that. . .'l 
+Corresponding prepositions are to the extent that and to the degree rhat. 
+l 
+Clauses of preference 
+15.52 
+Clauses of preference are mainly introduced by the subordinators rather than 
+1 
+and sooner than, with the bare infinitive as the verb of the clause: 
+Rather thango there by air, I'd take the slowest train. ['I'd prefer to 
+take the slowest train.'] 
+[l] 
+They'll fight to the finish sooner than surrender. ['They prefer to 
+fight to the finish.'] 
+121 
+The combination 'd rather [= would rather or had rather] is a modal idiom 
+(cf 3.45 f). Corresponding to [l] is [la]: 
+
+
+11 12 
+Syntactic and semantic functionsof subordinate clauses 
+I'd rather take the slowest train than go there by air. 
+[lal 
+The subordinate clause may very occasionally have its own subject: 
+Rather than you say a~zj~thing, 
+I would speak to the manager 
+myself. ['I'd prefer to speak to the manager myself.'] 
+[31 
+A rare and formal finite clause of preference occurs with putative should 
+(cf 14.25): 
+Rather than she sl~ould feel lonely, her friends arranged to take her 
+with them on the trip. 
+141 
+The subordinate clause expresses the rejected alternative. That negative 
+meaning allows it to contain nonassertive items (cf 10.60), as in [3] and [5]: 
+Rather than ever admit that he has any pain at all, he'll suffer for 
+weeks. 
+[51 
+The matrix clause expresses an implied conditional meaning ('if there's a 
+choice'), and therefore the matrix verb tends to contain a modal auxiliary. 
+Note 
+[a] On rather than as a quasi-coordinator, cf 14.15 Note, and as a preposition with -ing clauses, 
+cf14.19 Note [c]. 
+[b] The preference construction extends the notion of priority in time to the notion of priority in 
+choice. It is therefore not surpris~ng that temporal expressions other than sooner are used to 
+convey preference: notably the subordinator before, but also such comparative adverbs as 
+quicker, fasrer, more readily, plus than. Both clauses take modal auxiliaries: 
+He'd sit alone in the dark before he'd ~vatch television. ['He prefers to sit alone in the dark.'] 
+She'll use the telephone before she'llput pen to paper. 
+They would volunteer their own work more readily than they would contribute money. 
+. I'd buy a typewriter faster than I'd buy a television set. 
+In earlier periods of English, rother also had temporal meaning. 
+Comment clauses 
+15.53 
+Comment clauses are parenthetical disjuncts. They may occur initially, 
+finally, or medially, and thus generally have a separate tone unit: 
+K ~ N G S ~ O ~ ,  
+las youprobably  KNOW,^ is the capital of J a ~ h c a  
+I 
+\ 
+Comment c1au;es are either content disjuncts that express the speakers' 
+comments on the content of the matrix clause, or style disjuncts that convey 
+the speakers' views on the way they are speaking (cf 15.20f). Here we 
+consider forms of these clauses that we have not discussed in the previous 
+sections on the ~emantic roles of adverbial clauses. 
+We distinguikh the following types: 
+(i) like the matrix clause of a main clause: 
+There were no other applicants, I believe, for that job. 
+(ii) like an adverbial finite clause (introduced by as): 
+I'm working the night shift, as you know. 
+(iii) like a nominal relative clause: 
+What was more upsetting, we lost all our luggage. 
+Semantic roles of adverbial clauses l l 13 
+1 
+(iv) to-infinitive clause as style disjunct: 
+I'm not sure what to do, to be honest. 
+(v) -ing clause as style disjunct: 
+I doubt, speaking asa layman, whether television is the right medium 
+for that story. 
+(vi) -ed clause as style disjunct: 
+Stated bluntly, he had no chance of winning. 
+In each category, there are idiomatic or cliche expressions: you see, as I say, 
+what's more to thepoint, to befair, generally speaking, put bluntly. Similarly, in 
+each category there is at least some freedom to coin new expressions. 
+Comment clauses, many of which are characteristic of spoken English, are 
+generally marked prosodically by increased speed and lowered volume. 
+15.54 
+Type (i) comment clauses, which are the most important, generally contain a 
+transitive verb or adjective which elsewhere requires a nominal that-clause 
+as object (cf 15.4). We can therefore see a correspondence between sentences 
+containing such clauses and sentences containing indirect statements: 
+There were no other applicants, I believe, for that job. 
+[l] 
+Ibelieve that there were no other applicants for that job. 
+[21 
+To convert a sentence with a that-clause such as [2] into a sentence such as 
+[l], we have to reverse the relationship of subordination between the two 
+clauses, making the that-clause into the matrix clause, at the same time 
+omitting the subordinator that, and making the matrix clause into the 
+comment clause. Because of this reversal of syntactic roles. the two sentences 
+[l] and [2] are not exact paraphrases; but ;he relationship between them 
+illuminates the function of the comment clause. Furthermore, the verb in the 
+comment clause may have only one of the meanings possibld for the verb in 
+the matrix clause. Verbs like believe and think may have a more definitive 
+meaning or may merely hedge (express a tentative meaning); but only the 
+hedging meaning is present in comment clauses. The possible difference is 
+highlighted in the contrast between [3] and [4], and between [5] and [6]: 
+I believe that there is a God. 
+['I assert the belief that there is a God'or 'There may be a God.'] [3] 
+There is a God, Ibelieve. ['There may be a God.'] 
+141 
+You know that it belongs to me. ['You know that'] 
+[S1 
+It belongs to me, you know. ['I want you to know that1] 
+[61 
+Since the that of an object that-clause is normally deletable (cf 15.4), only 
+the intonation (reflected by comma separation in writing) distinguishes an 
+initial comment clause from an initial matrix clause: 
+You KN~W,I 
+I1 think you're WR~NGI. [you know is a comment 
+You know. I lthink vou're WR~NGI. 
+You ~know.(that) I ihink you're w k d ~ ~ l .  
+[You know is a matrix clause] 
+Comment clauses resemble main clauses in that they contain at least a 
+
+
+1 1 14 Syntactic and semantic functionsof subordinate clauses 
+subject and a verb and are not introduced by a subordinator. However, they 
+are not independent clauses, since they are defective syntactically: the verb 
+or adjective lacks its normally obligatory complementation. 
+Many type (i) clauses are stereotyped, eg: Ibelieve, you know. Outside this 
+group, however, clauses can be fairly freely constructed, permitting variations 
+of subject, tense, and aspect, or additions of adjuncts, etc: 
+The Indian railways (my uncle was telling mesomr time ago) have always 
+made a profit. 
+Type (i) comment clauses that are stereotyped may have various semantic 
+functions : 
+(a) They hedge, ie they express the speaker's tentativeness over the truth 
+value of the matrix clause. Commonly, the subject is Iand the verb is in the 
+simple present, but the subject may be an indefinite one or they or (usually 
+with a passive verb) it and the verb may (for example) have a modal auxiliary 
+or be in the present perfective. Here are some examples: 
+I believe, I guess, I think, I expect, Ifeel, I hear, I presume, I assume, I 
+understand, Isuppose, I consider, Isuspect, I'm told, I have read, I have heard, 
+I have heard tell, I can see, I may assume, I daresay, I venture to say, one 
+hears, they tell me, they allege, they say, it is said, it is reported, it is claimed, 
+it is rumoured, it has been claimed, it seems, it appears 
+The comment clause may be negative (with Ias subject) if the matrix clause 
+is negative : 
+They aren't at home, Idon't believe. 
+The matched:negative expresses greater tentativeness than the positive. The 
+verbs that co$monly allow the negative are believe, expect, suppose, think. 
+Some comment clauses are added to questions: 
+What's he ~bing, 
+I wd~der? 
+Are they to get a w i ~  
+with it, IASK myself? 
+(b) They exgress the speaker's certainty. Commonly, the subject is I and 
+the verb is in the simple present. Here ar.e some examples: 
+I know, I claiin, I see, I remember, I agree, I admit, I'm sure, I'm convinced; I 
+have no doubt; it's true, it transpires; there's no doubt; I must say, I must 
+admit, I must tell you, I have to say 
+Certainty may Iso be expressed by negation of a verb that expresses rejection 
+B 
+or lack of certainty, eg: Idon't deny, Idon't doubt. 
+(c) They express the speaker's emotional attitude towards the content of 
+the matrix clause. Again, usually the subject is Iand the verb is in the simple 
+present. Some are followed by a to-infinitive verb of speaking. Here are some 
+examples: 
+' 
+I'm glad to say, I'm happy to say, I'm pleased to say, I'm delighted to say, I'm 
+happy to tell you; I hope, I wish, Ifear, Iregret, I'm afraid; I regret to say, I'm 
+sorry to say; it pains me to tell you, it grieves me to say 
+i 
+j 
+Note 
+I 
+Semantic roles of adverbial clauses 11 15 
+Interjections such. as God knows and Heaven. knows, which express the 
+speaker's lack of comprehension, perhaps belong here because they also 
+imply an emotive attitude. 
+(d) They are used to claim the hearer's attention. Some also call for the 
+hearer's agreement. At the same time, they express the speaker's informality 
+and warmth toward the hearer. The subject is usually you or the implied you 
+of the imperative. Here are some examples: 
+you know, you see, you realize; you can see, you may know, you may have 
+heard, you must admit; mind you, mark you; it may interest you to know 
+Negative questions generally call for the hearer's agreement, eg: wouldn't you 
+say?, don't you think?, don't you agree?, can't you see?, don't you know? They 
+are attached to declarative sentences: 
+It's ethically wrong, wouldn't you say? 
+Positive questions generally call for the hearer's attention. They are attached 
+to interrogative sentences: 
+What's she doing, do you think? 
+Is the heating on, do you suppose? 
+[a] The repotting clauses for direct speech (cf 14.29) are related to the semantic roles (a) and (b) 
+of type (i) comment clauses, and may be considered an additional semantic category within type 
+(i): 
+'It's time we went,' Isaid. 
+Like the other comment clauses, their verbs also normally require complementation. 
+[b] Tag questions (cf 11.8ff) are related to the semantic role (d) of type (i) comment clauses, and 
+may also be considered comment clauses: 
+They're in a great hurry, aren't they? 
+They may alternatively be analysed as related to the matrix clause by parataxis (cf 13.2) rather 
+than by subordination, parataxis being a relationship that might be postulated for all type (i) 
+comment clauses. 
+[cl Although comment clauses are syntactically dependent in that their verbs lack the required 
+complementation, someclauses identical in form to comment clauses may be used as independent 
+utterances in responses: 
+A: Will you be leaving tonight? 
+B: Idaresay. 
+A: Your tie is undone. 
+B: I know. 
+Other such responses require a clausal pro-form as complementation, eg: I think so. 
+[dl Notice the difference between [7] and [8]: 
+But is this R~GHT, { I wb~der? 
+I wonder? 
+But is this RfGHT, I wb~der? 
+l81 
+Where [71 expresses reservation, 181 expresses decided disagreement. The falling tone, as with 
+tag questions, invites confirmation. 
+[el In an informal use, Idon't think is attached to a positive sentence to indicate that the sentence 
+is being used ironically: 
+That's a mkterpiece, Idon't think. 
+Idon't think has tail intonation (cf App 11.15). 
+[fl Notice that some comment clauses in subtype (b) may have a concessive force, eg: It's true, I 
+must say, Iadmit, I must admit. 
+Type (ii) comment clauses, which are next in importance, are introduced by 
+as. As serves one of two syntactic functions in these clauses: as a relative or 
+as a subordinator. 
+
+
+11 16 
+Syntactic and semantic functionsof subordinateclauses 
+In its relative function, as introduces a type of sentential relative clause 
+that may precede or be inserted in its antecedent, in this case the clause or 
+sentence to which it is attached. In its mobility, thisas-clause is intermediate 
+between the relative and adverbial constructions. Like the sentential relative 
+which (cf 15.57), as may function as a relative pronoun : 
+She is extremely popular among students, as is conzmon knowledge. 
+(cf: which is common knowledge) 
+I live a long way from work, as you know. (cf: which you know) 
+Other examples of clauses with relative as: as everybody knows, as you may 
+remember, as you say, as I can see, as I have said, as I'm told, as you may have 
+heard. 
+As a subordinator, as introduces a clearly adverbial clause, and the 
+sentential antecedent is replaced by it. It is roughly synonymous with insofar 
+as ['to the:extent that']: 
+He is the best candidate, as it seems. ['. . . insofar as it seems that he is 
+the best candidate.'] 
+Other examples of clauses with subordinator as: as it appears, as it happens, 
+as it transpired, as it may interest you to know, as Isee it, as I interpret it. 
+The two types of construction often merge, providing a choice whether or 
+not to insert it. Thus, some of the examples with subordinator as allow an 
+optional it when they are extended: as (it) seems likely, as (it) ojien happens. 
+Other examples with optional it: as (it) waspointed out, as (it) was said earlier, 
+as I remember (it), as I understand (it). 
+As (it) apiears from her essay, she has read widely in Romantic 
+literatuke. 
+Type (i) comment clauses can often be converted to type (ii) comment 
+clauses by the addition of as: 
+The 1ndian railways, ((as) my uncle was telling me some time ago), have 
+always made a profit. 
+But the addition changes the meaninghhe type (ii) clause is affirmative, 
+implying the truth of the matrix clause, whereas the type (i) clause is neutral. 
+The difference may be clearer with another pair of sentences: 
+GBORGE, as you SAID, is a ~ i a r  
+(*but I don't believe it). 
+GBORGE, y U said, is a ~ i a r  
+(but I don't believe it). 
+'7 
+The affirmatioi o f  truth value is even more striking when the as-clause comes 
+first: 
+As you said, George is a liar. 
+Many o f  the stereotyped type (i) clauses become unacceptable if as is added 
+(*as Isee, *as Idaresay) or change their meaning radically (as you know). 
+Note 
+[a] The clausal.pro-form so may be used in parenthetical clauses that correspond to type (i) in 
+their meaning, although they resemble type (ii) in their form: so he says, so I understand, so it 
+Semantic roles of adverbial clauses 1 l 17 
+seenis, so I beliew. The semantic resemblance to type (i) comment clauses lies in their neutrality 
+as to the truth value of the matrix clause. 
+[b] There are a few negative stereotyped comment clauses with you as subject, but they require a 
+modal auxiliary. usually niay, niigltl, will, or ivould; eg: as you may nor rentember, OS you ~~lon't 
+have 
+heard, as you niight nor realize. 
+[c] Relative as may have the function of subject in its clause, but only if the operator is be or 
+another copular verb: 
+{ 
+~vas/seenied naturol. 
+She has married again, OS 
+was expected. 
+*delighfed us. 
+Contrast with the sentential relative: 
+She has married again, which delighted us. 
+This condition does not apply to the merged constructions where a subject it is optionally 
+omitted: 
+She has married again, as (it) ofren hoppens. 
+There appears to be the additional requirement that theos-clause must be semantically congruent 
+with its matrix clause: 
+( 'as was unexpected. 
+She has married again, 
+which was unexpected. 
+{ 
+*OS was disgraceful. 
+which was disgraceful. 
+This requirement suggests that relative as retains some reason implication that is normal for as 
+when it is a conjunction of reason. 
+15.56 
+The other types of comment clauses can be dealt with more briefly. 
+Type (iii) comment clauses are nominal relative clauses introduced by what 
+(cf 15.8f): 
+What's more surprising, he didn't inform his parents. 
+[ l ]  
+The what-clause must be initial. As with type (ii) (cf 15.55), sentences 
+containing them correspond to sentences in which the relationship o f  
+subordination between the two clauses is reversed. For example, [ l ]  
+corresponds to [2] : 
+It's more surprising (that) he didn't inform his parents. 
+[21 
+It also corresponds to a sentential relative clause (cf 15.57) as in [3], except 
+that a sentential relative clause must be final: 
+He didn't inform his parents, which is more surprising. 
+D] 
+It further corresponds to a sentence in which the nominal relative clause is 
+subject and linked to the subject complement by the verb be, as in [4]: 
+What's more surprising is (that) he didn't inform his parents. 
+[41 
+Other examples of type (iii) comment clauses: what's moreserious, what's most 
+signifcant of all, what's very strange, what annoys me. 
+Types (iv), (v), and (vi) of the comment clauses are style disjuncts (cf 
+15.21). They are nonfinite clauses, differentiated by form. W e  give some 
+examples of stereotyped clauses for each type. 
+Examples of type (iv) comment clauses, which have a to-infinitive: to be 
+honest, to be fair, to be frank, to be precise, to be truthful, to be serious for a 
+moment, to speak candidly, to put it briefly. 
+
+
+11 18 Syntactic and semantic functions of subordinateclauses 
+Sentential relative clauses' 1 l 19 
+Examples of type (v) comment clauses, which have an -ing clause: broadly 
+speaking, loosely speaking, roughly speaking, figuratively speaking, speaking 
+frankly, speaking generally, speaking personally, putting it mildly, putting it 
+crudely. 
+Examples of type (vi) comment clauses, which have an -ed clause: put in 
+another way, rephrased, ~vordedplainly, stated quite simply. 
+Sentential relative clauses 
+15.57 
+Closely related to comment clauses of type (ii) (as you know, cf 15.55) and 
+type (iii) (what's more surprising, Cf 15.56) are SENTENTIAL RELATIVE CLAUSES. 
+Unlike adnominal relative clauses, which have a noun phrase as antecedent, 
+the sentential relative clause refers back to the predicate or predication of a 
+clause, [l] and [2], or to a whole clause or sentence, [3] and [4], or even to a 
+series of sentences [5]: 
+They say heplays tixant, which he doesn't. 
+[l] 
+He walks for an hour each morning, which would bore me. 
+l21 
+Relative clauses such as in [l] are used to affirm (if positive) or deny (if 
+negative) an assertion oc thought ascribed to others. 
+Things then improved, which surprises me. 
+[ l  
+Colin marded my sister and I married his brother, which makes 
+Colin an! me double in-laws. 
+[41 
+In [3] the antecedent matrix clause is a single clause and in [4] it is two 
+conjoined clauses. But one might equally imagine a storyteller coming to the 
+end of the story with the words: 
+- which is how the kangaroo came to have a pouch. 
+L51 
+Here which could'refer back to the whole lgngth of the story. 
+Sentential relabve clauses parallel nonrestrictive postmodifying clauses in 
+noun phrases in that they are separated by intonation or punctuation from 
+their antecedent. They are commonly introduced by the relative word which. 
+In [l-51 which is a relative pronoun, but it may also be a relative determiner 
+of general abstrakt nouns such as fact, case, event, or situation, or more specific 
+verbal nouns sukh as failure or claim. The noun phrases, which may be 
+prepositional complements, represent the antecedent: 
+The plane may be several hours late, in which case there's nopoint 
+in our waiting. 
+[61 
+They are said to have taught chimpanzees to use human 
+language, which claim has been disputed by some scholars. 
+(formal) 
+171 
+The rather formal construction in [7] is more commonly replaced by a noun 
+phrasewith a postmodifying relative clause, as in [a]: 
+They are said to have taught chimpanzees to use human 
+language, a claim which has been disputed by some scholars. 
+181 
+The prosecutor charged him with lying, an allegation which he 
+vehemently denied. 
+[g] 
+In [g] and [9] the noun phrase, including the postmodifier, is in apposition to 
+the predication of the matrix clause. The determiner which may be found 
+with prepositions other than in (exemplified in [6]): 
+They were under water for several hours, from which experience they 
+emerged unharmed. 
+The last speaker assured the audience that the party would win the 
+election, on which optimistic note the meeting ended. 
+Furthermore, the pronoun which may be a prepositional complement: 
+Mortimer exploded a firecracker during a lesson, as a result of which he 
+was suspendedfiom school for a week. 
+Her brother snatched the letter away, at which she was furious. 
+In a rather formal style, the pronoun which may be the object of a nonfinite 
+verb : 
+There was a sudden increase in the readership of Sunday papers, after 
+noticing which several editors changed their policy. 
+Profits had to be increased, to achieve which object became the main 
+" 
+occupation of business executives. 
+Two special types of appositional clauses should be noted here, because 
+they provide common alternatives to sentential relative clauses. Both types 
+contain a noun head modified by an adnominal relative clause: 
+(a) RESUMPTIVE clauses repeat as the noun head a word or a morphological 
+variant of a word: 
+She expressed her belief in the economic recovery of the country, a 
+belief that was well founded. 
+The President announced that he would run for a second term, an 
+announcement that was acclaimed by most members ofhis party. 
+(b) SUMMATIVE clauses provide as the noun head a word that summarizes the 
+matrix clause: 
+Norman may be pretending to be sick to avoid going to school, 
+a possibility that we cannot ignore. 
+Relative words other than which are used to introduce sentential relative 
+clauses. Whereupon ['after which', 'in consequence of which'] and whence 
+['from which', 'in consequence of which'] are formal: 
+At the annual meeting, the parishioners severely criticized the minister, 
+whereupon he resigned. 
+The army has been mobilized, whence we may deduce that an invasion is 
+imminent. 
+The combinations since when ['since which time' (esp BrE)], until when, from 
+
+
+1 120 
+Syntactic and semantic functions of subordinate clauses 
+when, and by when are also used as sentential relatives: 
+She joined the editorial staffof a local newspaper, since when she has 
+contributed to various monthlies. (esp BrE) 
+The status of the sentential relative clause is somewhat anomalous. 
+Semantically it is similar to comment clauses that are content disjuncts; 
+compare which surprises me in [3] above with the comment clause what 
+surprises me. However, the which-clause cannot be initial, while the what- 
+clause must be. On the other hand, it is similar toother nonrestrictive relative 
+clauses in that it follows its antecedent and in that it can be most nearly 
+paraphrased by a coordinate clause in which the +vh-word is replaced by a 
+demonstrative such as that; for example the relative clause in [4] can be 
+replaced by and that makes Colin and me double in-laws, and the one in [6] by 
+and in that case there's no point in our waiting. 
+Note 
+[a] There are several archaic compounds:with ~vhere- that introduce sentential relative clauses. 
+They have themeaning'in consequenceofwhich'or'after which': wherealier, whereat, wherefire, 
+wherewith. 
+[b] The sentential relative clause is closest to the continuative nonrestrictive relative clause such 
+as: 
+Tom lent the book to Sue, who lent it to Pat, who returned it to Tom. ['. . . and she lent it to 
+Pat, and she returned it to Tom.'] 
+[c] Although the sentential relative clause is generally fixed in final position, it is occasionally 
+found in medial position in informal conversation: 
+Marvin and Terry - which is something I'll neuer understand- were quarrelling within a 
+month of their marriage and were separated within three months. 
+I 
+ onf fin id and verbless adverbial clauses 
+The attachnient rule for identifying the subject 
+15.58 
+In our discusbion of the grammatical functions and semantic roles of 
+adverbial clau$es, we have frequently ci'fed examples of nonfinite and verbless 
+clauses. We conclude our discussion of adverbial clauses with a consideration 
+of matters that particularly affect nonfinite and verbless clauses. 
+Nonfinite and verbless adverbial clauses that have an overt subject but are 
+not introduced by a subordinator and are not the complement of a preposition 
+are ABSOLUTE lauses, so termed because they are not explicitly bound to the 
+f 
+matrix clause syntactically. Absolute clauses may be -ing, -ed, or verbless 
+clauses, but not infinitive clauses: 
+No further discussion arising, the meeting was brought to a close. 
+[l] 
+Lunchfinished, the guests retired to the lounge. 
+[2] 
+Christmas then only days away, the family was pent up with 
+excitement. 
+I31 
+Apart from a few stereotyped phrases (cf Note [b] below), absolute clauses 
+are formal and infrequent. 
+Nonfinite and verbless adverbial clauses 11 21 
+When a subject is not present in a nonfinite or verbless clause, the normal 
+ATTACHMENT RULE for identifying the subject is that it is assumed to be 
+identical in reference to the subject of the superordinate clause: 
+The oranges, when (they are) ripe, are picked and sorted 
+mechanically. 
+l41 
+In -ed and verbless clauses with a subordinator such as [4], an ellipsis of the 
+subject and operator may be postulated. In other cases, a paraphrase by a 
+finite clause reveals that the subordinate clause subject is identical with the 
+superordinate clause subject. The attachment rule is commonly given for 
+participle clauses, but it applies equally to infinitive and verbless clauses: 
+Persuaded by our optimism, he gladly contributed time and money to the 
+scheme. ['Since he was persuaded. . .'] 
+Driving home after work, Iaccidentally went through a red light. ['While 
+I was driving home after work. . .'] 
+Confident of thejustice of their cause, they agreed to put their case before 
+an arbitration panel. ['Since they were confident. . .'l 
+To climb the rock face, we had to take various precautions. ['So that we 
+could climb. . .'l 
+Note 
+[a) As We see from the examples above, tense, aspect, A d  mood are also inferred in nonfinite 
+and verbless clauses from the sentential context, cf 14.8. 
+[b] Stereotyped absolute clauses include present company excepted, all told, weatherltime permit- 
+ting, God willing. 
+Unattached nonfinite and verbless clauses 
+15.59 
+It is considered to be an error when the understood subject of the clause is 
+not identifiable with the subject of the matrix clause, and perhaps does not 
+appear in the sentence at all: 
+?Driving to Chicago that night, a sudden thought struck me. 
+[l] 
+?Since leaving her, life has seemed pointless. 
+121 
+?Walking down the boardwalk, a tall building came into view. 
+[3] 
+In these examples the implied subject of the clauses is presumably I, but I 
+does not occur as the subject of the matrix clauses. If we wish to keep the 
+nonfinite clauses as they are, we rephrase the matrix clauses to introduce I a s  
+subject; for example : 
+Driving to Chicago that night, I was struck by a sudden thought. 
+[la] 
+Since leaving her, I have felt that life seemed pointless. 
+[2a1 
+Walking down the boardwalk, I saw a tall building. 
+[3al 
+Clauses involved in this type of error, as in [l-31, are UNAITACHED clauses. 
+Here are some further examples of unattached clauses: 
+?After serving on several committees, the association elected her their 
+secretary-treasurer. 
+?Friend of statesmen andpatron of the arts, many honours were bestowed 
+on him. 
+?While in a hospital near the school, her teachers visited her regularly. 
+
+
+1122 
+Syntactic a n d  semantic functions of subordinate clauses 
+Nonfinite and verbless adverbial clauses 1 123 
+?To see theprocession, I put the child on my shoulders. 
+?Being the eldest, the responsibility fell particularly on my shoulders. 
+?Although the latest model, they didn't like the car. 
+?Advised to study anthropology, his choice was psychology instead. 
+?An author of cotisiderable distinction, people flocked to her public 
+lecture. 
+The same error may occur. when an -ing clause is the complement of a 
+preposition : 
+?On reaching the summit, the view delighted us all. 
+As with [l-31, we can interpret correctly the implied subject in these 
+sentences, but these unattached clauses are frowned upon. Such clauses are 
+totally unacceptable if the sentence provides no means for identifying the 
+implied subject: 
+*Reading the eveningpaper, a dog started barking. 
+*Using these techniques, a wheel fell off. 
+*A result of the rise inprices, our economy is suffering. 
+Sometimes the error suggests an absurd interpretation: 
+*Opening the cupboard, a skeleton fell out. 
+*Grilled on charcoal, everyone enjoyed the fish they ciught. 
+*Having eaten our lunch, the steamboat departed. 
+The attachment rule does not apply, or at least is relaxed, in certain cases: 
+(a) The clause is a style disjunct (cf 15.21), in which case the implied subject 
+is the subject of the implied clause of speaking, normally I: 
+Putting it &ildly, you have caused us some inconvenience. 
+His moral:principles, to befrank, begin and end with his own interests. 
+To say the least, their techniques are old-fashioned. 
+(b) The implied subject is the whole of the matrix clause: 
+I'll help yoJ $necessary. ['. . . if it is necessary.'] 
+Unknown to: his closest advisers, he hkd secretly negotiated with an 
+enemy emissary. ['It was unknown to his closest advisers that . . .'l 
+The siren sounded, indicating that the air raid wasover. ['. . . which 
+indicated that. . .'] 
+(c) If the impligd subject is an indefinite pronoun or prop it (cf 10.26), the 
+construction is donsidered less objectionable: 
+When dining in the restaurant, a jacket and tie are required. ['When one 
+dines.. .'l 
+Being Christmas, the government offices were closed. ['since it was . . .'l 
+To-infinitive clauses are normal in this use: 
+To borrow booksfrom this library, it is necessary to register as a member 
+of the library. ['For one to borrow. . .'l 
+(d) In formal scientific writing, the construction has become institutionalized 
+Note 
+where the implied subject is to be identified with the I, we, and you of the 
+writer(s) or reader(s): 
+When treating patients with language retardation and deviation of 
+language development, the therapy consists, in part, of discussions of 
+the patient's problems with parents and teachers, with subsequent 
+language teaching carried out by them. 
+To check on the reliability of thejirst experiment, the experiment was 
+replicated with a second set of subjects. 
+[a] The error of unattached clauses has traditionally been discussed in connection with participle 
+clauses, particularly -ing clauses. Other traditional terms for the error are 'unattached', 
+'unrelated', 'pendant', and 'dangling' participle. 
+[b] The acceptability of unattached clauses perhaps varies according to how easily the particular 
+hearer or reader can perceive the implied subject. Participle forms that are lexicalized as 
+conjunctions or prepositions are of course exempt from the attachment rule: 
+Prouided that a film entertains. few neonle care about its merits. 
+. . .  
+Considering its cost, this machine is not worth buying. 
+[c] As-phrases are sometimes placed initially when they are related to an element in final position 
+or to no element at all. They then resemble unattached clauses: 
+?As aprotection against infition, we must seek increasingly to diversify our investments. 
+?As aprofessorofpoliticalscience, it has been interesting to spend a year in Germany. 
+[Presumably: '. . . I have found it interesting. . :l 
+[dl Due to is generally accepted as a complex preposition synonymous with owing to. Some 
+speakers, however, consider that due functions as an adjective in that collocation and therefore 
+object to its use in 141 as an infringement of the attachment rule for verbless clauses: 
+?Due to bad weather, classes have been cancelled today. 
+. 
+[4 1 
+For those whoobject to (41, [4al provides an acceptable alternative: 
+Cancellation of classes today is due to bad weather. 
+[W 
+Supplementive clauses 
+When adverbial participle clauses and adverbial verbless clauses are not 
+introduced by a subordinator, there may be considerable indeterminacy as to 
+the semaniic relationship to be inferred. Infinitive clauses, although they 
+exhibit a number of semantic relationships, present no particular problem in 
+this respect, but cf 17.31f. 
+In their indeterminacy, adverbial participle and verbless clauses resemble 
+the versatile relationships expressed by nonrestrictive relative clauses 
+(cf 17.23) and the connective function of the coordinator and (cf 13.22ff). 
+They are all capable of assuming, according to context, a more precise role: 
+Jason, told of his son's accident, immediately phoned the hospital. 
+[l] 
+Jason, who was toldof his son's accident, immediately phoned the 
+hospital. 
+[2] 
+Jason was told of his son's accident, andhe immediatelyphoned the 
+hospital. 
+[31 
+For all three sentences, although the mode of clause connection does not 
+make this explicit, we infer a temporal sequence of events. On the other 
+hand, in the next three sentences we infer that the logical connection between 
+the clauses is primarily one of reason, although there is also a temporal 
+sequence : 
+John, knowing that his wijk was expecting a baby, started to take a 
+course on baby care. 
+[4] 
+
+
+1124 Syntactic and semanticfunctionsof subordinateclauses 
+John, who knew that his wife was expecting a baby, started to take a 
+course on baby care. 
+[51 
+John knew that his wife was expecting a baby and hestarted to 
+take a course on baby care. 
+l61 
+In [7] the connection is one of reason without temporal sequence: 
+Julia, beinga nun, spent much of her life in prayer and meditation. 
+[7] 
+Sentences [l], [2], [4], [5], and [7] all contain subordinate clauses, but only [I], 
+[4], and [7] are adverbial clauses, since they can be positioned initially, 
+medially, and (except for [l]) finally. 
+Adverbial participle and verbless clauses without a subordinator are 
+SUPPLEMENTIVE CLAUSES; like nonrestrictive relative clauses and clauses in 
+an and-coordination, they do not signal specific logical relationships, but 
+such relationships are generally clear from the context. Subiectless supple- 
+- - 
+mentive clauses, ie those that (unlike supplementive absolute clauses, cf 
+15.58) do not have their own overt subject, resemble nonrestrictive relative 
+clauses in another respect: the implied subject in the supplementive clause 
+provides a link with the matrix clause rather as the relative pronoun provides 
+a link in postmodifying relative clauses. The formal inexplicitness of 
+supplementive clauses allows considerable flexibility in what we may wish 
+them to convey. According to context, we may wish to imply temporal, 
+conditional, causal, concessive, or circumstantial relationship. In short, the 
+supplementive clause implies an accompanying circumstance to the situation 
+described in the matrix clause. For the reader or hearer, the actual nature of 
+the accompanying circumstance has to be inferred from the context. Here 
+are some illustrations of process adverbials: 
+I 
+Using a sharp axe, Gilbert fought his way into the building. ['By using a 
+sharp axd, . . .'l 
+Marilyn crawled through the narrow tunnel, hands infront. 
+We spoke face to face. 
+They stood dilently, their eyesfixed on the horizon. 
+Elizabeth dijed in headfirst. 
+They strolledjthrough the park with thqr arms intertwined. 
+Note 
+[a] Clauses introduced by with and wirhour often convey little more than a vague notion of 
+accompanying circumstance: 
+With rears ofjoy in her eyes, she saw her daughter married. 
+Wirhour onyone nqficing, I slipped out of the rwm. 
+[bl In -ing clauses, verbs used dynamically tend to suggest a temporal link, and stative verbs a 
+causal link: 
+1 
+Reachblg the river, we pitched camp for the night. ['When we reached the river, . . .'] 
+Being afarmer, he is suspicious of all governmental interference. 
+PSince he is a farmer, . . .'] 
+Subjectless supplementive clauses 
+15.61 The formal characteristics of subjectless supplementive clauses are: 
+Nonfinite and verbless adverbialclauses 
+11 25 
+(b) Their most typical positions ?n the superordinate clause are initial, final; 
+and immediately after their antecedent, ie the noun phrase in the 
+superordinate clause which is identical with their implied subject. 
+The position immediately after the antecedent poses the most difficulties 
+for analysis. When subjectless supplementive clauses occur in that position, 
+they may be indistinguishable from postmodifying participle clauses or (in 
+the case of verbless clauses) from noun phrases in apposition. Thus the two 
+constructions may merge in that it is impossible (and semantically 
+unimportant) to decide whether the participle clause in [l] is to be regarded 
+as functionally equivalent to the nonrestrictive relative clause in [la]: 
+This substance, discovered almost by accident, has revolutionized 
+medicine. 
+[l] 
+This substance, which was discovered almost by accident, has 
+revolutionized medicine. 
+[ W  
+Alternatively, it may be equivalent to a subjectless supplementive clause: 
+Discovered almost by accident, this substance has revolutionized 
+medicine. 
+There are, however, two types which in general may be unambiguously 
+labelled supplementive: 
+(a) -ing clauses containing auxiliary verbs or the verb be: 
+The children, having eaten theirfill, were allowed to leave the table. 
+The old man, being of sane mind, dictated and signed his will. 
+Such -ing clauses generally cannot be postmodifiers of noun phrases. 
+(b) verbless adjective clauses: 
+Lawson, implacable, contented himself with a glare of defiance. 
+Adjective clauses can, however, be nonrestrictive postmodifiers of noun 
+phrases in certain circumstances: 
+(i) if the clause is lengthy and contains weighty information: 
+We took Joe, unable to stand because of weakness, to the nearest hospital. 
+I met Betty, angry with me as always, at the luncheon. 
+. 
+Contrast: 
+*We took Joe, weak, to the nearest hospital. 
+*I met Betty, angry, at the luncheon. 
+(ii) if the adjective can be object complement in the complementation of the 
+superordinate verb : 
+I found George, unconscious, a few hours later. 
+Contrast: 
+*I treated George, unconscious, at the hospital. 
+In initial position, the clauses are unambiguously subjectless supplementive 
+clauses. For supplementive clauses in final position, cf 15.62. 
+(a) They are participle or verbless clauses. 
+
+
+1126 Syntactic and semantic functionsof subordinateclauses 
+Supplementive clauses in final position 
+In spite of their resemblance to nonrestrictive relative clauses, supplementive 
+clauses need not be separated from their matrix clause intonationallv when 
+. -- -- 
+they occur in final position. The following are therefore alternative renderings 
+of the same sentence, differing only in that [l] has two focuses of information, 
+whereas [2] has only one: 
+The manager BPPR~ACHED US, s ~ i ~ i n g .  
+The manager approached us s ~ i ~ i n g .  
+One result of the alternative shown in [2] is the possible neutralization of the 
+formal difference between nonfinite clauses functioning as supplementive 
+clauses and those functioning as complementation of the verb. Thus [3] is 
+ambiguous : 
+I saw Pam going home. 
+[31 
+On one interpretation (that of the supplementive clause), I is the implied 
+subject of going home, whereas on the other (that of verb complementation), 
+Parn is the overt subject. 
+Another result of the lack of intonation is illustrated in [4] and [5]. When 
+the -ing participle immediately follows certain finite verbs with existential 
+meaning, the latter seem close to being aspectual catenatives (cf 3.49): 
+Frank sat reading the newspaper. 
+Edith came running towards us. 
+Further, a sentence such as [6] is ambiguous in more than one way: 
+I caught the boy waiting-& my daughter. 
+[61 
+In addition tolthe two possible structures of [3], this may be interpreted as 
+having a thircf' structure, in which the nonfinite clause is a postmodifying 
+clause : 
+'I caught the boy while I was waiting for my daughter.' [supplementive 
+clause] : 
+'I caught the boy in the act of waiting for my daughter.'[verb 
+compleflentation] 
+'I caught tl~? boy who was waiting far my daughter.' [postmodification] 
+On the analogy: of [2], we may identify the final adjective phrases of the 
+following examples (where there is no intonational separation) as verbless 
+supplementive clauses: 
+, 
+The mana$er approached us full of apologies.' 
+He drove the damaged car home undismayed. 
+In each, the adjective phrase is in a copular relationship with the subject of 
+the sentence, and is thus distinct from an object complement; which would 
+be in a copular relationship with the direct object. Furthermore, an object 
+complement could not normally be placed in initial position, whereas that 
+position is perfectly natural for [7] and [S]: 
+FUN of apologies, the manager approached us. 
+Undismayed, he drove the damaged car home. 
+Comparative clauses 
+1 127 
+Adjective phrases in final position that cannot be preposed are generally 
+nonrestrictive postmodifiers of the preceding noun phrases (cf 15.61 for 
+medial nonrestrictive postmodifiers), even though they are separated 
+intonationally from the rest of the sentence: 
+The cows contentedly chewed the grass, green and succulent after the 
+rain. ['which was green and succulent. . .'l 
+The drill quickly penetrated the layer of rock, loose and crumbly with 
+years of weathering. 
+Noun phrases in final position that cannot be preposed are generally 
+appositives of the preceding noun phrases: 
+Shirley sent us a gift, a boxof chocolates. 
+There is agradient relating the functional categories of subject complement 
+and restrictive adjunct (cf 15.23) realized by a verbless supvlementive clause. 
+We therefore find sentences in.which the final phrases cannot be preposed 
+(at least without changing the meaning), because they are on the gradient 
+towards subject complement status: 
+They ended the season bottom of the league. 
+He came out of prison a changed man. 
+He began life a Protestant. 
+She emerged from the conflict victorious. 
+Note 
+Prepositional phrases that may be construed as subject complement can also be viewed on the 
+gradient between adverbial and complement (cflO.1 l): ' 
+They ended the season at the bottonrof the league. 
+He began life as a Protestant. 
+She emerged from the conflict with a clear victory. 
+Comparative clauses 
+15.63 
+In a comparative construction, a proposition expressed in the matrix clause 
+is compared with a proposition expressed in the subordinate clause with 
+respect to Some STANDARD OF COMPARISON: 
+Jane is as healthy as her sister (is). 
+[l] 
+The standard of comparison in [l] is health. 
+Broadly conceived, comparison includes comparisons of EQUIVALENCE (cf 
+15.71), as in [l], and comparisons of SUFFICIENCY and EXCESS (cf 15.72ff), as 
+in [2] and [3] : 
+Don is sensitive enough to understand your feelings. 
+[21 
+Marilyn was too polite to say anything about my clothes. 
+[31 
+
+
+1128 
+Syntactic and semantic functions of subordinate clauses 
+More narrowly considered, however, comparison concerns a standard 
+measurable in terms of degree that is expressed by means of the correlative 
+sequence more, less, or other comparative forms (cf 7.74ff) in the matrix 
+clause, together with than in the subordinate clause. Such comparisons are 
+COMPARISONS OF NONEQUIVALENCE : 
+more healthy 
+less healthy 
+The clause element in the matrix clause which specifies the standard of 
+comparison (health in [l] and [4]) is the COMPARATIVE ELEMENT (abbreviated 
+in our further discussion to 'comp-element'), in [l] and [4] as healthy, more 
+healthy, healthier, less healthy. The BASIS OF COMPARISON is given in the 
+COMPARATIVE CLAUSE, 
+the correlative subordinate clause; it is Jane's sister in 
+[l] and [4]. The basis of comparison need not be overtly expressed, but it is 
+then implied from the context. 
+Comparative clauses of nonequivalence, equivalence, and excess may 
+include nonassertive forms (cf 10.60): 
+They pleased me more than they can in any way imagine. 
+You have as much right to vote as you ever had. 
+I am too young to remember any of the events during the last war. 
+Note 
+An alternative term for equivalence is 'equality'. Other terms for nonequivalence are 'inequality' 
+and 'differentiation'. . 
+, 
+The comp-element 
+15.64 
+We may imagine the semantics of the comparative construction arising from 
+the answers [la] and [Ib], and [2a] and [2b] to the how-questions posed in [l] 
+and [2] : 
+How old is Mary (compared with Jane)? 
+How old is Jane (compared with Mary)? 
+Mary is oldy than Jane (is). 
+Mary is youvger than Jane (is). 
+\ 
+Jane is younger than Mary (is). 
+Jane is older than Mary (is). 
+Of the four answers, [la] and [2a] are synonymous, being converses of each 
+other; and similarly [lb] and [2b]. Less frequently, comparison is expressed 
+through less, wh'ch indicates a tendency to the negative pole of the standard 
+of comparison : / 
+Mary is less old than Jane (is). 
+[Icl 
+Mary is less young than Jane (is). 
+[Id1 
+Again, paraphrase relationships hold: [lc] is synonymous with [Ib] and [2b], 
+and [Id] with [la] and [2a]. Sentences like [Id], in which the marked member 
+of the pair of adjectives (cf 7.88) is combined with less, are rare. Sentences 
+like [lc] are not common when the adjective is inflected for comparison 
+rather than taking periphrastic more. 
+With other adjecti.ves comparison with less is common.enough when there 
+is not an established pair of antonymous adjectives or when an available 
+antonym sounds offensive: 
+Caroline is less perceptive than Rosemary (is). 
+Violet is less sophisticated than Felice (is). 
+Or a comparison of equivalence in the negative is substituted (cf 15.71): 
+Caroline is not aslso perceptive as Rosemary (is). 
+Violet is not aslso sophisticatedas Felice (is). 
+Both types of comparison seem clearer than more with a negative adjective: 
+Caroline is more imperceptive than Rosemary (is). 
+[%l 
+Violet is more unsophisticated than Felice (is). 
+[4b1 
+In the comparative constructions in [la-Id], the comp-element (italicized) 
+together with than forms a hinge by which the two wh-elements of the 
+questions [I] and [2] could be said to be combined. This coalescence accounts 
+for the appearance of defective structure in the comparative clause. For 
+example, in [la] the comparative clause than Jane (is) contains (optionally) a 
+form of the verb be, but not a complement or adjunct such as the verb be 
+normally requires for complementation. Some grammarians have postulated 
+an omitted repetition of the standard of comparison in the comparative 
+clause: Mary is older than June is (old). But we do not follow this analysis. In 
+the first place, the full form suggests that Jane is old and Mary even older. 
+And obviously this is not necessarily the case for the comparative 
+construction : both Mary and Jane may be babies. The standard of comparison 
+involves a scale without commitment to absolute values. Furthermore, a 
+comparative clause element corresponding to the comp-element in the matrix 
+clause can occur only when the standards of comparison in the two clauses 
+are different, two scales then being compared: Mary is cleverer than Jane is 
+pretty. Further structural gaps arise through the optional ellipsis of other 
+elements in the comparative clause, as discussed in 15.66ff. 
+More and the inflectional variant in -er are the typical COMPARATIVE ITEMS 
+within comp-elements. We therefore use them to exemplify comparative 
+constructions in the sections that follow. 
+Note 
+[a] Constructions with more . . . than and less. . . Ihan do not necessarily introduce comparative 
+clauses. There is a type of nonclausal comparison in which than is followed by an explicit 
+standard or yardstick of comparison, normally a noun phrase of measure, or a noun phrase 
+implying degree: 
+I weigh more than ZUUpounds. 
+It goesfaster than 100 milesper hour. 
+The strike was nothing less than a narional catastrophe. 
+Here than is best considered a preposition, and the phrase which follows it a prepositional 
+complement. since there is no possibility of expanding the than-phrase into a clause: 
+*It goes foster than 100 milesper hourgoes. 
+[b] There is a second type of more. . . than construction not introducing a comparative clause. 
+This is the quasi-coordinative typeof construction illustrated by: 
+I was nlore angry tlranfiglltened. I'It is more true to say that I was, , 
+{I was angry more lhanfiightetled.] 
+A distinguishing characteristic of this construction is the nonoccurrence of the suffixal form of 
+comparison: 
+
+
+1130 Syntactic a n d  semantic functions of subordinate clauses 
+Comparative clauses 1131 
+'1 was angrier than frightened. 
+[C] The negative comparative clauses moreoflen than not and more likely than not, with the pro- 
+clause not, are idioms that occur quite frequently: 
+He was found out nloreoflen tha~i not. I'More often than he was not found out.'] 
+She was satisfied with herjob morelikely tlran not. 
+It is sometimes preposed: 
+More likely tl~an not. she was satisfied with herjob. 
+Otherwise negative comparative clauses are rare, because we have little occasion to use them. 
+Clause functions of the comp-element 
+15.65 
+Like the wh-element of a wh-question (cf 11.15), the comp-element of a 
+comparative construction can be any of the clause elements, apart from the 
+verb : 
+S: More people use this brand than (use) any other window-cleaning 
+fluid. 
+Od : She knows more history than most people (know). 
+My grandparents gave me more money than my parents (did). 
+0,: 
+That toy has given more children happiness than any other (toy) 
+(has). 
+C,: Lionel is more relaxed than he used to be. 
+C,: 
+She thinks her children more obedient than (they were) last year. 
+A : You've been working much harder than I (have). 
+Ann treats the children more harshly than George (does). 
+The comp-element may also be a prepositional complement: 
+She's applied for more jobs than Joyce (has (applied for)). 
+Like wh-elements of various kinds (cf 11.18), the comp-element may 
+represent a pushdown element within a nominal that-clause subordinate to 
+the comparati,ve clause: 
+Derek cabght morefish than I expected ((that) he would (catch)). 
+She is better than she thinks ((that) she is). 
+I felt more miserable than I can say ((that) I felt). 
+or within a sukrdinate to-infinitive clause: 
+You arrivad earlier than (it was) neyssary (for you to arrive). 
+Ellipsis in comparative clauses 
+15.66 
+Ellipsis of a part of the comparative clause is likely to occur when that part 
+is a repetitionlof something in the matrix clause. Since it is normal for the 
+two clauses to be closely parallel both in structure and content, ellipsis is the 
+rule rather than the exception in comparative constructions. However, there 
+is no necessary parallelism between the matrix and comparative clauses; the 
+comparative clause, so long as it overlaps with the content of the matrix 
+clause in respect of the comp-element, can be of independent structure. Thus 
+we may taketwo ho~-~uestions 
+of disparate clause types (SVand SVO) in [l] 
+and [2] and use them to construct the comparative construction in [3]: 
+How quickly does he speak? 
+[l] 
+How quickly can his secretary take dictation? 
+121 
+He speaks more quickly than his secretary can take dictation. 
+131 
+The most characteristic type of comparative clause, on the other hand, is 
+one which imitates the structure of the matrix clause, and repeats its whole 
+content except for one element, the differing elements providing the contrast. 
+This type of clause, as we see below, allows optional ellipsis and optional 
+substitutions by pronouns and by pro-predication: 
+James and Susan often go to plays but 
+(i) James enjoys the theatre more than Susan enjoys the theatre. 
+(ii) James enjoys the theatre more than Susan enjoys it. 
+(iii) James enjoys the theatre more than Susan does. 
+(iv) James enjoys the theatre more than Susan. 
+(v) James enjoys the theatre more. 
+Ellipsis of the object generally cannot take place unless the main verb too is 
+ellipted, as in (iii) and (iv), where there is a choice between the retention of 
+an operator and its omission: 
+*James enjoys the theatre more than Susan enjoys. 
+But if the object is the comp-element itself, then in addition to (i-v) the verb 
+alone may be retained: 
+James knows more about the theatre than Susan knows. 
+Compare also the corresponding pseudo-cleft construction: 
+What James knows about the theatre is more than Susan knows. 
+The subject is omitted in the comparative clause below: 
+You spent more money than was intended to be spent. 
+The omission suggests that than is functioning like a relative pronoun. 
+Compare: 
+You spent the money that was intended. 
+Cf also as is common knowledge, 15.55. 
+Note 
+[a] Infinitive clauses with a pushdown element (cl 11.18) can be ellipted fully or alternatively 
+only the infinitive verb and what follows it can be ellipted, leaving a stranded to (cf 12.64): 
+She enjoyed it much more than I expected (her to (enjoy it)). 
+They did more than we made them (do). 
+The verb be alone, however, cannot be so easily ellipted in this context: 
+She was more beautiful than I imagined her to be. 
+[also: than I imagined or than I imagined her] 
+They wanted to be more playful than I let them be. 
+[b] DrHerent than is a widely acceptable (esp AmE) sequence when a clause (particularly an 
+elliptical clause) follows: 
+Schools are different than they used to be. 
+They are playing in a very different way than (they played) before. 
+There are, however, widespread objections to different than when only a noun phrase follows, on 
+the grounds that than is inappropriate in contexts where it can be viewed as a preposition: 
+?Films are very different than plays. 
+DiJjerent from is the preferred form. Cf further 16.74. 
+
+
+1 132 
+Svntactic and semantic functions of subordinate clauses 
+Comparativeclauses 1133 
+Ambiguity through ellipsis 
+15.67 
+When normal ellipsis is taken to its fullest extent, we are often left with no 
+more than the subject or object of the comparative clause: 
+I speak Greek better than you (speak Greek). 
+The photographs disappointed my parents more than (they 
+disappointed) me. 
+Ambiguity can arise as to whether a remaining noun phrase is subject or 
+object: 
+He loves his dog more than his children. 
+The above example could mean either [l] '. . . than his children love his dog' 
+or [2] '. . . than he loves his children'. If his children is replaced by a pronoun, 
+formal English makes the distinction: 
+He loves his dog more than they. 
+He loves his dog more than them. 
+In other styles, however, the objective case them is used for both [l] and [2]. 
+Prescriptive grammar requires the subjective case in [l], both on grammatical 
+grounds (that they is the subject of the elliptical clause) and on grounds of 
+clarity, since it preserves a useful distinction that can occasionally avoid 
+potential ambiguity. On the other hand, we may account for the use of the 
+objective pronoun for [l] in other styles by pointing out that as than in this 
+construction may be considered a preposition (cf 15.64 Note [a]), the pronoun 
+falls within object territory (cf 6.5). Since both forms can be criticized (on 
+account of stiffness on the one hand, and 'bad grammar' on the other), and 
+since in any event we cannot be sure that the objective case in [2] represents 
+choice in form$ style and is therefore unambiguous, we may wish to evade a 
+choice by expanding the clause (than they do; than he does them). 
+Multiple and partial contrasts 
+15.68 
+If the two clauses in a comparison differed solely in the comp-element (*I 
+hear it more clearly than I hear it), the comparison would of course be 
+nonsensical; thehefore, a contrast of at lea@ one variable is required between 
+the two clauses. :While the single-variable comparison is the most common 

@@ -1,0 +1,1215 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 14: The Complex Sentence
+Covers: Coordination, Subordination, Reported speech, Conditional clauses
+[Part 5 of 9]
+============================================================
+
+relationships of condition, .concession, and contrast may otherwise convey 
+meanings of time and place, as in the examples in Fig 15.32. 
+Fig 15.32 Subordinators and conjuncts with overlapping roles 
+There is also considerable overlap in adverbial clauses that express 
+conjuncts 
+then, in rho? case 
+besides, yet 
+on rhe orher hand, instead 
+conditional 
+concessive 
+contrastive 
+condition, concession, and contrast. conditional clauses (cf 15.33 ff) convey 
+that the situation in the matrix clause is contingent on that in the subordinate 
+- 
+subordinators 
+as long as, in rhe event rhar 
+whereas, while 
+whereas, while 
+clause : 
+Ifthe weather isfine, (then) we'll have a barbecue. 
+Clauses of contrast (cf 15.43) merely convey a contrast between two 
+situations: , 
+Whereas the US has immense mineral wealth, Japan (in contrast) has 
+comparatively little. 
+Concessive clauses (cf 15.39ff) may also imply a contrast, but their main role 
+is to imply that the situation in the matrix clause is unexpected in the light of 
+that in the concessive clause: 
+Although admission was free, (nevertheless) few people attended the 
+lecture. 
+The parenthesized items illustrate the different conjuncts that optionally 
+correlate with the three clauses (cf 14.13). 
+The overlap between the three roles is highlighted by the overlapping use 
+of subordinators: for example, if introduces all three types of clauses and 
+whereas both cpntrast and concessive clauses. Furthermore, even ifexpresses 
+both the contfngent dependence of y e  situation upon another and the 
+unexpected nature of this dependence: 
+Even ifthey offered topay, I wouldn't accept any money from them. 
+All three types of clauses tend to assume initial position in the superordinate 
+clause. 
+, 
+l 
+Conditional clauses 
+Direct and indirect condition 
+15.33 
+The central uses of conditional clauses express a DIRECT CONDITION: 
+they 
+convey that the situation in the matrix clause is directly contingent on that of 
+the conditional clause. Put another way, the truth of the proposition in the 
+matrix clause is a consequence of the fulfilment of the condition in the 
+conditional clause. Here is an example: 
+Ifyouput the baby down, she'll scream. 
+[l] 
+Semantic rolesof adverbial clauses 1089 
+In uttering [l] the speaker intends the hearer to understand that the truth of 
+the prediction 'she'll scream' depends on the fulfilment of the condition of 
+'your putting the baby down'. The hearer also in practice infers the converse: 
+Ifyou don't put the babj3 down, she won't scream. 
+However, the speaker may cancel this implication by hedging (expressing 
+some uncertainty, 48.124, 8.126): 
+Ifyouput the baby do~rv~, 
+she'll scream. But she may scream anyway. 
+More peripheral uses of conditional clausesexpressan INDIRECTCONDITION. 
+The condition is not related to the situation in the matrix clause. Consider 
+PI: 
+She's far too considerate, ifI may say so. 
+[21 
+In uttering [2], the speaker does not intend the truth of the assertion 'She's 
+far too considerate' to be dependent on obtaining permission from the hearer. 
+Rather, thecondition is dependent on the implicit speechact of the utterance: 
+'I'm telling you, if I may, that she's far too considerate'. In conventional 
+politeness, the speaker is making the utterance of the assertion dependent on 
+obtaining permission from the hearer;though the fulfilment of that condition 
+is conventionally taken for granted. Here is another example: 
+She and I are just good friends, ifyou understand me. 
+The speaker warns the hearer that the correct interpretation of the utterance 
+'She and I ar,e just good friends' depends on the hearer understanding what 
+the speaker means by the utterance: 'I'm telling you that on the assumption 
+that you understand me correctly'. 
+In direct conditions, the if-clause is an adjunct (cf 15.20f); in indirect 
+conditions, it is a style disjunct (cf 15.21). 
+Subordinators and structural types of clauses 
+15.34 
+The two simple subordinators for conditional clauses are ifand unless. The 
+most common and most versatile of the conditional subordinators is if; we 
+therefore generally employ it in the sections that follow to illustrate the 
+different uses of conditional clauses. The negative subordinator unless is the 
+next most common. Other conditional subordinators are: 
+as long as, so long as, assuming (that), given (that) (formal), in case, in the 
+event that, just so (that) (informal), on condition (that), provided (that), 
+providing (that), supposing (that) 
+General recurrent contingency is expressed by once, when, whenever, where, 
+and wherever (cf 15.30). In addition, several subordinators combine condition 
+with time: before (cf 15.27), as long as, so long as, when, whenever, once (cf 
+15.28). Except that and conjunctive only combine exception with condition 
+(cf 15.44). 
+All these subordinators are used with finite clauses: 
+Ifyou want some more, you should ask me. 
+Unless the strike has been called off, there will be no trains tomorrow. 
+
+
+109.0 Syntactic a n d  semantic functions of subordinate clauses 
+He doesn't mind inconveniencing others just so he's comfortable. 
+(informal) 
+She may go, as long as hegoes with her. 
+You may leave the apartment at any time,provided that yougive a 
+month's notice or pay an additional month's rent. 
+111 case you want me, I'll be in my office till lunchtime. 
+Given that x = y, then n(x + a) = n(y + a) must also be true. (in formal 
+argumentation) 
+Assuming that the movie starts at eight, shouldn't we be leaving now? 
+Supposing they won the rage, what would they do with an extra car? 
+Of the subordinators that are specifically conditional, only if and unless 
+introduce nonfinite clauses (mainly -ed participle clauses) and verbless 
+clauses. They are marginally acceptable in -ing participle clauses (cf 14.19 
+Note [a]) : 
+The grass will grow more quickly ifwatered regularly. 
+Unless otherwise instructed, you should leave by the back exit. 
+Ifwet, the pipe won't give you a good smoke. 
+It has little taste, unless hot. 
+Here belong the positive and negative conditional pro-clauses ifso and ifnot. 
+The implied subject is the matrix clause itself (or part of it) in some verbless 
+if-clausks, including the common ifpossible and ifnecessary: 
+Marion wants me to type the letter ifpossibIe. 
+['if it is possible for me to type the letter'] 
+I can discuss the matter with you now, ifnecessary. 
+['if it is,necessary to discuss the matter with you now'] 
+Nonfinite and verbless clauses with with or without as subordinator may 
+express a conditional relationship: 
+Without me to supplement your income, you wouldn't be able to manage. 
+With them.on our side, we are secure. 
+I 
+Cf 15.36 for fjnite conditional clauses, without a subordinator but with 
+subject-operator inversion: 
+Had Mark been in charge, it wouldn't have happened. 
+l 
+Note 
+[a] The traditional terms PROTASIS for subordinate clause and ~PoDosls for matrix clause are 
+especially used for/conditional relationships. 
+[b] Unless, except (informal AmE), and archaic save also combine exception with condition, CJ 
+15.35 Note[fl: 
+I'm not going {:tzt] 
+you go with me. 
+. 
+. 
+[C] Conditional relationships are also implied in certain kinds of clauses coordinated by and and 
+or (cJ13.25, 13.30) and in paratactic constructions such as waste not, want nor (cJll.43). 
+[d] Among somecommon stereotyped conditional expressions without subordinators are: 
+(a) absolute clauses (cJ15.58; and 9.58 for expressions such as barring bad weather): 
+time 
+weather] permitting 
+God willing 
+C '  for the time being 
+Semantic roles of adverbial clauses 1091 
+(b) subjectless clauses with a subjunctive verb: 
+come to that ['if it comes to that', 'if I may add to that'] 
+please God rif it pleases God'] 
+[e] CJI 1.41 for f~lauses as sentences. 
+If] Contingency relationships may also be expressed by various complex prepositions, eg: 
+on the {:E:;:) 
+that 
+case 
+breaking out 
+on condition thar 
+with the t?$:tion] 
+fhar 
+in the euent 
+an accident 
+an accident occurring 
+[g] Infinitive clauses sometimes combine condition with other contingency relations (cJ 15.73) 
+such as purpose or reason: 
+You must  STRONG to lijl that neigh!. ['. . . in order to lift that weight', '. . . because you 
+were able to lift that weight*, '. . . if you were able to lift that weight'] 
+You'd be a fool nor to take rhescholorship. ['if you didn't . . .'l 
+To be conrideredfir admission, you must make a formal application. ['If you are to be 
+considered . . .', 'In order to be considered . . .'l 
+[h] CJ15.6 Note [a] for the relationship between conditional fand interrogative if: 
+[il Restrictive relative clauses modifying generic noun phrases (cJ5.26) may be paraphrased by 
+meansof a conditional clause: 
+People who want security shouldn't take a job in commerce. ['ljpeople wont security, they 
+shouldn't take a job in commerce'] 
+The same somethnes applies toother restrictive modifiers with generic noin phrases: 
+Careless drivers cause accidents. ['lfdriuers are coreless, they cause accidents'] 
+Cars manufactured abroad are less expensive. ['ljcars are ntanufacturedabroad, they are less 
+expensive'] 
+Direct condition 
+Open and hypothetical condition 
+15.35 
+A direct condition may be either an OPEN CONDITION or a HYPOTHETICAL 
+CONDITION. Open conditions are neutral: they leave unresolved the question 
+of the fulfilment or nonfulfilment of the condition, and hence also the truth 
+of the proposition expressed by the matrix clause: 
+ZfColin is in London, he is undoubtedly staying at the Hilton. 
+The sentence leaves unresolved whether Colin is in London, and hence it 
+leaves unresolved whether he is staying at the Hilton. 
+A hypothetical condition, on the other hand, conveys the speaker's belief 
+that the condition will not be fulfilled (for future conditions), is not fulfilled 
+. 
+(for present conditions), or was not fulfilled (for past conditions), and hence 
+the probable or certain falsity of the proposition expressed by the matrix 
+clause: 
+If he changed his opinions, he'd be a more likeable person. 
+[l] 
+They would be here with us ifthey had the time. 
+L21 
+Ifyou had listened to me, you wouldn't have made so many mistakes. [3] 
+The conditional clauses in these sentences convey the following implications: 
+He very probably won't change his opinions. 
+[lal 
+They presumably don't have the time. 
+D4 
+You certainly didn't listen to me. 
+[3al 
+The precise formulation of the speaker's belief depends 6n the time reference 
+of the conditional clause. For future reference as in [l], the condition is 
+
+
+1092 Syntactic a n d  semantic functions of subordinate clauses 
+contrary to expectation; for present reference as in [2], it is contrary to 
+assumption; for past reference as in [3], it is contrary to fact. Ifis the main 
+subordinator used in hypothetical conditions. 
+The distinction between open and hypothetical conditions is important 
+grammatically because the verbs in hypothetical conditions are backshifted 
+(cf backshifting in indirect speech, 14.31). 
+conditional clause 
+matrix clause 
+PAST MODAL 
+PAST PERFECTIVE 
+PAST PERFECTIVE MODAL 
+reference 
+Fig 15.35 Verb forms with hypothetical conditions 
+On the verb forms, cf further 14.23. 
+Conditional clauses - particularly clauses introduced by iS, in case, and in 
+the event that - are like questions in that questions are generally either neutral 
+in their expectations of an answer or biased toward a negative response 
+(cf 11.6n. Therefore, like questions, they tend to admit nonassertive forms 
+(cf 10.60f): 
+In the event that he is at all interested, I'll speak to him. 
+If you ever touch me again, I'll scream. 
+If you had ever listened to any of my lectures, you would have known 
+the anslver. 
+She's tak:ng a stick with her in case she has any trouble on the way. 
+Nonassertive items also appear in indirect conditions (cf 15.38): 
+They're going steady, if it's of any interest to you. ['I don't know if it's 
+of any interest to you.'] 
+I'll be in m,y office all DAY, in case you have any ~ ~ 6 s l e m  
+at all. ['I'm 
+telling you this in case you have any problem at all.'] 
+Most subordinators are not used, or rarely used, in hypothetical conditions. 
+Their clauses tend to contain assertive forms: 
+I won't phone you, unless something unforeseen happens. 
+second-instande ifclauses may have assertive forms: 
+A: I've got something to tell you later. 
+B : Well, if you've got something to tell me, tell me now. 
+Note 
+[a]Open conditions have also been termed 'real','factua19, and 'neutral'conditions. Hypothetical 
+conditions have also been termed 'closed', 'unreal', 'rejected', 'nonfactual', 'counterfactual', and 
+'marked' conditions. 
+[b] Ifand when is sometimes used for future open conditions. 
+[c] Ifonly is an intensified equivalent of i/, typically used in hypothetical clauses to express what 
+the speaker wishes would happen, would be happening, or would have happened: 
+Ifonly you lvould help me next week, I would not be so nervous. 
+Semantic rolesof adverbial clauses 1093 
+Ifonly they were here now, we would be able to celebrate their wedding anniversziry. 
+Iforrly somebody had told us, we could have warned you. 
+When positive, the conditional clause generally contains assertive forms, and nearly always 
+precedes the matrix clause. The clause is sometimes used on its own as a hypothetical wish 
+(c/ 11.41): Ifonly I hadn't lost it!The combination only ifis quite different: ifis restricted by the 
+focusing only. 
+[d] Giuen (that)and assumbrg (that) are used for open conditions which the speaker assumes were, 
+are, or will be fulfilled, and from which a proposition is deduced. A clause introduced by granted 
+(thor) is also used as a premise for a deduction, but usually implies a previous statement on which 
+the premise is based. Ifmay be used in the same way: Ifyou were there (and you srr!,~'oa were), 
+you ttrust /row see11 her; and so also in $clauses with clausal pro-forms: ifso, ifrrot, !/'that's true, 
+ifthat's thecase, and (with nonassertives) ifanything, ifat a#. Giwn (that) and gronrerl(that) tend 
+to be used in formal written style, particularly in argumentation. 
+[e] As long as and so long OS are less formal than the semantically similar but formal provided 
+(that) and providing (that). Just so (tl~ot) tends to appear in informal conversation. They all mean 
+'if and only if'. 
+[f] Unless introduces a negative condition; the unless-clause is usually roughly similar to a 
+negative $clause. With unless there is a greater focus on the conditions as an exception ('only if 
+. . . not'). There are therefore contexts in which the unless-clause cannot occur: 
+ifhe doesn't come with us. 
+'I 
+much happier {*unless he comes with us. 
+Ifyou hadn't studied hard, 
+'Unless you hodstudied hard} you'd have failed Ihe exam' 
+[g] In case (cfalso 15.46) is used for open conditions, normally with future reference ('if it should 
+happen that3): 
+I'll let you know in case they come by here. 
+In formal AmE it also has the meaning 'on condition that': 
+The verb is plural (only/jusl) in case the subject is plural. 
+[h] In the event (that) can generally replace ifin open conditions. Because of its greater length, it 
+is regarded as stylistically clumsy. 
+[i] The form ifand only ifis used in mathematics and formal logic to introduce a necessary and 
+sufficient condition on the truthof the matrix clause. It is sometimes abbreviated iff: 
+The verb phrase in the conditional clause 
+15.36 The present subjunctive is sometimes used for open conditions in conditional 
+clauses, instead of the normal present tense: 
+I 
+If any vehicle be found parked on these premises without written 
+permission, it shall be towed away at the expense of the vehicle's 
+owner. 
+I 
+This use is mainly confined to very formal, legal, or quasi-legal contexts. 
+Two ways of expressing future hypothetical conditions are occasionally 
+used in formal contexts. They have overtones of tentativeness: 
+(i) was to or were to followed by the infinitive: 
+If it {WO' ] to rain, the ropes would snap. They're far too tight. 
+[I] 
+were 
+I 
+(ii) should followed by the infinitive (cf putative should 14.25): 
+If a serious crisis should arise, the public would have to be 
+informed of its full implications. 
+121 
+In [l] were is the singular past subjunctive form of be and not the simple 
+past form, were being used in the past subjunctive for the singular as well as 
+
+
+7- 
+1094 Syntactic and semantic functions of subordinate clauses 
+! 
+1 
+t 
+1 
+Semantic roles of adverbial clauses 
+1095 
+the plural (cf 3.62). As [l] illustrates, both the past subjunctive and the past 
+indicative forms are possible for hypothetical conditions, the subjunctive 
+being preferred by many, especially in formal written English: 
+If John 
+} here, we would soon learn the truth. 
+were 
+The idiom i f Z .  . . you by convention usually contains the subjunctive were, 
+though was also occurs frequently. 
+We may signal the conditional relationship, without using a subordinator, 
+by subject-operator inversion. The most common use of this inversion in 
+conditional clauses is with the operator had: 
+Had I known, I would have written before. ['If I had known, . . .'l 
+For the negative, not is placed before the lexical verb, the enclitic n't not 
+being possible: 
+Had Znot seen it with my own eyes, I would not have believed it. 
+Inversion may also occur in a somewhat literary style with subjunctive were 
+and tentative should: 
+Were it to reveal its secrets, that house would collapse in shame. 
+Were she in charge, she would do things differently. 
+Should you change your mind, no one would blame you. 
+Should she be interested, 1'11 phone her. 
+More rarely, the operator may be could or might: 
+2;) 
+iy see my native land, I would die a happy man. 
+For this const'ruction, these two operators require an adverb such as but or 
+just before the lexical verb. 
+On the choice of verbs in both the conditional and the matrix clause, cj 
+14.23. 
+i 
+~\ 
+Rhetorical conditional clauses 
+15.37 
+Rhetorical conditional clauses give the appearance of expressing an open 
+condition, but (like rhetorical questions, cf 11.23) they actually make a strong 
+assertion. There are two types of rhetorical if-clauses, one in which the 
+assertion is de wed from the conditional clause and the other in which it is 
+derived from t l e matrix clause. 
+(a) If the proposition in the matrix clause is patently absurd, the proposition 
+in the conditional clause is shown to be false: 
+Ifthey're Irish, I'm the Pope. ['Since I'm obviously not the Pope, they're 
+certainly not Irish.'] 
+Ifyou believe that, you'll believe anything. ['You certainly can't believe 
+that.'] 
+Ifshe doesn't getfirstprize, she's no daughter of yours. ['She certainly 
+will get first prize.'] 
+(b) If the proposition in the conditional clause is patently true, the 
+proposition in the matrix clause is shown to be true. This type is used with 
+measure expressions with the implication of at least the measure stated in 
+the conditional clause. The $clause is positioned finally: 
+He's ninety ifhe's a day. ['If you'll agree that he's at least a day old, 
+perhaps you'll take my word that he's ninety.'] 
+The package weighed ten pounds ifit weighed an ounce. ['The package 
+certainly weighed ten pounds.'] 
+The painting must be worth a thousand dollars ifit's worth a cent. ['The 
+painting must certainly be worth a thousand dollars.'] 
+Note 
+The matrix clause in type (a) has some fixed expressions which state patent falsehoods, with 
+some variation in the person of the subject, such as I'lleot niy hat and He's a Dutchnto~r: 
+If Dave's younger than me, I'll eat my hat. ['Dave's certainly not younger than me.'] 
+More stereotyped, because restricted to an I-subject, are I'llbe (or I'm)damnedand I'llbe (or I'm) 
+hanged, both familiar in style: 
+;F] 
+damned $Iopologize. r1.11 certainly not apologiz;.'] 
+As a result, these can stand alone as expressions of amazement, eg: Well, I'll be danoted. Taboo 
+expressions also occur in the matrix clause with rhetorical conditional clauses(eg: Fuck me $I'm 
+going to lifi afinger to help them). 
+Compare also the stereotyped patterns in She's nothing fqot tough ['She's certainly tough.'] 
+and He's nothing ifnot cruel ['He's certainly cruel.']. 
+Indirect condition 
+15.38 
+Indirect conditions are open conditions (cf 15.35) that are dependent on an 
+implicit speech act of the utterance (cf 11.3), and are therefore style disjuncts 
+(cf 15.21). They are mainly realized by $clauses. We can distinguish several 
+classes of style disjuncts: 
+(a) The conditional clause is a conventional expression of politeness which 
+makes the speaker's utterance seemingly dependent on the permission of the 
+hearer (cf 8.124f): 
+Ifyou don't mind my saying so, your slip is showing. ['If you don't mind 
+my saying so, I'm telling you that. . .'l 
+ZfZmay be quite frank with you, I don't approve of any concessions to 
+ignorance. 
+Other examples include : 
+if I may say so (without contradiction), if I may put it bluntly, if I may be 
+personal, ifyou can be serious for just this once, ifyou can keep a secret, if we 
+can be practical for a moment, if1 may put the matter as simply as possible, if 
+Zmay interrupt, iflmay change the subject 
+(b) The conditional clause is a metalinguistic comment (cf 8.126) which 
+hedges the wording of the utterance, either suggesting that the wording is not 
+quite precise or that it should not be misunderstood in some sense not 
+intended by the speaker. It explicitly or implicitly calls for the hearer's 
+agreement: 
+
+
+1096 . Syntactic and semantic functions of subordinate clauses 
+His style is florid, ifthat's the right word. ['I'm not sure thatjorid is 
+the right word.'] 
+[l] 
+The Big Bang Theory of the origin of the universe bears a 
+startling resemblance to the description of creation in Genesis, 
+ifone mayput it so. ['I'm not sure that one may phrase the 
+resemblance in that way.'] 
+[21 
+She is resigning, ifyou know what I mean. [Perhaps: 'You are to 
+interpret that to mean that she has been asked to resign.'] 
+[31 
+In [l] and [2] the speaker is uncertain of the correctness of the wording. In [3] 
+the speaker is uncertain whether the hearer will interpret the wording 
+correctly and therefore warns the hearer to interpret it in the intended way. 
+Other examples include : 
+i f l  may put it so, if that's the correct term, ifthat's the wordfor it, ifyou see 
+what I mean, if 1 may phrase it delicately/loosely/crudely/figuratiuely, 
+if you 
+will (formal), ifyou like 
+Although the clauses with I indicate explicitly the speaker's uncertainty, 
+clauses such as if I may put it so may be used to convey a warning more 
+indirectly. 
+' 
+(c) The conditional clause expresses uncertainty about the extralinguistic 
+knowledge required for a correct interpretation of the utterance. The 
+uncertainty may be the speaker's or the hearer's: 
+I met your girl friend Caroline last night, ifcaroline is your girl 
+friend. 
+[41 
+Chomsky's views cannot be reconciled with Piaget's, if1 
+understcind both correctly. 
+151 
+The war j a s  started by the other side, ifyou remember your history 
+lessons. 
+161 
+Einstein's theory of gravitation is based on a mathematical 
+concept;,ifyou've not forgotten already. (ironical) 
+[71 
+The conditional clauses in [4] and [5! hedge about the speaker's own 
+knowledge, whekeas those in [6] and [7] hedge about the hearer's knowledge. 
+The possible clhuses for this type are open-ended, particularly for those 
+expressing the speaker's uncertainty. Other examples include: 
+if I'm 
+I understand you correctly, if we can believe the experts, in 
+case you don'tlremember, ifyou remember, ifyou know what I'm referring to, 
+in case you,doA't know 
+(d)The conditional clause expresses the condition under which the speaker 
+makes the utterance: 
+Ifyou're going my way, I need a lift back. ['If you're going my way, 
+will you please give me a lift back.'] 
+l81 
+In case he ever asks you, I don't know you. ['In case he ever asks 
+you, tell him that I don't know you.'] 
+[g1 
+Ifyou want to borrow a shoebrush, there's one in the bathroom. ['If 
+you want. . . use the one in the bathroom.'] 
+[l01 
+Semantic roles of adverbial clauses 1097 
+Where did your parents go, ifyou know? ['If you know, tell me. . .'] [l l] 
+Notice that the utterance of [81 and [g] has the illocutionary force of indirect 
+.. .. 
+requests, [10]ofan indirectoffer, and [l 1]of adirect question. Theconditional 
+clause expresses uncertainty. If the speaker is certain of the fulfilment of the 
+condition, a since-clause is used instead: 
+Since you're going my way, I need a lift back. 
+[Sal 
+For all four types the uncertainty of the condition provides a tentativeness 
+which adds politeness to utterances. 
+Note 
+Apart from 
+other subordinators used to introduce indirect conditions are in case (that), 
+assuming (that), in the event (that), and supposing (tl~af). 
+Clauses of concession 
+Subordinators and structural types of clauses 
+15.39 
+Clauses of concession are introduced chiefly by although or its mbre informal 
+variant though. Other subordinators used with concessive clauses are: 
+if, even i f ,  even though, when, whereas (formal), while, and whilst (esp BrE). 
+Cf also below the exceptional concessive uses of as and that (BrE). 
+Although he hadjust joined the company, he was treated exactly like all 
+the other employees. 
+No goals were scored, though it was an exciting game. 
+While Idon't want to make a fuss, I feel I must protest at your 
+interference. 
+Whereas the amendment is enthusiastically supported by a large majority 
+in the Senate, its fate is doubtful in the House. 
+She paid when she could have enteredfree. 
+He borrowed my mower even though I told him not to. 
+Except for when and whereas, the concessive subordinators may introduce 
+-ing, -ed, and verbless clauses: 
+While not wanting to seem obstinate, I insisted on a definite reply. 
+Even though given every opportunity, they would not cooperate with us. 
+Though wellouer eighty, he can walk faster than I can. 
+The same types of clauses may also express concession without a 
+subordinator though they then generally require a correlative conjunct to 
+make the relationship clear: 
+Not wanting to give offence, they did so all the same. 
+Trained in karate, he nevertheless used a gun to defend himself. 
+Aware of the dangers to American citizens during the crisis, she still 
+insisted on staying with the others. 
+Like conditional clauses (cf 15.36), concessive clauses sometimes have 
+unusual syntactic orderings when the subordinator is as or though. In a rather 
+formal style, the predication in the concessive clause may be fronted: 
+Genius though she was, she was quite unassuming. 
+
+
+1098 Syntactic e n d  semantic functions of subordinateclauses 
+Fail though I did, I would not abandon my goal. 
+Naked as I was, I braved the storm. ['Even though I was naked, . . .'l 
+Change your mind as you will, you will gain no additional support. 
+['Even though you change your mind, . . .'l 
+The ordering is optional for though, but obligatory for as, which would not be 
+concessive if placed initially (but cf Note [d] below). 
+That is also used concessively with the same obligatory ordering as as, but 
+in AmE only a noun phrase functioning as subject complement can be 
+fronted : 
+Fool that he was, he managed to evade his pursuers. ['Even though he 
+was a fool, . . .'l 
+The noun phrase has the role of a characterizing attribute (cf 10.20). On the 
+other hand, in BrE an adjective phrase functioning as subject complement 
+can also be fronted: 
+Poor that they were, they gave money to charity. {BrE) ['Even though 
+they were poor,. . .'l 
+For a similar reordering of as and that in circumstantial clauses, cf 15.47. 
+Note 
+[a] Concession may also be expressed by several prepositional phrases followed by a relative 
+clause: 
+despite 
+in spite of 
+regardless of 
+notwithstanding 
+Because of their gteater length than the subordinators, they are considered stylistically clumsy. 
+[b] For though as a,conjunct ofconcession, c/ 8.137. 
+[cl In concessive clauses such as greatly though Iadmire her and much as I would like to help, only 
+the adverb is in the obligatory initial position. This type is limited to the subordinators lhough 
+and as. 
+[d] The noninitial placement of concessive as is perhaps to be related toas. . . as in the following 
+example of an infrequent type of concessive clause: 
+As widespreados theeffectsmay be, the Midwest still bears the brunt of the recession. 
+['Even thouih the effects may be widespread,. . .'l 
+The noninitial as may therefore be regarded as a &relative to an omitted initial as. See also the 
+similar omission of the initial comparative as (c/ 15.71). 
+Concessive relationships 
+15.40 
+Concessive clauses indicate that the situation in the matrix clause is contrary 
+to expectation lin the light of what is said in the concessive clause. In 
+consequence od the mutuality, it is often purely a matter of choice which 
+clause is made subordinate : 
+No goals were scored, although it was an exciting game. 
+It was an exciting game, although nogoals were scored. 
+Often they also imply contrast between the situations described by the two 
+clauses. 
+Although and the more informal though are the most versatile of the 
+subordinators, since they may in fact relate clauses in which the situations 
+are similar: 
+Semantic rolesof adverbial clauses 1099 
+Although Sum had told the children a bedtime story, June told them one 
+too (anyway). 
+While and whilst are more restricted, but they may relate clauses in which the 
+contrast is muted, the concessive relationship arising from a contrary 
+expectation : 
+While he has many friends, Peter is (nevertheless) often lonely. 
+While Zadmit I did it, (nevertheless) I didn't intend to. 
+Whereas is the most restricted of the four subordinators, requiring antithesis 
+between two situations: 
+Whereas it would be naive to maintain that inflation is no longer of concern, 
+(nevertheless) all the economic indicators suggest that the money 
+supply can now be safely increased. 
+Even though and even when are more emphatic forms of though and when, 
+the modifying even also expressing unexpectedness. Even if, on the other 
+hand, combines the concessive force of even with the conditional force of if; 
+hence the semantic contrast between [l] and [2]: 
+Even though you ~ ~ S L ~ K E  
+ancient monuments, Warwick Castle is 
+worth a visit. 
+[l! 
+Even ifyou dislike ancient monuments, Warwick Castle is worth a 
+. 
+visit. 
+[21 
+Whereas the even though clause in [l] presupposes 'you dislike ancient 
+monuments', the even ifclause in [2] leaves open whether that is so or not. 
+The presupposition of [l] can be cancelled by adding modal may or a hedging 
+adverbial such as perhaps. 
+I f  by itself may be used concessively: 
+Ifhe'spoor, he's (at least) honest. ['He may be poor, yet he's at 
+least honest.'] 
+E31 
+Ifhe'spoor, he's (also) honest. ['He is poor, yet he's also honest.'] 
+[3a] 
+In [3] it is paraphrased as synonymous with even if and in [3a] with even 
+though. These two different uses of concessive ifare frequently realized in 
+abbreviated verbless clauses: 
+It's possible, ifdiffult. ['It may be difficult.'] 
+My car is as clean as yours, ifnot cleaner. ['It may be cleaner.'] 
+He spoke ungraciously, ifnot rudely. ['He may have spoken rudely.'] 
+They were in good health, ifsomewhat fatter than desirable. ['They were 
+somewhat fatter than desirable.'] 
+Her salary was good, ifnot up to her expectations. ['Her salary was not 
+up to her expectations.'] 
+Note 
+On when withooncessive implications. cfl5.29. 
+Alternative conditional-concessive clauses 
+15.41 
+The overlap between condition and concession, already noted with even if 
+(cf 15.40), is particularly marked in the two types of adverbial clauses termed 
+
+
+1 100 
+Syntactic a n d  semantic functions of subordinate clauses 
+Semantic rolesof adverbial clauses 1101 
+ALTERNATIVE CONDITIONALCONCESSIVE and UNIVERSAL CONDITIONALCONCES- 
+SIVE. 
+The correlative sequence whether. . . or (whether) is an alternative condition 
+in that logically it combines the conditional meaning of ifwith the disjunctive 
+meaning of either. . . or (cf also Note [a]). It is thus a means of coordinating 
+two subordinate clauses. If the second unit is a full clause, whether may be 
+repeated, as in [l]; cf15.6: 
+Whether Martin paysjbr the broken vase or (whether) he replaces it 
+with a new vase, I'm not inviting H ~ M  
+again. 
+[l] 
+You will have to face the publicity, whether you want to or not. 
+[21 
+Whether or not hejrzds a job, he's getting married. 
+[31 
+The concessive meaning emerges from the unexpected implication that the 
+same situation applies under two contrasting conditions. Thus, [3] may be 
+paraphrased 'Even if he finds a job or even if he doesn't find a job, he's 
+getting married.' On alternative orderings for [2] and [3], cf Note [a]. 
+The longer and more emphatic constructions It doesn't matter whether 
+(initial only) and No matter whether can also be used to introduce clauses that 
+are alternative conditional-concessive (cf 15.42). 
+You will have to face the publicity, no matter whether you want to 
+or not. 
+[2al 
+It doesn't matter whether or not hefinds a job, he's getting married. 
+[3a] 
+The same subordinators also introduce nonfinite and verbless clauses: 
+Sarah is always intense, whether working orplaying. 
+[41 
+Whether (rained or not, Marilyn is doing an excellent job. 
+[S1 
+No mattefi whether right or wrong, your son needs all the support 
+you can give him right now. 
+[61 
+The subordinitor may be omitted, but the clause is then normally initial: 
+workingorplaying, Sarah is always intense. 
+Trainedor:not, Marilyn is doing an excellent job. 
+There are alsh verbless clauses introduced by with, which is then correlated 
+with without: 
+We'll buy the house, with a bank loan or without one. 
+L71 
+With or without a bank loan, we'll buy the house. 
+[7aI 
+1 
+The same meshing may be conveyed merely by the coordinated noun phrases 
+if the second is begated by the determiner no: 
+We'll buy the house, bank loan or no bank loan. 
+F81 
+This construction is also available when the implied verb is be rather than 
+have: 
+I have to go to work, rain or no rain. 
+['. . . whether or not there is rain.'] 
+A further reduction is possible, though less common, by the omission of the 
+second noun phrase. The reduced clause is then usually placed initially: 
+Bank loan or no, we'll buy the house. 
+[l01 
+In all the types exemplified by [7-101, the verbless clause may be either initial 
+or final. In the types exemplified by [8-101, the indefinite article is omitted in 
+the parallel structure before count nouns such as bank loan. 
+Note 
+[a] We may see a relationship also with alternative interrogative clauses (cf 15.6). Compare [I] 
+above with: 
+I don't know whether Martin will pay for the broken vase or whether he will replace it. I'm 
+not inviting him again anyway. 
+The subordinate clause in [2] can be reordered as ~rhether or nor ~orr want to and that in [3] as 
+whether hejindsa job or not. Cf alternative questions, I1.20f. 
+[b] Occasionally alternative conditional-concessive meaning is expressed by a finite clause 
+withouta subordinator, in which the verb issubjunctive(cfl5.34 Note [d], 15.42 Note [bl): 
+Rainor shine, we're having our party outside today. ['Whether it rains or shines,. . .'l 
+Compare : (Conre) wind or raitt ['Whether wind or rain comes.']. A rarer and somewhat literary 
+construction involves the use of subjunctive be: 
+(Be he)j?iend orfoe, the law regards him as a criminal. ['Whether he is (or be) friend or 
+foe. . . .'l 
+[C] The alternative in the second clause may be parallel to only part of the first clause. Thus, the 
+finite clause corresponding to [61 is: 
+No matter whether he's right or wrong, . . . 
+and a slightly amended version of [S] might be: 
+Whether trained as a nurse or as a radiologist. . . 
+Id] As with either (cf13.39ff), some speakers allow more than two choices (cf 15.6 Note [bD: 
+Whether you do your homeworkor play or watch television, you must not disturb me. 
+[e] Like no matter whether are regardlessof whether and irrespectiveofwhether (cf15.39 Note [a]): 
+Regardless ofwhether or not hefinds o job, he's getting married. 
+Universal conditional-concessive clauses 
+15.42 
+The contrast between alternative clauses and universal clauses is parallel to 
+that between alternative questions (cf 11.20f) and wh-questions (cf 11.1415) 
+or to that between their corresponding dependent clauses (cf 15.5f). The 
+alternative conditional-concessive clause gives a choice between two (or 
+occasionally more, cf 15.41 Note [d]) stated conditions, normally in sharp 
+opposition, whereas the universal conditional-concessive clause indicates a 
+free choice from any number of conditions. Compare: 
+Whether Zshout at them orplead with them, I can't keep them 
+quiet. [two stated alternatives] 
+[l] 
+Whatever Zsay to them, I can't keep them quiet. 
+[any number of choices] 
+[21 
+The concessive implication in [2] comes through the inference that, for 
+example, I can't keep them quiet even if1 promise them a treat. 
+The alternative clauses are introduced by the wh-words that are 
+compounded with -ever and by the longer constructions It doesn't matter 
+(initial only) and No matter (cf 15.41) followed by wh-elements. The clauses 
+share with other wh-clauses the initial placement of the wh-element, and the 
+consequent shift of that element (unless it is the subject) from its normal 
+syntactic order: 
+Stand perfectly still, wherever you are. [A S V] 
+However much advice you give him, he does exactly what he wants. 
+10,s V Oil 
+
+
+1 102 
+Syntactic and semantic functions of subordinate clauses 
+Don't let them in, whoever they are. [C, S V] 
+There is a subtle semantic difference between the universal clauses and the 
+apparently identical time and place clauses beginning whenever and wherever. 
+The contrast can be shown in a sentence such as: 
+Wherever you live, you can keep a horse. 
+The locative meaning is 'You can keep a horse at any place where you may 
+live' (cf specific locative where: You can keep a horse where you live). The 
+conditional-concessive meaning (more applicable to a city-dweller) is 'It 
+doesn't matter where you live, you can keep a horse (and the horse need not 
+be in the same place as you live)'. 
+Note 
+[a] The verb be can be omitted from a universal clause if the subject of an SVC clause is an 
+abstract noun phrase: 
+Whatewryourproblems (orelmay be), they can't be worse than mine. 
+However great rhepir/aIls (arelmay be), we must do our best to succeed. 
+[b] Occasionally the universal meaning is expressed by a finite clause without a subordinator, in 
+which case the verb is subjunctive and is initial (cf 10.34 Note [d], 15.41 Note [b]): Come what 
+may ['Whatever may happen.], Be that as it may ['However that may be.']. 
+Clauses of contrast 
+15.43 
+Clauses of contrast are introduced by several of the subordinators that 
+introduce concessive clauses (cf 15.39): whereas, while, and whilst. Indeed, 
+there is often a mixture of contrast and concession. The contrastive meaning 
+may be emphasized by correlative antithetic conjuncts such as in contrast and 
+by contrast when the contrastive clause is initial: 
+Mr  arson teaches physics, while Mr Corby teaches chemistry. 
+I ignore them, whereas my husband is always worried about what they 
+think of us. 
+The three subordinators are interchangeable, except that the less common 
+whilst is found especially in BrE. 
+Clauses of contrast are very similar to clauses coordinated by but. This is 
+particularly so ;when the contrastive clquse is final. When the contrastive 
+clause is initial; it is viewed as containing the subordinate information, the 
+point of departure for the contrast. 
+1 
+Clauses of ejception 
+15.44 
+Clauses of exception are introduced by several subordinators: but that 
+(formal),except (that);less frequently excepting (that) and save that (formal). 
+Several of the subordinators also blend exception with condition. Except 
+(that), excepting (that), and save that have very similar uses, apart from the 
+stylistic restriction on save that: 
+I would pay you now, except Zdon'r have any money on me. 
+No memorial remains for the brave who fell on that battlefield, save 
+that they will leave their image for ever in the hearts and minds of their 
+grateful countrymen. (formal) 
+Semantic rolesof adverbial clauses 1103 
+l 
+But that, like the preposition but, requires that the matrix clause precede it 
+i 
+and be negative: 
+l 
+Nothing would satisfy the child but that Iplace her on my lap. 
+(formal) 
+[l] 
+i 
+More usually an infinitive clause would be used : 
+Nothing would satisfy the child but for me toplace her on my lap. 
+[la] 
+In stereotyped sentences, but alone may occur: 
+It never rains but it pours. 
+Only, restricted to informal style, also expresses the meaning of exception 
+(cf Note [a] below) : 
+I would've asked you, only my mother told me not to. 
+Unless combines condition with exception ('except if'), hence the negative 
+meaning;provided (that) and its synonyms are the positive equivalent. 
+For prepositions of exception that introduce bare infinitive and to-infinitive 
+clauses, cf 9.58. 
+Note 
+[a] Only is a borderline case between wnjunct and conjunction. It is unclear whether a 
+coordinating conjunction (for example, but) can be inserted between the clauses; if it can, it has 
+one of the defining characteristics of the class of conjuncts (cf 8.134f). but if it cannot, its 
+syntactic status is similar tofor, which is on the gradient between coordinator and subordinator 
+(cf 13.181 ).It may be paraphrased 'The only thilig is'. 
+[b] Except (that), excepting (that), and save that can usually be replaced by the coordinating 
+conjunction but. They can also usually be replaced by longer, and hence stylistically clumsy, 
+prepositional phrases followed by relative clauses, eg: except forlapart from the fact (that). 
+Contexts excluding replacement by the conjunction and the prepositional phrases are where but 
+that is admissible. 
+[c] AmE prefers the present subjunctive for the verb in the subordinate clause in [l], while BrE 
+prefers putative should (c/ 14.24j). 
+Reason clauses 
+Direct and indirect reason relationships 
+15.45 
+We subsume under clauses of REASON several types of subordinate clauses 
+that convey basic similarities of relationship to their matrix clauses. For all 
+types there is generally a temporal sequence such that the situation in the 
+subordinate clause precedes in time that of the matrix clause. As the 
+paraphrases indicate, the word reason is a superordinate term available for 
+all types : 
+(a) Cause and effect: the construction expresses the perception of an 
+inherent objective connection in the real world: 
+The flowers are growing so well because Zsprayed them. ['The cause for 
+the flowers growing so well is that I sprayed them'or 'The reason that 
+the flowers are growing so well is that I sprayed them.'] 
+He's thin because he doesn't eat enough. 
+
+
+1104 Syntactic and semantic functionsof subordinateclauses 
+(b) Reason and consequence: the construction expresses the speaker's 
+inference of a connection: 
+She watered the flowers because they were dry. ['The reason that she 
+watered the flowers was that they were dry.'] 
+Since she's mjlfiiend, she must have put in a good word for me. 
+(c) Motivation and result: the construction expresses the intention of an 
+animate being that has a subsequent result: 
+I watered the flowers because my parents told me to do so. ['My 
+motivation for watering the flowers was that my parents told me to 
+do so'or 'The reason that I watered the flowers was that my parents 
+told me to do so.'] 
+You'll help me because you're n ~ y  
+friend. 
+Agency and intention are always involved in motivation. 
+(d) Circumstances and consequence: the circumstantial clause combines 
+reason with a condition that is assumed to be fulfilled or about to be fulfilled, 
+. 
+the construction expressing a relationship between a premise in the 
+subordinate clause and the conclusion in the matrix clause: 
+Since the weather has improved, the game will be held as planned. ['In 
+view of the fact that the weather has improved, the game will be held 
+as planned' or 'The reason that the game will be held as planned is 
+that the weather has improved.'] 
+Seeing that it is only three, we should be able to finish this before we 
+leave today. 
+The example{ we have given so far express a DIRECT REASON relationship 
+between the reason clause and the matrix clause. More peripheral uses of 
+reason clauses express an INDIRECT REASON. The reason is not related to the 
+situation in the matrix clause but is a motivation for the implicit speech act 
+of the utterance: 
+I 
+Percy is in,Washington, for he phone,d me from there. ['Since he phoned 
+from there, I can tell you that Percy is in Washington.'] 
+As you're in charge, where are the files on the new project? ['As you're in 
+charge, I'm asking you. . .?'l 
+Vanessa is your favourite aunt, because yourparents toldme so. ['Since 
+your parents told me so, I can say that Vanessa is your favourite 
+aunt.'] / 
+As Iong as you're here, why don't we discuss our plans? 
+Since you seem to know them, why don't you introduce me to them? 
+['Since you seem to know them, I ask you to introduce me to them.'] 
+Since and because are the most common subordinators for indirect cause. 
+Clauses expressing an indirect cause are style disjuncts, cf 15.21. 
+Subordiiators and structural types of clauses 
+15.46 
+Reason clauses are most commonly introduced by the subordinators because 
+(also 'cause) and since. Other subordinators are as and (in somewhat formal 
+style) for: 
+Semantic roles of adverbial clauses 1105 
+I lent him the money because he needed it. 
+As June was the eldest, she looked after the others. 
+Since we live near the sea, we often go sailing. 
+Much has been written about psychic phenomena, for they pose 
+fascinating problems that have yet to be resolved. 
+In case combines reason with contingency ('because it may happen that'): 
+Take your umbrella in case it rains. ['Take your umbrella because it may 
+rain', '. . . because of thepossibility that it will rain.'] 
+You should write a will in case something happens to you abroad. 
+Circumstantial clauses (cf 15.45) are introduced by the simple subordinators 
+because, since, and as and by several complex subordinators: seeing (that); as 
+Iong as; inasmuch as (formal) : 
+Seeing that it seems as ifit will rain soon, we had better leave now. 
+As long as you're here, we might as well talk about your last game. 
+It is doubtful whether research proposals by Freud himself would have 
+been approved by reviewers, inasmuch as he was not afiliated to any 
+academic institution. (formal) 
+. 
+Clauses introduced by with may also be circumstantial: 
+With the exams coming next week, I have no time for a social life. 
+With so many children to support, they both have to work full time. 
+Cf also circumstantial now (that), 15.28. 
+In that (formal) combines reason with point of view: 
+The evidence is invalid in that it was obtained through illegalmeans. 
+['The evidence is invalid in this respect: it was obtained through 
+illegal means.'] (formal) 
+When while introduces a style disjunct, it blends time and reason: 
+While you're in the kitchen, bring me another drink. 
+Clauses without a subordinator may imply the meanings discussed in this 
+section: 
+Knowing their tastes, she was able to bring a gift that they would like. 
+Constructed according to my specifications, the building was able to 
+withstand the earthquake. 
+Assured of your support, he would not compromise. 
+It is a testimony of the close and obvious connection between reason and 
+temporal sequence that as and since are conjunctions of time as well as of 
+cause. This dual function can give rise to ambiguity: 
+As he was standing near the door, he could hear the conversation in the 
+kitchen. ['Since he was standing near the door. . .'or 'While he was 
+standing near the door. . .'] 
+Note 
+[a] A number of prepositional phrases are used to introduce reason relationships, but they are 
+often considered to be stylistically clumsy because of their greater length: 
+
+
+1106 
+Syntactic a n d  semantic functionsof subordinate clauses 
+because of 
+by virtue of 
+in (the) light of 
+in view of 
+the fact (that) 
+on account of 
+owing to 
+due to 1 
+For prescriptive objections to the use of due to as a preposition, cf 15.59 Note [d]. For the use of 
+on account of as a subordinator in informal style (esp AmE), cf14.12 Note [e]. 
+[b] Infinitive clauses may convey a meaning similar to that of reason in that: 
+He's foolish to ntakesuch aluss. ['. . . in that he makes such a fuss.] 
+They may also blend reason with condition, cf 15.34 Note [g]. 
+[el The stereotyped clause conre to think of it, with no subordinator and with a verb in the base 
+form is similar to now that Icome to thinkofit: 
+Come to thinkofit, shouldn't you write to her? 
+[d]The reasonlcontingency meaning of in case easily merges into a negative purpose meaning (cf 
+15.35 Note [g], 15.48). Compare: 
+Write a will in case you die. ['. . . because you may die.'] 
+Write a will in case you die without providingjor your fomily. ['. . .because you may die 
+without providing for your family', 'in order that you do not die without providing for 
+your family'] 
+[e] Circumstantial what with refers to one or more given circumstances of an unspecified set, 
+whereas ciicumst'antial with implies only one: 
+What with theprices (being) so high, (and (with) my wife being out of work), I can't afford a 
+new refrieerator. 
+Notice that it is possible to add informal andall if a coordinated and (with). . . is not present: 
+What with Carol (6eing)ouf of workand all, we didn't send any Christmas cards this year. 
+There is a stereotyped phrasal analogue: 
+What with one thing andanother, I couldn't sleep last night. 
+[fl As followed by a noun phrase may correspond to a finite clause: 
+As l'm your mother, 
+As your mother,, ] ''l decide' 
+But the restriction to noun phrases suggests that as is here a preposition. 
+[g] An adjunct because-clause, but not a style disjunct because-clause, corresponds to a 
+prepositional phrase introduced by because of: 
+The flowers 
+well because Ifertilized them. 
+{becauseOfmYfeItilizinl them, 
+[h] A because-clause is sometimes used informally as equivalent to a that-clause: 
+(Just) because   object to hispromotion doesn't m y n  that I'm vindictive. ['The (mere) 
+fact that I objdct . . .'l 
+[l] 
+There are prescriptive objections to this use. Alternatives are: 
+My objection 
+My objecting] to his promotion doesnl mean that I'm vindictive. 
+[ W  
+I can't be accused of being vindictive (just) because I object to his promotion. 
+[Ibl 
+. . 
+There are also prespriptive objections against the alleged redundancy in the informal use of a 
+because-clause that cdrrelates with a previous why or the reason (that): 
+Why reason (that)] they didnl go to see the house is because they prefer to live in an 
+apartment. 
+121 
+Similar objections apply to the use of the reason why in place of the reason (that). The fully 
+acceptable alternatiye to [2] would replace because by that. 
+15.47 
+Most subordinators used for direct cause introduce content disjuncts, but 
+because, in case, and in that introduce adjuncts (cf 15.20). 
+Adjunct because-clauses tend to be in I position, while style disjunct 
+because-clauses are always at E. For, which is close to coordinator status, is 
+always at E. Table 15.47 draws on an analysis of British English based on a 
+Semantic rolesof adverbial clauses 1 107 
+100 000-word sample from both the London-Lund corpus (which contains 
+most of the SEU spoken texts) and the LOB written corpus to provide figures 
+for the positions of clauses introduced by the major reason subordinators. 
+Table 15.47 Distribution of reason clauses in 
+samples from the written LOB corpus and the 
+spoken London-Lund corpus 
+LL 
+LOB 
+Total 
+as 
+7 
+19 
+26 
+initial 
+2 
+9 
+11 
+final 
+5 
+10 
+15 
+because (cos) 
+355 
+70 
+425 
+initial 
+4 
+8 
+12 
+medial 
+4 
+2 
+6 
+final 
+347 
+60 
+407 
+for (all final) 
+0 
+64 
+64 
+since 
+5 
+33 
+38 
+initial 
+2 
+12 
+14 
+' 
+medial 
+1 
+0 
+1 
+final 
+2 
+21 
+23 
+When as is a circumstantial subordinator, the predication may optionally 
+be fronted: 
+Writing hurriedly as she was, she didn't notice the spelling errors. 
+Tiredas they were, they went to bed as soon as they came back. 
+That may be a circumstantial subordinator, when the subject complement is 
+obligatorily fronted: 
+Clumsy idiot that he was, Michael completely ruined the dinner. 
+Cf 15.39 for a similar fronting with concessive clauses. 
+Clauses of purpose 
+15.48 
+Clauses of purpose, which are adjuncts, are more often infinitival than finite: 
+To open the carton, pull this tab. 
+I left early to catch the train. 
+My publisher sent it for me to comment on (it). 
+More explicit subordinators of purpose are in order to (formal) and so as to: 
+They left the door open (in order) for me to hear the baby. 
+Students should take notes (so as) to make revision easier. 
+The committee agreed to adjourn (in order) to reconsider the matter when 
+fuller information became available. 
+Finite clauses of purpose are introduced by so that or (less commonly and 
+more informally) by so, and (more formally) by in order that: 
+
+
+., 
+1108 Syntactic a n d  semantic functionsof subordinate clauses 
+* l 
+The school closes earlier so (that) the children can get home before dark. 
+The jury and the witnesses were removed from the court in order that 
+they might not hear the arguments of the lawyers on the prosecution's 
+motion for an adjournment. 
+These finite clauses, which are putative (cf 15.49), require one of these modal 
+auxiliaries: can, could, may, might, should, would. 
+Negative purpose is expressed in the infinitive clauses by so as not to and 
+in order not to : 
+Turn the volume down so as not to wake the baby. 
+I ignored the remark in order not to prolong the dispute. 
+In finite clauses it is expressed by in order that . . . not, but also by specific 
+subordinators: for fear (that) (formal), in case (BrE), or the very formal lest: 
+They left early for fear (that) they would meet him. 
+They evacuated the building in case the wall collapsed. 
+For fear (that) conveys also the meaning of apprehension and requires a 
+modal auxiliary, but in case need not have a modal auxiliary. In [2] there is 
+an implicit negative purpose 'in order that, if the wall collapsed, they would 
+not be affected.' Archaic lest tends to have a modal auxiliary or (esp in AmE) 
+the present subjunctive: 
+Earthen mounds were being hastily erected lest an attack 
+should be 
+be (esp AmE) launched that night. 
+Note 
+[a] The implied subject of an infinitive clause may be the object (indirect or direct) of the 
+superordinate clausq: 
+. 
+I lent Paul a dollar to get home. ['. . . (for Paul) to get home.'] 
+The purpose infinitive clause can be fronted when the implied subject is the subject of the 
+superordinate clause; 
+Toget home, I had to borrow money from Paul. 
+[b] As a subordinator for finite clauses of purpose, that is archaic: 
+esses were removed from the court that they might not hear thearguments 
+ofthe lawvers. 
+\ 
+Should !;or hear <esp &E) and not hear (esp AmE) could also be used instead of might not hear. 
+[c] Purpose may be expressed by an g<lause containing the semi-auxiliaries be to or begoing to: 
+I / h  to be there on time, I must leave at once. 
+Clauses of resylt 
+15.49 
+Clauses of result $re introduced by the subordinators so that (formal) and so. 
+These clauses overlap with those of purpose both in meaning and in 
+subordinators. The chief semantic difference is that result clauses are factual 
+rather than putative: both express result, but in the result clause the result is 
+achieved, whereas in the purpose clause it is yet to be achieved - it is a 
+desired or aimed-at result. Hence finite clauses of result do not require a 
+modal auxiliary: 
+We paid him immediately, so (that) he left contented. [result] 
+[l] 
+We paid him immediately so (that) he would leave contented. 
+[purpose1 
+[21 
+Semantic rolesof adverbial clauses 1109 
+As we see from these examples, so and so that express both purpose and 
+result, but so that is more commonly used for purpose and so for result. When 
+that is omitted in the result clause, the conjunction so is indistinguishable 
+from the conjunct so in asyndetic coordination. If and is inserted, so is 
+unambiguously the conjunct : 
+We paid him immediately, and so he left contented. 
+[lal 
+Result clauses differ syntactically from purpose clauses, in that result clauses 
+are disjuncts whereas purpose clauses are adjuncts (cf 15.20). Furthermore, 
+result clauses can only appear finally. Unlike the purpose clause, the result 
+clause introduced by so (that) is separated by comma punctuation. 
+The result relation is the converse ofthat of motivation (cf 15.45). Consider 
+the following sentence: 
+I took no notice of him, so hejfew into a rage. 
+Its meaning can be expressed by reversing the matrix and subordinate clauses 
+and using a conjunction such as because: 
+He flew into a rage because I took no notice of him. 
+That may introduce a final clause with resultative meaning in interrogative 
+sentences: 
+What have I done, that you should insult me? 
+In one type of comparative clause, the clause expresses result. This type 
+(cf 15.74) has the correlatives so . . . (thai) or such . . . (that), in which so and 
+such are intensifiers: 
+Her parents gave her so many toys (that) she couldn't possibly play 
+with them all. [cf Note [b]] 
+c31 
+She is such a good lecturer (that) all her courses are full. 
+[4] 
+Such that (formal) combines result with manner: 
+The two halves of the human brain behave independently, such that 
+each halfcan be taught opposite solutions to simple problems. ['. . . in a 
+way that has the result that. . .'] 
+Note 
+[a] Cf 15.25 for to-infinitive clauses that blend the meanings of time and outcome. 
+[bl If that is omitted in [31 and [4] above, an intonation break is normal at that place. If so 
+intensifies a verb it may appear at the end of the clause, and an intonation break (or in writing, 
+a comma) is normal after so: 
+They wanted it so, (that) they agreed tapay more than the normalprice. [so = 'so much'] 
+Compare the result clause with the complex subordinator so that: 
+They wanted it, so (that) they agreed topay more than the normalprice. 
+In formal style, so may be a manner adverb rather than an intensifier, in which case that must 
+be retained: 
+They so arranged the seating that allhad a clear view of tl~estage. [so = 'in such a way'] 
+(formal) 
+Again, so may be postposed: 
+They arranged the seating so, that all had a clear view of the stage. (formal) 
+[C] In interrogative and negative sentences, that may introduce a result clause that is related to 
+the correlative so . . . that comparative clause exemplified in 131 and [4] above, except that the 
+intensifier so is omitted. The style is formal and archaic: 
+Do you know her intimately, thot youpresume to address her in such a casual nlatmer? 
+
+
+11 10 Syntactic and semantic functions of subordinateclauses 
+(Compare: Do you know her so intinrately that. . .) 
+They are not destitute that they need your help. 
+In the negative sentence, the result clause is counterfactual ('they do not need your help'). 
+Clauses of similarity and comparison 
+15.50 
+Adjunct clauses of similarity are predication adjuncts (cf 15.22). They are 
+introduced by as and like (informal, esp AmE). As and like are commonly 
+premodified by just and exactly: 
+She cooks a turkey (just) as her mother did. ['. . . in a way that is 
+similar to the way that. . .'l 
+111 
+Please do it (exactly) as Isaid. 
+[21 
+?Say the word (exactly) like I did. (esp informal AmE) [cfNote [b]] 
+[3] 

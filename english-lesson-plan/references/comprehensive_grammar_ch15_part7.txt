@@ -1,0 +1,1418 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 15: Syntactic and Semantic Functions of Subordinate Clauses
+Covers: Nominal clauses, Relative clauses, Adverbial clauses, Comparative clauses
+[Part 7 of 10]
+============================================================
+
+['food from the sea'] 
+a lfireplace 
+['a place for fire'] 
+a 'bullet head 
+['a head like a bullet'] 
+It should be emphasized that the semantic relations illustrated in this section 
+indicate no clear boundary between noun phrases and noun + noun 
+compounds (cfApp 1.57JI.). Stress on the first element is usually indicative of 
+compounding, g :  !fireplace but ,top 'drawer. Conversely, the possibility of 
+substituting one for the second constituent indicates that the first is a 
+premodifier in a noun phrase: 
+She wants an oak table but I'd prefer a teak one. 
+BUT NOT: *That's not an oak tree but an elm one. 
+17.107 
+In most cases, the constructions with both prepositional postmodification 
+and with premodification are available, but the change from postmodification 
+to premodification may have conscqucnccs other than ;I possible loss in 
+cxplicitncss. Onc sucll ct>iisc(l~~cncc 
+is Io%s oI'l11r ~lclil~ilr 
+:~~liclc. 
+;I.; 
+i l l  : 
+ollici;~ls irr tlr~, l ' ~ ~ t i t ~ r ~ i ~ t ~  - I'c~rttirjio~r 
+ollici;~ls 
+The use of articles is identical in the following: 
+;I shcct r~j'r~~otol 
+- :I tr~i~t~il 
+sl~cct 
+But it differs in: 
+lifc in tr vill;~gc 
+- villi~gc [ilk 
+ilic shootil~g ol'tigcrs 
+- tiger sllootillg 
+Another consequence is the use of a prefix in premodification corresponding 
+to the preposition in postmodification (c/'App 1.2Ifl.): 
+demonstrations ugcrirut the Iijtrr - crtiti-~~~c~r 
+demonstrations 
+the period ufier the war 
+- the po,stn,or period 
+Plural attributive nouns 
+17.108 
+Attributive nouns are normally number-neutral. As ;I further illustlntion of 
+the principle that postmodification is relatively explicit as compared with 
+premodification, nouns which are plural in postmodification clre singular 
+(number-neutral) in premodification : 
+a chair with orn1.s 
+- an c~rr?ichair 
+decay of teeth 
+- tooth decoy 
+the picking of hops - hop-picking 
+A hyphen before the singular form is normal in expressions denoting age, 
+time, weight, size, etc of the followi~lg type: 
+a girl (who is) ten years old - a ten-j,c,ar-old girl 
+a pause lasting three secorlds - a three-second pause 
+inflation amounting to two digits - two-cligit inflation 
+an agreement between four powers - a four-po~ser agreemcnt 
+a bill worth ten dollars - a ten-dollor bill 
+However, in quantitative expressions of the following type there is possible 
+variation (cf 5.1 18 Note [b]): 
+a ten clay absence 
+[singular] 
+a ten-clay absence 
+[hyphen + singular] 
+a ten claj~s absence 
+[plural] 
+a ten days'absence 
+[genitive plur;~l] 
+The use of singular holdseven for some nouns tll;~t otllcrwisc have no singular 
+form (cf5.76): 
+a sharpenerjor scissors - a 'scissor sharpener 
+a press for trousers 
+- a 'trouser press 
+However, the plural attributive construction is on the increase. particularly 
+in BrE where it is more common than in AmE, cg: 
+careers guidance 
+a grants committee 
+
+
+1334 Tlie noun r~tlraso 
+;I new ,sj~.st~~rn.s 
+;~n;~lyst 
+:l11 O ~ I ~ I I I ~ ~ I I I ~ I ~ ~ ~ I ~ . ~  
+olliccr 
+thc policy and rosottrccZs working party 
+The choicc of prcmodifying nouns in the plural rathcr than thc singular may 
+be attributed to a number of factors, but predominantly to thc fact that an 
+entity has been institutionalizcd in plural Ibrm. Sincc thc plural attributive 
+construction is relatively rare in AmE, the statements in the fvllowingsection 
+:~pply, for tlic rnc~sl. only (0 131.1-<. 
+17.109 
+(i) 'Exclusive plurals' 
+Onc dill'crcncc betwcen hrnncl~ ,sri/x~rr~i,sor 
+ancl hrotrclr(~.s srrl~cr~~isor 
+is th;it the 
+singul;~r is morc v;~guc i~nd 
+III;LY be inlcr~~rctcd 
+;IS ' S I I ~ ) C I . V ~ S ~ I I .  
+O ~ ; I  I)l.i1ncI1 or 
+branches', whereas the plur;ll can bc inlerprctcd o~ily ns 'supervisor of several 
+branches' and thus excludes the ambiguity of number. The semantic 
+distinction seems to be institutionalized in cctreer girl 'a girl who puts 
+advancement in her profession before other things' and careers girl 'a girl 
+who has had several careers' or (more usually) 'a girl who deals with careers'. 
+Such 'exclusive plurals' tend to occur wit11 collective nouns and names of 
+institutions as heads, and the stress tends to be on the premodifying plural: 
+parks department 
+colirses committee 
+e.ratt~inations board 
+the heavy c/tenticals industry 
+Scotland Yard's Obscene Pztblicatiotls Squad 
+Chesterfield ffospitals Management Committee 
+the British Museum Prints and Drawings Gallery 
+Highly institutionalized plurals are always retained, in particular when the 
+singular form might lead to ambiguity: 
+an Arts degree ['a degree in the humanities', as opposed to an art degree 
+'a degree in fine art'] 
+Pluralia tantum (cJ'5.77) retain their plural since they have no singular: 
+a clistoms officer 
++ a custont officer 
+a goods train 
+- a good train 
+(ii) Plural denoting variety 
+There is a tendency for more generic terms to be plural and more specific 
+terms to be singular: 
+soft 'clrinks manu,facturer [drinks = 'kinds of drink'; 
+BUT: 'car manu,facturer] 
+ettter'tub~ntettts ,guide [etttertaiittnents = 'kinds of entertainment'; 
+BUT: 'theatre ,guide] 
+surgical app'liances manu,facturer [appliances = 'kinds of appliance'; 
+BUT: 'baby ,carriage manu,facturer] 
+(iii) 'Temporary institutionalization' 
+As we have seen, in most cases there is variation available between 
+premodific;ition by noun :~nd postmodific;~tio~~ 
+by prcposition;~l plir;ise, with 
+cerli~in synt;lctic i~nd se~iii~nlic 
+C ~ I I S ~ I . ; I ~ I I ( S .  
+WIICII SIICII v;lri:~Ii~l~ 
+is I'rccly 
+availablc, thc choice may bc sccn ;IS conditioncd by the cxplicit/incxplicit 
+distinction or simply by a desire for stylistic variation. I-lowever, it should 
+also be seen in termsof communicative factors, as in the case of tlic variation 
+between the genitive and the o/'construction (~/'17.3X//'). In a book on 
+linguistics we may find the italicized part of [I] rcsumcd latcr, as n 'sccond 
+instance', in the discussion by [lol (c1'17.8): 
+fie itlccr q/lc~or~I.s 
+has bcen ;I ~n;~jor 
+issuc li~r 
+a long time. 
+t11e leuels idea 
+[I 1 
+[lal 
+A special instance of 'tcmporary institutionalizi~tion' is the use of plurals 
+it1 hc:~tllines. A topic;~l issuc will c;~usc tlic plural lo hc retained in 
+prcmodification when it is associated with a widely tliscussed public issuc. If 
+there is controversy over the wearing of crash helmets by motorcyclists, this 
+can become referred to in the media as the he11net.s is.rrre. In this way, during 
+the internationally discussed crisis of President Nixon's administration 
+concerning tape-recordings, we became habituated to read expressions such 
+as : 
+the tapes issue 
+the Watergate tapes affair 
+the tapes compromise 
+the White House tapes mystery 
+The frequent use of attributive structure in newspaper headlines. cg: jobs 
+czrt for 'cut in jobs', would seem to contradict the given/new principle 
+(cf 18.8). Other examples: 
+PHONES ORDER 
+HEADACHE PROBLEM 
+PRIORITY PROJECT 
+NUMEROUS WAR OFFICE STAFF RESIGNATIONS 
+The flouting of the givenlnew principle may be explained not only as a 
+striving for brevity in a headline with limited space but also as'premeditated 
+inversion' of the givenlnew sequence in order to arouse the reader's interest 
+in going on to read the fully explicit text of the news item. . 
+Prernodification by genitive 
+17.110 
+The illustration of the genitive as premodifier with restrictive function in 
+17.94 was the following example: 
+I visited hisfi.shert~tatz'.r cottage. 
+[l] 
+The meaning is 'The cottage belongs/belongcd to a fisherman' or 'resembles/ 
+resembled the cottage of a fisherman'. It should be noticed that if we had 
+used another noun in the genitive, eg: hi.s.fiRt~clS cottage, we would have 
+moved from nonrestrictive to restrictive function and, above all, changed the 
+relationship of the constituents from premodification to determinative. The 
+difference in structure is clearly brought out if further premodifying items 
+are added : 
+his oldjisltertnan's cottoge. 
+his oldfrier~dS cottage. 
+
+
+1336 The noun phrase 
+Premodification 1337 
+Thc structures can hc sccn in a trcc diagram (Fig 17.1 10): 
+Thus, in [la], oil modifics,ji,sher~~lo,r's 
+colinge, whcrcas, in [I h], old lnotlilics 
+the determinative genitive head jri~rld's. In [la], no itcm can intervcnc 
+hclwccn Ji.rh~~rnlatr',s 
+ant1 coltag(, ;~ntl tllc prc~notlif'Yi~~g 
+gcnitivc may hc 
+replaced by, for examplc, a noun (~/'17.104//'): 11i.soltl cocctl/rll cotlog('. III [I h], 
+the head of the superordinate noun phrase (cj'5.12l.J') can be further modilicd 
+in the usual way: 
+his old friend's delightjiil but crrmiblirig cottage 
+Example [Ib] is, then, a fully syntactic structure of the type discussed in 
+5.1 12fj.and 17.38ffwhere the genitive has a determinative function; in [Ia], 
+on the other hand, the genitive acts as a descriptive premodifier (cf5.122), 
+and is related to the use of the genitive in compounds, such as bull's-eye. 
+Premodification by adverb a n d  other phrases 
+17.111 Another minor type of premodification is the adverb phrase, as in: 
+She travelled to many jar-away placcs. ['The places are far away.'] 
+I have this strange under-the-weather feeling. ['I feel under the 
+weather.'] 
+There is a medley of other premodifying phrases, some of which are common 
+expressions, eg: 
+round-the-clock service 
+an up-to-date timetable 
+a tongue-in-clteelc remark 
+Apart from a few institutionalized examples such as an away nmtch ['the 
+match is being played away from the home ground', in contrast with a home 
+match], the flexibility of this type of premodification tends to be exploited 
+only colloquially, and most examples have (and seem deliberately to have) a 
+flavour of originality, convention-flouting, and provisional or nonce awk- 
+Premodification by sentence 
+17.1 12 
+Wli:~( was s;~itl ofatlvcrh phr;~scs applies : ~ t  
+Ic:~st cq~~;~lly 
+Io prc~nodific:ltion 
+hy :I sclllcllcc: 
+(?)I visited his bt>lrcrt-do-yoti-call-ii cottage [ c /  What do you c;~ll it when a 
+cottage h:~s w;~lls made from overl;~pping picccs of'~imlier? 
+( ~l:l~lllll:ll~l 
+1 
+A I'cw inslit~~tion:~lizcd 
+cx;~n~])lcs 
+retain :I colloquii~l or sl;~ng Il;lvour: o 
+~i~ho(11rrritsior~ 
+isone about crime, and the nonst;lnd;~rd grammar and spelling 
+arc prcservcd as part of the ironic sl;~ng. I)r~-i/-~~o~tr.slf';~s 
+in n (10-it-yorrr.sc~l/' 
+job has bccomc so often uscd as to p;~ssout ol'thc ;Irc;l ofsl;~ng (;~ntl somctimcs 
+be reduced (esp in BrE) to DIY). 
+So~ncwll:~t Inorc witlcly i~cccpt;~l>lc 
+;Ire 11o11n pl~r;~scs 
+which can be 
+intcrprctcd cithcr as having a scntcncc ;IS prc~notlilicr or ;IS bcirlg ohjcct 
+(usually of know) in an embedded nominal clnosc: 
+He 
+Iclon't k ~ ~ o n ~ f ~ d w m a t ~ , ~  
+people. 
+{ 
+Ill 
+Iclon't KNOW kolv many people. 
+[lal 
+With either intonation, the meaning is 'He asked a relatively large number 
+of people, though I don't know precisely how many'. The meaning is 
+somewhat different if the sentence is reordered, enforcing a different 
+grammatical structure: 
+I don't know how monypeople he a.~lce(I. ['I don't know the number of 
+people he asked.'] 
+For the most part, however, sentence premodifiers have an air of the 
+outrageous and improvised. Part of a political leader's election campaign 
+was described by a journalist as 
+today's meet the people (ifthey canfind you) tour 
+Far more remarkable is the following quotation from a literary comment in 
+which the sentence premodification itself has highly irregular and sophisti- 
+cated punctuation to convey highly irregular coordination devices: 
+His other comments ignore. . . the obvious fallacies inherent in the 
+'But the poenr (play, noue0 nJas tnreat~t 10 be /e~Iio:rs/prctet~tio~~s/ 
+pointless' line of critical argument. 
+Relative sequence of premodifiers 
+17.113 
+When a head has more than one premodifier, there arises the qucstion of 
+relative order; why either [l] or [la]?: 
+a thin (lark face 
+a dark thit: face 
+But why only [21 and not [h]?: 
+a cardboard deterget11 carton 
+*a detergctl! cardboarrl carton 
+The problem becomes even more acute with longer strings of premodifiers. 
+wardness: 
+their day-after-day complaints 
+her too-simple-to-be-true dress 
+a come-and-jight-me attitude 
+Examples like the following are more fully lexicalized, and may be regarded 
+as cases of conversion (cf App 1.43ff): 
+She's wearing a with-it dress. 
+That is the in thing at present. 
+
+
+- ,. .. . . 
+1338 The noun phrase 
+Although there is, theoretically, no grammatical upper limit to the number 
+ol'prcmodilicrs, it is unusu;~l to fincl niorc tIi;~n thrcc or l i ) ~ ~ r .  
+Prcnlodifcntion 
+is an area of English grammar where thcrc is corlsitlcrablc variation among 
+thc varieties of thc 1angu;lgc. To a large extent, such variation, as well as the 
+existence of an upper limit, can bc given a psycholinguistic cxplan:~tion. For 
+example, a technical manual, written exclusively forspace research scientists, 
+may have very long and complex structures of prcmodifcation, as in: 
+Apollo Block I1 fuel ccll voltage currclll V1 ch;~r:~clcristics 
+Nothing comparable is likely to be used by the same scientist in a casual 
+colfee-break chat where new topics will turn up unexpectedly and where 
+concentration and perhaps audibility arc low. Thcre is indced evidence of a 
+higher proportion of three-or-more itcnl scqucnccs in writtcn than in spokcn 
+English. 
+A sequence such as [3] may be unlikely. Yet, unlike [3a], it will be 
+recognized as acceptable by a native speaker: 
+all the many other small inconspicuous carved jade idols 
+L31 
+*other the all jade carved inconspicuous small many idols 
+[3al 
+In order to describe the rules for the relative order of premodifiers, it will be 
+helpful to divide the territory between DET (the determinative) and HEAD (the 
+head) into four premodification zones (I, 11,111, IV), for example: 
+DET 
+I 
+11 
+111 
+IV 
+HEAD 
+this 
+Jirst 
+iniportarlt 
+long 
+Frenclr 
+novel 
+Precentral, central, postcentral, and prehead position 
+17.114 
+The four zones are largely correlated with the semantic classes discussed in 
+7.45. 
+(I) Zone I : PRECENTRAL 
+In the precentral zone we find peripheral nongradable adjectives (cf 7.42), in 
+particular intensifying adjectives (cf 7.33f ): 
+(i) emphasizers, eg: certain, clejt~ile, plain, pure, sheer 
+(ii) amplifiers, eg: absolute, entire, extre~ne, perfect, tolal 
+(iii) downtoners, eg: feeble, slight 
+(11) Zone 11 : CENTRAL 
+The central zone includes the central, gradable adjectives, ie the 'most 
+adjectival items', which satisfy all four criteria of adjectival status (cf 7.3f), 
+eg: big, funny, intelligent, keen, powerJu1, slo~v, thick. Central adjectives admit 
+intensifiers (a very cold clay), comparison (It's colder than yesterday), and 
+alternative predicative position (Last sirnttncr lvas very coll). Their function 
+is to describe or characterize and, consequently, they often form contrastive 
+pairs like big/small, good/had, hot/cold. They are typically inherent (cf 7.43) 
+and include both nonderived adjectives (like those just mentioned) and 
+derived adjectives, which are either deverbal (like interesting, interested, 
+hesito~tt) or denominal (like angry, rainy, peacefun. 
+This morphological classification has a bearing on the internal structure of 
+the zone of central adjectives in that the usual order is NONDERIVED + 
+DEVERBAL + DENOMINAL: 
+a fall altraclivc woman 
+this firi'rn Irill)~ slope 
+;I .S(lll:ifk!(/ ,Y/c~/)J~ 
+look 
+Within thc cl:~ss of nonderived adjectives, thc order is 1;lrgcly arbitrary, but 
+adjectives denoting SIZE, LENGTH, and HEIGHT normally prccede other 
+nonderived adjectives. Thus we usually prefer: 
+a .onall routrcl table to a roiir~d sninll tab/(,; 
+long slrc~ifi/rI hoir to .slrrrig/rr long huir; and 
+(I tci// angry mutr to crtr angry IN// t~rott 
+Among adjectives in zone 11, we may further distinguish a group of 
+emotive, evaluative, or subjective adjcctivcs (Ior~c~11~. 
+~ricv., ~ ~ n ~ t t C ~ ~ l i t l ,  
+trrril~lc., 
+/lorribIe, nusty, etc), which usually preccde otlicr ccntr:tl adjcctivcs. Thus we 
+prefer beaut(fii1 lor~g huir to long hecrri~ijifi,l hoir. Such emotionally tinged 
+adjectives often have an adverbial, subordinatcd relation as indicated by 
+their notional similarity with adverbs: 
+beau~ijirl Ivarnt weather - beautijirll,~ ~ ~ a r n l  
+weather 
+The statements made about the relative order of zone I1 premodifiers should 
+however be understood to be tendencies rather than absolute rules. 
+The relation of premodifiers in 'unbroken' sequences, ie without commas 
+or coordinators, tends to be one of hypotaxis (cf 17.116). 
+(111) Zone 111: POSTCENTRAL 
+This zone includes, in particular, participles and colour adjectives, eg: 
+a retired colonel 
+a working theory 
+a deserted village 
+blue skies 
+(IV) Zone IV : PREHEAD 
+This zone includes the 'least adjectival and most nominal' premodifiers: 
+(i) Adjectives with a proper noun basis denoting nationality (cf5.57), 
+provenance, and style: Anierican, Gothic 
+(ii) Other denominal adjectives with a relation to nouns (cf 7.37), often 
+with the meaning 'consisting of', 'involving', or 'relating to': annual, 
+eco~tomic, tnedical, social, poli~icol, rural 
+(iii) Nouns: tourist (attraction), Yorkshire (women), college (student) 
+Adjectives in zone IV are normally not central but peripheral adjectives, ie 
+they do not generally admit intensifiers, comparison, or predicative position: 
+all those merlicalexaminations for military service 
+*all those very niedical examinations 
+*The examinations are nrore medical thnrr . . . 
+Similarly,politicaland rural in the following uses will normally be interpreted 
+as nongradable adjectives (cf 7.42): 
+all the political parties of this country 
+the backward rural areas in the north 
+
+
+1340 Tho noun phroso 
+Pro~r~orlifir:t~tion 
+131 1 
+when items from the same group cooccur, there is a tendency for those 
+General principle for the order of premodifiers 
+modifiers which denote place and time to take preccdcnce: 
+17.115 
+In part, the preferences scem cle;trly to corrcspontl to the 'natural' order of 
+rccursivc qt~;~lific:ttion. 
+T'ltlls [I] wt~l~ltl 
+hc 111o1.c 
+I I S ~ I ; I I  I I I ~ I I I  I l : ~ ] :  
+/OI~O/ 
+~,t~o~rorrrir~ 
+i~~lcrcsls 
+the (rlrrlrrcrl lirrgui.sric. tllecting 
+Illc two typit~trllrrr~~~ 
+country I~ouscs 
+the two /(rrge ?)picol country houses 
+Ill 
+premodifiers in the prehead zotle cannot usually be coordinated: 
+[lal 
+In order to be typical, country houses must be large; but it would scarcely be 
+the local rvoterboard authorities 
+true that, in order to be large, they must be typical. This is factual, not 
+*the [occrl gild warerboard authorities 
+linguistic, information. The preferred order in the two noun phrases in [l] 
+premodirying nouns, which are nortnally placed i~nmcdi;ttcly bcforc thcIlc;ld 
+and [lit] thus rcflects rc;tlity in showing that tltc speaker had hcen obliged to 
+ofthe noun phrase, may form a compound or quasi-compoulld with the head, 
+specify the houses as country houses and the country houses as large, before 
+as is suggested in the 
+stress pattern on the first item as in 'tele~lphollc 
+it became meaningful to specify the large country houses as typical. Again, 
+~
+f
+i
+~
+~
+~
+l
+~
+~
+~
+,
+ 
+This is where noun-phrase structure impinges upon Corn- 
+the preferred orders beautiful lo~rg hair and long slraighi hair perhaps reflect 
+pounding (cf17.1~4ff, pp I.57$), 
+with two nouns forming a new 
+the nonlinguistic world: length of hair may be a condition of its being 
+adjudged beautiful, and the straightness of hair would tend to be a condition 
+ceptual unit. 
+ln some cases there is littleor no difference in meaning between denOminal 
+of its seeming long. 
+adjectives and nouns as premodifiers : 
+Attempts to explain preferences of premodifier ordering have itlvoked 
+rhythm (eg short items before longer ones); common items before rare ones; 
+a Liverpudliair accent 
+- a Liverpool accent 
+restrictive before nonrestrictive. We suggest one principle accounting for all 
+an icy patch 
+- an ice patch 
+premodifiers: a subjective/objective polarity. That is, modifiers relating to 
+a glamorous girl 
+- a glamour girl 
+properties which are (relatively) inherent in the head of the noun phrase, 
+a beautiful spot 
+- a beauty spot 
+visually observable, and objectively recognizable or assessible, will tend to 
+a grassy strip 
+- a grass strip 
+be placed nearer to the head and be preceded by modifiers concerned 
+one general distinctive feature is that the information provided 
+the 
+what is relatively a matter of opinion, imposed on the head by the observer, 
+is felt to be temporary or subjective, whereas that provided 
+the 
+not visually observed, and only subjectively assessible. 
+noun premodifier is permanent, or objective, ie has a 'classifying' function. 
+One need hardly add that, with criteria that are themselves so subjective, 
+some 
+examples of sequences of premodifiers are given in Table 17.l 14. 
+there is plenty of room for difference of opinion. The writers and speakers 
+will naturally arrange premodification semantically, ie according to their 
+communicative intentions. However, there is no total freedom. 
+Table 17.1 14 Examples of sequencesof~remodifiers 
+Note 
+Though there are many exceptions and few firm constraints, it seems that, to some extent, the 
+PREMODlFlERS 
+order oipremodifying adjectives is the inverse ofpredicotive orcler: 
+DETER- 
+Zone I: 
+Zone 11 : Zone 111: 
+Zone IV: 
+HEAD 
+br~arrrifirllortg 
+hair - hair that is lorrgrrrslb~~u~rtifi~l 
+MlNATlVE 
+  RE CENTRAL CENTRAL 
+POSTCENTRAL 
+PREHEAD 
+lurtg.vlr~l!g/rr hair - hair thxt issmrighr orallr,r~g 
+With tllis we mily cornpure the advcrbi;~l + object + head order in premodific;1tion with the 
+attractions 
+inverse order ofcl;~use elements: 
+agascigarrrre lighter - It lights cignrczrr~~.v 
+by gas. 
+tourist 
+attractions 
+Also adjunct + subject + head: 
+Errsron rrairr arrivals - The rrairts nrrive or Err.vro,t. 
+London tourist 
+attractions 
+Similarly, the sequence of modifiers with subjective and ohjcclive genitive (d17.41,fl) wllere, 
+splendid 
+African tourist 
+attractions 
+although inversion is not always involved. thes;~me principle oiorderccl clustering i n  relation to 
+the head is mainti~ined: 
+our 
+numerous 
+splendid 
+African tourist 
+attractions 
+the men's examination ofthe student - The nlcrl esamincd the student. 
+social 
+security 
+the men's examin:llion by the doctor -The men were exi~rnined by tllc doctor. 
+all 
+this 
+costly 
+theexamination ofthem by him -They wcreex:~mincd by him. 
+a 
+certain 
+grey 
+church 
+tower 
+these 
+crumbling grey 
+Gothic church 
+towers 
+Hypotactic relations and order of premodifiers 
+intricate old interlocking Chinese 
+designs 
+17.116 
+Different hypotactic relations of premodifiers will upset the normal order 
+all 
+the 
+small 
+carved 
+Chinese jade 
+idols 
+described in 17.1 13ff. Thus while dirty Britbh books coultl be understood as 
+Danish political parties 
+books that had become grimy, Britis11 clirtji books could only mean books that 
+both the 
+major 
+'consisted of' or 'were characterized by' dirt (ie obscenity). 
+
+
+1342 Tllo noun phraao 
+Whcn two nouns premodify, one which corresponds to the head as object 
+to 
+will h)llow ollc rcl;l{illg (o m;llcri;ll, IIIC:IIIS, 
+instrulllcnl, Sp;lCC, Or ;lnY 
+comparable adverbial relation: 
+;I ilorc~rgerir rrrrrorl N I I ~  
+11 c~rrdhorrril c;~rton 
+- a cardboartl deterge~lt carton ['Thc carton contains dctcrgcnt.'] 
+c *a cletergerit ccrrc//~oar(/ carton [*'The carton contains cardboard.'] 
+i 
+my cigo'rettc, lighter and my 'gas lighter 
+- m y  ,gns (,ijy'rc,ltc~ lighlcr 
+*my cigarcltegtrs lighter 
+a city bread delivery 
+W *a hreudcity delivery 
+vel passenger train 
+?a passertger diesel train 
+iL1&, 
+i 
+a jet freight aircraft 
+W ?a freight jet aircraft 
+Where an adverbial + verb sequence has prior institutionalized status, as 
+with pressure cooker, this unit may be premodified by an object such as 
+vegetable: 
+a vegetable pressure cooker ['which cooks vegetables by pressure'] 
+Multiple adjectivelnoun premodification 
+17.117 
+The noun premodifier can be itself premodified by either an adjective or a 
+noun and, if the latter, this can in turn be recursively premodified: 
+e.ypensite office furniture 
+ofice furniture 4 
+10s office furniture l 
+- 
+income tax ofice furniture M 
+L 
+oorneus income tax office furniture 
+Fi,ql7,Il7a 
+It should be noted, however, that if we introduce an adjective in this last 
+noun phrase, already clumsy and improbable, the adjective has to come 
+immediately after the determiner and would normally be interpreted as 
+relating directly to the head furniture: 
+Fig 17.117b 
+However, such straightforward left-to-right ordering of prctnodifers is not 
+common. Comp;lrc thc structl~rc of the following Iwo cx:~mples from a 
+ncwspapcr: 
+thr [[[fi)oilpricc] rise,] [~t'trr~iirig 
+l:s~:sti~rnl] 
+'a systcm for warning against 
+rises in lhc price of hod' 
+the [volu~itary [[price rise] [~sarnbg 
+systet,~]]] ';I system which is 
+voluntary for warning against riscs in prices' 
+Thc two cx;ltnplcs look supcrfici:llly ;~likc hut arc in fact r:~tlic;llly tlifrcrcnt in 
+noun-pIir;~se striiclurc. Thc it1cnlic:ll posilioning ol',/i~otl and r,i~lrrn~i~ry 
+nlust 
+not obscure the fact that the former modifiesl)rice and tlic latter system. 
+However, there is potential ambiguity with multiple noun modification. 
+Considcr: 
+a new giarit size cartlbourd cletergerrr carton 
+wltere size does not prcmodify carclhourrl and ccrrill~oorcl tlocs not premodify 
+a'etergent but where the linear structure is rather as in: 
+a [new [giant size] [cardboard [detergent carlonlll 
+Such an example is not, of course, obscure. Indeed, it is generally the case 
+that obscurity in premodification exists only for the hearer or reader who is 
+unfamiliar with the subject concerned and who is not therefore equipped to 
+tolerate the radical reduction in explicitness that premodification entails. 
+Take even a fairly simple example like the following: 
+He had some French onion soup. 
+If we are unfamiliar with this type of soup, there is nothing about the 
+grammatical, orthographic, or prosodic form that will tell us whether it is 
+soup made from French onions, or French soup made from onions, o r  onion 
+soup made in the French manner. 
+17.118 
+There are other special types of multiple premodifcation that should be 
+mentioned. A friendship between a boy and a girl becomes: 
+a boy andgirl friendship 
+A committee dealing with appointments and promotions can readily be 
+described as (on the plural, cf17.108f): 
+the appointmenls aridprotnotio~is committee 
+A committee whose business is the allocation of finance can be: 
+the allocatiori qfjnarice committee 
+
+
+1344 The noun phrase 
+Pramodificalion 
+1345 
+A noun phrase in which there is noun premodilication can he given the 
+tlcnominol ollix which puts it into the 'consisting of' class of adjectives 
+(1;/7.37, l7,l 14) wl~ilc r c l : ~ i ~ ~ i ~ ~ ~ r ,  
+~ I I C  IIOIIII prc~~~oililicr; 
+IICIICC, 
+I'ro111 111rrtv 
+politics we 11;lve: 
+a ptrrcv political broadcast 
+Si~~~il:~rly. 
+;I IIOIIII ~ I I ~ : I S C  II:IV~III: 
+:I ~ I < ! I I O I I I ~ I I ; I ~  :~ilicclivc 111t1y ilsclf take :I 
+clc~lolnill;~l 
+;~llix lu hccolnl: ;I ~,rcn~<)<lilicr 
+ill :I 
+I I O I I I I  IIIIIIISC. 
+I:or ~ X ~ I I I I ~ I I C .  
+beside cerebral palsy ['palsy of the cerebrum'], we havc ccr~,brtrl plrlsi~~il 
+chiI(1rer1 which has the following structure: 
+[[[ccrebralpalsi]ed] chil~lrert] NOT: *[cerebral [palsied childrenll 
+We see two typesof modification with modified modifier in [l] and [2]. The 
+pl.cmotlifYing ;~tljcctivc c/c,li~l~!/itl is itself p~~cmotlilictl 
+by the adverb phrnsc 
+~~.NIIJJ 
+ynilc, rrnrbi~lic~moh~~: 
+his really quite ~trthelieuablj~ 
+deIigh!/icl cottage 
+[l] 
+In [2], the genitive premodifier ivame~t's is itself premodified by these chic, 
+and the whole genitive phrase could premodify another genitive: 
+[[[these [chic wornert's]] employer's] clothing] 
+[2] 
+Although there is no theoretical limit to such sequences of genitives, there 
+seems to be a practical limit of two - anything more being stylistically 
+objectionable, comic, and difficult to comprehend: 
+?these chic women's employer's wfe's clothing 
+Note 
+With a singular genitive there may be ambiguity, in that clric may modify ~votnarr'r 131 or clorhi~rg 
+[3al: 
+this [[chic ~vof~larr's] 
+clol/rifrgl 
+this [clric [11~ornmrkclorlfirfgl1 
+The 'group genitive' 
+17.119 
+One important type of multiple premodification is the 'group genitive' 
+(cf 5.123): 
+someone el.re's car 
+The Wife of Bath's Tale 
+Elizabeth the Second's heir 
+a man of distbtction's influence 
+While the affixing to a noun of the genitive inflection and the plural inflection 
+follows similar rules for regular nouns in general, the rules for the two 
+inflections are different if the noun is postmodified (cf Fig 17.1 19): 
+Other examples involve coordinations: 
+an hour and a havs discussion 
+a week or so's sunshine 
+The group genitive is not normally acceptable when the postmodification is 
+a clause, though in colloquial use one sometimes hears examples like: 
+Oldman what-do-you-call-him's house has just been sold. 
+?Have you seen that matt startdirtg at tlte corner's hat? 
+?Someone has stolen a mart I know's car. 
+In normal use, especially in writing, such genitives would be replaced by of 
+constructions: 
+Have you seen the hat of that man startding at the corner? 
+Someone has stolen the car of a man I krta~v. 
+The group genitive is tolerable even with prepositional phrases provided it 
+encourages no unwanted interpretation. Thus [I] might pass muster: 
+the man in the car's ears 
+[l1 
+But [2] would obviously be avoided if the meaning 'the ears of the man with 
+the cat' was intended: 
+the man with the cat's ears 
+[21 
+Multiple heads 
+17.120 
+Modification may apply to more than one head (cf 13.68): 
+the new table 
+the new table and chairs 
+
+
+1346 The noun phrase 
+Spocial rnlnliotls hr,lwnor~ llnilrls or~rl modifiers 
+1347 
+The ~nultiple head tlius produced (tohle and chairs) can now be subject to 
+recursive modification or coortlinatio~l : 
+the hecrtrt~ul rrew tcrhle and chairs 
+the rrew (but) ugly table atrd choirs 
+The reduced explicitness naturally makes ambigl~ity possible. Since WC can 
+coordinate two noun phrases only one of which is pre~l~odificd, 
+the resulting 
+string will suggcst th:~t tlic modifier applies to both heads if it comcs first: 
+He writes longpapers' - H, writes longpcrper.~ crnd hoolts. 
+He writes books. 1 
+In these circumstanccs, we may disambiguate by reordcring. by introducing 
+separate determiners, etc: 
+He writes hooks and longpapers. 
+He writes some long papers artdsome hooks. 
+Noun phrases with separate premodificatioll can however be jointly pre- 
+modified, as in: 
+books and long papers - excelle17t books and lorrg papers 
+Spoken with one tone unit, this noun phrase can be interpreted as having the 
+structure of Fig 17.120: 
+[excellent [[books] and [long pi~erslll 
+Fig 17.120 
+This interpretation would be almost inescapable if a determiner such as some 
+preceded excellent. It follows that if we wish tocoordinatenoun phrases both 
+of which are premodified, we must introduce either prosodic or punctuation 
+separators, or separate determiners, if maximal clarity is required: 
+excellent books, and long papers 
+some excellent books and some lorrg papers 
+Alternatively, the order can be reversed: 
+lolrg papers and excellent books 
+Special relations between heads and modifiers 
+S o m e  problems of coordination 
+17.121 
+Coordination provides some points of intcrest in relation to multiple 
+modification. Considcr the phrase [I]: 
+children lvho 11crur speech that is itnpnired 
+This can be reduced to [la] or [l b]: 
+childrcn ~vfro frcrc~e i117poircd.spcc~c.h 
+children with bnpairedspeecl~ 
+The normal premodified form (cfApp 1.38) is then [Ic]: 
+.s/)ecch-irrrprrirEd c11 ildrcn 
+[Ic] 
+But if the impairment is in speech and lartgtiage (a conventional conjoining 
+recognized in speech therapy), the premodifcation form becomes: 
+speech and lattgrrage impaired children 
+[Id1 
+The hyphen is omitted after lar~guage since this would entail one after speeclt 
+as well, a type of ellipsis indication reserved for rather stiff and technical 
+writing (cfApp 111.5 Note [b]): 
+speech- and language-inlpaired children 
+[lel 
+Ellipsis provides difficulties in noun phrases involving comparison also. The 
+following is unobjectionable: 
+an equally serious or more serious situation 
+L21 
+The sequence becomes objectionable when postmodifying complementation 
+is added [2a] : 
+?an equally serious or more serious situation fharr bc/orbrc~ 
+[2al 
+The phrase [2a] wrongly suggests that we have a possible sequence (cf17.122): 
+*an equally serious situation than before 
+[2bl 
+A somewhat similar difficulty arises through coordination and rather 
+careless ellipsis, as in [3]: 
+?the similarity of his houses in New York and Connecticut 
+L31 
+A more fully explicit form without ellipsis will help to show what has gone 
+wrong: 
+the similarity of his house1 in New York to his house' h7 
+Connecticut 
+[3al 
+The rules for ellipsis (cf12.318) have to distinguish between identity of 
+lexical item and identity of reference: if we have only the first without the 
+second, there are constraints on ellipsis. Such constraints are not sufficient, 
+however, to block ellipses like the following which retain complete 
+acceptability: 
+more tharz one lecturer 
+sonte book or other 
+one or rw~o books 
+
+
+1348 The noun pliraso 
+Discontinuity between head and modifier 
+17.122 
+It is not uncommon for the noun phrase to be interrupted by other items of 
+slr~lcl~~rc. 
+Nolc, l'or itisl:~ncc. Ilic pl:~ci~~]! 
+of lhc linic ; ~ ( l j ~ ~ n c l  
+hclwccI7 
+tllc llcatl :llid postli~odilic~. 
+in tllc Ii~llowilly Ilclull 11lll':lsc: 
+I Inet a n~arr this morning cnrr~~irg 
+a hnrty~p~rcel. 
+Al~lnl~~l:ll 
+Illcrc is nolhinl! wren]! will1 lhis slrl~clnrc. Io :~voitl tlisconlinllily. 
+the ;~dverbial c;ul hc ~novctl to inili:~l posilioll: 
+.rhis morning I lnct a r?rtrn ccrrryinfi. (I h ~ e r l ~ ~  
+/J(ITCC/. 
+Further examples of discontinuities in noun-phrase structure are prcsenteci 
+in 18.39J together with some discussion of the COnSeqUences for information 
+processing. 
+Noun-phrase rnodi[i~rs which have their own complc1ncntatiOn Can often 
+occupy alternative positions. The structure iseithcr continuous (noun head + 
+adjective with complement) or discontinuous (adjective + noun head + 
+adjective complement). We can distinguish the following types of comple- 
+ment : 
+(a) Adjective with a prepositional phrase as complement (cf 17.58): 
+(b) Adjective with an infinitive clause as complement (d'16.75J): 
+(c) Adjective in comparative degree with a comparative clause as comple- 
+ment (cf 15.638): 
+a person more qualified 
+w i t h  the following types it should be noted that alternative adjective position 
+also entails change, compared with types (a-C), in the position of the 
+indefinite article, such that it always immediately precedes the noun head. 
+(e) So + adjective + that- or as to-clause: 
+Conclusion 
+Reduced explicitness and increased economy structure 
+17'123 
+The 
+phrase, then, is potentially very complex indeed, [t is hoped that 
+by 
+enough has been said to give some clear indication of the relationship 
+that exists between types of noun-phrase structure and the forms of 
+Conclusion 1349 
+In some of these examples, the variation is not stylistically frce; for example, 
+in relation to (a), many would prefer (at least in ;I more Tclrln;~l contcxt) the 
+C I I I ~ ~ ~ I I I I O I I S  
+I I ~ ~ C I  
+1 l 1  111 Illc I ~ ~ ~ ~ ~ I I I ~ I I I I I I I I S  
+1 l :I]: 
+I;~cililies conrl>errcrh/t~ 
+to orrrs 
+cor~rpnroble facilities to ours 
+'l'l~c ~ " . ~ I X I S ~ I ~ I ~ I I : I I  
+I>II~:ISL.S:III~I 
+O I ~ I C I ~ S I I I I C I I I ~ I . ~  
+I ' I I I I C ~ ~ O I I  l ~ r ~ r  
+: I S C O I I I ~ ~ ~ ~ . ~ I ~ C I I
+Io atUcclivas, not as ~iiotlilicrs ol' no~~n-phr;~se 
+Ilc:ltls. ;IS in I ~ C I I '  ri~o,l.v to 
+Lurrrlc~n. Thus we have rocrc/s to LJII(/~III 
+hul not ~/ircililii~.v 
+to orrrs. 
+Cotnp;lre now the I'ollowing p;~irs: 
+the ka~~d.~orne 
+man that she kissed 
+thefirst man that she kissed 
+. . 
+a11 cxtrcrorclirrory discovery thi~t I m;itlc 
+an early discovery that I made 
+131 
+[3a] 
+The nio.rt recent play I know well is Bcclroonr Farce. 
+L41 
+The most recent play I've seen is Ifamlet. 
+[h] 
+The superficial resemblance within each pair must not prevent 11s from seeing 
+that, in each case, the second member has an adverbial relation in what is a 
+plausible corresponding sentence: 
+the m m  was the{fir'' 
+}that 
+kissed 
+* han~lsonre 
+a discovery that I made *extraordinary 
+'ve seen 
+The play I
+{
+~
+~
+~
+~
+ 
+]most recently is Hainlet. 
+Note 
+Comparativesof adjectives with comparative clause complements like [S] and 161 can have as ad 
+hoc 'compounds' the normally postponed comparative conslructions in [5;1] and [6a] (</'l 7.1 1 I : 
+regarding the use of hyphenation, cfApp 1.17): 
+Her salary is higher ~hott aueroge. 
+His car looks lvorse than eoer. 
+L51 
+her hglrer-rlmtr-aceroge salary 
+161 
+15al 
+his aorse-rltan-cr:cr-ionkirrg car 
+[6nl 
+Note that with a copular verb other than he [6:11, the vcrb is included in the premodification. 
+But: 
+'her higlrer-/Iron-oucroge-bcittg salary 
+[6bl 
+
+
+1350 The noun phrase 
+pretlic;~tion to which they appear to have an essential if often indirect 
+corrcspondcncc. By mc;m of the structures t11;it I1;ivc hectl tlcvcloped in the 
+noun phrasc, we can take an indefinitely wide rengc of' grammatical xnd 
+semantic tl;~l;i which hevc cilhcr hccn previously csl:~hlishcd in the discoursc 
+or which can be assumed as knowledge hcld in common bctwccn spcakcr/ 
+writer and hearerlreader, and then express them, or refer to them, with 
+greatly reduced explicitness, and consequently increased econotny. TO 
+illus(ratc the dcgrcc of'complcxity t1i;lt occurs quite readily in English prose, 
+here arc three examples: 
+At the mouth of the respiratory tube is a series oj't'elnr tentacles, 
+correspondbtg exactly btpositiort to those of'on~pltiostrs, and 
+serving to seporate the w~ourl~ 
+urtrl oesophag~rsfront the respiratory 
+tube while the la~nprey is.fcedirtg. 
+[l1 
+It was the beginning ofart operatiorl in ~dlich the power ofthe Holy 
+Spirit was fuljilled in the person artd ~1ord.v urrd actions of a hunlan 
+charocter. Jeszrs oJ'Nuzaretlz. 
+L21 
+Subsequerlt work by Huisgeft (1951) and Hey, Stctart-l~ebb and 
+Williams (1951, 1952) on the depe~rtlertce oj'the rate of 
+rearrartgemertt on both the aryl and uc)ilgrotips of the 
+acylarylnitrosamine, and on the catalysis of'tke reactio~t by bases 
+such as piperidirte, has led to the form~rlation oj'tltc rearraflgerrferrt 
+as a11 intra~nolecular process, as indicated in equation 16), 
+ii~uolob~g 
+nzicleophilic attack, by at! blterrtal SN2 mechanicism, of 
+the oxygen of the . . . nitrosyl gro~ip on the carbonyl carbott atom. 
+[3] 
+In the italicized noun phrase of [l], we are expected to understand that the 
+tentacles form a series and that they correspond to the tentacles found in the 
+species amphioxus. More interestingly, weare expected to relate the tentacles 
+to the velum without prejudice as to whether they are appended to it (a 
+partitive relationship) or actually constitute it (an appositive relationship), 
+on which distinction some biologists would not wish to commit themselves. 
+Types of noun-phrase structure in relation to variety 
+17.124 
+It must be emphasized that anything approaching full exploitation of the 
+potentiality existing in noun-phrase structure is relatively rare and relatively 
+confined to specific fields of discoursc. A sample of some 17 000 noun phrases 
+in the Survev of English Usage files yielded the striking contrasts that are 
+... .-- 
+summarized in Table 17.124. 
+'Simple' is here defined as nouns without modification, ie simple noun 
+phrases (eg: John, she, the man). In view of their numerical and distributional 
+importance, pronouns and names are distinguished as a subclass of 'simple'. 
+'Complex' embraces all other noun phrases, but a subclass is distinguished 
+comprising those having multiple modification (more than merely a single 
+adjective premodifier or prepositional phrase postmodifier). Table 17.124 
+shows that: 
+(a) Less than one-third of the 17 000 noun phrases in the sample are 
+'complex', even within these modest limits of 'complexity'. 
+Tirble 17.124 Noun-phrase structure t~ntl distribution 
+I 
+I 
+I 
+C ' I I M I ' I ~ ~ X  
+Names 
+Multiple 
+(b) Less than one-eighth have multiple modification. 
+(C) Nearly one-half of the sample consists of pronouns or names. 
+(d) The majority of simple noun phrases - and the overwhellning majority 
+of names and pronouns -are subjects of clauses or sentences, but only 
+rather less than a quarter of complex noun phrases are subjects. 
+(e) When the whole sample is broken down into four types of text, one 
+such type ('serious talk and writing') very closely follows the pattern of 
+distribution for the sample as a whole. 
+(f) In respect of these particular noun-phrase parameters, prose fiction 
+and informal spoken English agree closely and are sharply distinct 
+from the other two varieties represented in the sample; they have a 
+much higher proportion of simple to complex and a much stronger 
+association of simple with subject, and complex with nonsubject, than 
+the other varieties. 
+(g) Scientific writing differs greatly from the other vi~ricties in having a 
+distinctly higher proportion of noun phrases with cotnplcxity (and 
+multiple complexity); a distinctly lower proportion of names and 
+pronouns among its simple noun phrases; and the weakest association 
+of simple with subject and complex with nonsubject. 
+
+
+1352 The noun phrase 
+A survey o f  prepositional phrases highlighted a difcrence betwcen speech 
+:1nt1 writing In ;I corpus of half ;I million wortls, prcpositional phrascs were 
+l&i~i(I to lie c o ~ ~ s i ~ l c r : ~ l ~ l y  
+111orc I I ~ C ~ U ~ I I ~  
+111 W I ~ I I C I I  III;III i l l  S I I I I I ( ~ I I  !n:~lcri:~I, 
+respectively about 140 a n d  100 phrascs pcr 1000 words. Also, in writlcll ICXlS, 
+40 pcr cent o f  the prepositional pl~rnses fi~tlctioned as postmodification in 
+noun plir:lscs, as compnrctl with only 33 pcr ccnt in spccch. 
+[:vcn sllcll conl.sc-gr;lillc<l c<~i~ll,;~rist)rls 
+:IS tlicsc make clc:~r how scnsilivc 
+is tile noun phrase as an index 01. style i111d how I-cspt~nsivc 
+it c a n  1 1 ~  
+t o  lhc 
+basic purpose and subjcct mattcr in varying typcs of discourse. 
+Bibliographical note 
+On rcl:ltivc clauses ;liid ntlicr typcs 01' poslmodific;~tion, sec Aisscn (1')72): I3resn:1n illld 
+Grimshlw (1978); Downing (1978); Elsncss (1982); Il;~rIvigsol~ 
+(1970); Ilu(ldlcstan (1071); 
+Jncobson (1983); Jacobsson (1963, 1970); Karlsen (1965); Kjcllmer (1975a); Michicls (1975. 
+1977);01ofsson(198I); van Roey (1969); Roggero(l967); Rom;1ioc(1980); Rydtn (1970. 1974): 
+Schaehter (1973); Sears (1972); Taglicht (1972, 1977); Weisler (1980); Young (1980). 
+On premodiBcation, see Abberton (1977); Bache (1978); Bolinger (1967a); Coates (1977); 
+Dierickx (1970); Fries (1970); Johansson (1980); Levi (1978); Martin and Fcrb (1973); Mull 
+(1967); Pcnnanen (1980); Sampson (1980); Sorensen (1980); Warren (1978); Wyler (1979). 
+On modification in relation to function, sec Aarts (1971); Fries (1972); Williams (1979); on 
+spccial rel;~tions betwcen heads and modiliers, see Aarts and Aarts (1982); Christophcrsen 
+(i974). Seppincn (1978). 
+On nominalization, sec Chomsky (1972); Colcn (1984); Dowlling (1977); Fraser (1970); 
+Kjellmer (1980); Lees (1960a); Vendler (1968); Webster (1977); Wonder (1970). 
+On the acnitive and of-construction, see Altenbcrg (1980, 1982); Dalil(1971); Jahr Sorheim 
+(1980). 
+Onapposition, sec Austin (1980); DuBois(1974);Haugen (1953); Mockett (1955); Lee(1952). 
+18 Theme, focus, and information 
+processing 
+Prosodic aspects 
+Information a n d  communic;ltivc dynamism 
+Tone units a n d  grammar 
+G i v e n  a n d  new information 
+T h e m e  a n d  focus 
+. 
+1 . h c  rclation hctwccn focus ; ~ n d  
+ncw ilili~rmation 
+Marked focus 
+Focus o n  the operator 
+Divided focus 
+Concatenated focus 
+Marked theme 
+Grammatical aspects 
+Fron ting 
+Inversion 
+Subject-verb inversion 
+Subject-operator inversion 
+Cleft a n d  pseudo-cleft sentences 
+Cleft sentences 
+Pseudo-cleft sentences 
+Postponement 
+Voice a n d  postponement 
+Extraposition 
+Extraposition of a clausal subject 
+Extraposition o f  -big clauses 
+Extraposition of a claus;ll object 
+The construction type Slie'.~ oplerr.rtrre ro tecrrlr 
+Postponement of object in S V O C  a n d  SVOA clauscs 
+Objects a n d  paraphrases 
+Discontinuous noun phrascs 
+Correlative items in compi~rative 
+scntcnccs 
+O t h e r  discontinuities 
+Structural compensation 
+18.44-54 
+Existential sentences 
+1402 
+.45-50 
+Existential there 
+1403 
+.45 
+Correspondence with basic clause patterns 
+1403 
+
+
+‘Bare' cxistcntial sclllCllCcS 
+I.,'," 
+.47 
+.48 
+Existential sentences with relative and infinitive clauses 1406 
+lixistcntial scntcnccs with vcrhs other than be 
+1408 
+-49 
+Existential sentences with initial space adjuncts 
+1409 
+.50 
+* " , I  
+.51-53 
+The kuvc-cxistcntial device 
+,v 8 
+8 
+.53 
+ffiCe-existetltial sentences with relative and lionfinite 
+, h , ?  
+cl;ltlscs 
+.54 
+Nonfillite and verbless cxistcntinl cl:lll~~s 
+18.55-57 
+Emotive emphasis 
+.S6 
+Emphatic operators 
+.S7 
+Noncorrelative so and such 
+18.58-59 
+Reinforcement 
+.58 
+Repetition and 'proxy' pronouns 
+.59 
+Amplificatory tags 
+Bibliographical note 
+Prosodic ospocts 1355 
+Introduction 
+18.1 
+111 c:~rlicr ch:il)tcrs, wc II;IVC cx;i~l~i~~ctl 
+tI~c c o ~ ~ s l r ~ ~ c l i o ~ l  
+ol'scnlc~~ccs 
+ill tcrli~s 
+of the way in which units (such as subject, verb, and predication) are brought 
+together to form grammatical scciucnccs. alld WC h;~vc trc;~tctl the ordcr of 
+such units in terms of positional norms. WC shall now look upon the 
+construction of a sentcnce from the viewpoint of constructing ;I mcssage: 
+segmenting the material into efrectivc prosodic units and ordcring the parts 
+so ;IS to achieve the tlesircd rcsult. This mc;lns studying thc tlcviccs by which 
+we Icatl our hc;~rcr/rc;~tlcr 
+to rccogni/c Ilnrnis(;~k;~l>ly 
+Ihc p i c c c o I ' i ~ ~ I i ) r ~ ~ ~ ; ~ t i o ~ i  
+that WC sec as the highpoint of our tnessagc, at the same time providing 
+enough additional material to ensure that the message is complete. If the 
+message is heard, the highpoint will he markcd in utter;lncc by prosodic 
+prominence; but even if thc message is writtcn and is silclltly rcnd by the 
+recipient, the writer must still ensure that the reader will identify the 
+highpoint by being able to give it an internal or 'imagined' prosodic 
+prominence. Intonation and other prosodic features are therefore essential 
+in the processing and receiving of information, whether written or spoken, 
+and we shall be constantly referring to the phonological distinctionsdescribed 
+in Appendix 11. 
+But lexical choice and grammatical organization have an important role. 
+Consider these examples: 
+Will the new law help old people? 
+[l] 
+The road will ultimately be repaired. 
+[21 
+I'll visit them occasionally. 
+131 
+The honeymoon couple returned to Edinburgh in bright sunshine 
+today. 
+[41 
+In the following variants, the truth value is unchanged, but the presentation 
+is very different: 
+In your view, will the new law give old people the help they need? [la] 
+It will be some time before the road is repaired. 
+. 
+[ h ]  
+I don't think I can do more than pay them an occasional visit. 
+[3a] 
+It was bright sunny weather that welcomed the honeymoon 
+couple back to Edinburgh today. 
+L44 
+It is not merely that the variants are more verbose. In each case, an 
+introduction has been provided which puts the utterance in a communicative 
+context, as in [la] and [3a], or which highlights an aspect of the utterance 
+that is communicatively effective, as in [Za] and the journalistic [4a]. 
+Moreover, care has been taken in [la], [3a], and [4a] to make the ending a n  
+appropriate climax. But before we consider other modes of information 
+processing we must look closely at the fundamental role of intonation and 
+other aspects of prosody. 
+Prosodic aspects 
+18.2 
+Let us imagine that we know the answer to the question 'When shall we 
+
+
+1356 Theme. focus, and it~formation processing 
+- ~ 
+She will delcide 'next WPEK~ 
+'I'lic tl~cmc (r:/'IH.O). wliich in Illis scnlcncc is thc sul?jcct .vl!i,, would he 
+t~llcrc~l 
+will~otit c111~)11;1sis, 
+si~icc 
+i t  1'1111clio11s 
+:IS ;I IIICIC c1lc III:II Ihc s~1c:lkcr is 
+coopcl.ating in m;iking a rcply which h:~s the cxpcctcll sul>.jcct will1 ;I known 
+identity. The verb phr:lsc 1r.iI1 d.c.irlL. is given somewhat lllore prominence, 
+since ;~lll~ougli 
+it is sc~n;~ntic;~lly 
+congruent will1 the form o f  thc question, it 
+is by no means wholly prcdict;~hlc in dc~~cctillg;ltIc11tiotl 
+fro111 'ollr' ~ I ~ I ) W I C < I ~ C  
+to M;~rv's decision. If', for example, the question had been 'When will Mary 
+decide'!', the rcply might have beell: 
+She will do so /next W ~ E K ~  
+The verb phrase in tliis case would have little more prominence than the 
+subject. But the m;~in prolnincnce is givcn to the ti~nc adjunct, next vvec,k, 
+and tliis prominence is conveyed by the intonation nucleus on the head noun 
+~vrek. 
+Such prosodic data do not concern speech alone. If we had received the 
+inquiry in writing and had scribbled the reply on paper also, 'She will decide 
+next week' would have been given the prosodic values of our spoken response 
+as the receiver glanced at the written message. And if the receiver were to 
+read it aloud to a friend, it would normally be read with these prosodic values. 
+If this were not so, our message might be distorted or replaced by some other 
+that we had not intended, such as: 
+She will delciDE next week1 
+Information and communicative dynamism 
+18.3 
+COMMUNICATIVE D Y N A M I S ~ ~  
+refers to the variation in communicative va? 
+as 
+between different parts of an utterance. The subject, verb, and adjunct In: 
+She will delcide 'next WEEK( 
+were described in 18.2 as being uttered with sequentially increasing 
+prominence, with the S conveying least information, the V rather more (for 
+the reasons stated), and the A conveying most - as is natural since it conveys 
+(or implies that it conveys) the information sought by the lvli-element of the 
+question 'When (shall we know what Mary is going to do)?' A TONE UNIT is 
+defined in Appendix 11.13 as a stretch of speech containing one intonation 
+nucleus, and since each such nucleus serves to highlight a piece of 
+information, it follows that a tone unit is coextensive with an INFORMATION 
+UNIT. 
+. .  . 
+. 
+the 'communicative dynamism' can range from very low [correspona~ng to 
+weak stress, as with the subject she), through medium (corresponding to 
+nonnuclear stress, as with the verb phrase, it~ill decide), to very strong stress 
+(corresponding to intonation nucleus, as with the 
+. . adverbial, next week). And, 
+. 
+c,... 
+Prosodic aspects 1357 
+another (and better) way, it is common to process the inform;~tion in a 
+message so as to achieve a lincz~r prcscnt:~tion from low to high information 
+v;1111c ~1:/'19.12). We sI1;11l rcl'cr to Illis ;IS I I I C  pri~lciplc ~~'I:NI>-I,OIYIS. 
+18.4 
+?'hough there is a one-for-one correspot~dcr~ce betwcen tone unit and 
+information unit, the correspondence is lcss direct between prosodic 
+prominence :lntl inli>rtn:tlion value. I'romincncc hy slrcss or inton:~lion is 
+rc;~lizcd on a .~.vl/iiblc~, 
+;l unit that h;~s no ncccssary ccirrclation with meaning, 
+let alone information v;~luc. This is thc c;lsc wit11 the stress on -c.iil~ i n :  
+She will delcide 'next W ~ E K ~  
+The effect of prosodic prominence is to draw attcntion to the semantic unit 
+within which the prominent syllable occurs (in this c;lse tlie verb phrase 1~;ll 
+clecide) and hcncc to give that unit inrorm:~tion prominence. So ;ilso with the 
+information climax in this example. Thc noun phrase, ne.rt ~veek, which 
+realizes the adverbial, would have the main strcss on the hcad, week. It is 
+therefore this syllable which carries the nuclear tone, though of course it is 
+not the item week itself which is informationally prominent but the wliole 
+adverbial next n~eek. Compare the parallel distribution of informiltion in the 
+following examples, noting the relation between the prosodically prominent 
+syllables and the informationally prominent se11iantic units: 
+He will delliver it on Tii~sdayl 
+He should have relplied to my ~ k ~ t e r l  
+If, on the other hand, my letter had already been established in the context, it 
+would no longer be appropriate to make the prepositional phrase informa- 
+tionally prominent. Instead, the nucleus would probably occur on replied and 
+the adverbial might be lightened and abbreviated by pronominalization: 
+He should have r e l s r l r ~  
+It is such circumstances that lead some to define end focus in terms of the 
+(stressed syllable of the) last open-class lexical item of tlie last clause element 
+(but cf 18.12 Note [a]). 
+Note 
+In ;ill the examples so far, the 'scm;intic units' identified by prosodic;~lly pro~ninc~t 
+sylll~bl~~ 
+have ;tlso bccn gra~nmatical utiits (V, A), hut tlic bro;lder term 'scm;lntic unit' is nccess:lry ;is ;I 
+reminder th;tt the informationally prominent unit ncal not be ;I synt;~ctic clement: 
+It was Ineither an ~iJ~ocraticl 
+nor cnltircly a o6~ocr;ttic govcrnmentl 
+(Sec furtltcr 18.15.) 
+Tone units and grammar 
+18.5 
+Every sentence has at least one tonelinformalion unit, and it is usuill forsuch 
+a unit to be coextensive with a grammatical unit. Sometimes this is the 
+sentence itself, as in the example we have been considering: 
+She will delcide 'next W ~ E K I  
+accordance with the linear progression OS the ~ntormatlon unlt. lu put 1 1  
+But far more commonly, the tone 
+within a sentence. This may be: 
+unit corresponds 
+grammatical unit 
+
+
+1358 Ttlome, focus, und inforrniltion p r o c ~ s ~ i r l ~  
+(a) An initially placed optional ndjunct (cf8.36). other than closed-class 
+items: 
+(After my i ~ ~ n e s s l  
+I \went to P R ~ N C E ~  
+contrast: 
+\Then I went to FRANCE! 
+(h) An initially or fin;~lly pl:lced disjunct or conjunct, especially when 
+realized by $1 polysyll;~bic itcm: 
+(FRXNKI~~ 
+it has bcen dis/GRAcEfilll 
+Morelbver( the /chairman may not he w i ~ ~ i n g l  
+It was dis/GRic~fuII 
+(PRANKIYI 
+(C) An initially placed vocative: 
+~JOHNI are YOU \all R ~ G H T ~  
+I~octorl I'm \very A~xiousl 
+A vocative in end position will also occupy a separate tone unit if it is given 
+a rising nucleus, whether for politeness or to single out the addressee more 
+specifically (cf App 11.15). following a different type of nucleus: 
+I'm lmuch sBrterlI~6ctorl 
+But I (don't think you're R ~ G H T ~  
+(MAR~I 
+Contrast: 
+Are you \all R~GHT 'John1 
+I'm \very A~xious 
+'Doctor1 
+(d) The subject, if this element is realized by a clause or a long noun phrase, 
+especially one with postmodification (cf 17.lff, 17.61): 
+\What we  WANT^ is (plenty of RAIN( 
+The (tall 'lady by the DOOR( (spoke to J ~ H N (  
+Contrast: 
+\John 'spoke to the 'tall 'lady by the DOORI 
+(e) A fronted object or complement (cf 18.208): 
+Her IwRiringl I (find unin~k~ligible) 
+(f) The coordinate clauses in a compound sentence, especially when the 
+clauses have different subjects: 
+She (won the RACE( and he was de(~iGHred( 
+They (W~LKED( 
+they ~ w ~ M I  
+they lplayed G ~ L F I  
+Contrast coordinated predicates and predications (cf 13.52f): 
+He \went out and 'slammed the DOOR( 
+I have (seen them and 'offered my  HELP^ 
+On the segmentation of tone units, cf App 11.18. 
+18.6 
+It will he noticed that, in each of thc c;lscs ~ncntioncd in 18.5, thc rcmnindcr 
+ol'the scntcncc is both a tonc unit nntl ;I gr;~nim:~tic:~l 
+unit: tl~c prcdic;~tc in 
+(d), a well-formed clause in (a), (h), (c), and (I). An untidicr situation, with 
+no one-to-one relation between tone units and major grammatical units, 
+occurs when such items as those specilicd in (a), (h), and (c) are placed 
+medially. The items concerned may then continue to be given prominence 
+by an intonation nucleus, but - especially in conversational English - the 
+resultant division of the sentence into tonc units will not correspond to the 
+gr;~tnmatical units that wc fincl it uscl'ul to tlistinp~~ish 
+ill this hook. 'l'l~us: 
+(a') A sentence with medially placed optional adjunct: 
+You /should by ~ b w l  
+hc learning your ~ivingl 
+(b') A sentence with mcdially placed disjunct or co~ljunct: 
+It has (FRANKIY( bcen dis/GR,ic~fuI( 
+The Ichairman 'may moreoverl lnot be w i ~ ~ i n g )  
+(c') A sentence with medially placed vocative: 
+You lshould 'really JOHN1 be learning your Living1 
+A furthercommon circumstancein which toneunits and sentenceconstituents 
+do not completely coincide is where a noun-phrase postmodification takes 
+the form of a nonrestrictive clause or appositional structure. For example: 
+The (Japa~EsEl whose \industry is r ~ ~ i v i n g l  
+are delservedly ~ ~ 6 s p e r o u s l  
+I adlmire the JapaN~sEl whose lindustry is r ~ ~ i v i n g l  
+IHarriet S M ~ T H ~  
+our lnew Represe~tativel /comes from Alanimal 
+JLet me 'introduce you to 'Harriet SM~TH( our Jnew Rcpres~~talivel 
+Contrast (cf 18.5 (d)): 
+The IJapa'nese who 'live in r6kyol can [see Ka'buki 'theatre ~ ~ G u l a r l y l  
+18.7 
+Thegeneralizations made in18.5-6 provide only guidelines: no rigid rule can 
+be made about the relation of grammatical to tone units or about the precise 
+points at which tone units will form their divisions. Since tone units constitute 
+information units, they are by their very nature variable stretchesof language, 
+readily adjustable to the demands of emphasis, grammatical complexity, 
+speed of utterance, and other factors. For example, a sentence having a 
+clausal object will generally form one tone unit, so long as all the elements 
+are relatively short and simple. But if (i) we wish to highlight certain parts, 
+or (ii) the length of the constituents goes beyond a certain point (very roughly, 
+five or six words), the sentence will be split into two or more tonelinformation 
+units: 
+The (man 'said we could 'park HERE[ 
+The lman SXID~ we could lpark  HERE^ 
+The lman ~ S S ~ R E D  
+us1 that we could \park our c d ~ l  
+Illere 'opposite the 
+~ O T E L ~  
+
+
+1360 Theme, focus, and information processing 
+Prosodic aspects 136 1 
+There are extreme cases where every single word can constitute a tone unit; 
+thus, in cmphatic irritation, we might say: 
+Given and new information 
+18.8 
+When we construct a message, it is a courtesy to the receiver, as well as a 
+convenience for ourselves, to provide the point of thc mcssagc with enough 
+context for this point to be both clearly idcntificd and unambiguously 
+utitlcrstood, ;IS well :IS being pl;~cctl in ;I norm:~l lingt~istic frnmcwork. To 
+return to the question at the beginning of 18.2: 
+When shall we know what Mary is going todo? 
+The answer might have been: 
+We'll know next week. 
+Here the unitalicized portion replicates material from the question; so far as 
+the receiver is concerned, it is entirely GIVEN. But as well as providing 
+assurance that the answer is indeed attending to the question, it serves as a 
+convenient introduction to the actual point of the message, the NEW 
+information conveyed by rtext week. Of course, in this instance, the message 
+would have been adequately comprehensible if it had been confined to the 
+new information alone: 
+Next week. 
+But in 18.2, the answer we considered was: 
+She will decide next week. 
+The italicized portion again presents the main point of the message and the 
+entirely new information, but the introduction is less obviously and directly 
+'given'. Nonetheless, it serves as the necessary background and by contrast 
+with the 'new' information it is relatively 'given'. The subject she and the 

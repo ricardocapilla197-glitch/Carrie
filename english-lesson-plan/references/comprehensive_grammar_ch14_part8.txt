@@ -1,0 +1,1614 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 14: The Complex Sentence
+Covers: Coordination, Subordination, Reported speech, Conditional clauses
+[Part 8 of 9]
+============================================================
+
+postponed particle, eg relative clauses: 
+(Id) the fortune (that) he CAME by. 
+(2d) the fortune (that) heput BP. 
+Compare also: 
+(le) This is a dangerous road to G$T over. (also . . . to get over) 
+(2e) It's a loss she will never get h e r :  
+However, the 'stress test' is not entirely reliable, as polysyllabic prepositions 
+like across, over, and without usually receive stress, and other factors such as 
+contrastive focus may affect the positioning of the nucleus: 
+I could have done withbrrr that ~~Bsent. 
+-That's a present I could have done withdu~. 
+She will never get over it. 
+- It is a loss that she will never get over. 
+We shall return to these distinctions in 16.16. 
+Note 
+[a] It is not unusual for the same sequence of verb + particle to function either as a phrasal verb 
+or as a prepositional verb: 
+He'tumed'on his S U ~ ~ R T ~ ~ S .  
+[phrasal verb: 'He excited them'] 
+[l] 
+He'turnedon his sup~6u~ers. 
+[prepositional verb: 'He attacked them] 
+[21 
+A reduced version of [l] would be He'turned fhem'on, while the correspondingly reduced version 
+of [2] would be He 'turned on them. 
+[b] A special case of the above homonymy occurs where the phrasal and prepositional verbs are 
+not only identical in form, but similar in meaning. Examples are run through, run over, and look 
+owr. Thus: 
+The car ran him over. 
+The car ran over him. 
+These have virtually the same meaning, but the former (the phrasal verb) is reserved for the 
+description of driving accidents, in which the object refers to a casualty. 
+The car ran 'over a B ~ M P .  
+therefore has no corresponding phrasal verb construction : 
+*The car ran a'bump dver. 
+
+
+1 158 
+Complementation of verbs and adjectives 
+Type I1 prepositional verbs 
+16.7 
+The Type I/Type I1 opposition applies not only to phrasal, but to prepositional 
+verbs : 
+TYPE I (without 0,) 
+TYPE 11 (with 0,) 
+PHRASAL VERB 
+Please drink up. 
+Please drink it up. 
+PREPOSITIONAL He invested in property. He invested his money in 
+VERB 
+property. 
+Type I1 prepositional verbs are followed by two noun phrases, normally 
+separated by the preposition: the former is the direct object, the latter the 
+prepositional object. Three subtypes may be distinguished; the italicized 
+words indicate that the idiom has a different grammatical status in each case, 
+as will be explained. 
+TYPE IIa 
+The gang robbed her of her necklace. 
+He deprived the peasants of their land. 
+They plied the young man with food. 
+Please confne your remarks to the matter under discussion. 
+This clothing willprotect youfrom the worst weather. 
+Jenny thanked us for thebresent. 
+May I remind you of our agreement? 
+They have provided the child with a good education. 
+TYPE 11b 
+: 
+They havq made a (terrible) mess of the house. 
+Did you +ke (any) allowance for inflation? 
+Mary too5 (good) care of the children. 
+TYPE IIC 
+Suddenly we caught sight of the lifeboat. 
+Give way td traffic on the major road. 
+I have lost touch with most of the family. 
+I I 
+The first and most numerous type has a p h i v e  of the regular kind, the direct 
+object becoming subject of the passive verb phrase: 
+She was robbed of her necklace (by the gang). 
+The peasants were deprived of their land. 
+The young b a n  was plied with food. 
+With Type IIb, khere are two possible passives: the regular passive in which 
+the direct object becomes subject (labelled (1) below), and a less acceptable 
+passive construction in which the prepositional object becomes subject 
+(labelled (2) below): 
+(l) A (terrible) mess has been made of the house. 
+?)The house has been made a (terrible) mess oJ: 
+Multi-word verbs 1 159 
+(1) (Good) care was taken of the children. 
+(2) The children were taken (good) care of 
+In Type IIc, on the other hand, the only acceptable passive is the irregular 
+passive in which the prepositional object becomes subject: 
+The lifeboat was suddenly caught sight of. 
+?Traffic on the major road should always be given way to. 
+(?)Most of the family has been lost touch wirh. 
+Note 
+[a] For completeness, mention must be made of a fourlh type of transitive prepositional verb 
+which has no passive whatsoever; an idiomatic type in which the direct object is a reflexive 
+pronoun (cf 3.70): 
+He prided himsevon his craftsmanship. 
+*Himseuwasprided on his craftsmanship. 
+[b] In the interests of end-focus or end-weight (cf 18.9). it is sometimes acceptable to place an 
+elaborate direct object after the prepositional object. Contrast: 
+He had been known to reduce movie-stars to tears. 
+He had been known to reduce to tears some of the most seasoned and idolized movie-stars 
+in Hollywood. 
+16.8 
+To a great extent, membership of Types IIa-IIc above depends on the 
+idiomatic status of the prepositional verb. 
+In Type ZIa the lexical verb and the preposition, although normally 
+separated by the object, form an idiomatic combination. Here as elsewhere, 
+the idiomatic 'cohesion' of the two may be of variable strength. Verbs such 
+as accuse N of and thank N for (where 'N' symbolizes the direct object noun 
+phrase) are not idiomatic in the sense that applies to phrasal verbs like put N 
+off, for the lexical verb is used in its primary literal meaning. We may 
+nevertheless speak of the verb GOVERNING the preposition, in the sense that 
+the preposition is selected by reason of the verb, rather than by independent 
+semantic choice. Thus despite similarity of meaning, different prepositions 
+are selected with accuse and blame, viz: ofandfor respectively. 
+of the crime. 
+*of the crime. 
+' 
+him{ for the crime. 
+In less idiomatic cases, the verbs group themselves into restricted sets such 
+as rob N of, cheat N of, and deprive N of, where of to some extent carries its 
+own privative force. 
+In a further subcategorization of Type IIa we need to recognize that the 
+prepositional phrase is optional in some cases, but not in others: 
+They 
+the boy ofhis savings. 
+They 
+the boy. 
+In yet another sub-type, the prepositional object forms part of the idiom: lick 
+N into shape (informal) ; lull N to sleep; put N to rights; etc. 
+In Type IIb as well as the verb word and the preposition, the head noun of 
+the direct object forms part of the idiom: 
+(1) Has (any) allowance been made for inflation? 
+?Has inflation been made allowancefor? 
+make a mess of 
+take notice of 
+lose hope of 
+pay attention to 
+take advantage of 
+make mention of 
+
+
+I 
+l l60 Complementation of verbs and adjectives 
+Multi-word verbs 
+11 6 1 
+But the object is still variable to some extent: eg an open-class adjective or a 
+determiner can be added: 
+make a horrible mess of 
+take some notice of 
+pay careful attention to 
+take unfair advantage of 
+lose all hope of 
+make occasional mention of 
+To this extent, the idiomatic bond is weakened, and it is easier, especially 
+when the object contains a modifier or determiner, to separate the object 
+from the rest of the construction by the regular passive transformation: 
+Some notice was taken . . . 
+Careful attention was paid . . . 
+In Type IIc the direct object is more firmly welded in its idiomatic position, 
+so that its separation by means of the regular passive construction is awkward 
+if not impossible: ?*Sight was caught of the lifeboat. The object is typically 
+invariable, and cannot easily be augmented by an adjective or a determiner: 
+cross swords with, give rise to, keep pace with, keep tabs on, etc. Hence the 
+dubious acceptability of ?*cross violent swords with, ?*keep fast pace with, 
+?*keep watchful tabs on, etc. Other combinations of this kind are far more 
+acceptable, however: keep close tabs on, give sudden rise to. 
+Phrasal-prepositional verbs 
+16.9 There is a further major category of multi-word verbs which will be called 
+PHRASAL-PREPOS~TIONAL 
+verbs, because they contain, in addition to the 
+lexical verb, both an adverb and a preposition as particles. These combi- 
+nations are largely restricted to informal English: 
+We are all'looking forward to your party on Saturday. 
+He had toput up with a lot of teasing at school. 
+Why don't you look in on Mrs Johnson on your way back? 
+He thinks $e can get away with everything. 
+l 
+A common sign of idiomatic status here, as with other categories, is the 
+existence of a one-word paraphrase: 
+put up with = 'tolerate' 
+look in on = 'visit' 
+The prepositional passive with such verbs is not too common, and is liable to 
+sound cumbersome. Examples such as the following, however, are normal 
+and acceptable:/ 
+These tantrums could not be put up with any longer. 
+['tolerated'] 
+The death uenaltv has been recentlv done awav with. 
+- rabolished'l 
+Such 
+must be squarely faled up to. . 
+['confronted'] 
+They were'looked down on by their neighbours. 
+['despised'] 
+In addition to the Type I phrasal-prepositional verbs already illustrated, 
+there are also Type I1 ones requiring a direct object: 
+fob N offwith (esp BrE) 
+put N down to 
+take N out on 
+jix N up (with) 
+let N in on 
+put N up to 
+(where 'N' again identifies the object noun phrase). Examples: 
+Don't take it out on me! ['vent your anger'] 
+The manager fobbed me offwith a cheap camera. (esp BrE) 
+We put our success down to hard work. rattribute to'] 
+I'll let you in on a secret. 
+Only the regular passive occurs with these: 
+I was fobbed offwith a cheap camera. (esp BrE) 
+Our success can be put down to careful planning. 
+Are youjixed up with a job yet? 
+Note 
+There are two equivalent phrasal-prepositional verbs in which the two noun phrases following 
+the verb exchange roles: 
+Hejbbbeda cheap camera offon the unsuspecting tourist. 
+Hejbbbed the unsuspecting tourist ofwith a cheap camera. 
+A summary of types of multi-word verb 
+16.10 
+We have now reached a point where it will be useful to summarize the various 
+categories described in 16.3-9. The picturetwhich emerges in Table 16.10 is 
+a symmetrical one, with three binary contrasts, expressed in the formula: 
+verb + direct object & adverb + preposition 
+Table 16.10 Princi~al tvoes of multi-word verbs 
+(:.sl.l/B& 
+Adverb osition 
+/ 
+2 (free combination) (A) send 
+Type I1 PHRASAL 
+(B) turn 
+someone 
+someone 
+away 
+down 
+3 (free combination) (A) 
+Type I PREPOSITIONAL (B) 
+VERB 
+4 (free combination) (A) 
+Type I1 
+(B) 
+PREPOSITIONAL VERB 
+5 (free combination) (A) 
+Type I PHRASAL- 
+(B) 
+PREPOSITIONAL VERB 
+6 (free combination) (A) 
+Type I1 PHRASAL- 
+(B) 
+PREPOSITIONAL VERB 
+a] Examples (A) and (B) of each type illustrate respectively nonidiomatic and idiomatic 
+variants. Thus (A) is a free combination, whereas (B) is a multi-word verb. 
+b] The italicized words are those which make up the idiom or lexical unit. 
+come 
+come 
+receiue 
+take 
+run 
+come 
+send 
+put 
+- 
+- 
+something 
+someone 
+- 
+- 
+someone 
+someone 
+- 
+- 
+- 
+away 
+up 
+out 
+up 
+with 
+across 
+from 
+for 
+with 
+with 
+into 
+for 
++me 
++ a problem 
++ me 
++ a fool 
++it 
++ ananswer 
++ the world 
++ election 
+
+
+1 162 
+Complementation of verbs and adjectives 
+Some semantic and syntactic distinctions 
+16.11 
+It will also be useful to analyse in a systematic manner three distinctions 
+which underlie Table 16.10, and which have been found problematic by those 
+dealing with this aspect of English grammar. The three distinctions. which 
+have been touched on in preceding sections, are: 
+idiomatic versus nonidiomatic status (16.12) 
+prepositional verbs versus free combinations of verb + prepositionalphrase 
+(16.13-15) 
+phrasal versus prepositional verbs (16.16) 
+The first two of these are gradient rather than clear-cut. 
+Semantic criteria for idiomatic status 
+16.12 
+(A) The semantic unity of multi-word verbs can often be manifested in 
+replacement by a single-word verb; eg: visit for call for, summon for call 
+up, omit for leave out, tolerate for put up with. This criterion, however, is 
+not always reliable. First, there are multi-word verbs, like get away with 
+and run out of, which do not have one-word paraphrases. Second, there 
+are nonidiomatic combinations, such as go across (=cross), go past 
+(=pass), and sail around (= circumnavigute) which do have such 
+paraphrases. 
+(B) The fact that the meaning of an idiom is not predictable from the 
+meanings of its parts can'be verified by noting that the meaning of the 
+verb or paqicle in the combination does not remain constant when other 
+parts of the idiom undergo substitution. This criterion leads us to 
+recognize three main cateaories: 
+(i) Free, ionidiomatic c~nstructions, where the individual meanings 
+of the components are apparent from their constancy in possible 
+substitutions: 
+bring} 
+take 
+{in 
+out 
+walk} {UP 
+run 
+doyn 
+. . . 
+... 
+... 
+. . . 
+(ii) 'Semi-idiomatic' constructions which are variable but in a more 
+limited way. The relation between the verb and particle is similar 
+to that between a stem and an affix in word formation (cf App I.5), 
+in that bhe substitution of one verb for another, or one particle for 
+another! is constrained by limited productivity. In phrasal verbs 
+like find out ['discover'], cut up ['cut into pieces'] and slacken off 
+['reduce pacelenergy'] the verb word keeps its meaning, whereas 
+the meaning of the particle is less easy to isolate. In contrast, it is 
+the particle which establishes a family resemblance in the following 
+groups: 
+'persistent action' 
+'completion' 
+chatter away fire away 
+drink up 
+break up 
+work away 
+beaver away 
+finish up 
+use up 
+W E )  
+Multi-word verbs 
+1 163 . 
+'aimless behaviour' 
+'endurance' 
+play around mess around 
+draw out 
+eke out 
+fool around 
+wait around 
+last out 
+hold out 
+Completion can also be signalled by out, as infind out, point out, 
+seek out,figure out, workout, etc. 
+(iii) 'Highly idiomatic' constructions such as bring up ['rear'], come by 
+['acquire'], turn up ['make an appearance']. These are thoroughly 
+idiomatic in that there is no possibility of contrastive substitution: 
+bring upldown; come bylpastlthrough; turn upldown; etc. 
+Putting a verb in the third category does not necessarily mean, however, 
+that its meaning is completely opaque. We can see a metaphorical 
+appropriateness in bring up for 'educate', and this is only one of many 
+idiomatic verbs containing metaphors fairly clearly derived from their 
+literal locative interpretations: gloss over (a difficulty); hand down (an 
+heirloom), piece together (a story), etc. For our purposes it will be 
+convenient in general to treat classes (11) and (111) as multi-word verbs. 
+Syntactic criteria for prepositional verbs 
+16.13 
+In distinguishing prepositional verbs such as call on ['visit'] in He called on 
+the dean from other sequences of verb + preposition such as called before in 
+He called before lunch (cf16.5), the semantic criteria of idiomaticity must be 
+supplemented by syntactic criteria. 
+We are chiefly concerned here with Type I verbs, whether these are 
+prepositional verbs like caN on, or phrasal-prepositional verbs such as put up 
+with. How are we to choose between the two analyses of 16.5, that of SVO 
+(with a prepositional object) and that of SVA (or in the case of phrasal- 
+prepositional verbs, SVAA)? First, there are good reasons for arguing that 
+even an idiomatic case like He called on the dean contains a phrase boundary 
+between the verb and the particle: 
+(A) The whole prepositional phrase may be fronted, eg in questions: 
+On whom did he call? 
+(B) An adverb can be inserted between the verb and the particle: 
+He called unexpectedly on the dean. 
+(C) The prepositional phrase can be isolated in other constructions; eg 
+(optionally) in responses, in coordinate constructions, or in comparative 
+constructions: 
+A:{ On whom did he call? 
+Who(m) did he call on? 
+Did he call on the dean or (on) his friend? 
+He calls on the dean more often than (on) hisfriend. 
+We do not reject the SVA analysis, therefore, but rather we offer the SVO 
+analysis as, to varying degrees, a suitable alternative. 
+
+
+1 164 
+Complementation of verbs and adjectives 
+Multi-word verbs 11 65 
+The prepositional passive 
+16.14 
+We will accept the possibility of turning the prepositional complement into 
+the subject of a passive sentence (cf 3.64) as one criterion favouring the SVO 
+analysis. This construction, which leaves the preposition DEFERRED 
+('stranded') in its post-verbal position, will be called the PREPosrTIoNAL 
+PASSIVE. Contrast : 
+The dean was called on. 
+*Lunch was called after. 
+The war wasput up with. 
+*Andy wasgone out with. 
+Notice that ambiguous combinations like arrive at take the passive only 
+when the preposition is part of an idiom: 
+We arrived at a station. 
+-- *A station was arrived at. 
+We arrived at a conclusion. 
+-- A conclusion was arrived at. 
+Combinations of verb and prepositional phrase which are awkward in brief 
+sentences can, however, become more tolerable with an enlarged context: 
+?*This office has been called/phonedfrom. 
+This office has been called/phonedfrom so many times.that it was natural 
+to assume that it was the source of the latest call. 
+Here are some more usual cases of the prepositional passive, where the 
+passive verb is a Type I prepositional verb: 
+Though something very different from ordinary forest management 
+is called for, the trees in the parks do need the forester's skilled 
+consideration. 
+This matter,will have to be dealt with immediately. 
+Other possibilities are talked of by many of our colleagues. 
+If a woman with a university degree rejects a career for marriage, her 
+educatiod is not to be thought of as thrown away unless we count the 
+family arena of no importance. 
+Other prepositional passives are: 
+be asked for 
+1 
+be done for 
+I 
+be shouted at 
+be believed in I 
+be hopedfor 
+\be stared at 
+be talked to 
+I 
+be don: away with 
+be sent away for 
+However, the passive is also quite acceptable with prepositions which have 
+a locative meaning, and which on other grounds (eg the wh-question criterion 
+of 16.15) must be judged as introducing a prepositional phrase of place: 
+They must have playedon this field last week. 
+[lal 
+- This field must have beenplayed on last week. 
+[lbl 
+Visitors are not to sit on these Louis XV chairs. 
+12.4 
+- These Louis XV chairs are not to be sat on. 
+[2bl 
+Primitive men once lived in these caves. 
+[3al 
+- These caves were once lived in by primitive men. 
+[%l 
+We cannot, therefore, invariably regard the prepositional passive as a marker 
+of a prepositional verb. Rather, the passive is primarily an indicator of the 
+fact that the prepositional complement is being treated as an affected 
+Note 
+l 
+participant in the clause (cf 10:19, 10.21). For example, in [lb] and. [2b] 
+above, the function of the passive is'not merely to obtain end focus, but to 
+imply that the subject of the passive clause refers to an object affected by the 
+(unspecified) agent's action. The acceptability of the passive is thus accounted 
+for in terms of clause participant roles (10.18f), as well as in terms of 
+convention or idiomatic status. Both factors play a role in making the passive 
+select the abstract metaphorical meaning in: 
+They went into the tunnel. 
+- *The tunnel was gone into. 
+They went into the problem. - The problem was gone into. 
+We may, in fact, recognize a strong association between these factors, and 
+therefore between prepositional passives and prepositional verbs. 
+The prepositional passive is paralleled by a similar prepositional use in -ed participle clauses: 
+The shop broken into last week has now been reopened. 
+'Prepositional participles' can also be converted into adjectives: the hoped* 
+arrivol of the relief 
+M e ;  the much-talked-about visit of the Pope. There are also'pseudo-passive'(cf 3.77) occurrences 
+of prepositional verbs, as in I wosjeelinggot at (informal). The hyphen, in predicative position, 
+is generally omitted. 
+The criterion of question forms 
+The second criterion for prepositional verbs is the formation of wh-questions 
+with the pronouns who(m) and what (for personal and nonpersonal 
+prepositional objects respectively), rather than with adverbial question forms 
+Huch as where, when, how, or why: 
+John called on her. 
+- Who(m) did John call on? 
+John looked for it. 
+- What did John look for? 
+Contrast : 
+John called from the office. - Where did John call from? 
+John called after lunch. 
+- When did John call? 
+Once again, the criterion is not clear-cut. There is firstly considerable overlap 
+between the two question types: She died of pneumonia could be an answer 
+either to the question How didshe die?or (more usually) to the question What 
+didshe die of? Secondly, there are many types of prepositional phrases which 
+are classified as adjuncts (cf 8.13, 9.14 - 53) but which regularly correspond 
+with questions in who(m) or what. These are classes of adjunct for which 
+English lacks an interrogative adverb, such as adjuncts of accompaniment: 
+A:{ With whom did Peter go fishing? 
+Who(m) did Peter go fishing with? 
+B: ((He went fishing) with) his brother. 
+The with-phrase in [2] can only be questioned by the interrogative pronoun 
+who(m) in [la] and [lb]; and yet the mobility and optionality of the with- 
+phrase, as shown in [3], are signs of its adverbial status: 
+Peter (, with his brother,) went fishing. 
+[31 
+Since none of the criteria for prepositional or phrasal-prepositional verbs are 
+
+
+1 166 Complementation of verbs and adjectives 
+compelling, it is best to think of the boundary of these categories as a scale, 
+such as that depicted in Fig 16.15 : 
+Vparr 
+Qpro 
+NO Qadv 
++ 
++ 
++ 
+The police have askedfordetails. 
++ 
+- 
+The queen slept in this bed. 
+L41 
++ - 
++ 
++ 
+White winegoes with poultry. 
+[S1 
+- 
+- 
+She died of pneumonia. 
+[61 
++ 
+- 
+- 
++ 
+His job alsocomes into the picture. 
+[71 
+- 
+- 
+- 
+She lefi before noon. 
+B1 
+[g1 
+Vpasr = passive Q,, = pronoun wh-word Q,,, = adverb wh-word 
+Fig 16.15 
+Of these, [4] is a clear case of a prepositional verb, while [5] and [6] are 
+marginally in that class. The matrix is so arranged that the larger the number 
+of pluses, the stronger the characteristics of the prepositional verb. For this 
+reason, the wh-adverb criterion is expressed in a negative form, ie a plus in 
+this column means 'the prepositional verb CanNOT be the answer to a wh- 
+adverb'. Ask for in 141 is thus the combination which most clearly meets the 
+requirements of the SVO analysis, and lef before in [9], being least like a 
+prepositional verb, is to be analysed with equal clarity as: 
+She [S] left [V] before noon [A]. 
+It is perhaps surprising that [S], with its idiomatic character, scores so low on 
+the prepositional verb scale. This is because in this sentence not only the 
+verb and particle (come into) but also the object (the picture) is part of the 
+idiom, a factor yhich inhibits the passive and interrogative transforms of 
+the sentence. 
+An additional Criterion for prepositional verbs is our unwillingness to have 
+the preposition cdtofffrom thelexicalverb by fronting the whole prepositional 
+phrase in (eg) wh-questions and relative clauses (cf lI.l4ff, 17.9ff): 
+A: ?*After whom did she look? 
+A : 
+Who(rnidid she look afer?} 
+B: She looked after lim' 
+A: 
+With whbm did she agree? 
+B\She agreed with lim. 
+A: 
+Who(m) did she agree with? 
+Similarly What did she wish for? is fully acceptable, but not ?For what did she 
+wish? By this test, lookafer and wish for come closer to the ideal prepositional 
+verb than does agrhe with. 
+l 
+Note 
+In addition to the mentioned wh-pronouns who(m) and what, there are other question forms with 
+the determiners what and which; eg [S1 could answer the question: 
+Which bed did the queen sleep in? 
+This alternative construction is ignored for the purposes of the above matrix. 
+Criteria for distinguishing phrasal and prepositional verbs 
+16.16 
+The question here is not one of gradience, but of how to distinguish two 
+superficially like constructions, that of a Type I prepositional verb like call 
+Multi-word verbs 1167 
+on in He called on the dean, and that of a Type 11 phrasal verb such as call up 
+in He called up the dean (cf 16.6). 
+The differences are both syntactic and phonological: 
+(a) The particle of a phrasal verb can stand either before or after the noun 
+phrase following the verb, but that of the prepositional verb must (unless 
+deferred) precede the noun phrase. 
+(b) When the noun phrase following the verb is a personal pronoun, the 
+pronoun precedes the particle in the case of a phrasal verb, but follows 
+the particle in the case of a prepositional verb. 
+(c) An adverb (functioning as adjunct) can often be inserted between verb 
+and particle in prepositional verbs, but not in phrasal verbs. 
+(d) The particle of the phrasal verb cannot precede a relative pronoun at the 
+beginning of a relative clause. 
+(e) Similarly, the particle of a phrasal verb cannot precede the interrogative 
+word at the beginning of a wh-question. 
+(f) The particle of a phrasal verb is normally stressed (cf 16.6), and in final 
+position normally bears the nuclear tone, whereas the particle of a 
+prepositional verb is normally unstressed and has the 'tail' of the nuclear 
+tone which falls on the lexical verb (cf App 11.15). 
+These criteria are displayed in Table 16.16: 
+Table 16.16 Diagnostic frames for phrasal and prepositional verbs 
+TYPE I PREPOSITIONAL VERB 
+TYPE I1 PHRASAL VERB 
+callon = 'visit' 
+call up = 'summon' 
+They called on the dean. 
+They called up the dean. 
+(a) 
+*They called the dean on. 
+- They called the dean up. 
+(b) They called on him. 
+They called him up. 
+U *They called him on. 
+.c *They calledup him. 
+(c) They called angrily on the dean. 
+*They called angrily up the dean. 
+(d) the man on whom they called 
+*the man up whom they called 
+(e) On which man did they call? 
+*Up which man did they call? 
+(f) Which man did they C ~ L L  
+on? 
+Which man did they call UP? 
+Other multi-word verb constructions 
+Apart from the types of multi-word verb summarized in Table 16.10, some 
+other idiomatic verb constructions may be briefly noted. 
+(a) VERB-ADJECTIVE COMBINATIONS 
+These are similar to phrasal verbs. Compare: 
+Megput the cloth straight. 
+Megput the cat out. 
+Like phrasal verbs, verb-adjective combinations form cohesive units; but 
+unlike phrasal verbs, some of them allow comparative modification: 
+
+
+l l68 Complementation of verbs and adjectives 
+They may be either copular (clause pattern SVC), or complex transitive 
+(clause pattern SVOC): 
+SVC: break even, pleadguilty, lie low 
+SVOC: cut N short, work N loose, rub N dry 
+Verbs in relation t o  verb complementation 
+1 169 
+verbs, or monotransitive verbs with a noun phrase object), we can give only 
+a sample of common verbs. In any case, it should be borne in mind that the 
+list of verbs conforming to a given pattern is difficult to specify exactly: there 
+are many differences between one variety of English and another in respect 
+of individual verbs, and many cases of marginal acceptability. 
+Sometimes the idiom contains additional elements, such as an infinitive (play 
+,'L" 
+- 3 7  
+hard to get) or a preposition (ride roughshod over. . .). 
+I,$ 
+,l 
+Note 
+The term 'valency' (or 'valence') 1s sometimes used, Instead of complementat~on, for the way In 
+which a verb determ~nes the klnds and number of elements that can accompany it in the clause. 
+(The 'N' above indicates a direct object in the case of transitive examples.) 
+1, 
+Valency, however, Includes the subject of the clause, which 1s excluded (unless extra~osed) from 
+(b) VERB-VERB COMBINATIONS 
+In these idiomatic constructions (cf 3.49-51, 16.52), the second verb is 
+nonfinite, and may be either an infinitive: 
+make do with, make (N) do, let (N) go, let (N) be 
+or a participle, with or without a following preposition: 
+put paid to, get rid of, have done with 
+leave N standing, send Npacking, knock ~ k ~ i n g ,  
+get going 
+(C) VERBS GOVERNING TWO PREPOSITIONS 
+These are a further variant on prepositional verbs: 
+It developedfrom a small club into a mass organization in three years. 
+Similarly: struggle with N for N, compete with N for N, apply to Nfor N, talk 
+to N about N. Normally either one or both prepositional phrases can be 
+omitted; egj 
+It developed into a mass organization in three years. 
+Note 
+To end this suqey of verb idioms and their grammatical characteristics, mention may be made 
+of rare pattern4 such as make surelcertain followed by a that-clause; seefit followed by a to- 
+infinitive; and Serb + noun combinations such as turn turtle and turn traitor. 
+Verbs in r lation to verb co'mplementation 
+16.18 
+In 16.20-67 we survey types of verb complementation, before turning to 
+adjective complementation (16.68-83), and (more briefly) to noun comple- 
+mentation (16.84-5). Many verbs are versatile enough to allow several 
+complement ' ion types (cf the discussion, for example, of get in 10.3). It is 
+therefore like "f y to be misleading to talkof 'intransitive verbs', 'monotransitive 
+verbs', 'complex transitive verbs', etc. Rather, it is often better to say that 
+verbs have 'monotransitive use', 'monotransitive complementation', etc. 
+Although one verb may belong to a number of different complementation 
+types, it is usually possible to observe a common ground of meaning in the 
+f 
+complementation. 
+various uses. 
+For each type of complementation, we give a list of verbs belonging to that 
+pattern. No claim of completeness is made for these lists: when the 
+membership of a type is small, a fairly exhaustive list of verbs is given, 
+whereas when the membership is very large (as in the case of intransitive 
+Verbs in intransitive function 
+16.19 
+Where no complementation occurs, the verb is said to have an INTRANSITIVE 
+use. Three types of verb may be mentioned in this category: 
+(I) 'PURE' INTRANSITIVE VERBS, 
+which do not take an object at all (or at 
+least do so only very rarely): 
+John has arrived. 
+Your views do not matter. 
+Examples : 
+appear 
+die 
+fall 
+happen 
+rise 
+come 
+digress 
+go 
+lie 
+wait 
+(11) VERBS WHICH CAN ALSO BE TRANSITIVE WITH THE SAME MEANING, and 
+without a change in the subject-verb relationship. Informally, such 
+verbs can be described as having an 'understood object' (cf App 1.54) : 
+He smokes (a pipe). 
+I am reading (a book). 
+But in some cases the intransitive verb acquires a more specific 
+meaning, so that a particular kind of object is 'understood'; eg: John 
+drinks heavily ['drinks alcohol']. 
+Examples : 
+approach 
+drive 
+help 
+pass 
+win 
+drink 
+enter 
+leave 
+play 
+write 
+(111) VERBS WHICH CAN ALSO BE TRANSITIVE, 
+but where the semantic 
+connection between subject and verb is different in the two cases; eg 
+the intransitive use has an affected participant as subject (cf 10.21f), 
+whereas the transitive use has an agentive as subject (cf App 1.54): 
+The door opened slowly. 
+cf: Mary opened the door. 
+The car stopped. 
+cf: He stopped the car. 
+Examples: 
+begin 
+close 
+increase 
+turn 
+walk 
+change 
+drop 
+move 
+unite 
+work 
+Type (111) also idcludes intransitive verbs with MUTUAL PARTICIPATION 
+(cf 13.60), as in: 
+I have met you. - We have met. 
+The bus collided with the car. - The bus and car collided. 
+Intransitive verbs are numerous, particularly in categories (11) and 
+(111). 
+
+
+1170 Complementation of verbs and adjectives 
+' 
+Types of verb complementation 117 1 
+Note 
+[a] The following are examples of intransitive (ie Type I) phrasal verbs (cf 16.3): 
+C 
+fallout ['quarrel'] 
+make off['escape'l 
+passaway ['die'] 
+l 
+blow over [of a storm, etcl 
+fallback ['retreat'] 
+catchon['understand'] 
+i 
+come off ['succeed'] 
+make up ['end a quarrel'] pull up ['stop'] 
+look up ['improve'] 
+foll through ['fail'] 
+crop up ['occur'] 
+come out ['bloom'] 
+passout ['faint'] 
+opt out [of a choice] 
+come to ['become conscious'] fall off['decline'] 
+Further examples are to be found in 16.3. 
+[b] Category (I) includes the intransitive verbs lie and rise, which are sometimes confused by 
+native speakers with their transitivecounterparts loy and raise, becauseof their formal similarity. 
+A similar correspondence exists between fall (intransitive) andfell(transitive); eg: They felled a 
+I 
+free. 
+I 
+l 
+Types of verb complementation 
+16.20 
+There are four main types of complementation to consider: 
+[A] Copular, eg : John is only a boy. 
+[B] Monotransitive, eg: Zhave caught a bigjsh. 
+[C] Complex transitive, eg: She called him a hero. 
+[D] Ditransitive, eg: He gave Mary a doll. 
+Although these complementation types have already been generally discussed 
+in 2.16 and elsewhere, it is necessary now to list the verbs of each type in 
+more detail, paying particular attention to the active-passive relation (cf 
+3.69fn. In this survey, we shall also list variants on the above patterns; for 
+example, cases where the verb is followed by a finite or nonfinite clause. Such 
+variants will be distinguished by numbers: [AI], [B2], etc. The various sub- 
+types of complementation under these headings are illustrated in Table 16.20. 
+In addition, we shall use where necessary the suffixes 'ph' (for phrasal 
+verbs), 'pc' (fop prepositional verbs), and 'ph-pc' (for phrasal-prepositional 
+verbs). For ex~mple, [B4ph-pc] will refyr to a class of phrasal-prepositional 
+verbs taking a, wh-clause as prepositional object (eg:find out about whether 
+. . .). It is not always necessary to recognize such detailed classifications, but 
+it is useful to be able to do so when the occasion arises. Two points may be 
+noted about complementation of multi-word verbs. First, a phrasal verb 
+cannot normal,ly be interrupted by a clause as object: 
+He left oddriving a car. * *He left driving a car OK 
+Second, a Type I prepositional or phrasal-prepositional verb is appropriately 
+classified, for the purposes of complementation, as monotransitive, since the 
+prepositional object is analogous (eg with respect to the active-passive 
+relation) to a'direct object (cf 16.14). In general, multi-word verbs behave 
+like other verbs of the same general type, and we will make a point of 
+mentioning them or listing them separately only when they are numerous or 
+where there is something special to be noted about them. 
+(Note: in Table 16.20, +S = 'with subject'; -S = 'without subject'.) 
+Table 16.20 Verb complementation types 
+Variants 
+Example 
+Section 
+COPULAR (Types SVCand SVA) 
+[AI] Adjectival C, 
+Thegirl seemed restless. 
+(16.21) 
+[A21 Nominal C, 
+William is my friend. 
+(16.22) 
+[A31 Adverbial complementation 
+The kitchen is downstairs. 
+(16.24) 
+MONOTRANSITIVE (Type SVO) 
+[Bl] Noun phrase as 0 
+Tom caught the ball. 
+(16.26) 
+(with passive) 
+[B21 Noun phrase as 0 
+Paul lacks confidence. 
+(16.27) 
+. . (without passive) 
+(B31 That-clause as 0 
+I think that we have met. 
+[B41 Wh-clause as 0 
+Can youguess what she said? 
+[B51 Wh-infinitive as 0 
+Ilearned how to sail a boat. 
+[B61 To-infinitive (-S) as 0 
+We've decided to move house. 
+[B71 -Ing clause (-S) as 0 
+She enjoysplaying sqwsh. 
+[B81 To-infinitive (+S) as 0 
+They want us to help. 
+[B91 -Ing clause (+S) as 0 
+I hate the children quarrelling. 
+COMPLEX TRANSITIVE (Types SVOC and SVOA) 
+[Cl] Adjectival C, 
+That music drives me mad. 
+[C21 Nominal C. 
+They named the ship 'Zeus'. 
+[C31 0 + adverbial 
+I Iefi the key at home. 
+[C41 0 + to-infinitive 
+They knew him to be a spy. 
+[CS] 0 + bare infinitive 
+Isaw her leave the room. 
+[C61 0 + -ing clause 
+Iheard someone shouting. 
+[C71 0 + -ed clause 
+Igot the watch repaired. 
+DlTRANSlTIVE (Type Svoo) 
+[Dl] Noun phrases as 0, & 0, 
+They offered her some food. 
+(16.55) 
+[D21 With prepositional 0 
+Please say something to us. 
+(16.56) 
+[D31 0, + that-clause 
+They told me that I was ill. 
+(16.59) 
+l 
+[D41 0, + wh-clause 
+Heaskedme what time it was. 
+(16.61) 
+1 
+[D51 0, + wh-infinitive clause 
+Mary showed us what to do. 
+(16.62)- 
+[D61 0, + to-infinitive 
+Iadvised Mark to see a doctor. 
+(16.63) 
+Within the sub-types [All, [A2], etc it is sometimes valuable to distinguish 
+additional semantic sub-types, for which the roman numerals (i), (ii), etc will 
+be used. Other distinguishing marks applied to verbs in the following sections 
+will be explained where they occur. 
+Copular complementation 
+[All Adjective phrase as subject complement 
+16.21 
+A verb is said to have COPULAR complementation when it is followed by a 
+subject complement (C3 or a predication adjunct (cf 2.16, 2.22, 8.26fn, and 
+when this element cannot be dropped without changing the meaning of the 
+verb. The verb in such a clause is a COPULAR (or linking) verb, and is 
+equivalent in function to the principal copula, the verb be. Copular verbs fall 
+into two main classes, according to whether the subject complement has the 
+role of CURRENT ATTRIBUTE or of RESULTING ATTRIBUTE (cf 10.20). This 
+
+
+11 72 Complementation of verbs and adjectives 
+~ y p e s o f  
+verb complementation 1 173 
+distinction corresponds to that between CURRENT copulas and RESULTING 
+copulas (cf conclusive verbs, 4.35). Normally, current copulas are stative (cf 
+. 4.2881, and cannot cooccur with the progressive aspect. 
+The distinction is illustrated below with an adjectival complement, the 
+first kind of complementation we will consider: 
+CURRENT: 
+The girl seemed very restless. 
+RESULTING: The girl became very restless. 
+The following is a fairly full list of verbs regularly used in this pattern, 
+together with typical adjectival complements: 
+CURRENT 
+RESULTING 
+(i) be (friendly) [NI 
+(iv) become (older) [NI 
+(ii) appear (happy) [NI 
+come (true) 
+feel (annoyed) [NI 
+end UP (happy) [M 
+look (pretty) [NI 
+get (ready) 
+seem (very restless) [NI 
+go (sour) 
+smell (sweet) 
+grow (tired) 
+sound (surprised) [NI 
+prove (rather useful) [NI 
+taste (bitter) 
+turn (cold) [AI] 
+, 
+, 
+(iii) remain (uncertain) [NI 
+keep (silent) 
+turn out (fortunate) [IV] 
+wind up (drunk) [NI (informal) 
+, 
+stay (motionless) [NI 
+End up, turn out, and wind up are copular phrasal verbs. The verbs marked 
+[NI in the list also occur with a noun phrase complement (though not all with : 
+the same freedom or acceptability; cf 16.22). The roman numerals in the list 
+identify semantic groups which are discussed in 16.24 below. 
+In addition :o the copular verbs above, there are verbs which have this 
+function with Severe restrictions on the words occurring in the complement 
+(cf 10.16). ~ h (  
+restriction may be a lexical restriction to certain idiomatic 
+verb-adjective: sequences such as rest assured (cf 16.17), or it may be a 
+semantic restriction (eg the meaning of blush restricts the adjective to a subset 
+of colour words: blush scarlet, but not 'blush green). Some examples are given 
+below, with typical adjective complements: 
+CURRENT 
+I 
+RESULTING 
+l 
+(V) burn (low) 
+; 
+lie (flat) 
+loom (large) 
+play (rough)i[Nl 
+plead (innocent) 
+rest (assuredD 
+stand (firm) 
+[NI 
+stand up (straight) 
+\ 
+(vi) blush (bright red) 
+fall (silent) 
+fall down (dead) 
+freeze (solid) 
+run (wild) 
+slam (shut) 
+spring (open) 
+wax (eloquent) (archaic) 
+[b] Die as in- He died younglpoor, etc does not fit easily in@ either of the categories listed. The 
+verb die itself is conclusive, but the complement which follows it refers to a current attribute. 
+The meaning is: 'He was younglpoor, etc at the time of his death'. 
+l ! 
+[A21 Noun phrase as subject complement 
+1 
+16.22 
+Again, the verb be is the principal copula used in this pattern: 
+I I 
+William is my friend. 
+Oslo seems a pleasant city. 
+! 
+The verbs marked [NI in 16.21 can be used with noun phrase complements, 
+as well as with adjective phrase complements. The following list of such 
+verbs is fairly full. However, it should be noted that especially in American 
+English, there is a tendency to avoid this construction with certain verbs. 
+Instead, both AmE and BrE prefer an infinitive construction (Type [B61 in 
+16.38 below) with to be following the finite verb: 
+1 
+It appears the only solution. - It appears to be the only solution. 
+There is also, especially in informal AmE, a tendency to prefer a construction 
+in which a copular verb is followed by Iike (cf 16.24 Note [a]): 
+I 
+I 
+It seems Iike the only solution. 
+I 
+CURRENT 
+RESULTING 
+(i) be (nly friend) 
+(iv) become (an expert) 
+(ii) appear1 (the only solution) 
+end up (her slave) 
+feel1 (a fool) 
+ rove' (his equal) 
+look' (a fine day) 
+turn (traitor) 
+seem (a genius) 
+turn out (a success/disaster) 
+sound' (a reasonable idea) 
+wind up (a millionaire) (informal) 
+(iii) remain (good friends) 
+The classes (i-iv) match those in 16.21. (On the omission of the article in the 
+complement in become president, etc, cf 5.42.) The superscript '1' indicates 
+that such verbs do not often occur in this pattern but (particularly in AmE) 
+are preferred in the construction with to be or like (see above). 
+Note 
+[a] With a noun phrase complement,/eel has the meaning 'have the sensation of being. . .'; but 
+with an adjective complement, it has not only this meaning (as in Shefen ill), but also the 
+meaning of 'cause a sensation . . .', as in The table felt rough (cf 4.29f). 
+[b] The noun phrase following act as, count as, pose OS, passfor and similar combinations is in a 
+copular relation with the subject, and these combinations may be reasonably described as 
+i 
+'copular prepositional verbs'on the analogy of intransitive and transitive prepositional verbs (cf 
+' 
+16.5-7; also 16.47). Corresponding to these constructions with current meaning are resulting 
+copular prepositional verbs such as change into, grow into, and turn into, with the general meaning 
+of 'become'. Note the near-synonymy of He turned traitor and He turned intaa traitor. 
+1 
+[c] Some verbsoccur more marginally in the above patterns; eg: stay in Theystayedgoodfiiends. 
+Turn as in turn traitor is formulaic, and is more or less restricted to a small number of 
+combinations. 
+Many of these verbs resemble intransitive verbs, the complement being 
+added almost as an optional specifier. 
+[d] One or two verbs such as make and port can appear with a noun ~hrase complement, but not 
+with an adjective phrase complement: 
+They ported the best of friends. 
+They make a charming couple. 
+Note 
+[a] Go is current in go hungrylnaked, but is normally resulting elsewhere, as in go [='become'] 
+(In a sentence like They partedfrrendly once more,fiiendly once more would be not a complement, 
+sour/red/wild/mad. 
+but a verblessclause; cf 10.16,14.9.) 
+
+
+1 174 Complementation of verbs and adjectives 
+Semantic notes on copular verbs 
+16.23 
+The .main verb be is the most central copular verb, and the most neutral in 
+meaning. It is also overwhelmingly the most common. Although it genbrally 
+has current and stative meaning, notice should be taken of its use 
+reference to events and activities: 
+There was a roar as the ball bounced off the goalpost. 
+, 
+You're being very helpful. (cf 4.31) 
+In some cases, be is close in meaning to become: 
+Ann will be a qualified nurse next year. 
+Cora was angry when she heard about the accident. 
+As the.lists in 16.21-2 show, copular verbs apart from be fall into three 
+classes. First, there is the division between current and resulting verbs; then 
+the current verbs divide further into 'verbs of seeming' (ii) (including seem, 
+appear, and the perception verbs look, sound, etc), and 'verbs of remaining' 
+(iii) such as remain, stay, and keep. The resulting verbs (iv) are in the main 
+'verbs of becoming', but their meanings differ in detail, as we shall now briefly 
+show. 
+Become is a process verb (cf 4.34). placing emphasis on the duration of the 
+change, whereas get places more emphasis on the agency behind the event or 
+on the result of the change: Get ready! but not *Become ready! Go and turn 
+tend to refer to changes which happen in spite of human agency, and 
+therefore are often used for deteriorations: go mad; go wild; go sour; go stale; 
+turn livid; turn white [of hair]; turn sour. Turn more especially seems to apply 
+to natural changes from one state to its opposite: turn greenlbrown [of leaves]; 
+turn fine/cold [of weather]; turn ripe (BrE). Grow is also associated with 
+natural changes, especially with gradual changes (grow old, grow tall), and is 
+likely to occur with comparative adjectives as in grow cooler, grow more 
+content. In many cases, more than one verb can occur with the same adjective, 
+and it is difflcult to give precise conditions for selecting one rather than 
+another. 
+, 
+Note 
+Come is veryrestricted as a copular verb, but it makes an interesting contrast withgo in examples 
+likego wrong/comerrght. The associationofgo withdeterioration (go rotten, etc) iscomplemented 
+'I' 
+by the association of come with improvement in come true, etc. These associations may be 
+connected with the positive and negative direction (from the speaker's viewpoint) of come and 
+go as verbsof motion. 
+(A31 ~om~lem&tation 
+by an adjunct 
+16.24 
+The principal /copula that allows an adverbial as complementation is once 
+again be. The domplementing adverbials, termed predication adjuncts in this 
+function, are mainly space adjuncts (cf 8.3,8.39ff): 
+The children are at the zoo. 
+The kitchen is downstairs. 
+but time adjuncts too are common with an eventive subject (cf 8.76): 
+The party will be at nine. 
+The outing is tomorrow. 
+and other types of predication adjunct are grammatical (for further examples 
+cf 10.10). 
+Types of verb complementation 1 175 
+Get and keep are two more copular verbs which occur specifically with 
+place adjuncts (or adjuncts metaphorically related to these): 
+At last we got home. 
+Get off that chair! 
+They kept out of trouble. 
+How did you get here? 
+Be, get, and keep are clearly copular verbs in this function because of their 
+inability to occur without the adjunct: *The children are; *At last we got; 
+*They kept. More marginally, other verbs such as live, come, go, remain, stay, 
+stand, lie belong to this category (cf 8.27). These also occur as intransitive 
+verbs with roughly the same locative (or abstract locative) meaning, but are 
+in many contexts felt to be incomplete unless some complementation is 
+added : 
+My aunt lives in Shropshire. 
+?*My aunt lives. 
+The need for the verb to be followed by some complementation is perhaps 
+strongest in pure locative statements such as Cannes lies on the French Riviera. 
+Whereas verbs like live and lie show the resemblance of adverbial comple- 
+mentation to the 'zero complementation' of intransitive verbs, verbs like 
+remain, stay, come, go, turn, and grow show its similarity to copular 
+complementation by adjective phrases. The parallel is brought out by pairs 
+such as : 
+( 
+He turned red. 
+I 
+She grew tau. 
+He turned into a monster. 
+She grew into afine woman. 
+However, for our purposes it will be preferable to treat sequences such as 
+turn into and grow into as copular prepositional verbs (cf 16.22 Note [bl). 
+Note 
+[a] The verbs of 'seeming' (cf 16.23) seem, appear, look, sound, feel, smell, and taste are 
+complemented by an adverbial clause beginning as i/(or less frequently as though) in sentences 
+such as the following: 
+Jill lookedas fshe had seen a ghost. 
+It seems as fthe weather is improving. 
+(In a similar meaning, appear and seem can also be followed by a that-clause; cf 16.34.) An 
+alternative construction is one in which the as fclause is replaced by a phrase introduced by 
+like: 
+That music soundslike Mozart. [ie 'like the music of Mozart'l 
+Bill looks (just) like his father. 
+After the same verbs, one also frequently hears clauses introduced by like, but these are often 
+regarded as nonstandard: It seems like the weather is improuing. 
+[b] There is also a curious idiomatic use offeellike (cf 16.22 Note [a]) meaning 'want': 
+I/eellike a cup of coffee. 
+Arguably, this is not copular; it belongs rather to the category of monotransitive prepositional 
+, 
+verbs [Blpr] (cf16.28). 
+[c] More exceptional cases of verbs with adverbial complementation are: 
+(i) behaue followed by an adverbial of manner: 
+He 
+prisoner of conscience. 
+(However, behaue can also occur intransitively or reflexively as in: Why don't you behove 
+(yourseln?) 
+(ii) last and take followed by an adverbial of measure (duration): 
+took 
+The haymaking{laswd(fOr~a week. 
+
+
+1 176 Complententation of verbs and adjectives 
+In the case of take the duration adverbial is obligatory, since the verb entails the 
+completion of the task. In the case of last, the adverbial is omissible in such examples as: 
+The hot weatl~er won't last. 
+Monotransitive complementation 
+16.25 Verbs used in monotransitive function require a direct object, which may be 
+a noun phrase, a finite clause, or a nonfinite clause. In addition to these 
+categories the verb may be a Type I prepositional verb (cf 16.5) or phrasal- 
+prepositional verb (cf 16.9), which for our present purposes will be treated as 
+analogous to a verb with a direct object. We will begin by considering the 
+straiehtforward case of verbs with a noun phrase as direct object, and then 
+continue with variants of this basic pattern. 
+Complementation by a noun phrase as direct object 
+[Bl] With the passive 
+16.26 
+Direct objects are typically noun phrases which may become the subject of a 
+corresponding passive clause: 
+Tom caught the ball. - The ball was caught (by Tom). 
+(On the limitations of the passive transformation, cf 3.67ff.) Common 
+examples of monotransitive verbs allowing the passive are: 
+begin 
+desire , 
+believe 
+do 
+bite 
+' doubt 
+bring 
+: end 
+call 
+r enjoy 
+carry 
+i expect 
+close 
+' feel 
+cut 
+find 
+describe \follow 
+get 
+hear 
+help 
+hold 
+keep 
+know 
+lead 
+like 
+lose 
+love 
+make 
+marry 
+mean 
+meet 
+mind 
+move 
+need 
+obtain 
+pass 
+produce 
+receive 
+remember 
+require 
+say 
+see 
+start 
+study 
+support 
+take 
+use 
+visit 
+want 
+wash 
+waste 
+watch 
+win 
+such as end and move, belong to types which can be 
+or transitive (cf 16J9). Something of the range of 
+can be seen by dividing them into semantic groups 
+according to the kinds of subject and object that they take: 
+(i) Typically ynimate subject + typically concrete object: 
+Professo Dobbs won the prize. 
+- Th i prize was won (by Professor Dobbs). 
+carry 
+cover 
+examine see 
+throw 
+win 
+clean 
+eat 
+lower 
+stop 
+warch 
+- write 
+(ii) Typically animate subject + either concrete or abstract object: 
+~ v e r ~ b o d ~  
+understood the problem. 
+- The problem was understood (by everybody). 
+abolish 
+define 
+explain 
+invent 
+report 
+utter 
+cover 
+discuss 
+forget 
+lose 
+rule 
+win 
+Types of verb complementation . 1177 
+(iii) Typically animate subject + typically animate object: 
+Mrs Wood liked the new neighbours. 
+5 
+- The new neighbours were liked (by Mrs Wood). 
+admire 
+despise 
+hug 
+kiss 
+reject 
+ridicule 
+beat 
+patter 
+kill 
+meet 
+respect 
+support 
+(iv) Typically concrete or abstract subject + animate object: 
+The news shocked our family. 
+- Our family was shocked (by the news). 
+affect 
+bother 
+fascinate 
+incense 
+satisfy 
+trouble 
+appal 
+deceive 
+grieve 
+please 
+surprise 
+upset 
+Note 
+The following is a sample of monotransitive (or Type 11) phrasal verbs [Blphl with typical 
+objects. Further examples are illustrated in 16.4. 
+back up ['support' someone] 
+let down rdisappoint'someonel 
+blow down (a tree) 
+make up (a story) 
+breakoff(negotiations) 
+passowr (a question) 
+bring about (a change) 
+put across (an idea) 
+burn down (a house) 
+put off (an appointment) 
+draw up (a contract) 
+telloff ['rebuke' someone] 
+/irrout (a form) 
+turnoff(the light) 
+knock down (someone) 
+. 
+win owr ['convince' someone] 
+These, like the verbs in (i-iv) above, can be used in the passive voice. 
+IB2) Without the passive 
+16.27 
+A few stative monotransitive verbs, the most common of which is have, 
+normally do not allow a passive transformation: 
+They have a nice house. - *A nice house is had (by them). 
+These so-called MIDDLE VERBS, including have, lack,jit, suit, and resemble, are 
+discussed in detail in 10.14. 
+Note 
+A related type of verb is found in expressions of measure such as cost ten dollars; weigh 20 kilos; 
+but these can equally well be analysed as having an obligatory adjunct as wmplementation, 
+since How much . . .?is an alternative question to What.. .?in eliciting this kind of expression 
+as a reply: 
+A: What 
+B : Ten dollars. 
+A: How much] does 
+B : Twenty kilos. 
+Variants of rnonotransitive complementation 
+Complementation by noun phrase as prepositional object 
+[Blpr] Prepositional verbs 
+16.28 
+Although verbs such as look at have been classified as 'Type I prepositional 
+verbs' (those without a direct object; cf 16.5), in the analysis of complemen- 
+tation they fit more happily with monotransitive rather than intransitive 
+! 
+verbs. This is partly because of the resemblance of the prepositional object 
+t 
+to a direct object, eg in accepting a passive voice (cf 16.14), though usually 
+with some awkwardness of style: 
+
+
+1 178 -Complementation of verbs and adjectives 
+The management paid for his air fares. 
+- His air fares werepaid for by the management. 
+But also when a prepositional verb is followed by a that-clause or a to- 
+infinitive clause, the preposition disappears, and the prepositional object 
+merges with the direct object of the monotransitive pattern. Compare the 
+following two series, (A) with a prepositional verb and (B) with an ordinary 
+monotransitive verb: 
+on the meeting. 
+[on it. 
+on meeting each other. 
+(A) They agreed / on when to meet. 
+I 
+(that) they would meet. 
+to meet each other. 
+[;: meeting. 
+meeting each other. 
+(B) They remembered 
+I 
+(that) they had met. 
+to meet each other. 
+Yet the preposition omitted before a that-clause can reappear in the 
+corresponding passive: That they should meet was agreed (on), even in 
+extraposition (cf 18.33fl, where the preposition immediately follows the 
+passive verb phrase: 
+It was agreed (on) eventually that they should meet. 
+Examples o f  Type I prepositional verbs are: 
+account for 
+concentrate on 
+look ajierlatlonlto 
+add to 
+I 
+conform to 
+object to 
+adjust to 
+consent to 
+part with 
+admit to : 
+contribute to 
+pay for 
+agree withlonlto 
+deal with 
+pray for 
+aim atlfor 
+decide on 
+preach about/on 
+allow for 
+dwell (up)on 
+provide for 
+apply for 
+) 
+enlarge (up)on , 
+quarrel aboutlwith 
+argue about 
+hear aboutlof 
+read about 
+arrange for 
+hint at 
+refer to 
+ask for 
+hope for 
+rejoice at 
+attend to 
+insist on 
+rely on 
+believe in , 
+interfere with 
+resort to 
+call for/(up)on 
+learn about 
+run for 
+care for 
+lecture aboutlon 
+speak aboutlon 
+comment on 
+listen to 
+take to 
+complain about 
+live on 
+think aboutlof 
+conceive of 
+long for 
+wish for 
+Note 
+[a] When to precedes an infinitive, it is an infinitive marker (as in forget to meet her) and not a 
+preposition; when it precedes an -ing participle, however, it is a preposition (as iniihe consented 
+to getting engaged). Other examples of to in a prepositional verb preceding an -ing clause are: 
+Types of verb complementation 11 79 
+He admitted to doing his bit. 
+I confiss to telling a lie. 
+Thisamounts to doing nothing. 
+She took to playing golf. 
+[b] Prepositions may combine with that to form complex subordinatom such as in that, saw that, 
+except that (cf 14.12). 
+[c] In general, choice of preposition is the same for morphologically related verbs and nouns: 
+refir to - re/eence to; beliew in - beliefin, etc. There are exceptions, however: hope as a verb is 
+followed by for, while the corresponding noun construction has oj: He hopes for success, but His 
+hope of success. 
+[Blph-prl Phrasal-prepositional verbs 
+16.29 
+Type I PHRASAL-PREPOSITIONAL VERBS also take a prepositional object. As 
+we saw in 16.9, such verbs can, like prepositional verbs, occur in the passive 
+(eg: She dealt with the problem - The problem was dealt with); but many o f  
+them are awkward, in fact barely acceptable, in this construction: ?*The 
+discussion was walked out on (by the principal negotiator). In the sample list 
+below, the verbs marked [P] are among those that can fairly readily occur in 
+the passive: 
+break in on 
+(someone's conversation) 
+catch up on (my reading) 
+catch up with ['overtake'] 
+check up on ['investigate'] [P] 
+come down with (a cold) 
+cut down on (expenses) 
+do away with ['abolish'] [P] 
+face up to ['confront'] [P] 
+get away with (a crime) 
+get down to (serious talk) 
+keep away from ['avoid'] 
+keep up with (the Joneses) 
+look down on ['despise'] [P] 
+Iook forward to 
+['anticipate with pleasure'] [P] 
+look out for ['watch for'] 
+look up to ['respect'] [PI 
+put up with ['tolerate'] [P] 
+run away with 
+stand upfor ['defend'] 
+turn out for (a meeting) 
+Phrasal-prepositional verbs are rather informal, and many of them have 
+idiomatic metaphorical meanings which are difficult or impossible to 
+paraphrase (eg: run away with). 
+Complementation by a finite clause 
+[B31 That-clause as object 
+16.30 
+The conjunction in that-clauses which function as object may be zero, as in I 
+hope he arrives soon; but when the clause is made passive, the that cannot be 
+l 
+. 
+deleted, and thus obeys the same rules as other that-clauses as subject (cf 
+15.4). The normal passive analogue has it and extraposition, that being again 
+optional : 
+Everybody hoped (that) she would sing. 
+l 
+That she would sing was hoped by everybody. (stilted) 
+i 
+*She would sing was hoped by everybody. 
+It was hoped by everybody (that) she would sing. 
+That-clauses have one of three types of verb phrase, depending on the 
+'governing' verb in the matrix clause: 
+
+
+1 180 Complementation of verbs and adjectives 
+I 
+is coming alone. 
+will be coming alone. 
+(A) indicative verb: I suppose that he will.come alone. 
+has come alone. 
+(B) putative should: I regret that he should be so stubborn. 
+(C) subjunctive verb: I request that she go alone. 
+(A) with the indicative is the most usual type. The putative should type (cf 
+14.25) (B) is more common in BrE than AmE, and (C) the mandative 
+subjunctive (cf 3.58-9) is more common in AmE than in BrE. In BrE the 
+subjunctive is felt to be formal, and is found typically in official styles of 
+writing. Corresponding to these three constructions, it is necessary to 
+recognize only two main categories of superordinate verbs. Type (i) may be 
+i l 
+called FACTUAL, since it goes with the indicative verb (A), and introduces 
+3 
+what one might generally describe as factual or propositional information. 
+Type (ii) may be described as SUASIVE; such verbs imply intentions to bring 
+I 
+about some change in the future, whether or not these are verbally formulated 
+I 
+as commands, suggestions, etc. Suasive verbs can be followed in the that- 
+clause by all three constructions (A-C), but the indicative (A) construction is 
+restricted, and is not generally accepted in AmE. 
+There are two minor categories, Type (iii) emotive verbs (cf 4.29, 10.23) 
+and Type (id hypothesis verbs, which are dealt with in 16.33. These types 
+are displayed in Fig 16.30: 
+i 
+CLASSES OF VERB 
+VERB PHRASE IN THA 7-CLAUSE 
+l I 
+(16.31) (eg: claim) 
+! 
+Type (ii) SUASIVE 
+(B) putative should 
+i 
+Type (iii) EMOTIVE 
+(C) mandative subjunctive verb 
+Minor 
+I 
+Fig 16.30 Monotransitive verbs with a that-clauseascomplementation (Class [B3]) 
+Type (i 
+S) HYPOTHESIS 
+I (16.33)\(eg: wish) 
+Note 
+In terms of the speech act classes of 11.2, Type (i) (factual) verbs are associated with the 
+expression of speech acts concerned with STATEMENTS, while Type (ii) (suasive) verbs are 
+(D) hypothetical past OR were- 
+subjunctive 
+Type (i): Factual verbs 
+16.31 W e  may subdivide factual verbs into 'PUBLIC' and 'PRIVATE' types. The 
+former consists.of speech act verbs introducing indirect statements: 
+They agree/admit/claim that she was misled. 
+The superscripts 1-5 in the lists below are to be interpreted as follows: 
+Types of verb complementation 
+1 181 
+1 : The verb also occurs in the active with a to-infinitive.directly following: 
+He promised to come (cf 16.38). 
+2: The verb also occurs with a following noun phrase followed by a to- 
+infinitive: They supposed her to be dead (cf 16.50). 
+3: The verb is also a member of the suasive group below, in 16.32. 
+4: The pro-form so can stand in place of the that-clause (cf 12.28); eg: I think 
+SO. 
+5: Say occurs with an infinitive, as in She said to come before ten in the 
+directive sense of 'She told us to come before ten'. 

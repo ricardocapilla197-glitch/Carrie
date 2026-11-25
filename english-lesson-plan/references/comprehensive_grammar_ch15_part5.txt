@@ -1,0 +1,1462 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 15: Syntactic and Semantic Functions of Subordinate Clauses
+Covers: Nominal clauses, Relative clauses, Adverbial clauses, Comparative clauses
+[Part 5 of 10]
+============================================================
+
+In this construction, the determiner of NI must be the indefinite article, 
+but there is no such constraint on the determiner of N2: 
+a policeman 
+that 
+*policemarl 
+Also, N2 must be singular: 
+?*rltose.fi)ol.s of policemen 
+The possessive determiner actually notionally deter~llines NI, not N2: 
+her brute of a brother ['Her brother was a brute.'] 
+the city ofRome 
+Both N2 and N 1 can be premodified: 
+Similarly we might postulate such a relation as the following (cf 17.26.f): 
+a little mothy wisp of a man 
+The team's victory was (announced as) news. 
+this gigantic earthquake of a piece of music 
+-. The news was the team's victory. 
+a dreadful ragbag of a Brifi.s/t m~i.sicnl 
+-the news ofthe team's victory 
+this crescent-shaped jewel of a Sotrrh Sea is/a,~d 
+We have here a basis for the prepositional postmodification which 
+Restrictive a n d  nonrestrictive prepositional postmodification 
+corresponds directly to the clausal appositive (on the team versus the team's, 
+17.48 
+Pre~ositionalphrasesmay be restrictiveor nonrestrictive in both appositional 
+cj'15.12): 
+and nonappositional functions: 
+that the team had won 
+the news {of the team('s) having won 
+The course on English grantmar starts tomorrow. 
+[nonappositional, restrictive] 
+Because of the obvious relation between, for example, The city is Ronle and 
+This course, on Btglish gramntar, starts tomorrow. 
+[l1 
+, 
+the city of ~ o m e ,  it is common to regard such noun phrases as simply 
+[nonappositional, nonrestrictive] 
+nominalizations of he-sentences in which the implied subject has become the 
+[lal 
+The questioll of'studettt grants was discussed yesterday. 
+head of the noun phrase. 
+[appositional, restrictive] 
+A special case of prepositional apposition is offered by singular count 
+This question, of stude~t! grants, was discussed yesterday. 
+[21 
+[appositional, nonrestrictive] 
+[2a] 
+
+
+1286 Tlle noun phrase 
+But we must mention some limitations: [la] and [2a] are rare and rather 
+;~wkward. Nonrcstrictivc :~ppositivcs could cqu:~lly have no preposition, as 
+with: 
+ThLs qur,vtir~r~, 
+.strul~~~rt 
+grtrr~ts, was tliscusscd ycstcrtl:ly. 
+12b1 
+On the other hand, the noun phrase in [3] is ambiguous: 
+It can either have appositional or nonapposilio11;~l meaning. In thc Inttcr 
+sense [objective o j  'Someone issued student grants'], nonrestrictive function 
+would be rare and unnatural, plainly suggesting a parenthetic afterthought: 
+?Tile issue, ofstutkent grcr~lrs, was slow because there were so many 
+applicants. 
+Similarly: 
+One man, ofaround,forty years, was convicted of bigamy. 
+?A party, of children, entered the theatre. 
+?The end, ofthe world, is at hand. 
+An appositional interpretation is impossible when the postmodification is 
+clearly restrictive: 
+*The man, ofproperty, was Soames Forsyte. 
+Nonrestrictive, nonappopitive modification is more usual with other 
+prepositions than of': 
+This textbook, by a colleague of mitre, will be out shortly. 
+Tlrepassage, from ujamoru speech by Cl~urchill, has become proverbial. 
+By contrast, complex prepositions (cf 9.10f) seem to lend themselves less 
+readily to restrictive postmodification: 
+His resignation, on account ofa bribery scandal, was deeply regretted. 
+?His resignation 011 account ofa bribery scai~clal was deeply regretted. 
+Position and varied functional relationship 
+17.49 
+As with nonfinite postmodifiers when nonrestrictive, so with prepositional 
+phrases: the nonrestrictive function merges with adverbial expressions 
+(cf 8.44). Compare [l] and [la]: 
+The children { on the bus 
+[I1 
+! E f e n c e  ,jeered at the soldiers. 
+l 
+B(4ind tlle,li.rice, 
+011 the, hrts, 
+the childrcnjeered at the soldiers 
+Again, thc prepositional phrase in [2] is poised bctwccn interpretation as 
+nonrcstrictivc postmotlificr ;!nd as ;~tlvcrbi;~l: 
+Money, ill critl~f'the 
+rejirgees, was collected from the stutlcnts 
+and staff. 
+[21 
+In the former intcrprctation, thc moncy collcctctl was in aid of thc rcfi~gccs, 
+and in thc latter, the act of collecting money was in ;lit1 of the rcfugccs, since 
+in this case the adverbial modifies the whole predication just as it would in 
+initial position: 
+In aidofthe rejirgees, money was collected . . . 
+I2aI 
+Despite the similarity in meaning in the exa~nplcs discussed here, we do 
+indeed have different constructions and not merely the additional possibility 
+of placing a prepositional postmodifier in front of the noun-phrase head. 
+This becomes clear when it is shown that, unless a given phrase can be an 
+adjunct, it cannot be moved from its postmodifying position. For example, 
+the restrictive postmodification in this leap right across thr,fissure can be made 
+nonrestrictive: 
+This leap, right across thefissure, was shown on television. 
+[31 
+But as the phrase cannot be adjunct in this sentence, it cannot be made initial 
+[3a] : 
+*Right across thefissure, this leap was shown on television. 
+[3al 
+17.50 
+Therestriction on initial position naturally appliesalso to 1heqJLpostrnodifiers 
+that are almost solely restrictive: 
+*Of children, a party entered the theatre. 
+[I1 
+But there is an apparent exception with partitive expressions. Thus beside 
+[2] we may thematically prepose the of-phrase with no obvious difference in 
+meaning [2a]: 
+Only a few of the ten reviewers praised his play. 
+Ofthe ten reuiewers, only a few praised his play 
+This example is misleading, however, in giving the impression that the 
+initially placed phrase of [2a] is identical with the postmodifying phrase of 
+[2]. They are not identical, as can be seen when we substitute zero article; 
+this is acceptable when the phrase is in initial position, as in [3] and [4], but 
+not in postmodification, as in [3al and [ h ] :  
+Often reviewers, only a few praised his play. 
+Ol:fiurtee~~ 
+lvonlerl, ten were highly critical of the proposal. 
+[31 
+[41 
+?*Only a few of ten reviebvers praised his play. 
+[3al 
+?*Ten ofjourtee~l wornen were single. 
+[4al 
+The fact that [4a] becomes acceptable if the postmodifying phrase is 
+introduced by out of (as in Ten oirt offourteen ~~~onien, 
+where the phrase can 
+
+
+Nominalization 
+1288 The noun phrase 
+also be initial) confirms 111;tt the initially placed (?/:phrase is functionally 
+tlilTcrcnt, ;1lthou~I1 
+scm;~ntic:~lly 
+sin1il;lr to thc postmodifying phr;lse. 
+I l l  t)(llcr wor~ls, we sll~~lltl 
+II.C:II.LI 
+ll~c i~~ili:~l 
+~~II.~)o:(~I~oII:II 
+11l1r:lhc in ! ~ I I C ~ I  
+exilmplcs as [.3] and [4] as :tdvcrbi;tl ;lnd not ;IS i1ispl:tccil post~nodilicotiol; 
+indecd, os,/ijr and N.F to phrases, when denoting rcspcct (1:/'9.57), must alw;tys 
+\)c inili;ll. pcrh;lps hcttcr, WC shot~ltl scc Ihc inili:~l p l ~ ~ t s e  
+in [3) as tlircctly 
+rcli~tcil to ;III cxislc~l[i;~l 
+S I ; I I C I I I C ~ I I  l.ll~l(i:/ lX.44// ): 
+Of ten reviewers that there were, only a few praisecl his play, 
+There were ten reviewers, but 1 
+[3bl 
+17.51 
+We should not exaggerate the difference between (a) the prepositional phrase 
+as adverbial and (b) the prepositional phrase as postmodifier (cf 17.378). 
+The second of these should rather be regarded as a special instance of the 
+first, depending for its interpretation on our ability to relate it to a sentence 
+in which it is adjunct. In [l], for instance, both the prepositional phrases are 
+introduced as adjuncts: 
+In the morning, a quarrel broke out overpay. 
+[l1 
+If now we wish to refer again to the quarrel, we may do so in relation to either 
+of these adjuncts, which now become postmodifiers: 
+The quarrel its the morning ruined their friendship. 
+[lal 
+The quarrel overpay was the reason for his resignation. 
+[lbl 
+The relation of postmodifier to adjunct may be even clearer if, instead of [l], 
+we take a sentence like [lc]: 
+In the morning, they quarrelled overpay. 
+[lcl 
+In [Ic], quarrel does not occur as a noun but as a verb, to which we also relate 
+[la] and [lb], but in this case through the process of word formation called 
+conversion (cf App I.43fl). Conversion should be distinguished from nomi- 
+nalization. 
+A noun phrase such as the quarrel over pay in [Ib] which has a systematic 
+correspondence with a clause structure will be termed a NOMINALIZATION. 
+The noun head of such a phrase is normally related morphologically to a verb 
+[2], or to an adjective [3] (ie a deverbal or deadjectival noun, cf App 1.348): 
+his refusal to help 
+- He refuses to help. 
+[21 
+the truth of her statement 
+-Her statement is true. 
+[31 
+But the correspondence may also sometimes be based on a concrete noun 
+and a denominal abstract noun: 
+herfriendship for Chopin 
+-She was a friend of Chopin. 
+L41 
+Norninalization 
+1289 
+By describing such phrases as having a systematic corrcspondcllcc with a 
+clause structorc, we tlo not wish to imply tI1;1t lilr cvcry cl:~llsc thcrc is a 
+~ I I I ~ ~ ! ! ~ ~ ~ o I I ~ ~ ~ I I ~ !  
+11111lll ~l~lr;l%i!; 
+lllc c ~ I I I L ~ s ~ ~ ~ ~ I I ~ ~ v I I ~ ~ ~ !  
+i s ,  l,rhl s
+3
+~
+~
+,
+~
+~
+ 
+;I,, 
+O I > I : I ~ I I ~ I I ) :  ill 
+a less rcgulnr I';~shion, :und ns dcpcnding on wl~c~l~cr. 
+fol- cxa~nl,le. thcrc is ;I 
+suitithle nominal lexicaliz;~tion of the vorh's n~cuni~lg 
+(1:/'App I.Xfl). Thc 
+claim is, howcvcr, lh;~t 
+WC can rn;~tch clc~~lcnls 
+of Illc IIOIIII I)II~;ISC (hc;~d. 
+11111(Iilicrs, 
+(lclcr~r~i~~;~livcs) 
+will1 CICIIII.III\ 
+01' 
+CI:IIIW 
+\ I I I I C ~ I I I C ,  co~~\iclc~c(l 
+sctn;tnticaIly in lcrlns ol' the vcrb nntl ils i~ssociatcd particip;~nt roles 
+(cf 10.1Rf) ofagcntive, ;~ffcctcd, etc. 
+We can also distinguish, in thc casc of dcvcrb;~l noun he&, 
+bctwcen 
+active and passive nominalization patterns: 
+the critics' llostile receptiot~ of thc pl;~y 
+- Thc critics receirlecl thc play in ;I Ilostilc milnncr. 
+[subjective, q/'17,4!lj'] 
+the play's hostile reception by the critics 
+IS1 
+-The play wcrs received in a hostile manncr by the critics. 
+[objective, cf17.41f] 
+[61 
+17.52 
+The term nominalization may apply not only to noun phrases with an abstract 
+noun head, as in [5] and [6] in 17.51, but also to concrctc noun phr . I ~ S  
+: with 
+an agential noun head (cf7.73), ;IS in: 
+She is a good writer. - She writes well. 
+He is a clever liar. - He lies cleverly. 
+The relation between a nominalization and a corresponding clause 
+structure can bemore or less explicit, according to how Ltr thc nominalization 
+specifies, through modifiers and determinatives, the nominal or adverbial 
+elements of a corresponding clause. In this respect we may cornpare (31 with 
+[3a-fl : 
+The reviewers criticized his play in a hostile manner. 
+the reviewers' hostile criticizing of his play 
+[3] 
+[3al 
+the revie~vers' hostile criticism of his play 
+[3bl 
+the reviewers' criticism of his play 
+[3cI 
+the reuiewers' criticism 
+their criticisnt 
+[3dI 
+[3el 
+the criticism 
+[3fl 
+These noun phrases are ordered from most explicit [3a] to least explicit [3f], 
+but each of them could occupy the function of a noniinaliz;~tion as 
+prepositional comple~nent in the following: 
+Lanzarotti was disappointed by 
+The extreme of inexplicitness is reached with an abstract or agential noun 
+standing on its own as a noun phrase: 
+Criticisni is always helpful. 
+1 3 ~ 1  
+Some verbs have no corresponding dcverb;ll noun: for ex;~mple, corre- 
+sponding to lie ['tell untruths'] there is no deverbal abstract noun, although 
+
+
+there is the agential noun liar. In such cases, however, we can usually make 
+use of a verbal noun ending with -irrg (c/' App 1.35): 
+Lying is all too common. 
+Ili.r,/irirrl: of Williatn was ;I rnist;lke 
+(Contrast: Ili.ril;,v~~ri,s.volol'Willi;~m 
+was ;I misl;~kc.) 
+Some such -ing nouns can also be used in the plural: 
+The number of reported sightirtgs of UFOs since 1980 is relatively 
+small. 
+17.53 
+Verbal and deverbal nouns differ in their acceptance of modification by 
+prepositional phrases. Compare the following: 
+their arriving,for a morrtlr 
+?the(ir) arrival for a month 
+their behaving with courtesy 
+?the(ir) behaviour with courtesy 
+their acting in a nasty ntanrzer 
+*the(ir) action in a nasty manner 
+their contributing otrt ofkindrress 
+*the(ir) contribution out of kindness 
+It appears that adjuncts relating to duration, manner, or cause are awkward 
+or inadmissible as postmodifiers. Deverbal nouns (especially from punctual 
+verbs like arriue; cf4.33) might be described as mere records of an action 
+having taken place rather than as descriptions of the action itself. Thus the 
+postmodifiers are the adjuncts that can occur in sentences like the following: 
+They arrived on Thursday. 
+The arrival took place on Tlrursday. 
+Contrast: 
+They arrived for a month. 
+*The arrival took place for a month. 
+T h e  aradience f r o m  deverbal n o u n s  via verbal n o u n s  to 
+- 
+participles 
+17.54 
+As well as distinguishing between deverbal nouns like qzmrrel, arrival, 
+behaviour, action, and contribution (cf App 1.35) and the corresponding verbal 
+nouns in -ing (quarrelling, arriving, etc), we need to recognize . a complex 
+... 
+gradience, as in the following example, from the pure count noun In 111, some 
+pairrtingr ofBrown's, to the purely participial form in a finite verb phrase in 
+[14], 'Brown ispainting his daughter': 
+Brown'spainti~rgs of his duughter [[a] 'paintings depicting his 
+daughter and painted by him'; or [b] 'paintings depicting his 
+daughter and painted by someone else but owned by him'] 
+[2] 
+Thepainting of'Brown is as skilful as that of Gainsborough. [[a] 
+'Brown's mode of painting'; or [b] 'Brown's action of painting'] 
+[3] 
+Bro~t~rr',v 
+d l : / i ~ ~ ( t i ~ ~ t i t ~ l : ~ f ' k i . ~ ( / ~ ~ ~ l : h t c r  
+is ;I tlcligll( to walcll. ['It is ;L 
+delight to watch while Brown dcRly pitints his tli~uglllcr.'] 
+Bro~~,~r'.vrll:/ilj.pcti~rti~ifi 
+hir rlrrr,qht~~r 
+is :I clcligllt Io w:~lcIl. ( .-- 
+[3h) or 
+[41 
+141 in meaning] 
+[S] 
+I dislike Brolvn'.rpaintitrg hisdatighter. ['I dislike either [a] the Fact 
+or [bl the way that Brown does it.'] 
+L61 
+I dislike Brow~zpairtting hhl~cloughter (when she ought to be at 
+school). [= [6a]] 
+[71 
+I watched Brorvrlpairztirtg Iris clalighter. [[a] 'I watched Brown as he 
+painted'; or [b] 'I watched the process of Brown('s) painting his 
+daughter.'] 
+[81 
+Broivn defrlypainting his daughter is a delight to watch. [= [3b] o r  
+[41; cf 14.6ffl 
+[91 
+Pairzting his daughter, Brown noticed that his hand was shaking. 
+['while he was painting'; cf5.12ff] 
+[I01 
+Brow~rpaintirzg his daughter that day, I decided to go for a walk. 
+['since Brown was painting'; cf5.12flI 
+[Ill 
+Themarzpaintirrg thegirlis Brown. ['who is painting'; </'l 7.281 
+[l21 
+Thesilentiypaintingman is Brown. ['who is silently painting'; 
+cf 17.981'1 
+[l31 
+Brown ispainting his daughter. [cf4.25f] 
+[l41 
+In [l] and [2] we have the DEVERBAL NOUNp~illtirlg~ 
+with a plural ending. 
+It could be replaced bypictttresorphotos; it is thus a perfectly regular concrete 
+count noun, related only to the verbpnirrt by word formation. 
+In [3] and [4]painting is also a noun, as can be seen by the definite article 
+in [3], and in [4] not only by the genitive construction but also by the adjective 
+premodifier defr (as compared with the adverb defllj~ in [5]). Yetpainting here 
+could not be replaced by picture or photo, but only by abstract nouns like 
+representatiorr,portrayal, 
+portraiture, depictio~z, etc. Thus pait~ting in [3] and [4] 
+is an abstract noncount noun of the kind that can be formed from verbs by 
+adding -ing and inserting of before the noun phrase that corresponds to the 
+subject if the object is not expressed (cf 17.41): 
+thepointing ofBrorvn - Brown paints. 
+the writing of Smith - Smith writes. 
+This construction can also occur before the noun phrase that corresponds to 
+the object, if this is expressed: 
+their polishing of thefurniture 
+- They polish the furniture 
+the writhig of novels (by Smith) - Smith writes novels. 
+Forms like painting in [3] and [4] are VERBAL NOUNS (cj'17.51, App 1.3 Note). 
+In [5] and 161, the genitive Brols~r'.r is used, but in place of the adjective deft 
+in [4] we have the adverb defrly in [S]; in place of the oj'phrase qf'lris dazcghtcr 
+(in [4]), we have in [S] and [6] the noun phrase his rla~cgltter directly following 
+painting, exactly as does the object of a finite verb phrase in [14]. Traditionally 
+this mixture of nominal and verbal characteristics in the -ing form has been 
+
+
+. 
+.. 
+- - - - c  
+. -- 
+.W-.. 
+--...... ,.- 
+., , 
+1292 The noun phrase 
+given t h e  name 'gerund', while the uses o f  puirltin~ i n  [7-141 h a v e  been 
+~ l i \ l i ~ ~ j ~ , ~ ~ i s l ~ c ~ l  
+;IS 1110s~ i ~ l ' t h c  Yprcscnt) p:~rlicipic'. 
+Notc 
+[a] Where no prc~nodilicra~~pe;~rs. 
+gcr~itiveornthc~ 
+wisc. the tr;ldition;ll viov held /*~ir~re~!: 
+It, hc 
+'gerood'. ; I  in [IS]. where the item is in a structure liloctioning oo~~~ionlly 
+(in this case ;Is 
+huhicct): 11111 it wits ~ o ~ i s i d c ~ c d  
+:I pi~rticiplc if tl~c sil~iic structorc [i~nctiooed ndvcrhit~lly. its In 
+llol: 
+/+,ir~rir~g 
+<I r/ri/,/ is d~llicult. 
+1151 
+J'r~i,:ti~~grr 
+chil~lll~i~t 
+morning. 1 quite forgot the time. 
+[I61 
+I lowcvcr, no ;~n;~lo~ous 
+v;~tcgor~;~l 
+disti~lctinn was rn:~dc hctwce!l ro ~n~irr, 
+it1 11 71 ~ I I I ~  
+[IXI: 
+Topuifrt o chil~l is dillicult. 
+1171 
+fi~pni~rr 
+;I child, I bought a new canvas. 
+1181 
+Here lllc tradition was content to regard to point as nn'infinitive' in both. 
+For reasons that will now be plain, we do not find it uscrul to distinguish a gerund from a 
+p;lrticiple, but terminologically class all llle -illl: items in [S 14) ;IS PAnTElPLEs. In 15 121, llle 
+~i:~rticipfc 
+is in each case the nonfi~~itc 
+vcrb of;! nonfinite cl;~usc, in 1131 ;I prcmodificr, and in 
+1141 the heid of a finite vcrb phr;~sc. By avoiding the binary distinction of gerund t~nd p;~rticiple. 
+we seek to represent more s;~tiskctorily the complexity ofthe difTcrcnt parlicipi;~l expressions :IS 
+we move along the gradient to the'most verbz~l'end at 1141. 
+One indication of the complexity of the -irr,y form is that what others have called the gerund 
+carries in English both nonmodal meanings, as in (191, ;uld modal meanings, as in [201: 
+There was 110 sl~o~rtir~~, 
+no nlerr~cnlakbtg, no s8aoir~g 
+qfffags. ('No shouting, merry- 
+making, or waving of flags took place.'] 
+I191 
+There was no nri~t~kbg~lrr,~,ycrz~o,rl. 
+['No one could mistake that scrcam.'l 
+1201 
+Thus in [l91 the -irtg form corresponds to the Latin gerund, but in [20] to the Latin gerundive 
+which,unlike thegerund, typically manifestsamodal meaning such as possibilityorcontingency. 
+This lack of correspondence between the English gerund and the traditional use of the term can 
+be advanced as a further reason for rcjccting the term gerund in English. 
+Furthermore. there is potential ambiguity not only along the modal/nonmodal dimension hut 
+also along the (traditional) gerund/deverbal-noun dimension (cf 15.14 Note [b]). For example, 
+sentence[21] can be interpreted in three ways[2la, b, cl: 
+There'srro ~vritirrgon the blackboard today. 
+1211 
+as a modal 'gerund'I2taJ: 
+'Wecnn't write on the blackboard today (because we llave nochalk).' 
+L214 
+The roud back is densc with traflic. 
+T h e  wcry otrt w a s  h a r d  to find. 
+7%1,1~1'0/11i, hr~ltirrrl wcrc I:~lkir~j! 
+:tII 111c litnc 
+In [I], w e  rccogliize sotnc s u c h  par;tl)ll~.;lsc :IS '77tr. r(xr(/ wlliclt 1c;ltls hrtcX t o  
+London' f r o m  w h i c h  everything except ;In i m p o r t a n t  ;~tljttr~cl 
+has t o  be 
+ttnderstood f r o m  t h c  cotllcxl. Sirnil;trly, lijr 121: 'Tlr(, II.~II' 
+wllich leads ntrt o f  
+t h c  ;tu~litoriunl'; : I I I ~  li)r 13): '7kr~pi,r1/)/i~ WIIO w c r c  s i l l i r ~ g  I~r~l~itrll'. 
+111 s o m c  
+cases, t h e  postmodifying itcm could b e  regardcd altcrnotivcly ;IS a prcposition 
+with otnittcd coniplcmcnt: 'T/I~,~)IYJ[)/(, 
+w h o  wcrc sitting hc~lritril us'. 
+There arc indecd a fcw cases whcrc ;I prcpositional intcrprctation is I'orccd 
+on us (cf9.53), eg: 
+The uoresfor f a r  o u t n u m b e r  those agcrinst. 
+[41 
+In [4], the related explicit structure has no alternative fo fhc prcpositional 
+phrase: 
+The votes are for the motion. 
+But since most e x a m p l e s  can be explained as adverbial a n d  few as 
+prepositional, i t  seems best to regard t h e  f e w  that must be prepositional as 
+b e i n g  modelled upon the adverbial ones. 
+A s  indicated i n  7.67 (where more e x a m p l e s  a r e  given), atlverbs w h i c h  
+postmodify nouns signify time or place. In some phrases, t h e  a d v e r b  can be 
+u s e d  either as a pre- o r  postmodifier: 
+h i s  hometvard journey - his journey llot,~eward 
+Some noun phrases of measure, denoting size, age, etc, can also be postposed : 
+A man the size ofb giatlt came u p  t o  me. 
+Somebody her age shouldn't do s u c h  s t r e n u o u s  exercises. 
+as a nonmodal 'gerund' 121 b]: 
+'We :ire not going to write on the blackboard today (since all our work is going to 
+be oral).' 
+[21bI 
+as a nonmodal deverbal noun [Zlc]: 
+'There's nothing written on the blackboard today (because we haven't used this 
+classroom).' 
+121~1 
+The sense of [21c] is doubtless more expected than either [21al or [21 bl. 
+[bl One expects the name in [3] to be that of an artist of some reputation if the ol-construction is 
+to be used; otherwise thc gcnitivc would be more natural to convey this mez~ning: 
+Jnck'sp(~if~tifrg 
+is nearly as good as his wife's. 
+[c] Tltcre is an aspectual difierence betwecn verbal nouns, which tend to denote activity that is 
+in process, and abstract deverbal nouns, which denote completed activity (cf App 1.35 Notc). 
+Minor types of postmodification 
+Postmodification by adverb phrase 
+17.55 
+Some typical examples o f  postmodification by adverb phrases (cf7.67) are 
+the following: 
+Note 
+O'clock is an adverb optionally ndded after numbers from I to I2 to denote timc of day: 
+What time was the accident? 
+- A t  I0 (o'clock) in the morningpat night. 
+- A t  12 (o'clock) noon/midnight. 
+O'clock is not used together with o.nl. ['before midday'] orp.rr1. ('iifter midd~~y'l: 
+9 o'clock in the morning [= 9 a.m.1 
+9 o'clock in the evening [= 9 p.ni.] 
+O'clock is used only in mentioning tl~e exact hour, not the hour and ;I p;~rticul:~r 
+number of 
+minutes: 
+at 7 o'clock, at 7 a.m.1p.m.; at 7.15 a.m./p.m. BUT NOT: 'at 7.15 o'clock. *at 15 past 7 
+o'clock 
+Postposed adjectives 
+17.56 
+Postposedadjectives(cf 7.21)can b e d i v i d e d  i n t o t h r e c  m a i n  typcs,dcpending 
+on whether the postposition i s  required b y :  
+(a) the head of the n o u n  phrase (cf 17.571, eg: 
+I want to t r y  somethirrg d~%feretlt [as opposed to a ctiffhrenf 
+approach] 
+[l] 
+(b) the postmodification or complementation o f  the adjective (c/'17.58), 
+eg : 
+
+
+1294 Tho nourt ptrrsclo 
+Mirror tyl~e'r 01 pf~:itr~lo~lilicntion 1795 
+a play popltlar ill tlle 1890s [as opposed to o po/~t~Iar 
+play] 
+[21 
+(c) the particular noun ;tdjcctive col1lhill:tlion ((:/'l 7.591, ox: 
+the heir olJporent [as opposed to rhe r~/~/~crrertt 
+reasort, clre rich 
+heir] 
+131 
+Types (a) and (b) are central constructions and can be seen as reductions of 
+relative clauses: 
+sorrrcthi~ig (thot is) d[[/i,nvrt 
+[lit] 
+o / J / ( I ~  (t/l(ll IIVIS) 
+/lo/~ll/(l~ 
+if7 t/l(' /cyy().S 
+12;ll 
+Type (c) is restricted to idiomatic phrases. 
+Type (a): somebody bkger 
+17.57 
+This type includes noun-phrase heads consisting of indefinite pronouns in 
+-body, -o11e, -thing, and the adverb -~ultere, plus one or two ~~11-forms 
+(~vltat 
+else, v110 lle.ut, etc), which can only be modified postpositively (cf7.69): 
+A~~yhody 
+yourlger would have done better. 
+However, we cannot postpose with indefinites every modifying item that can 
+be preposed with ordinary noun heads. While we have both a tallgirl and an 
+ofice girl, we have somebody tall but not *soniebody ofice (cf 7.12). 
+Even adjectives need generally to be 'permanent' and hence eligible for 
+attributive use (cf 17.7); thussomebody tinlid rather than ?sontebodyafraid. 
+Note 
+[a] We not infrequently come upon noun phrases which defy the conditions described; for 
+example, beside the regular sor~lcrhirrg rtast!, we have: 
+Tlrul nasry sorncrlrir~g has reappeared. 
+In such instances (which are almost always familiar, playful, or ironic), Ihe head items are not 
+being used as compound indefinite pronouns (cJ'6.45.f) but as nouns. The motivation for the 
+deviation will vary from one example to another, but a possible explanation for the example just 
+provided would find ready parallels. We might paraphrase it thus: 'You mentioned seeing 
+sorrlerhirrgnasfy; well, the thing you called "something" has reappeared'. 
+[b] The type of postmodification consisting of pronoun in -l/tirtg+ adjective has an alternative 
+construction with a + adjective + rkirrg as head: 
+~
+~
+~
+~
+~
+i
+~
+~
+]
+ 
+happened tome on the way to work this morning. 
+Sor~re Irasry thirrgs has the somewhat different sense of 'certain nasty things'. There is no *sonrc 
+llrirrgs nosly. 
+There is a possibility of usingorte (but not b o d ~ ~ )  
+as a head in this way: 
+{ sorneo~r<'yollr~g 
+) 
+1-d like \ a yol"lJrlc 
+} for the job 
+sovuntebof/j' Y ~ l l l l g  
+*a gou~tg borlj' 
+Any J W I I I I ~  
+body ['anybody young'] is dialectal. 
+Type (b): a mistake typicalof beginners 
+17.58 
+This type includes adjective phrases which are heavy in relation to the head, 
+usually by having a prepositional phrase or a nonfinite verb phrase as 
+complement. Whereas WC have only the normal order in [ l ] ,  postposition is 
+required in [2]: 
+a typical mistake 
+:I mistitkc t)y~ico/ ( ~ j ' h q i r t ~ r ~ ~ r . ~  
+Thus English accepts neither [2a] (utiless uscd ;td hoc ;~nd specially markcd 
+hy hyphens: 'Th:lt coultl hc tlcscri hcd ;IS rr tj~l~irrrl-o/:h~.h.~i~:~r~r 
+r~iirtrrka') nor 
+[2h]: 
+*a lypical of bcginncrs mistake 
+*an of beginners typical mistake 
+With coortlin;~tccl ;ttljcctivcs, cithcr plc- or postposition is possil>lc : 
+a horh typicol clrid cot~~t?rot~ 
+mistake 
+a mistake both typicol (~rtd 
+~ O I I I I J I ~ I I  
+When a head is nonrestrictively modified by a coordinate string of adjectives, 
+it is common to postpose them: 
+A man, tit?tidnrtd hesitant, approached the official. 
+L41 
+However, the potential mobility of the string allows it to be detached from 
+the noun phrase altogether (cf 7.27, 17.49) and shows it to be an adverbial 
+rather than part of the noun phrase: 
+Timidand hesirant, a man approached the official. 
+[4al 
+A man approached the official, titnidand hesitot~t. 
+[4bI 
+Even a restrictively modifying adjective can be postposed if it is itself 
+modified (by an adjunct, not by the intensifier oery; cf 7.878 ): 
+A man always tintid is unfit for this task. [but not: *A t>iart rery 
+titnid. . .] 
+14~1 
+This construction is particularly common where the modification expresses a 
+'temporary' attribute (6'17.7). Thus beside the dubiousness of ?sot~~ebody 
+afraid (cfl7.49), complementation of the adjective (,sor~~choclj~ 
+afiaid ofthe 
+ciark) results in complete acceptability. Comparison involving nouns of 
+different gender classes requires postposition of the adjective as in [5]: 
+a man taller than Mary 
++*a taller man than Mary 
+Where the nouns are of the same class, postposition is optional (cf 17.122): 
+a man taller tltan John 
+- a taller man that1 Johtt 1 
+[61 
+Type (c): thepresident elect 
+17.59 This type of postposed adjective consists chiefly of the sprinkling of fixed 
+noun-plus-adjective phrases (modelled on French) like thepresitle~~t 
+elecr, 11eir 
+apparent, blood royal (cffurthcr examples in 7.21). These are of little 
+importance in themselves, being infrequently used (though our ability to 
+form names like Hotel Majestic suggests that they are more than mere fossils), 
+and it is likely that native speakers feel them to be very similar to compound 
+nouns. Unlike the adjectives in free combinations, these postposed adjectives 
+cannot be modified: 
+
+
+lZ!Ili 
+Tllo noun vhrnso 
+* The presi(1erit newly elect 
+T/~epresicie~it 
+newly elected will take ollice next Monday. 
+T/it., rrc111/c. c/cct(,c/ pr<,.vic/~rit 1 
+"171~ /r1,ir .v~i/lo~r/~(~r~~tif 
+was l>ci111; wcll i ~ ~ l ~ ~ c : ~ l c ~ l ,  
+?SIlc I I ; I ~  hlootl II,/MI//.I~ 
+,ugwl iu I~cr vcit~s. 
+With a quantifier we can say 'A lot of royal hloocl flowed in the French 
+rcvolutiol~', I>t~t 
+IIOL '*A lot of hlootl roy:~l . . .'. In somc c;~scs, :I sctlt~c~lcc 
+II;IS 
+obviously bcen reanalysed as prcmotlilicr plus Itc:~tl; this can bc sccn in thc 
+plural tntrrt-marlids (alongside court.v-~r~urti~~/; 
+~f5.102): 
+No court-martials are held on Christmas Day 
+Postposed 'mode' qualifier: Lobster Newbfrug 
+17.60 
+There is ;tnothcr French modcl of postposition in English 111:11 we Inay call 
+postposcd 'mode' qualilier, as in Lobster Nelshurg. ~l'houglt virtually conlincd 
+to cuisine (rather than mere cooking), it is moderately productive within 
+these limits, perhaps especially in AmE. In BrE one finds veal paprika and 
+many others, but there is some resistance to this type of postposition with 
+other than French lexical items, as in pit6 niaisott, sole borlne fimme. 
+Nevertheless (perhaps partly because, in examples like the latter, the French 
+and English head nouns are identical), the language has become receptive to 
+hybrids like poached .salmon nrayonnaise, fitglislr scallops provencal. 
+Note 
+The prepositional phrase involving ri Ia (cf9.10 Note) is a related phenomenon. It tlppcars in 
+culinary formations like cllickerr 2 lo king, but is very general in informal or facetious use to 
+designate style. 'in the manner of': 
+Anotlrerplay 6 la Sroppard has appeared, though I forgot who wrote it. 
+Multiple postmodification 
+17.61 
+Multiple modification arises through any or all of the following three 
+conditions (a, b, c): 
+(a) More than one modification is applicable to a single head. Thus the two 
+sentences [I] and [2] can be brought together as [3]: 
+the man in the corner 
+the man talking to John 
+talking to John 
+the man in the cortter {(l) and tolkittg to John 
+The second postmodifier (talking to John) modifies the whole of the preceding 
+complex noun phrase: 
+[[the man [in the corner]] talking to John] 
+The usual type of construction is with no conjunction. But, without a 
+conjunction, there isambiguity (though often with IittletlilTcrence in meaning 
+in practice) between a coortlin:~ted rcl:~tion of the postinotlilicrs as in Fig 
+17.01:1 : I I I ~  
+:I I~icr;~~cl~ic:~l 
+r('l:lli(~l~ 
+;IS i l l  I.';): 17.01 11. 
+Fig 17.61a 
+Fig 17.61b 
+(b) A modification is applicable to more than one head. Thus 141 can be 
+brought together by multiple-head rules which permit the dctcrmincr to 
+apply to both hcads (cJ'13.67) as [5]: 
+the man in the corner and the woman in the corner 
+[the [man and woman] [in [the corner]]] 
+(c) By bringing together the types of structure elucidated in (a) and (b), we 
+can produce complexes such as [6]: 
+the man and woman in the corner talking to John 
+[61 
+The head of a modifying phrase may itself be further modified. We have 
+already seen numerous examples of where such further modification is 
+achieved by means of an adverb; we are here concerned with catenations 
+like [9] from the linking of [7] and [8]: 
+the man in the corner 
+171 
+the corner nearest the door 
+[the man [in [the corner [nearest the door]]]] 
+By bringing (a), (b), and (c) together, we form [IO]: 
+[the [man and woman] [in [the corner [nearest the door]]] [talking 
+to John]] 
+[l01 
+Although the last postmodifier in this example (the nonfinite clause tcrlkbig to 
+John) is rather far removed from the head, ambiguity is impossible: the door 
+could not be talking to John. Nevertheless, many users of English would 
+prefer to use a finite relative clause here (. . . 1dro are tulkirig lu Johri), no 
+doubt in response to a desire for maximal explicitness at a point which is 
+relatively distant from the head. 
+Probably more is involved than a need for explicitness: repetition of 
+
+
+identical itcms (eg a scqucncc or prcpositio11:tl phrescs or rc1:ttivc clauses) is 
+perhaps as objectionable in a lengthy postmodification as is the danger of 
+losing the thre;ttl. 0l)jcctions to the following setltcncc ;Ire ohvious: 
+?He was [the man [who wrote the letter [which Mary found in the house 
+Lwhich sllc rcnlctl frt)~n tllc man [wllo knew lic~~~~nclclllll. 
+Ambiguity a n d  constraints o n  multiple postmodification 
+17.62 
+The instancesof mitltiple modification so far considered havc raiscd problems 
+of style but hardly of actual ambiguity or structtrr.al un;tcccpt:tbility. 
+Frequently, however, careful ordcring of constituetlts in a noun phrase is 
+essential to communicate one's intention. To take an cxamplc, the following 
+pair [I] and [2] differ in meaning and are not mcre stylistic variants: 
+the man it1 black talking to thegirl 
+[l] 
+the man talkirtg to the girl in block 
+L21 
+One of the reasons for preferring the ofphrase to the genitive is to avoid 
+discontinuity (with unwanted grotesque ambiguity, cj'17.44); thus [3] but not 
+[41: 
+the ears of the mart in the deckchair 
+[31 
+*the matl's ears in the deckchair 
+[41 
+P u s h d o w n  e l e m e n t s  
+17.63 
+A special type of multiple postmodification that requires careful ordering 
+occurs when the modifying clause becomes itself embedded in a clause 
+('pushdown relative clause'; cf 11.18, 15.4 Note [d]). Consider the followillg 
+series: 
+John will send you a memo. 
+[l] 
+Pat hopes (that) John will send you a memo. 
+L21 
+I will read the memo (which) Pat hopes (that) John will send you. 
+[3] 
+In [3], the relative pronoun which is object in the relative clause which . . . 
+Johtt n~ill sertd you. When, however, a relative pronoun is subject under 
+analogous conditions, the conjunction that, which remained optional in [3], 
+is obligatorily absent in [3a]: 
+A memo will be sent to you. 
+[ l 4  
+Pat hopes (that) a memo will be sent to you. 
+[2al 
+{ 
+be sent to you [3a] 
+I will read the memo (which) Pat *hopes that will 1 
+Since verbs in nominal clauses may be nonfinite or absent, variations in 
+structure can be very considerable. Related to [4-61 we have the noun phrases 
+[4a-6al: 
+I 
+(that) the boy was honest. 
+[41 
+We thought the boy to be hottest. (rather rare) 
+151 
+the boy honest. 
+[61 
+~ s a s  
+hottest 
+[4al 
+the boy (that) we thought 
+[sal 
+hortest 
+[6al 
+Nonlinitc itt~d v~rbless po~t~nocIiIi~ittiot 
+is less :~cccpt:~lllc 
+wl~ctl tile :t~ljcctivc 
+is 'temporary' (cf 17.7): 
+Tlrr holl (that) we thought 
+Clauseembedding in postmodification can son~ctimcs result in anocoluthon 
+through the insertion of the personal pronoun, cspccially in specch (cl. I I .  14fj 
+on tvh-qucstions): 
+?*l'm going to a party that I don't know when it will end. 
+[71 
+?*The computer lvhich you said you would teach mc how it works 
+has now arrived. 
+[81 
+?*There is in this country a trend i11hich I don't know how strong it is 
+towards a disintegration of the traditional party system. 
+[g1 
+The relative clauses in [7-91 are deviant since they introduce a double 
+pronominalization of the antecedent (that or ~rlricl~, 
+it), but avoidance of the 
+deviance involves rather radical reorganization. (,g: 
+I'm going to a party which will end I don't know whcn. 
+P a l  
+and I don't know whcn it will end. 
+f7bl 
+(which you said you would teach me how to use 
+The compuler { 
+has now arrived. 
+(821 
+the operation of which you said you would teach 
+me has now arrived. 
+[8bl 
+which I don't know the strength of. . . 
+[gal 
+of which I don't know the strength . . . 
+[gb] 
+whose strength I don't know. . . 
+[9cl 
+Note 
+IaIThere isno problem, of course, if t l ~ c  clauses concerned ;Ire made p;~ra(nctic: 
+I'm going 10 11 party; I don't know \\,hen it will cnd. 
+Pc1 
+Thecomputerh;~~ 
+arrived; you said you would lc;lch me how it works. 
+[eci 
+There is in this country a trend towards ;I disintegr;~tion of the tradilion;~l party 
+system; I don't know how stronr it is. 
+r 0 A i  
+L'", 
+[bl Conrusion of the finite with the nonfinite forms of embedded cl;~use produces liypcrcorrcct 
+deviant sentences (cf6.35 Note [a]) like [IO]: 
+*That is the man nhotrt 11.c rho11g111 ~r.o.v fror coffrbtg. (C/: Th;~t is the man ~l.hol,r wr 
+thought IU b ~ ,  di/)iculr.) 
+[l01 
+Rclntive clnuscs may be complicated more tl~;ln we h;lvc illustr;~lcd so f:~r, lhough one tends to 
+avoid multiple embcddings will1 succcssive'p~~shdown'cl;~~~rcs: 
+'?I have read Ihc hook 1l.hic11 
+.VUII ~h~tigbi 
+I hud o.vkcd Jol~fr 
+II./ICI/IC~ h? 111)r(l~l 
+l~vld ~rtc. 
+[ I  I ]  
+In 1121, the use of 1v11ot~ 
+m;ly seem odd: 
+. . . this Lady Mzlcbeth is lumbered umilh such an alilrmiog 11ush;lnd whom H;lrold 
+Carler plays. . .on the brink of madness. 
+[I?] 
+Thc reason may be thxt the actor actually plays thepurr oftlic husband. Hou,c\cr, the following 
+construction [l&] may hnvc been consciol~sly i~voided ;IS being ~~rvkaard 
+and loo heavy (and 
+hardly necessary anyway): 
+[cl There are also signs tli;lt rclativc chuscs, by involvi~~g 
+lr;~naposition ol'Icxic;~l items. wenken 
+the tics between lexical items and their approprii~tc comple~ncnt-l~>r~ning 
+prepositions. Evcn 
+reputable newspapers will occasionally print sentences like 1131: 
+
+
+Apposition 
+' 
+The nature of apposition 
+17.65 
+In 17.26 we looked at appositive postmodification by :hut-clauses, in 17.35 at 
+appositive nonfinite clauses, and in 17.47 at appositive prepositional phrases. 
+We now consider the nature of apposition itself. Apposition is primarily, and 
+1300 The noun phrase 
+Apposition 
+1301 
+The ;lutharitics, against whom increasing numbers of refugees arc fleeing across the ,.., 
+sc;~, have not ch;lnged their policy. 
+11.0 
+hlllrl,lll!lr tile r,llclity 
+111r v l ~ l ~ s ~ r u ~ t i r ~ l ~  
+~ n i ~ y  
+woll p;~.;.i t~nllcrticc<l 
+Iry i<>~~rn:~list 
+~ I I I ~  
+rc:~(Icr itlike. 
+llci(ller wollld ~
+~
+;
+~
+~
+c
+ 
+scccl>lcJ tllc vcrlr f ~ucl~c~ili~lll 
+<(.LII!CIICC ill I I iill: 
+... . 
+*Tile 
+arc Ilccing :lg:liosl Ihc :lllIllorilius. 
+11.1;11 
+17.64 
+I:vcn with simpler cx;~mplcs ;11ic1 morc C;I~CI.III ordcri~lg. WC 11l:ly lint1 cI:~rily 
+:~nd :~cccllt;~l,lc gri1111111;lr 
+dillic111t 10 I ~ I ~ I ~ I I ~ : I ~ I I  
+ill 111111lillIc 
+~ ~ ~ o ( l i l i ~ : ~ l i o l ~ .  
+AII 
+example: 
+She recalled the smiles of delight on all the faces. 
+[I1 
+A noun phrase based on sentence [l] and having stniles as its head may be 
+ambiguous in one ordering (Was it the smiles or the faces that she recalled?): 
+[he smilcs of dclight on ;III thc ktccs that shc rcc;lllctl 
+[I ;I] 
+Another ordering [Ib] may be grammatically awkward, sincc it introduces 
+discontinuity (cf 17.122) to avoid ambiguity: 
+?the smiles that she recalled of delight on all the faces 
+[Ibl 
+When we go on from this same sentence to attempt a noun phrase which has 
+faces or delight as head, the problems increase : 
+?all the faces that she recalled the smiles of delight on 
+[Icl 
+One solution to this problem is to replace the relative clause by a construction 
+with preposition + -irg participle clause (although the subject then has to be 
+merely implicit): 
+On recalling the smiles of delight on all the faces (she was 
+reminded of birthday parties in her own childhood). 
+[Id1 
+Note 
+The obicction in Llc] is not merely to the final preposition (cf 17.16), as is shown by the 
+- 
+~ 
+awkwardness also of [lel: 
+?all the faces on which she recalled the smiles of delight 
+Ilel 
+Noun phrases with rlelighr as head are no less problematic: 
+?the delight that she recalled the smiles of on all the faces 
+110 
+*the delight of which she recalled the smiles on all the faces 
+IIsl 
+*the delight on all the faces that she recalled the smiles of 
+Ilhl 
+of which she recalled the smiles 
+*delkhtOn 
+faces 
+she recalled 
+) 
+Llil 
+All these examples, however, involve discontinuous structures, which will be discussed in 17.122 
+and 18.39. 
+typically, a relation hetween noun phrases, and this is thc reason for treating 
+apposition in this chaptcr. 
+For linpl~islic uliits lo he ArBrBosl.rlvris, 
+k, ill ;~lq)osili<rl~. 
+ll~cy Intlsl !~orm;~lly 
+bc itlcntic:~l in rclcrcnce. l'hus in [I l, Atrrrrr i~ntl t r ~ ~ l ~ i ~ . ~ t . / i i ( ~ r r r l : ~ ~ ~ c  
+ci)rckrcnti;tl, 
+and similarly, in 121. Pnctl Jorres :ind /hr di.~ti~r,~cti.sl~~~~l 
+rrr/ c.ri/ic rc1i.l. to thc 
+same person: 
+AIIIIO, 
+111)~ I~I~,Y/,/I~~~~II~/. 
+W;IS IICIC li~sl r~igl~l. 
+111 
+Purr1 jot re^, :Ire distinguished or: critic, dicd in his slccp 1;lst night. 
+[2] 
+Alternatively, the reference of one must be includcd in thc reference of the 
+other, eg[3], where a neighbour is identified as Fred Brick: 
+A r~eighhottr, Fred Brick, is on the tclcphone. 
+131 
+Paul Jotres was the distinguiskedart critic 
+Fred Brick is U neighbour. 
+Such examples of apposition may be compared with nonrestrictive 
+postmodification, in particular nonrestrictive relative clauses: 
+Anna, who ismy bestfriend, was here last night. 
+[lal 
+The noun phrase my bes:friend in [l] may be considered to be a reduction of 
+the relative clause in [la]. Indeed, some grammariztns have it~cluded 
+nonrestrictive relative clauses among appositives. Presumably this assign- 
+ment is motivated 
+(a) by the frequent possibility of expanding a second appositive into a 
+relative clause; 
+(b) by the loose attachment of the nonrestrictive relative clause to the 
+sentence; and 
+(c) by the requirement for coreference between the wh-word in the clause 
+and an antecedent noun phrase. 
+However, in this grammar we make a distinction between a noun phrase 
+with its relative clause and apposition, the latter being primarily a relation 
+between two noun phrases. One reason for this is that, unlike relative clauses 
+where a relative pronoun is an element or constituent in the clause (cj'17.10), 
+apposition has no such item. The similarity bctween nonrestrictive relative 
+clauses and apposition is in fact limitcd to rclativc cl;~uses of the Sl'C type 
+that have a noun phrase as complement, as in [la]. There is no appositional 
+construction [4a] parallel to clauses like [4] (cf 17.22): 
+Here is a letter from John, leho warits a job iri Lon[iorr. 
+*Here is a letter from John, ajob br Lotl~ion. 
+Thus, apposition differs from relative clauses in that it involves the linking 
+of units of the same rank. 
+Apposition resemblescoordination(c/'13.1/1') in th;~tnotonlydocoordinate 
+constructions also involve the linking of units of the same rank, but the 
+
+
+central coordinators and and or may themselves occasionally be used as 
+explicit markers of apposition (cJ'13.22fl). 
+Full and partial apposition 
+17.66 
+Cir;ti~~tnari;iits 
+vary in thcl'rcctlo~n with wl~icli lIicy:il?j?ly tliclcrm ';~ppositiolt' 
+even in the quite specific sensc adoptcd hcrc. Some have rcstrictcd il morc 
+narrowly to cascs where thc following conditions ore met: 
+(i) Each of the appositives can be separ;~tely olnittetl without affecting 
+the acceptability of the sentence. 
+(ii) Each fulfils the same syntactic function in the resultant sentences. 
+(iii) It can be assumed that there is no direfence between the original 
+sentence and either of the resultant sentences in extralinguistic 
+reference. 
+For example, by omitting each appositive in turn from [l] we obtain the two 
+sentences [la] and [lbl: 
+A ,teighbottr, Fred Brick, is on the telephone. 
+[l] 
+A rteigltbour is on the telephone. 
+[lal 
+Fred Brick is on the telephone. 
+[Ibl 
+The apposition in [I] meets the three conditions: 
+(i) The resultant sentences are acceptable. 
+(ii) Both noun phrases are subject of their sentence. 
+(iii) Since Fred Brick and a neighbour are coreferential in [l], we can 
+assume the reference of the two resultant sentences to be the same. 
+Apposition meeting these three conditions we term FULL APPOSITION. 
+On the other hand, we cannot exclude consideration of sequences which 
+resemble such full apposition but nonetheless do not meet these three 
+conditions entirely. If condition (i) alone is unfulfilled, the difference from 
+full apposition is comparatively trivial. For example, from [2] only the second 
+appositive can be omitted, as in [2a]: 
+An unusualpresent was given to him for his birthday, a book 
+on ethics. 
+L21 
+Ats ursrrsualpreset~t was given to him for his birthday. 
+Pal 
+Omission of the first appositive results in an unacceptable sentence [2bl, 
+unless we reposition it initially [2c]: 
+*Was given to him for his birthday, a book on ethics. 
+D1 
+A hook ott ethics was given to him for his birthday. 
+The type of partial apposition where the position of the appositive is the sole 
+difference might be considered 'discontinuous full apposition'. 
+Condition (ii) is not met in [31: 
+Nor~nan Jones, at one time a law student, wrote several best-sellers. 
+[3] 
+Norman Jones is subject in [3a], but at one time a law student cannot be subject 
+in [3 b] : 
+Norrnatt Jones wrote several best-sellers. 
+[3;t] 
+.c At one time a law srsitterit wrote scvcri~l best-sellers. 
+l3bl 
+However, the prepositional phrase may prcccdc tllc subject in odvcrbi;tl 
+filnction will1 the samc 1nc:ining ;IS I!]: 
+At one tirne tr law stirtlettt. Jotle.s/lie wrote . . . 
+[3cl 
+The pair [3] and [3c] illustrate the gcneral feature of grammar that a 
+paraphrase relation often obtains between structures that are viewed as 
+grammatically ditTerent. 
+Finally, condition (iii) is not met in 141: 
+The reason he gave, thnt Ile ttidrl't notice tke cur till too Irtc,, is 
+unsatisfactory. 
+[4l 
+We can omit each of the appositives in turn, and cnch fulfils the function of 
+subject in the resultant sentences: 
+The reason he gace is unsatisfactory. 
+[4a] 
+Tha! he didn't notice the car till too lnte is unsatisfiactory. 
+[4bl 
+However, [4b] is different from both [4] and [h] 
+since it does not assert that 
+aparticularreason is unsatisfactory but that a particular fact is unsatisfactory : 
+(The fact) tltat he dia'n't nolice tlse cur till too late is unsatisfactory. 
+To designate the structures in [2], [3], and [4], we use the general term PARTIAL 
+APPOSITION. 
+Note 
+Coreferential relationships where the units fulfil distinctly dill.crent synt;~ctic I.u~lctions are not 
+considered 10 be apposifio~lal, 
+cg: 
+John washed hinrselj: [subject + object of pronoun, cj 6.2381 
+June likes her own car best. [subject + determiner, cf5. iO/J'] 
+S(.TUII 
+does whatever she wants. [subject + subject oTrmbeddcd cl;~use. 
+c/ 14.4/1] 
+Strict and weak apposition 
+17.67 
+The appositives may belong to the same general syntactic class (g the central 
+type noun phrase + noun phrase), as in [I]: 
+Football, his only b~terest its liji., has brought him many friends. 
+[I] 
+In such a case we term the construction STRICT APPOSITION. 
+On the other hand, appositives from different syntactic classes are said to 
+be in WEAK APPOSITION (cf 17.92), for example, noun phrase + -irlg-clause in 
+PI: 
+His otsly interest in l&, pplayitlg football, has brought him 
+many friends. 
+l21 
+Nonrestrictive and restrictive apposition 
+17.68 
+Apposition may be NONRESTRICTIVE or RESTRICTIVE ((:1.17.!8.). 
+So far. all our 
+examples have shown nonrestrictive apposition. The appositives in nonre- 
+strictive apposition are in separate information units (c/'l8.jj'). This fact is 
+indicated, in speech, by their inclusion in separate tone onits (cf'App 11.16fl); 
+
+
+1304 Tlre noun phrase 
+in writing, by their separation by commas or heavier punctuation. For 
+cx;tmplc. the apposition is nonrcstrictivc in [I] hut restrictive in [la]: 
+Mr ~ ' ~ ~ ~ ~ ~ ~ I I I L ~ I I ,  
+11 /~II~:IY,~, 
+was ltcrc l:tsl ~tigltt. 
+I l l  
+A4r CnrilpheN the Irn:,.o. was here last night. [ie Mr Cnmpbcll the 
+lawycr :IS opposcd lo ;my othcr Mr C;tmphcll we know] 
+[In] 
+In ~~onrcslriclivc 
+:tpl>osilio~t. Ihc two :tl)l)osilivc unils cottlrihulc rcl;tlivcly 
+independent information, with the lirst appositivc acting os thc Ul?l;lNl!U 
+cxprcssion, and the sccorld ;rpposilivc 1l;tving a DI!PININO role ('the tlcfincr'). 
+The defining role is reflected in thc fact that the sccond appositive is markcd 
+as parenthetic by punctuation [2] or intonation [2a]: 
+Tlre Presiclent of'the cotttpnty, Mr.7 Louise Porsorts, gave a Dress 
+confcrencc nftcr the board meeting. 
+(21 
+The I~RBsident of the company1 (Mrs Louise pi~sons( 
+(gave a press 
+conference after the BOARD meeting1 
+[2a] 
+In [2] and [2a], the President of'the contpar~y is the defined and Mrs Lortise 
+Parsons the defining expression. On the other hand, in [2b], the roles are 
+reversed : 
+Mrs Louise Parsolts, the President oftke corltpany, gave a press 
+conference after the board meeting. 
+[2bl 
+In [2b], Mrs Louise Porsctrts is the defined cxprcssion, and !he Prc:vielotl c?f'/hc, 
+conrpany thedefiningexpression, thelatter constitutinga separate information 
+unit. 
+Apposition 
+1305 
+Definedldefining relationships 
+17.69 
+When apposition is full apposition ((./'17.66), it m;ty no1 hcclc:tr which of the 
+;f~lrctsilivcs is lltc <lclit~ir~g 
+onc: 
+M)~Ji.ietld A~tncr was here last night. [full + strict] 
+[I1 
+The qtrevtiott 11,1rc,ther 10 corr/i,ss or trot trouhlctl thc girl. [fit11 -t wc;tk] 
+121 
+In p;trti;~l rcslriclivc ;ipl>osilio~t, 
+on the oll)cr II:III(I, 
+OIIC oI'IIIc ;t~)~)osi~ivcs 
+is 
+definer OS the other. In [3], thc defincr is/i,~ert~rirrl 
+r.\p,rt: 
+Ncxl S;iturd;iy,,/it~crr~cic~l 
+e.v/~crt 7b111 7'i,11hc,r will bcgin writing a 
+weekly column on the national economy. [partial +strict] 
+L31 
+(On the stylistic aspect of this example. cf 17.88.) Similztrly, in [4], the definer 
+is I/JN[ /l[' ~fJllh/tl'l .SPl' //l(' 
+CNl': 
+The e.rplrt~niiort that he coleIc111't sec the ctrr is unsatisfitctory. 
+[partial + weak] 
+L41 
+The syntactically subordinate role of one of the appositives is clear with 
+partial apposition, since only the definer can be omittctl (cl. 17.66). 
+Combinations of appositional types 
+17.70 
+The thrce types of distinction we have madc ;~pply in comhin;ltion. as 
+illustrated below: 
+[either omissible] 
+r c t i d  
+[only one t~rnissiblc] 
+Note 
+[a] The first (ie defined) appositive determines concord: 
+bnl, 0roh 11~eo1i1, 
+r~il11101og,y 
+- in other wods ecrr,~l~i,~g 
+i*. nwcl-. 
+~lentiful in 
+our country. 
+Ecerytl~irtg we rrccd - larrd. hrobls, 11~~olr11, 
+tecl~rtolrrgy - 
+[b] A defining appositive is not the same as a tag exclamation (~1'18.59 Note (a]). An aside such 
+as tlre uttrr fool in [3] is an irregular insertion and can come anywhere in the sentence: 
+John (the uercrJuol) insisted on staying with them. 
+L31 
+Compare an interpolation such as in [3al: 
+John (con yolr bcliccc it?) insisted on staying with them. 
+(3.1 
+Thedifference between the twoconstructions is highlighted in the ambiguity of [4l: 
+Richard (the illai air^) forced his sister into marriage. 
+[41 
+In one interpretation, rhc uillrrir~ is intended as a critical term, 'the bad character in the pkty', and 
+is appositive to Richord; in the other interpretation, it is an cvnluntive colnlncnl sylronylnous 
+withyhe 
+man', and is an exclamatory aside. The two interpretationscan be distinguished 
+intonationally : 
+Apposition: 
+(Ricmrd( the /vi~lain( 
+(forced his sister into hlh~riagel 
+[4;1] 
+Excl;tm;ttory ttsidc: 
+(Ricward the vi~lain) lforced his sister into ~;\Rri;lgel 
+[41)1 
+The aside in [4b], as well ;IS being in the same tone unit 21s Richord, is also marked by a lowering 
+of its pitch relative to that of the rest ofthe sentence. 
+[c] The most common type of sep;~rator used in delimiting a nonrestrictive apposition in writing 
+is the comma; but dashes or parentheses are also used (ss they arc for othcr types of parenthetic 
+APPOSITION {fir:; 
+[same syntactic class] 
+[dilrercnt syntactic class] 
+L {nonrytrictiue 
+[diKerent information unit] 
+restrrctive 
+[same information unit] 
+(i) FULL, STRICT, NONRESTRICTIVE 
+Purr1 Jones, the clistbtgubhedort critic, died in his sleep last night. 
+(ii) FULL, WEAK, 
+NONRESTRICTIVE 
+Playing foothall, his only intere.st it1 I(fe, has brought him many 
+friends. 
+(iii) FULL, STRICT, RESTRICTIVE 
+My f'riettd Anr~u was here last night. 
+(iv) FULL, WEAK, 
+RESTRICTIVE 
+The queslion rvhelher 10 cot,Srss or 1101 troubled the girl 
+(V) PARTIAL, STRICT, NONRESTRICTIVE 
+An talrrs~ml present was given to him for his birthday, er hook on 
+ethics 
+(vi) PARTIAL, 
+WEAK, 
+NONRESTRICTIVE 
+Hi.7 expla~ration, lhat Ire cou1d11'1 see the car, is unsatisfactory. 
+(vii) PARTIAL, 
+STRICT, 
+RESTRICTIVE 
+Next Saturday, fiarrcial e.upert Tottr Tinther will begin writing a 
+weekly column on the national economy. [typical of journalistic 
+style] 
+
+
+1306 Thn noun pl~rasn 
+However, if the second noun phrase in each sentence is separated from what 
+precedes by a tone unit boundary in spoken English or by ;I c o ~ i l ~ n t ~  
+in written 
+Englisl~, Il1e11 [IIC inIcrprcl:~~iot~ 
+is wcip,l~lc~l 
+ill fi~vo~~rol'li~kii~g 
+IIIC firs1 IIOIIII 
+phrasc as dirccl object with thc sccor~tl noun pIir;lsc in ;cpposilion to it: 
+'l'hcy sct~t .lomr~, 
+u ~t~iritrc:cc.,/'ri~r~t 
+t/rc, hntl,l. 
+['They scnt Jean (who w;~s ;I waitress from IIIC horcl).'] 
+[Ibl 
+They consitlcrcd Mi.er Ilcrrtley, cr 1rcr.y ,qoocl teac~lrcr. 
+['They considercd Miss Hartley (who WEIS a vcry good tcachcr).'] [2b] 
+Explicit indicators of apposition 
+17.73 
+Numerous expressions are available for explicitly indicating nonrcstrictive 
+apposition. They can be inserted between appositives. for example rta1iie1.l: in 
+[l]: 
+How can a solution be found to the current discase of 
+contemporary society, natnely the internation;ll economic crisis? 
+[ l ]  
+(viii) PARTIAL, WEAK, RESTRICTIVE 
+His clain~ tlrat he couldrr't sec, tl~e car was unconvincing. 
+More than two units in apposition 
+17.71 
+.Tl~ougl~ 
+we 11;lvc I'oulitl it convctlicnt to cxcinplify :~l>position with ~ncrcly 
+two appositives, thcrc may occ;~sion;llly bc more Ll1;111 two i~nits in ill)~osiliot~ 
+;1t the s;ltne level, as in [l]: 
+They returned to their hirtliplace, their place i~/'rc~sitle~rce. 
+tlte 
+C ~ I I I I I I ~ J ~  
+i?/'11,11ic/r 
+11te.b I I Y , ~ ~ ,  
+~itiz<~tt,c.. 
+Ill 
+111 [l], there seems to be no reason for combining any two of Lhc noun phrases 
+as one unit in the appositional relationship. On the other hand, we oftcn find 
+cases in which two or more noun phrases function as one appositive: 
+She had a sp/e~~(litl 
+tiaccrtior~ : a Mediterrarreorr cruise and o trip to the 
+Bahamas. 
+L21 
+In this case, the coordinated noun phrases are together appositional to the 
+general term a splendid cacatior~ in relation to which a Mediterrarlcan critise 
+and a trip to the Baltamos are the particulars. But the units functioning as a 
+single appositive need not be coordinated by crnrl: 
+We have euerytkbrg ~ve need: land, brains, ~vealth, (and) ?echnolog.~. 
+[3] 
+In [3], the second appositive is an asyndetic series of juxtaposed units which, 
+taken together, are included under the general first appositional unit 
+etierytlri~ig weneed. There is yet another possibility: a hierarchy of appositional 
+relationships, as indicated here by bracketing: 
+We now find [a rte~v tjpe of student: [the reuolutio~tary - [the radical 
+bent on chartgirrg the system and the anarchist bent on destroyi~ig 
+itlll. 
+141 
+A new type of student is the first appositive, while all that follows it in the 
+sentence constitutes the second appositive. But within the second appositive 
+there is further apposition: the revolutiorrary is the first appositive, while what 
+follows in the sentence is appositive to it. 
+Ambiguity between apposition and other constructions 
+17.72 
+In 17.68 we noted the use of intonation and punctuatio~~ 
+separation for the 
+appositive in nonrestrictive apposition. Where the lexical items and syntactic 
+construction allow for potential ambiguity, intonation or punctuation 
+separation may or may not resolve the ambiguity. The pair of noun phrases 
+in [l] is interpreted as indirect object and direct object, respectively, 
+synonymous with [lal: 
+They sent Joan a waitress/i.om the hotel. 
+111 
+They sent a waitress from the hotel to Joart. 
+[lal 
+On the other hand, the pair in [2] is interpreted as direct object and object 
+complement, respectively, synonymous with [Fa]: 
+They considered Miss Hortle)~ a uery good teaclrer. 
+[21 
+They considered Miss Itartley to be a very good teacher. 
+Pal 
+If we add an explicit indicator of apposition such as nortreb., thrlt is, ie, we do 
+not regard this as changing full apposition into partial apposition, even 
+though the presenceof the indicator may affect theability of tllcconstruction 
+to meet the conditions for full apposition (cf 17.66). 
+The indicators express certain semantic relationships between the 
+appositives, and therefore cannot be used for all cases of apposition. Some, 
+however, have the same semantic function, though they may be associated 
+with different varieties of the language. Common indicators are listed below, 
+those marking the same, or similar, relationship being grouped together 
+(cf 8.137): 
+that is tosay, that is, ie (formal and written) 
+namely, viz (formal and written) 
+to wit (formal, esp legal) 
+in other ~vords 
+or, or rather, or better 
+and 
+as follo~vs 
+for e.~a~nple, 
+for instance, eg (formal and written), .ra.y, i~~cl~irli~ig, 
+included, sirch as 
+especially, particularly, in partictrlar, ~rotahly, cl~ieJIJ., niah!v, ~itostl~, 
+of 
+Some of these indicators either precede or (less commonly) follow the second 
+a positive: that is, that is to say,/or e.rantple,/or i~rstance, i~tparticular, in other 
+words: 
+most productive period, 
+is ( t o s ~ )  
+the 1840s, 
+{the 1840s. that is (to say), was a 
+rate. 
+l 
+time when public demand for fiction was growing at a tremendous 
+But other indicators can only precede the second appositive: ria~nely, atid, or, 
+or rather, or better, as folloivs, inclu(li~rg, sirch as, ok and the abbreviated forms 
+ie, viz, eg. Included can only follow the second appositive (cf 9.8): 
+
+
+1308 The noun phrase 
+Many people. 
+won,t forgive him for that. 
+my sister inclutl(,(l. 
+The scale of strict nonrestrictive apposition 
+17.74 
+In i~tltlition to the rclntiotlships we hnvc suhsutncd so fiir under our definition 
+01 ;1111~1siliol1. 
+WC I C C . ~ I I I I ~ / C  
+:I sc111:111li(: 
+SL.:I~C I I I I I I I ~ I I J !  1'1.0111 ~(l~~ivillc~lcc 
+(it' 
+'most appositive') to loosc and uncqual rclntionsltip ('least appositive'), s11c11 
+;IS cxcmplific;ttion. Tlicsc scm;lntic rcl;l~ionships arc ill(~stratcd in 1% 17.74: 
+'most 
+* (A) EQUIVALENCE (17.75-80) 
+appositive' 
+(Ai) appellation: rllitt is (10 scry) (17.76) 
+(Aii) identification: rmmely (17.77-78) 
+(A iii) designation: rhor h ro s(tv (17.79) 
+(Aiv) rclbr~nul;~tio~i: 
+~ I I  ot11c~ 11ori1.v 
+( I  7.XO) 
+(B) ATTR~BUTION [ =  nonrestrictive rcl;~tivc clnusc] (17.81--84) 
+(C) INCLUSION (17.85-87) 
+'least 
+(Ci) exemplification : /or r.~o)nplc, 
+so)) ( 17.86) 
+appositive' 
+( ~ i i )  
+particularization: especially (17.87) 
+Fig 17.74 A scale of semantic relationships in strict nonrestrictive noun-phrase 
+apposition 
+Of the three major semantic types (equivalence, attribution, and inclusion), 
+inclusion is the most peripheral to the concept of apposition, in that this 
+construction alone requires an indicator, such asparticularly in [3]. Compare: 
+My best friend, (that is to say) Anna, was here last night. 
+L11 
+The house, (which is) an imposing building, dominates the street. 
+[2] 
+The children liked the artimals, particularly the monkeys. 
+[31 
+On the other hand, equivalence is the only type that allows either order of 
+the appositives, as in [l] and [la]: 
+Anna, that is to say my bestfriend,. . . 
+[La1 
+*An imposing building, which is the house, dominates the street. 
+[2a] 
+*The children liked the monkeys, particularly the animals. 
+[3al 
+Thus, in terms of these two criteria, the scale from 'most to least appositive' 
+is in the order equivalence -r attribution -r inclusion. 
+Appositive-like relations exist also between other units than noun phrases, 
+such as clauses [4], predications [5], and adjectives [61: 
+Apposition 
+1309 
+types of cquivalcncc rc1;ltionship: ;tppcllation, identification, dcsignation, 
+and reformul;~tion. The types can hc partly tlilTcrenti:~tctl hy the dilrercnt 
+opli1111;11 
+i~i(lici~lors 
+tl~cy i ~ d ~ i ~ i l ,  
+(Ai) Appellation 
+17.76 
+With APPELLATION. ic ;I '11:lmitlg reI:~fi~tl'. 

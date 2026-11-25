@@ -1,0 +1,1223 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 15: Syntactic and Semantic Functions of Subordinate Clauses
+Covers: Nominal clauses, Relative clauses, Adverbial clauses, Comparative clauses
+[Part 10 of 10]
+============================================================
+
+Not long after this, there occurred a sudden revolution in public taste. 
+This construction, which may be related to other sentence forms by the 
+simple correspondence S + V - there + V + S (where S is usually indefinite), 
+is equivalent in effect and style to subject-verb inversion after an initial 
+adverbial (cf 18.23). Indeed, in all tlwre-existential sentences, there can be 
+regarded as a 'dummy element', which, placed before the subject and verb, 
+provides the necessary condition for inversion to take place. Grammatically, 
+there is a subject, as we saw in 18.46 above and as we see again here with the 
+operator inversion that takes place when the statement pattern is turned into 
+a question, eg: Will there come a time . . .?Did there occur a sudden reoolzrtio?t 
+7 
+. . .. 
+But the present construction requires some expansion of the rule given 
+above. In the first place, the verb must be intransitive (exceptions are 
+idiomatic or dubious; cf 
+Note [a]), and of fairly general presentative 
+meaning: verbs of motion (arrive, enter,pass, come, etc), of inception (enterge, 
+spring up, etc), and of stance (live, remain, srarld, lie, etc); but cf 18.50. In the 
+second place, while 'ontological' or 'bare' existcntials are commoner with 
+these verbs than with be (eg: Theresprang up a wildgale), the normal sentence 
+pattern concerned is SVA and the existential rule might be restated as follows 
+(treating sprang up as a single verb unit and not as V + A): 
+there + V: + S  + A 
+[l] 
+there+V+A+S 
+[2] 
+A + there + V  + S 
+[3] 
+For example : 
+There sprang up a wild gale that night. 
+There sprang up that night a wild gale. 
+That night there sprang up a wild gale. 
+Where thc S is postponed (cf18.31) as in [Z], thcrc is less constr;lin~ for the S 
+to be indefinite, doubtless bccause the postponcmcnt ilsclf. inlplics the 
+'ncwncss't~l' lhc ilc111 
+C O I I C C ~ I I C ~ I  : 
+'l'llcrc c:ltnc to his mind licr bc;~util't~l 
+i~nd illtclligc~~t 
+ktce. 
+If however the transitive verb is onc that Ibrms a V + N multi-word vcrb 
+((./'I h.SX), such scqucnccs arc I'l~lly :~cc.c.l~l;~l~lc: 
+Note 
+[alTransitive verbs in cx~stcntial sentencesare rare but \vould follow pattern 121 nhove in having 
+the S in end position: 
+'?There struck 11ic ;I S I I ( I C I ~ I I  iclc:~. 
+((Y "I'l~cre st111ck 
+IIIC i~ [;!l1 
+I I ~ : ~ I I  
+) 
+('!) 'l'llcrc IIIFII :I~I~I(!SIC<I 
+l l ~ c  
+I I I O C ~ ~ I I ~ :  
+llle IICW Ir;l<lcr<d 
+lllr I ) ; I I I ~ .  
+I n  view of the cullstr~lillls upon tr:lnaitive vcrhs, it is pclll;tlls hvllur 111 rcg;~r<l cx;t~nples 
+with 
+passivcs ;IS being speci:~l c;lses of he cxistenti:~ls (c/ 18.45). ' ~ I I I I S  wit11 tllc 1>;1ssive 
+or: 
+The mayor presented ;I gold medal (to the winner). 
+we can have: 
+There was a gold medal presented (10 thc winner) by tllc m;lyor. 
+Less commonly: 
+There was presented (to the winner) by the mayor a gold medal. 
+So also with progressive forms: 
+A dozen hungry people were standing in the rain. 
+There wcre a dozen hungry people standing in the rain. 
+Less commonly: 
+There wcre standing in the rain ;I dozen 1111ngry people. 
+[bl Examples like 'There's n parcel come' and 'There's n new history of Indonesi;~ published' 
+(cj18.45) should not be regarded as an existential division of the verb phr;~se as in 18.49 Note, 
+since without the there-construction we wculd have 'A parcel hns come' (not 'is come.) and .A 
+new history lras beenpublished'(rnther thsn 'is published'). T~IL~~,C;IJI 
+provide further anomalies 
+with pcrfectivcs, both passive and active: 
+There's a new grammar been written. ['A new gramm;ir is hcen written.] 
+There's a visitor been waiting tosce you. [*A visitor is been waiting to see you.] 
+Although we cannot expand b to lms (?*'There has a visilor been ur;~iting'). 
+examples like these 
+are doubtless facilitated by the facl that 'S is a contr~lction for 110s as well ;IS is (and occasionally 
+does: 'What's it matter?'; cj3.36). Acceptability is reduced when '.v is replaced by are and (still 
+more) by ~vas or were: 
+There are three visitors (?been) waiting to sec you. 
+There was a new grammar(*been) published recently. 
+Existential sentences with initial space adjuncts 
+18.50 
+We should now consider the type [3] ordering of 18.49: 
+A + there + V + S 
+For example : 
+That night there sprang up a wild gale. 
+Let us look at an example that pairs a verb of stance with the usual existential 
+verb be: 
+In the garden there 
+
+
+l 4  10 Thorr~o, foc~~a, 
+nlld informntion procnsaing 
+Since the place adverbial, In the garden, provides in itself the condition 
+enabling us to position the subject after the verb (cj'18.23), there is no 
+grammatical requircmcnt for there to bc present: 
+121 
+It should be noted that the range of verb-phrase forms with this type of 
+ordering is considerably wider than was specified in 18.49. Compare: 
+Into the room (there) had staggered a total strilngcr. 
+?There had staggered into the room a total stranger. 
+?*There had staggered a total stranger into the room. 
+W e  see from these examples that the wider choice of verb coincides with the 
+choice between the presence or absence of there. In considering examples [ I ]  
+and [2] above, we find that, despite the close similarity in meaning, the 
+absence of there as in 121 is preferred when the final noun phrase is relatively 
+concrete and specific, its occurrence relatively expected. W e  may say that 
+the verb in [ I ]  tends to connote 'chanced (to be)', 'htrppe~ted (to stand)', while 
+the noun phrase in (21 tends to connote 'a certairl (sundial)'. Significantly, 
+indeed, there is much less constraint upon indefiniteness in [Z]: 
+Table 18.50 shows the distribution of existential sentences in a large sample 
+of SEU material. They are all o f  the type under consideration here; that is: 
+A + (there) + V + S 
+and they are analysed in terms o f  three variables: 
+(i) whether the verb is be or not be (ie: sta~td, lie, appear, etc); 
+(ii) whether there is present as in example [ l ]  or absent as in example 121; 
+(iii) whether the subject noun phrase is indefinite or definite. 
+Tabje 18.50 
++ there 
+- tliere 
+Among the interesting facts revealed by the figures, the most striking is 
+doubtless the converse distribution (160:137, but 28:179) as between 
+indefinite and definite with be, showing the greater tendency to omit there 
+where the noun phrase is definite. It would seem that whereas the AVS 
+Indefinite 
+Definite 
+137 
+56 
+179 
+Existential sentences 
+141 1 
+construction without tllere is motivated by the wish to achieve cnd-focus, the 
+there-construction has the more general 'presentative' hnction: 41 8.49. 
+The have-existential device 
+18.51 
+Corrcspondingtothe typeofexistcnti;~l 
+scntcnce introtlucctl in 18.45 ((here + 
+be + S + predication), there is a type in which the thematic position is not 
+occupied by a mere 'dummy' elemect but is filled by a noun-phrase subject 
+preceding the verb 11a1!e (or, especially in BrE, har!egor): 
+The porter has a taxi ready. 
+[C'? Tliere is N t a ~ i  
+rea(/j'; A t a ~ i  
+i.s rcw(v. - Type SP"] 
+He had several friends in China. 
+[C& There were seuera1,jlirnrl.~ (0J'hi.r) br Cltitta; Se~~r.rol,jrit/s 
+(ofhis) 
+were ill Cltitia. - Type SVA] 
+I have two buttons missing (on my jacket). 
+My jacket has two buttons missing. 
+[ C '  There are t~vo butto~ls rnissitlg ; T~so 
+hutrotls are mi.rsbrg. - Type SV] 
+They had a few supporters helping them. 
+[Cf: There were a few supporrers helping thet?r; A ,fi'n< supporters were 
+helping them. - Type SVO] 
+As we show above, these clauses can be related to (and imply) some o f  the 
+basic clause types; thus, for example, The porter Ifas a taxi reab implies A 
+taxi is rendy [SVC]. 
+But the correspondence with basic clause types is by no means as 
+straightforward as it is with rltere-existentials. In the first place, an extra 
+participant is introduced as theme (The porter, He, I, They, in the examples 
+above). This is not merely absent from the corresponding basic clause but 
+cannot usually be inferred from it. Consequently, in formulating the 
+correspondence between have-existentials and the basic SVC type, we might 
+postulate: 
+NP1 +be+ C (NI'') - NPZ + have + Npl + C ( ~ p ' )  
+But while we are able to predict the tense of hace (since it must correspond to 
+that o f  be), we have no way of precisely predicting the NP' and usually no 
+way o f  even imprecisely doing so: 
+L had 
+Indeed, beyond saying that NP' will refer to a subject having considerable 
+involvement in the existential proposition, we cannot specify what that 
+involvement will be. Thus in: 
+Tlreporter has a taxi ready. 
+there is a strong implication that the NP' has an agerltice role, whereas in: 
+You have a taxi ready. 
+it is just as strongly implied that the NP' has a rc~cipic~rlt 
+or at any rate an 
+
+
+1412 Theme, focus, and information processing 
+ajecfed role (cf10.19). Calling it 'affected' sccms to statc Lhc involvcmcnt 
+witli ;I dcgree of gcner;llity that s;~tisfactorily accounts for most cases. 
+~ ' < l l l l ~ ~ ~ l l c :  
+A valuable watch was stolen. 
+[SV,,,,] 
+Mv.frierrt/ had a valuable watch stolen. 
+Ng~lr tllr ~~,,:.:.ilriliIy 
+a,l'ollir~ ~cl:llio~~sl~il>s: 
+There are scveral oak trccs in the garden. 
+77rey have scvcral oak trccs in thc g;lrden. 
+Note 
+[a] With a passive basic clause type, the verb generally has dynamic ralher than stative 
+(perfective) meaning: My jiie~ld hod Inis worth 5folo1 relates to Hir 1totc11 II'O.S 
+sfule?~ 
+in the sense 
+nl"S~~rneonc 
+stole his w;~tch'r;~thcr 
+than of'Somcone had stolen his wntch'. 
+(111 In ;l lilrllier hrrrr.-ct,~ialr~~ctit,~~ 
+(rspcci;~lly. 
+hut 1101 ~nccc\~i~rily, 
+wit11 IIIC pilssive: (.I: 110 IIOI~IIV 
+r r l l o ~ l ~ / r e ~ . s b ~ ~ ~ ~ ~ r u k ~ p e s ) ,  
+tlicsubjcctol'k~rrcgivcs up its'recipic~~t'r<~lc 
+lilr o~~cofilidirccl 
+;~gcncy: 
+Ife had all his erro~lies i,~tpriso~led 
+is most likely to mean 'Hc caused c111 his ellemics to be 
+imprisoned'. In thus involving specification or agency, this Aaas-conslruction is more remote 
+from tile corresponding besic clause (Ifis e,ro~lic~,y ~verc b,lpri,so~rc(fJ 
+thin tllc other examples we 
+have been considering. Compare analogous causiltives and ;~gentivcs: 
+John is in prison. 
+The engine was repaired. 
+((They) put John in prison. 
+( (They) got the engine repaired. 
+A taxi is rcady/i~ryorc. 
+[,S'VC] 
+A v;~lu;tblc watch was stolen front Irinr. 
+[mTl'r,,,,,l 
+Iiosi<lc:: 
+Yorr have a taxi ready forjorr. 
+Jolltr 
+,, } hitcl vi~ltlilhlc ~ i ~ t c l  
+stolrri 1111111 I,i,ii. 
+ljut the rcfcrcncc to :l par1icip;lnt may ho ~llisIe;~cl~~lg, 
+sillcc tllo SIIOJCC~ 
+c)(. 
+hor1e may bc agcntivc: 
+Tlrey have a taxi ready foryuu 
+Where the reference is the same, of course, pronoun identification works in 
+the usu;ll direction ((:/'10.4U//'): Illus: 
+.lohn had a valuable watch stolcn Srom lrinr. 
+#He had a valuable watch stolen from Jolrn. 
+Finally, it should be noted that in /rare-existcntials, the 'notional subjcct' (ie 
+the subject of the corresponding basic clause typc) can ltccly be dcfinite: 
+John's eldest son is helping him. 
+John has 11;s elrlest soil helping him. [assuming hrr.~ as cxistcntial and not 
+causative: cf16.52jJ 
+But although we cannot in general predict from the basic clause the reference 
+of the NPZ in have-existentials (and still less its form - Joh~t, He. My brother, 
+etc), the reference is often implied by nonexistential variants. For example: 
+Two of my buttons are missing. 
+[SV] 
+I have two buttons missing. 
+A brother of his was working in Chicago. 
+He had a brother working in Chicago. 
+In some cases, reference (though not of course form) is not merely implied 
+but actually specified in the nonexistential variant: 
+Mary and Alice. 
+I 
+A few supporters were helping 
+Mary and Alice 
+\{Th:he 
+boys } had a few supporters helping then?. 
+John was working for Mary. 
+[svA] 
+Mary had John working for her. 
+Many apples were still on the trees. 
+The trees still had many apples on them. 
+Again, where a basic clause type is extended to indicate recipient or other 
+participant role, the reference concerned may then be anticipated in the 
+subject of have. For example: 
+By contrast: 
+*There is {F']e/dest 
+helping him, 
+This would require a special context, such as 18.45 Note [a], to make it 
+acceptable. 
+Have-existential sentences with relative and nonfinite clauses 
+18.53 
+Corresponding to tl~ere-sentences of the same character (cf 18.48), the 
+following illustrate lraue-sentences containing rclative and infinitive clauses: 
+I've something I've been meaning to say to you. 
+He has a great deal to be thankful for. 
+(CfThere is a great deal for him to be thankful for.) 
+(?) They have a visitor come to see them. [= A visitor has come to see 
+them] 
+She has a guest staying with her. [= A guest is staying with her] 
+Compare also with passive nonfinite clauses (cf'18.52): 
+He had a book stolen. [= A book was stolcn from him] 
+She has bad some poems published. [= Some poems (of hers) have been 
+published] 
+In all these instances, the subject of houe could be 'arected', but in some it 
+could equally be agentive (cf 16.54, 18.51): 
+She has had some poems published. [= She has caused some poems (of 
+her own or by someone else) to be published] 
+
+
+As with hoce-existentials in general, the subject of hot,e may be totally 
+unprcdictnhlc from the corresponding hasic clause type or t11rr1,-existential: 
+Thcrc is a grcat deal for John to tlo. 
+Morj~ 11:~s a great dcol for John to do. 
+Nonfinite a n d  verbless existential clauses 
+18.54 
+Consider again finite-verb clauses of basic typc ancl thcir corresponding 
+existentials: 
+A taxi was soon available and Dr Lowc was able to catch thc train. 
+There was soon a taxi available and Dr Lowc was able to catch the 
+train. 
+Dr Lowe soon had a taxi available and was ablc to catch the train. 
+Corresponding to thcse finite clauses, nonfinite clauses can be formed, again 
+existential as well as nonexistential: 
+A taxi being soon available, 
+There soon being a taxi available, Dr Lowe was able to catch the train. 
+Soon having a taxi available, 
+In this last case, the subject of the nonfinite clause would be identical with 
+that of the main clause; if the subject is different, it can be supplied - at least 
+in rather formal English: 
+Tlleporter soon having a taxi available, Dr Lowe was able to catch the 
+train. 
+There are also corresponding verbless clauses, especially introduced by vith 
+or its corresponding negative without (cf 9.49), and these prepositions may 
+also occur in nonfinite clauses: 
+With a taxi soon available, Dr Lowe was able to catch the train. 
+Without a taxi soon enough available, Dr Lowe was unable to catch the 
+train. 
+With a taxi speedily summoned,. . . 
+With a taxi already waiting, . . . 
+A further type of verbless existential clause is illustrated in 18.44 Note [b]. 
+Emotive emphasis 
+18.55 
+Apart from the emphasis given by information focusing, the language 
+provides means of giving a unit purely emotive emphasis. We have noted, in 
+various sections of the grammar, a number of features of this type. They 
+include exclamations (cf 11.31f). the persuasive c10 in imperatives (cf'11.30), 
+interjections (cf 11.55), expletives and intensifiers (cf7.87fl; 8.104ff1, 
+including thc general clause emphasizers such as crct~rrrllj~, 
+).<,N~/J', 
+and it~cleed. 
+A thorough study of emotive expressions woultl involvc cx:llnitling figt~rcs of 
+spccch such its simile, Ilypcrb~~lc, 
+;tnd irony. I I C ~ C  
+WC ~onlinc ottrsclv~s to two 
+dcviccs which fall sqt~arcly within the provincc of gr:lmrn;~r. 
+Emphatic operators 
+18.56 
+We are here concerned with the difrercncc betwccn pairs likc the following: 
+You /look PALE this 'morning1 
+You lob'look 'pale this 'morning1 
+[Mary will be PLBASED~ 
+ary WILL 
+be 'pleased1 
+l 
+He IPRbMised to 'go1 
+He ldid P R ~ M ~ S ~  
+to 'go1 
+IM 
+l 
+I ~ T ~ L D  
+you1 
+I Idid TELL you1 l 
+The second utterance in each case resembles prosodically the opcrator- 
+stressed items discussed in 18.16. But as we see with [4] and [5], the opcrator, 
+though emphasized, need not carry the nuclear force. More importantly, they 
+all differ from the majority of those in 18.16 in not necessarily being 
+contrastive. For example, in: 
+the speaker is not here implying that someone has suggested that she will not 
+be pleased. Rather, the speaker (in a style that is sometimes felt to be rather 
+gushing and extravagant) is conveying enthusiasm: a pcrsonal conviction 
+about the truth of what is predicated. But the emotion conveyed need not be 
+enthusiasm: in [l] it is concern, in [2] sympathy, in [5]'something like 
+reproach or petulance. It is in this last connection that the ~ri/l/~tauld 
+of 
+'insistence' (cf 4.57) is regularly stressed: 
+]John WILL 'keep1 interl~irptingl 
+I  WOULD go and make a ' ~ 8 s ~  
+of it1 
+Note 
+[a] While it is obviously necessary to stress the dilTcrence between clnolive and contrastive 
+emphasis, we saw in 18.16 that not all oper;~lor-focusing 
+\V;IS contrastive, hlorcover, some 
+similarity in principle needs 10 be seen between emotive cmpli;~sis 
+and tile distribution of given 
+and new informiltion. For ex;lmple, in (31 above, tlie emotive eniplinsis on tt.ill ilnplics that 
+plr.nrcd is relatively given: we can lake the fact of her heing ple;~scd for granted and attend 
+inste;~d 
+to expressing ;I degree of enthusii~sm ahout it. 
+[bl Further intensification, if desired, can be achieved hy pl;~cing ;in empli;~sizcr sucli i~s rnlllyor 
+cernri~rl). in front of the opcr;itor, or bnkred after it: 11 r~ull). cIo<'.v rr,.crr II~CL,, 11 dorx*.s i110c~~d 
+INSIC 
+nic(a. Such adverbi;~ls arc cspccially helpful in wrilit~g since the). drnw :lttcntion to the need to 
+supply operator-stress; c/ 18.42 Nole. 
+[C] Despite its similar emotive connotations, the 'pcrsuasivc'~1o 
+in irnpcr;~tivcs (d.1 1.30) is ngnin 
+distinct from the above use of du. The impct.;~tive rL> does mt ohcy tl~e rule of '10-support: one 
+can say Do he qrri<,t!in imper;~tives, but there is nocorresponding sliitemeot *I/P ~xj~shr.r,rti~,r! 
+
+
+1416 Theme, focus, and information processing 
+Noncorrelative so and such 
+18.57 
+In familiar speech of a style that strikes many people as extravagantly 
+empIi:ttic, thc dctcrmincr stu.11 and thc ntlvcrh .so arc stressctl so :IS to give 
+cxclnm;tlory forcc to :I slittcmcnt. qucstiotl, or ilircclivc. In lhis usitgc. Ihcrc 
+is no accompanying correlative clause or plu;tsc (I:/' 15.49): 
+S11c w:~slwc:trin~'s~~cl~ 
+:I 11,vcly t>lti!ssl 
+1'111 Is0 i ~ l ' ~ , : ~ i c l  
+tl~cy'll [:cl 
+I.<JS'I~ 
+]Why are you'such a ~Abyl 
+[Don't L I ~ S E T  
+Y ~ ~ r ~ ~ ~ I " S ~ ~  
+In consequence, so and such become equivalent to hero and tijl~ut in 
+exclamations (cf 11.31 f ) :  
+'They wcrc so cross! 
+What delightful children they are! 
+But so and such can also occur, as the earlier examples show, in questions and 
+directives. Additional emotive emphasis is achieved by assigning a nucleus 
+to so or stcch : 
+I'm Is6 PLEASED[ 
+Note 
+Other wordsof strong emotive import may take a nuclear tone for special emotive force: 
+I ~ W ~ S H  
+you'd ~istelll 
+I llove that htiisicl or I I L ~ V E ~  that l~irsicl 
+I'm /rbRribly so~ryl 
+Reinforcement 
+141 7 
+It will be noticed that in each case a complete noun phrase is disjoined from 
+the grammar of the sentence, its role (as subject ant1 olljcct rcspcctively) 
+bcing gr:tmrn:~lic:tlly pcrk)rtnctl by suhsc(lt~cnt prono~~ns. 
+13111 in [wing thus 
+frontctl, as tn:trkcd thcmcs ((:/'IN. 19). the disjoinctl notln phrases clcarly set 
+out the 'point ofdeparture' for the uttcritt~ce as :I wholc. It is not uncommon 
+Ibr long noun phr;~scs which :trc nonli~c:ll t o  hc t1111s trc:~lc(l i l l  I'i~milii~r 
+sl)rrcIt. :I C ~ I I V C I I ~ ( . I I C C  
+:~likc 10 IIC;IICI. 
+( i l l  I C C V ~ V ~ I I ) !  
+; l 1 1  C . I I I ~  '~I:IICIIICIII 
+01' 
+it 
+colltplcx itcnt) i~nd s~~e:tker 
+(in not h:~vi~lg 
+10 itlc~rporitic S I I C ~ ~  
+iin item in the 
+grammatical organization of his t~tterancc). 
+Note 
+This phenomenon, along with that in 18.59, is sometimes termed 'left- ;ind right-disloc;ttiOn': 
+cf17.78. 
+Amplificatory tags 
+18.59 
+Incou111sl to tl~cliontitigofitenlsto bcsubscquently reinforced prot~otninally 
+(as in 18.58), an amplificatory phrase may be informally added after the 
+completion of a clause structure which contains a coreferential pronoun : 
+They're all the same, tlresepoliticiot~s. 
+I wouldn't trust hit?! for a moment, your hmtller-bt-lcrlv. 
+Such utterances are usually spoken with divided focus (cf.18.17), with a rise 
+on the 'tag' confirming its relatively 'given' status: 
+They're /all the SAME, these poliriciansl 
+I (wouldn't trust him for a Moment, your ~ ~ b ~ ~ e r - i n - l a w l  
+The tag can be inserted parenthetically, as well as placed finally: 
+He's got a good future, your brother, if he perseveres 
+Reinforcement 
+Repetition and 'proxy' pronouns 
+18.58 
+Redorcement 1s a feature of colloqu~al style whereby some ttem 16 repeated 
+(elther completely or by pronoun substttut~on) for purposes of emphas~s, 
+focus, or themat~c arrangement Its s~mplest form IS merely the relteratlon 
+(wtth heavy stress~ng) of a word or phrase for emphas~s or clar~ty. 
+It'sfar, far too expensive (Cf 7 89) 
+I agree w ~ t h  
+every word you've s a ~ d  
+-every srngle word 
+In very loose and ~nformal speech, a re~nforc~ng 
+or recap~tulatory pronoun IS 
+sometimes ~nserted wrth~n a clause where ~t stands 'proxy' for an l n ~ t ~ a l  
+noun 
+phrase 
+T11u man I was telltng you about - well, he used to l ~ v e  
+next door to me 
+TIE hook Iient you - have you fin~shed tt yet? 
+An even more informal type of tag comprises a subject and operator: 
+That was a lark, that was! 
+He likes a drink now and then, Jim does. 
+In some dialects of English (especially Northern BrE), the operator may 
+precede the subject: 
+She's a lovely girl, is Ann. 
+Postposed nonfinite clauses, of the kind discussed in 18.35, sometimes closely 
+resemble amplificatory tags; contrast: 
+It was tough getting the job finished on time. 
+[/tough. . . 
+. . .TI'MEI] 
+It was tough, getting beaten in the last match. 
+[JT~uGHJ/. 
+. . 
+. .   MATCH^] 
+Note 
+[a] The umplificatory tag should not be confused with either vocatives (l:/ IO.52f) or wl~at may 
+be called 'tag exclamations', such as Ilc ran O!I~(JJ~.~~IIVI 
+S C I I ~ O I . .  the iclirrr (d.17.68 Note [b]). Both 
+these constructions aredistinguished fcom it intonution;~lly, 
+in tlx~t thcy m;ly form tlle 't;~il' ora 
+preceding nucleus, instead of having llleir own (usually rising) nucleus. The intoniltion rn~~rks 
+the following as usually tag and vocative respectively: 
+He's a \good cllip J ~ H N I  
+He's a /good C
+~
+P
+ 
+'John( 
+
+
+On Communicative Dynamism, see Firbas (1971, 1975, 19801; Svohod;~ (1968). 
+On existcnliill c o ~ ~ s t r ~ l c ~ i < ~ l ~ s ,  
+see Illcivik (1970, 10x1); 1:1,1111.1~~~~ (1970); ~ , . ~ ~ l i i ~ ~ ~  
+(1975); 
+I(illllj:lll (107.l:r); Mil.;:lrk ( 107')); 1li111,lo :III,~ 
+Ni~ltt~li 
+( I O ~ I O ,  
+011 stylistic ;~spccts of intonation, sec I%;IILI 
+(1979/XO): li~lli~~gcr 
+(11)72c); C'I~:~rlert~~;~ 
+(1960): 
+Crystal (1975). 
+On i1lton:ltion illid gr;lmrnilr, sec /\lldr& (1074); Crystill 11000. I9XO): l l;!llt~l:$~ 
+(1907). 
+On conlrnstive ncccntuation, sec Allcrton and Crutlendcn (1979): I%olingcr (1961~); Cllnfc 
+(1976); Enkvist(1980). 
+On extraposition and other aspccts of itcm or~lcririg. sec Ertlnlirnn (1981); Il;~rtvigsorr ;rnd 
+Ji~kobscn (1974): Roscnh;~um (1967~): R~ld;rnko (I9X21. 
+O~l~crrclcv:r~r~ 
+kt11~1ics 
+i~lcl~~clc 
+ll~1li11gcrll~~7Sl~, 
+l')7'!:0, 
+ll~!,il ct ;)l 1 10x11); l l ~ ~ ~ l ~ l l c ~ ~ ~ ~ ; ~  
+( I 071 ): 
+1-ccch (1981b): 1.yoll.s (1977); M;~thcsiss (197.0; VC'c~rrnor ;rr~<l Ann~l<l 1197.1): Scli~ilcrli~i~ 
+(1 976). 
+14 18 
+Thun~e, focus, ond Ir~formalion procnsainrl 
+The exclamatory tag is furtller distinguished by being capable of (i) referring hack to a noun 
+IIIIIIISC oll~cr 
+III;III ;I ~ I ~ ~ I I ~ I I I : :  
+'I h811 hnrtller <11'111irle 
+r;lrr ;iw;ry li~,~rr 
+scll~lol. Il~c i~liol. 
+and (ii) occurring initi;~lly as wcll ;IS lin;rlly: 
+Tllc idiot, he ran ;~w;!y fro111 school. 
+focus: 
+He's alsilly ioiotl 
+'fl~cy Ilost tl~cir'di~rncd 
+wiul 
+His lwork is'bloody iwl'ull 
+1 \told them to 'darned 'well Listen1 
+Compare tniesis (App 1.76 Note [c]) where the inserted amplific;~tion is usui~lly madc just prior 
+to the point of main emphasis: 
+far,'lt~.rlic - 
+fan-'/lar,rir,s-"la.rric 
+In 'She lost her darned way', it is not of course thc final noun phrase as such that calls for 
+expletive comment. The whole utterance is emotion;~lly coloured, and in extreme cases such 
+colouring (especially in exasperation) is expressed at addition;ll points in the sentence structure: 
+These hlasred people have rlarnerl ~vell lost thcir sllpid way! 
+Alternatively the 'scope' of the colouring as well as the colouring itself can be expressed by 
+prosodicmeans,'She'slost her way'being uttered withanexceptional intensity orothermi~rking 
+[c] In responses of a rejoinder kind, we find a combination of fronting (cf 18.20fl with 
+amplificatory tagging: 
+A: Have I arranged tosee anyone this afternoon? 
+B: Well, M ~ S B L ~ K E ,  
+YOU HAVE. [-'YOU have arranged tosee Mrs Blake'l 
+A: Do you write poetry? 
+B: s o ~ ~ t i m e s  
+I DO. [-'I write poetry sornctimes'] 
+Where such replies are negative, both parts are negated, though responses in this form are then 
+restricted to rather informal usage: 
+A: Have I made this clear to you all? 
+B: Not to ME, you ~ 6 v ~ n ' t .  
+[-'To the others perhaps, but not to me'] 
+A: May l go in? 
+B: Not YET, you C ~ N . T .  [-'YOU can't go in yet'] 
+It will be noticed that the use of fall-plus-rise, potting the fall on the most salient part, the rise on 
+the partly 'given', corresponds to the general use described in 18.17. 
+Bibliographical note 
+On information processing in relation to given and new, see Allerton (1978); Allerton and 
+Cruttenden (1979); Chafe (1976); Dahl (1974); Firbas (1975, 1980); Halliday (1967-68); Kuno 
+(1976b); Li (1976); Taglicht (1982. 1984); Waida (1979). 
+On Functional Sentence Perspective, see Daneh (1974): Firbns (1970, 1971); Hajizovl and 
+Sgall(1982); HajiEovl and Vrbovi (1981); Kuno (1972); Mnthesius (1929). 
+
+
+1 9 From sentence to text 
+19.1-18 
+General: the notion of 'text' 
+1423 
+3-4 
+Context : I I I ~  
+~ I I C  I ~ I I C - S ~ - I ~ ~ ~ I I ~ C  
+1 ~ x 1  
+1424 
+.S 10 
+A ~ ~ I I ~ ~ C ~ ~ ~ C O I I I I C C ~ ~ ~ I I I  
+1475 
+.7 
+Structural parallelism 
+1426 
+.8 
+Connection by sequcnce 
+1428 
+.II 
+Syndciic conncciion 
+1429 
+.12-13 
+Thematic connection 
+1430 
+.l4 
+Rhcniatic connection 
+1432 
+.Is-16 
+?'cxlu;~l oricntaiion 
+1432 
+.l7 
+Basic relational structures 
+1433 
+.l8 
+Discourse strategies 
+1435 
+19.19-29 Connective devices 
+1437 
+.20 
+(a) Pragmatic and semantic implication 
+1437 
+.21-24 
+(b) Lexical linkage 
+1438 
+.22 
+Lexicon, shared knowledge, and grammar 
+1439 
+.23 
+Lexical recurrence 
+1441 
+.24 
+General hypernyms 
+1442 
+.25-29 
+(c) Prosody and punctuation 
+1442 
+.26-27 
+The lexical independence of prosody 
+1443 
+.28-29 
+Punctuation 
+1445 
+.28 
+The paragraph 
+1445 
+.29 
+The sentence 
+1446 
+19.30-68 (d) Grammatical devices 
+1447 
+.31-38 Place and time relators 
+1447 
+.32-34 
+Place relators 
+1448 
+.33 
+Elliptical, lexical, and grammatical indicators 
+l449 
+.35-38 
+Time relators 
+1451 
+Temporal ordering 
+_-.-_p_ 
+.-- 
+-1452-- 
+-- 
+. 
+- - 
+.39-43 
+Tense, aspect, and narrative structure 
+1454 
+.41 
+Tense complexity in narrative 
+1455 
+.42 
+Special uses of present and past 
+1457 
+44-45 
+Determiners, pro-forms, and ellipsis 
+1458 
+.45 
+Limitations on pro-forms 
+1460 
+.46-52 
+Discourse reference 
+1461 
+.47 
+Clausal reference 
+1461 
+.48 
+Formulaic utterance 
+1463 
+.49 
+Noun-phrase reference 
+1464 
+.51 
+Personal pronouns 
+1466 
+.52 
+Comparison 
+1467 
+
+
+Gnrlotnl: tlio notion of 'lnxt' 
+1423 
+The textual role of adverbials 
+Adverbials as structural indicators 
+Coordin;ltion ;incl suhortlinatio~~ 
+Pairs and triads 
+Contrasting coordination ;tnd subordination 
+The part played by questions 
+Questions as directives 
+Rhetorical questions 
+1';irticip;lnt involvctncnl 
+Speaker/hearer contact 
+Information processing 
+Infornlation and sequence 
+19.69-75 
+The scrutiny of a n  example 
+.70-71 
+Pragmatics and semantics 
+.72 
+Lexical features 
+.73-75 
+From punctuation to prosody 
+.74 
+The sentence units 
+.75 
+Prosodic realization 
+Features of grammar 
+Determiners and connective reference 
+Pro-forms and connective reference 
+Tense and narrative structure 
+The part played by marked aspect and voice 
+The cohesive role of adverbials 
+Coordinate and subordinate clauses 
+Information structure 
+19.85-90 
+Further illustrative t e x t s  
+.85 
+A personal letter 
+.86 
+Some paragraphs on food 
+.87 
+From a formal speech 
+.88 
+Conversation among friends 
+.89 
+Telephone conversation 
+.90 
+Leaving a recorded message 
+Bibliographical note 
+General : the notion of 'text' 
+19.1 
+7'liroughoul this book. two i11tcrrcl;ilcd ;icls 01' i~iii~gitiittioti 
+II:IVC 
+bccn 
+demanded of the reader. 
+First, WC have expcctcd that cxamplcs, thougli incvit;tbly appcaring before 
+the reader only in print, would be not only read but 'lieard'. We have 
+constantly stressed the primacy of speech, both in nI(l.\..r terms (tlic fact that 
+far more language occurs in spcccli than in writing) and - much more 
+signilicantly - in lit~~r~i.vtic. 
+terms (tlic Ltcl 111;1t tlic wriltcn form must cvokc 
+(he orill forni, just ;is though WC licartl tlic words rc;id aloud). And wc have 
+sought to bring this home to the user of the book by repeated if clumsy 
+reference to 'speakerlwriter' and 'reader/heiirer3. 
+Second, we have expected that cxarnplcs wo111d be pliiced in a suitable 
+context. Thus, although we have presented formsandconstructions as though 
+they were fully explicated within isoliitcd sentences, we havc been aware that 
+it would not have been possible to understand the presentation unless every 
+structure and every exemplificatory sentence had bccn placed by or for the 
+reader in an imagined context. Indeed we have made our awareness explicit 
+in a large number of cases by providing cues to tile type of context in which 
+agiven form was to be appropriately used and plausibly understood. 
+19.2 
+In the present chapter, we work in a converse way. We take TEXTS as our 
+starting point and examine the language comprising them. In other words, 
+we bring together all the grammatical processes already described but we 
+do so now with a view to discussing their role in both the interpretatlon of 
+a text and in the construction of a text. And we shall pay considerable atten- 
+tion to lexical and other features of textual structure in order to show that, 
+important as is the role of grammar, many factors other than grammar are 
+involved. 
+Moreover, as we are using the term, a text - unlike a sentence - is not a 
+grammatical unit but rather a semantic and even a pragmatic one. A text is 
+a stretch of language which seems appropriately coherent in actual use. That 
+is, the text 'coheres' in its real-world context, semantically and pragmatically, 
+and it is also internally or linguistically coherent. For this latter facet, the 
+term 'cohesive' has been applied, referring to the actual forms of linguistic 
+linkage. 
+A text may be spoken (as are the vast majority) or it may be in writing. It 
+may be the product of a single speaker (as with an announcement on an 
+airport public-address system) orof several speakers engaged in conversation. 
+Textual structure relates to the concerns of this book -the grammar of 
+English - by virtue of the fact that texts are realized in grammatical units. 
+But the grammatical units occurring in a text are often very different from 
+the corresponding grammatical units as they are described in tcrrns of the 
+English grammatical system. Consider for example, as part of a text, the 
+response : 
+Me, too! 
+Among the possible texts in which this might occur, we could suggest: 
+
+
+'I wish l h;~d ;I cllink' 
+'Me, too!' 
+'My feet arc aching' 
+?'MC, too!' 
+but not: 
+'Would you likc a tlrink?' 
+*'Me, too!' 
+or: 
+'It's starting to rain' 
+*'Me, too!' 
+IS1 
+In [l] the second speaker makes his response on the basis of a relatively 
+straightforward elliptical form of what he has just heard (cfl2.lfl; 12.31fj; 
+12.46fl, 13.44fl): 
+(This noise is giving) me (a headache), too! 
+With [2], what is superficially the same response involves pronoun- 
+replacement (cf 6.1411; 10.48fl; 12.811)): 
+I(wish I had a drink), too! 
+Only the respective rextualstructure as a whole can determine the grammatical 
+structure in terms of which Me, too is being used. The role of the response in 
+[3] is clear enough semantically ('My feet are also aching'), but grammatically 
+its relation to what has preceded is vague and uncertain; though it might 
+occur in familiar speech, many people would find it textually ill-formed. 
+But by contrast with [l], [2], and [3], the response 'Me, too' in [41 and [51 is 
+a non sequitur textually and equally impossible to relate to a plausible 
+structure in the grammatical system. 
+Context and the one-sentence text 
+19.3 
+It is natural to think of a text as being realized in a string of several sentences: 
+that it is connected sentences that constitute a text. But in fact a text may be 
+wholly realized in a single sentence, and if we consider such an example we 
+shall see the significance of the point made in 19.2 that a text was not SO 
+much a grammatical as a semantic or pragmatic unit. Even a single word can 
+be a text that is 'appropriately coherent in actual use' (cf19.2): a road sign 
+bearing the word DANGER, for example, as compared with one that read 
+Roger's finished the thesis! 
+The same text might of course be spoken: someone comes into the room and 
+withdraws again having said only: 
+IRoger's finished the ~ ~ f i s i s l  
+The grammatical properties ofthe sentence rc;~lizing this tcxt and necessary 
+for our understanding of it have hccn tlcscrihctl in c;~rlier ch;~pters. The 
+firrSi!clivc /!(!,S /i!!i,v/r~~(/ is I I I I ~ ~ I Y I O ~ ~  
+( i l l  ~ o ! I I I : I ~ ~ I .  IOI r x ; ~ t ~ ~ f > l r ~  
+will1 IV;// 
+,/i~ri,s/l); Illc ~ ~ c l c r ~ ~ ~ i ~ ~ c r  
+tht, ( i l l  coliIr;~sl 10 (1 or /ri.~J; IIIC si~~guli~r 
+t/rt~,vi,s; Ille 
+intonation nucleus on r11esi.s (and not, for example, on Rogc,r); the whole 
+being tleclar;itive (and not interrogative, /Ins Ro,qor. . .?),etc. But ;IS realizing 
+;I tcxt, thcrc is much morc hcrc. 7'hc tcxt tlcpcntls upon our knowing Rogcr 
+(and knowing him as Roger a ~ i d  not as Mr 7iij./or), on knowing what a thesis 
+is, on knowing ahool this p;~rticul;~r 
+thesis (;I tlilrcrcnt tcx~ might II;IVC h;ltl (1 
+tiresis 011 arrotlcrutic.s). Less obviously, pcrll;ips, the tcxt tlcpctlds on our 
+knowing what Jinishirtg involves: Roger may have been writing his own 
+thesis, typing (or binding) one for someone else, or completing his work as 
+an examiner of the thesis. As well as convcying all this, the text will mean 
+more to us. It is another instance of Roger's speedy eficicncy, perhaps (as 
+though the text had included the adverbial alrearly). Or it conveys relief after 
+an intolerably lengthy period (as though the text had included the adverbial 
+at last). Or it may be a signal that Roger is now free to indulge (let us say) in 
+a game of tennis. 
+These are all covert connections (that is, they are given no actual 
+expression), but according as the situation determines, the piece of text could 
+be expanded by some such comment as one of the following: 
+That's Roger T~YLOT, 
+I suppose. 
+Aha -so aeronautics takes a big step forward ! 
+Gosh - that was quick! 
+And about time too! 
+Oh, good: he can take on Frieda at the end of this set. 
+19.4 
+All of these additions have one thing in common: they each show a plausible 
+interpretation of the original short text. They also form a close connection 
+with it and with the wider context which determines the satisfactory 
+coherence of the text. Clearly, not all of the interpretations involve grammar: 
+the lexical meaning of thesis, for example, or the use of the text as an 
+announcement that a game of tennis can start. But in the connections that 
+texts manifest, it is equally clear that grammar plays a considcrablc rolc and 
+it is on this connective potential of grammar that we shall be concentrating 
+in this chapter. And 'potential' is a key word, since (as we have already seen) 
+connection may be covert as well as overt. 
+Asyndetic connection 
+19.5 
+Just as a text realized by a single sentence has a complex of covert connections 
+with its context, so any two neighbouring sentcnccs will be perceived as 
+being connected. Mere juxtaposition (parataxis rather than asyndeton) is an 
+icon of connectedness, even where the juxtaposed parts have no grammatical 
+or lexical feature in common: 
+Go and visit your father; it's New Year's Day. 
+It's New Year's Day. G o  and visit your father. 
+The perceived connection here is the same, whichever sentence comes first, 
+just as we will connect a child seen in the park with an adult, whether the 
+
+
+1420 From riontonco to toxt 
+Gonerill: tlin r~otion of 'text' 
+1427 
+child is running allend or trailing behind. So too, the text in 19.3 might have 
+I7cc11 cxp;llldc(I :IS: 
+Roger's finished thc thesis! Caroline arrivcd from New York last wcck. 
+Thcsc two sentences arc g~.;tmtnatically asyndctic ant1 quite unrelated. Hilt as 
+a text or as part of a text, thcy arc connected, and - if the tcxt is successful - 
+thc conncction will be clear to the reatlcr/hearer: Caroline's rclation to Rogcr 
+will already be known and doubtless also the conncction between the thesis 
+work and Caroline's :trriv;tl. Even if wc arc mcrcly 'eavcstlroppers' on this 
+tcxt, we find otlrselvcs speculating on possiblc connections. I'erhaps Caroline 
+brought with her the last piece of material that Rogcr required for completing 
+the thcsis; perhaps Caroline's arrival spurred him on to completiotl; perhaps 
+the conncction with Citrolinc's arrival is nlcrely tI1;1t she brought the news. 
+Any of these connections is fully compatible with the grammar of the two 
+sentences but none is made linguistically overt. This would remain true if the 
+two sentences were in converse order: 
+Caroline arrived from New York last week. Roger's finished 
+the thesis! 
+Such sentences in text can be said to be truly asyndetic (cf 13.1), in allowing 
+connection by a~zd, should we so wish. 
+Note 
+[a] It is tempting to draw an analogy between asyndetic connection and our familiarity with a 
+situation such that overt expression can be curtailed. In 19.3, we noted that 'Roger's finished the 
+thesis'might have covertly conveyed or lost. lf this interpretation is the correct one, then: 
+Roger's finished the thesis! 
+[I1 
+Roger's finished the thesis at last! 
+1-21 
+After ten long years, Roger's finished the thesis at last! 
+l31 
+can be seen as synonymous but with decreasing degrees of 'asyndeton' wit11 the context. In [I], 
+the reference to duration is totally covert; in (21 it is overt but imprecise; in [3] it is still more 
+overt with the specification of the length of time that is held to justify r ~ t  lost. We shall hive 
+occasion to use this extended sense of asyndeton in examining the, grammatical potential of 
+sentences in texts (for example, in relation to the absence of necessarily invoked performatives; 
+cf19.64). 
+[bl Some scholars use the term'parataxis' for clauses without formal linkage; others would call 
+this 'osyndetic parataxis', applying the unrestricted term to all clause relations that are not 
+Iryporacric (ie involving subordination). On our own use of these terms, cf13. If. 
+19.6 
+Consider now a variation on the two-sentence text given in 19.5: 
+Roger's finished the thesis! Caroline has gone out to the supermarket. 
+Although these sentences are asyndetic in the sense of 13.1, there is a slight 
+but significant grammatical relation. The verb phrase is perfective in each 
+case and while this does not enjoin a particular interpretation, it certainly 
+helps to suggest a range of possible close connections: what Caroline has 
+done seems to match in some way what Roger has done. The completion of 
+the thesis has perhaps released her to go out on an errand; or it has caused 
+her to go and buy celebratory wine. 
+Structural parallelism 
+19.7 
+Indeed, although they might formally be regarded as asyndetic (and they are 
+certainly paratactic). neiglibouringscntenccs 1I1;tt sliarepra~n~n;~tic;il 
+features 
+ol'lcnsc, ;~spccl, 
+C I ~ I I I S C  slri~clttrc!, or worcl or(l..r }l,ivc :I ~Iro11f9, 
+i~llprc~s~io~l 
+of' 
+I~cirig conncctcd thcrcby. Sucl~ gra~nln;ttic:~l ~);trallclis~n 
+is ol'tci~ ctldorsctl 
+lexically. Consider the relatively ;~hstr:tct fr;~rnc, now illustr;~ting hoth 
+coordination and suhortlination: 
+and comparc the following whcrc thc b1;tnks arc fillcd: 
+The baseball game was cancelled in Ncw Haven 
+andlwhile the hockey match was postponed in Hartford. 
+[l1 
+but/whcreas the hockey match was (duly) played in H;trtford. 
+[2] 
+(where New Haven and Hartford arc related as well-known cities in Con- 
+necticut). 
+The parallelism between sentences is more transparent, and hence the 
+connection between the sentences is more strongly indicated, if the word 
+order is not the normal one. The eKect of fronting an element in such cases is 
+to point to a contrast between the sentences. Indeed, in [3] the unusual order 
+of the first sentence makes us expect a similar and related one to follow 
+(cf 18.20): 
+Mypaintings the visitors admired. M)~scrr/ptrires they disliked. 
+[3] 
+In New York it is hot and humid during the summer. III Los 
+Angeles it is hot and dry. 
+[41 
+From the ceiling hung a huge lamp. Alorlg the ~vall were pikes. 
+[S1 
+The direct objects and the space adjuncts in [3] and [4] respectively are in 
+initial position instead of their normal final position. In [5] the nonnormal 
+position is accompanied by subject-verb inversion. When constituents are 
+fronted, then we can infer a connection between the sentences even where 
+there is little or no other structural similarity: 
+ProurNy, the captain hoisted the flag. SoJily, a bugle soundcd. 
+[61 
+Moreover, only an apparent similarity in structure is sufficient to suggest 
+parallelism between sentences: 
+Mypaintblgs the visitors admired. M~scrtlpt~rres 
+irritated them. 
+[7] 
+Our impression of a link between the two initial noun phrases in [7] is given 
+impetus by the fronted position of the direct object r11)~pcri11tir1gs in the first 
+sentence and the expectation that we are encountering a similar inversion 
+when we reach my scrrlptures, though in fact the former is direct object and 
+the latter is subject, in its normal position. The impression of a link between 
+the two initial noun phrases is reinforced by the internal structure of the two 
+phrases and the lexical set to which both paitltirrg and sntlptrire bclong. The 
+two sentences are further linked by a semantic parallelism, realized 
+syntactically in two ways: a person has a feeling towards an object, an object 
+arouses a feeling in a person. They are also linkcd, of course, by the use of 
+the pro-form them in the second sentence which replaces tlre ~~isitors 
+in the 
+first sentence. 
+
+
+1428 From sentence to text 
+Gcncral: the notion of 'text' 1429 
+Connection by sequence 
+19.8 
+Sentences with gr~mmatical features in common, such as the same subject or 
+the same tense, often imply temporal ;und causal connection. I11 other words, 
+where we saw juxtaposition in 19.5 as iconic of mere connection, we now scc 
+it as iconic of'conncctcd scquencc. As the two rcal-world cvcnts, :I policeman 
+holding up his hand and a car coming to a standstill, Sollow cach other in 
+time, so asyndetic narration of these events will preserve this sequence: 
+The policeman held up his hand. The car stoppcd. 
+[ f  l'lic car stoppctl. Tlic policcrn:ln licltl up his hant1.I 
+This is well illustrated in the text attributed to Julius Caesar after his Pontic 
+triumph: 
+I came. I saw. I conquered. 
+Even without the lexical meanings of the verbs, the sequence suggests: 
+I did something. 
+And then (in consequence; cf 13.23) I did something else. 
+And then (in further consequence) I did something else. 
+Moreover, given that (as we shall see) triadic sequences have special 
+implications, the third of the above suggests not merely 'in further 
+consequence' but 'as a still further and climactic consequence'. Yet the text 
+could not work as a text unless the lexical meanings of the verbs were known; 
+these not merely confirm the consequential structure but make the particular 
+sequence of paratactic sentences obligatory. Compare the relative difficulty 
+of seeing the following as a coherent text: 
+I conquered. I came. I saw. 
+On the other hand, even with formal asyndeton, if we alter grammatical 
+features such as tense, we can then switch the order of sentences so that it is 
+no longer iconic and no longer asyndetic in the sense of 13.1 (since and- 
+connection is impossible). They are now merely paratactic: 
+The car stopped. The policeman had held up his hand. 
+We here achieve paratactically the sequence freedom that is readily possible 
+syndetically: 
+The car stopped use} the policeman held up his hand. 
+19.9 
+We have spoken of texts realized by one or more sentences. Butjust as we saw 
+that it made no necessary substantial and inherent difference to a text when 
+it was expanded by an adverbial (cf 19.5 Note [a]), so it makes little difference 
+whether a text is punctuated as three sentences or one: 
+I came, I saw, I conquered. 
+Of course, a close relation between the parts is still more clearly implied 
+when commas separate the first two and a period appears only after the third, 
+and it is worth noting that a spoken form of this text (irrespective of 
+punctuation) would normally show the 'dependent' status of the first two by 
+rising nuclei in contrast to a fall on the third: 
+I C ~ M E ~  
+1 SAWI 1 c ~ ~ q u c r e d .  
+(Cffurthcr 19.25) 
+19.10 
+We have seen (qf 19.5, 19.7) that asyndetic connection has the cffect of 
+making the structure of a tcxt extretncly depcndcnt upon the sequence of 
+sentences realizing it. There arc obviously no gr;~rn~n;~tic;~l 
+constr;~ints upon 
+tlic ortlcr of: 
+Roger's finished the thesis! Caroline arrived from New York last week. 
+as compared with: 
+Caroline arrived from New York last week. Roger's finished the 
+thesis! 
+This being so, we must scrutinize the actual sequence all the more carefully 
+to find a textual reason for the particular juxtaposition we encounter. In fact, 
+the absence of grammatical constraints seems quite rare, to judge from both 
+the spoken and written material of the Survey of English Usage. More 
+commonly, the order necessary for the presentation of the text is enjoined by 
+grammatical factors such as the sequence of pronouns in relation to 
+antecedents: 
+Roger's finished the thesis. His wife arrived from New York last week. 
+The appearance of his here doubly provides a formal link between the two 
+sentences in showing that Roger has a relation to both, and in confirming 
+their particular sequence. (Contrast Roger's wife arrired from New York last 
+week. He'sfinished the thesis. Here the pronominalization is again in the 
+second sentence but the two sentences are reversed in sequence.) 
+Syndetic connection 
+19.11 Another way of indicating both the relevance of sequence and the closeness 
+of textualconnection is to introduce an overt connecting item, most frequently 
+the coordinator and (cf 13.5ff): 
+Roger's finished the thesis and Caroline arrived from New York last 
+week. 
+But although and is the most neutral and semantically uncommitted of 
+connecting items, it will be noticed that some of the options for interpreting 
+the text (cf 19.5) are now precluded. Even the 'eavesdropper' who knows 
+nothing of Roger and Caroline may now interpret the two parts as having a 
+temporal sequence matching the textual sequence: perhaps Caroline has 
+waited for the thesis to be completed before leaving New York. This may be 
+brought out more clearly with an alternative set ofexamples: 
+The rain has stopped. She's gone for a walk. 
+The rain has stopped and she's gone for a walk. 
+She's gone for a walk. The rain has stopped. 
+
+
+1430 From sentonco to tuxt 
+?She's gonc for ;I walk and thc rain has stoppctl. 
+141 
+Goncr;~l: tile tlolio~~ 
+of 'text' 1431 
+Tlic tiuhious tcxtu:il cohcrcncc of tlic 14) version tiiakes clcar that, with 
+hy~lclclic ~ ( I I I I I C C ~ ~ ~ I I ,  
+\ ~ < ~ I I ( . I I c ~  
+is likcly 111 Ilc ~ . r ~ ~ r i : ~ l .  
+I I I  CIIIIII:ISI, 
+lllr 
+col~crt~~cc 
+oI'[l], 121, :11111 L?] is Iicyo~t~I 
+q~~cstio~t 
+;IIILI ill i~tlcr~)rcI:~li~~~t 
+(Itcy : I ~ C  
+closely similar, even though [3] reverses the sequence (concluding with a 
+reason, where [I] and [2] conclude with a consequence). Compare also: 
+The student was late for the lecture. He missed his train. 
+The student missed his train and he was late for the lecture. 
+Note 
+[a] With orldconnecting two sentences, the rek~lion is m;ldc to seem lcsaclusc, 'I'hus, il'I4l;1hovc 
+were punctuated as two separate sentences, we could delete the query since the elfect would be 
+more like [3]. The and in (41 could perhaps connote 'by thc way' (cJ'19.29), 
+though in this case we 
+might expect something to follow the second sentence: 
+She'sgone Ibr a walk. And llie rxin has slopped (so she'll really enjoy being oul). 
+[b] Clauses with reciproc;dpronouns(c/6.31):1sobjeclsare very similarin meaningtocoordin;~te 
+clauses, hul where the former suggest simult;~ncous iictions. tlie I:~tter is conducive to an 
+inlerpretotion involving sequence. Comp;lre: 
+greeted 
+GcolTad Sue 
+'"1 u c h  other. 
+kissed 
+greeted 
+kissed 
+kissed 
+Thematic connection 
+19.12 
+In 19.3 we examined a text where the connections were extra-textual: our 
+knowledge of Roger and the thesis in which he was involved. But although 
+all texts necessarily have extra-textual connections (none would otherwise be 
+understood), it is normal for them to generate internal connections as well. 
+The basic way of doing this is by proceeding sequentially from the known 
+('given') to the unknown ('new'), thus forming a chain in which what was 
+unknown becomes the known as a point of departure towards a further 
+unknown item. We have already seen this process in Chapter 18, in relation 
+to end focus. Consider now the following four-part text (truncated and 
+idealized), which we may imagine being spoken over the public address 
+system of a big organization: 
+lHere is an 'urgent ~Bssagel It is for [visiting salesman Herbert BLACKI 
+Will IMr Black please contact the third floor su~ervisorl Slre will be 
+/waiting for him at the inqui~y 
+desk1 
+It is easy to sec how this mirrors the incrcasc in what is sometimes called the 
+'communicative dynamism' (cJ'18.3) of each succcssive part. Irrespective of 
+whether or not thcy ;Ire explicilly linkctl, the p;trts ;lrc linkctl tltcm;ttic:tlly in 
+Ihat tlic 'rhcmc'(cJ'18.9 Notc) i~ttrotlucctl ill tltc lirst part, 1111 rirg~~ttt 
+tt~esscrgc~, 
+is pronominalized as it (cj'6.14fl) to become the 'theme' (cf18.9) of the 
+second. Compare also Herbert Black and I~ittr (via Mr Black), tl~e sripercisor 
+and Slre. 
+19.13 
+But thematic connection is often by no means as linearly straightforward as 
+it is in thescexamples. The interpretation of text dcpcnds upon thc recipient's 
+common sense and his knowledge acquired independently of the text, as we 
+saw in 19.3. Grammar has potential in establishing plausible interpretations, 
+but it is not required to provide unequivocal cues. Compare the two following 
+texts in both of which there is thematic connection by pronominalization but 
+where the pairing of pronouns and referents is sharply different: 
+Mr Fraser' sent for thc doctor2; he' listcnctl ;inxiously fcir his' 
+arrival; he' asked him' to exnmine his' throat. 
+Mr Fraser' sent for the doctor'; he' diagnosed his' complaint; 
+[I] 
+he' soon felt better. 
+l21 
+The thematic connections are linked inextricably with the lexical items that 
+are in turn linked to the situational context. Thus h(, and  hi.^ in the second 
+part of [l], while following one of the grammatical patterns of pronoun 
+coreferencc, are identified with their respective referents through our 
+knowing that the person that sends for someone will be the one to listen for 
+his arrival. Again, in [2] the order of antecedent-pronoun sequence is one of 
+those grammatically permissible: he in the second part refers to the last- 
+mentioned noun phrase in the first part. But the actual interpretation relates 
+this grammatical possibility to the extra-linguistic probability that the 
+diagnosis will be carried out by the doctor and not by Mr Fraser. 
+In the following example, rhey is thematic in both the alternative 
+concluding parts, but identification depends on lexical congruence with the 
+verb of which they is subject: 
+The police' prohibited the strikers' from demonstrating because 
+they1 anticipated 
+{they2 advocated ] 
+Other types of thematic connection involve the fronting of ndverbials or 
+other elements more normally associated with end position: 
+After rejecting the advice of the specialist at the hospital. Mr Fraser 
+sent for the local doctor. 111 him he hod the deepest confidence. 
+Mr Fraser sent for a different doctor. His usurrlotrc he no longer trusted. 
+A further example: 
+JMary invited me to her B ~ R T H ~ ~ Y  
+party) It was Jheld in a West End 
+~ O T E L I  where Ilmer her pi~entsl The ljather is a retired ~ k ~ t i s t l  
+It will be noticed that each part ends with a prosodic climax (as do the vast 
+. 
+majority of clauses in the SEU spoken corpus), and begins with a thematic 
+unit, shown in italics, the whole text having in consequence a rhythmic 
+prosodic pattern that can be diagrammed thus to represent the sequence of 
+crescendi : 
+
+
+

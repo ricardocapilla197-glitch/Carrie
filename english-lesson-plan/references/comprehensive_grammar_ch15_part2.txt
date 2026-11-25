@@ -1,0 +1,1634 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 15: Syntactic and Semantic Functions of Subordinate Clauses
+Covers: Nominal clauses, Relative clauses, Adverbial clauses, Comparative clauses
+[Part 2 of 10]
+============================================================
+
+(*Someone said the field marshal to be planning a new strategy.) 
+Other verbs (marked [esp P]) occur chiefly in the passive: 
+The Broadway production was thought to have made Max's fortune. 
+(?Newsmbn thought the Broadway production to have made Max's 
+fortune.) I 
+Of the two classek of factual verbs, Type (i) consists of public verbs (cf 16.31) 
+referring to a speech act, and Type (ii) consists of private verbs expressing 
+belief, etc. 
+:i 
+! l 
+\ 
+16.51 Of the remaining semantic types, Type (iii) consists of verbs of intention (on 
+intend itself cf 16.41 Note [bl); Types (iv) and (v) consist of causative verbs, 
+where the infinitive clause identifies the resultant state (Type (iv) verbs also 
+belong to class [?l]); Type (vi) consists of verbs with a modal character, 
+expressing such cpncepts as enablement, permission, and compulsion; and 
+Type (vii) consistk of a variety of verbs of 'influencing' between which a 
+common factor appears to be that the nonfinite clause has a purposive 
+meaning. Examples are : 
+(iii) They intended Mary to sing an aria. 
+(- Mary was intended to sing an aria.) 
+(iv) The meeting elected Mr Martin to be the next treasurer. 
+(- Mr Martin was elected to be the next treasurer.) 
+(v) This optimistic forecast led the administration to promise tax cuts. 
+(- The administration was'led (by this optimistic forecast) to 
+promise tax cuts.) 
+(vi) My contract allows me to take one month's leave. 
+(- I am allowed to take one month's leave.) 
+(vii) Our teachers encouraged us to think for ourselves. 
+(- We were encouraged to think for ourselves.) 
+In Type (iv), the infinitive main verb is normally be, and can be omitted: 
+They appointed her (to be) the social secretary. This type overlaps with Type 
+(v), 16.46. 
+Note 
+[a] There are a number of multi-word verbs in this category: IC4prl: count on . . . to . . .; depend 
+on . . . to . . .; rely on . . . to . . .; [C4ph]: make . . . out to . . .; [C4ph-pr]: keep on ot . . . to . . . 
+(which has no passive). Examples are: 
+1 am depending on you to give us your full support. 
+They made him out to be a monster of depravity. 
+Why do you keeponat me to work harder? 
+[bl Some passives of pattern [C41 (eg: be allowed, be supposed) have a semi-auxiliary (cf 3.47/) 
+interpretation in which they lose their connection with the corresponding active construction, 
+especially as regards agency. 
+\ 
+I 
+[C51 Object + bare infinitive complementation 
+l 
+16.52 
+This pattern occurs with a relatively small number of verbs: 
+(i) have 
+(ii) jkel 
+overhear [P?] 
+(iii) help [P?] 
+let 
+hear [P] 
+see [P] 
+know [P] 
+make [P] 
+notice [P?] watch 
+observe [P] 
+, 
+Type (i) consists of verbs of coercive meaning; Type (ii) has perceptual verbs 
+of seeing and hearing; and Type (iii) is a residual class of two verbs which 
+are optionally followed by a toinfinitive. The marker [P] indicates that the 
+passive (normally with a b-infinitive) is possible; [P?] indicates that the 
+passive is of doubtful or limited acceptability. 
+(i) You shouldn't let your family interfere with ourplans. 
+We must make the public take notice of us. 
+(- The public must be made to take notice of us.) 
+(ii) Did you notice anyone leave the house? 
+The crowd saw Gray score two magnificent goals. 
+(- Gray was seen to score two magnificent goals.) 
+, 
+(iii) Sarah helped us (to) edit the script. 
+I have known John (to)give better speeches than that. 
+I 
+(- John has been known togive better speeches than that.) 
+Know followed by the bare infinitive is confined mainly to BrE, and to the 
+perfective aspect: have known. Let in group (i) is in other constructions 
+classified as similar to an auxiliary (cf 3.51). Let has an apparent passive in 
+combination with such verbs as let go and let fall, but these are best regarded 
+as fixed expressions, in which let has an auxiliary or particle-like function: 
+l 
+They let the prisoner go home. - ?The prisoner was let go home. 
+
+
+Note that this apparent passive has the bare infinitive, in contrast, for 
+example, to make, which has to have the to-infinitive in the passive: 
+They made him understand. - He kas made to understand. 
+A third verb in group (i) is have, which (like have in monotransitive 
+constructions) does not occur in the passive: 
+They had me repeat the message. - *I was had (to) repeat the message. 
+Note 
+[a] The formulaic nature of let himgo and similar expressions is illustrated by variants such as 
+[l-31, which cannot be fitted into any regular complementation pattern: 
+{ 
+go the rope. 
+They let the ropego. 
+[I1 
+go ofthe rope. 
+[21 
+[31 
+[b]Of the two constructions with help, that with to is more common in BrE, and that without to 
+is more common in AmE. 
+[c] A rare verb in category (i) is the now rather archaic bid, with a to-infinitive complementation 
+in the passive: 
+They bidlbade me sit down. - I was bidden to sit down. 
+[C61 Object + -ing participle complementation 
+16.53 
+The verbs in category [C61 consist of verbs of perception (Type (i)), verbs of 
+encounter (Type (ii)), and two verbs of coercive meaning (Type (iii)): 
+(i) feel [CS] 
+see [CS] 
+(ii) catch 
+(iii) have 
+hear [CS] 
+smell 
+discover 
+get 
+notice [CS] 
+spot 
+find 
+observe [CS] 
+spy 
+leave 
+overhear [CS] watch [CS] 
+perceive 
+Perception ve+s marked [CS] occur also with the bare infinitive pattern 
+[CS]. With sue$ verbs there is an aspect difference between [CS] and [C6], as 
+described in 4.61 f: 
+Tim watched Bill mendlmending the lamp. 
+The bare infinitiye, having nonprogressive meaning, implies that Bill did the 
+whole job while Tim was watching; the-ingclause, with progressivemeaning, 
+has no such implication. 
+This complementation pattern differs from that of [B9], not only in its 
+progressive aspect, but also in that the noun phrase following the 
+superordinate verb cannot take the genitive (or possessive) form (cf 16.42): 
+I saw him l$ing on the beach 
+*I saw his lying on the beach. 
+Another difference from pattern [B91 is that the -ing predication can normally 
+be omitted without radically altering the meaning: 
+I saw him lying on the beach. 
+[entails: Isaw him] 
+Contrast: 
+~ ~ p ' e s o f  
+verb complementation. 1207 
+The,passive with this pattern is regular: 
+; 
+We could hear the rain splashing on the rooJ 
+The rain could be heard splashing on the roof. 
+A teacher caught them smoking in theplayground. 
+- They were caught smoking in theplayground (by a teacher). 
+Prepositional verbs with this type of complementation ([C6pr]) include come 
+across, come upon, listen to, and look at: Look at those children climbing the 
+wall. But these [C6pr] prepositional verbs have no prepositional passive: 
+searching the building. 
+Have in this construction (cf 18.51ff) also has no passive, in keeping with its 
+use in other constructions: 
+She had us working day after day. 
+*We were had working day after day. 
+Note 
+Feel occurs especially with a reflexive pronoun object: Shefilt herselflolling in low. 
+1206 Complementation of verbs and adjectives 
+IC71 Object + -ed participle complementation 
+16.54 
+We can distinguish three small groups of verbs complemented by a raised 
+object followed by an -ed participle clause: 
+(i) CAUSATIVE verbs : get, have 
+She gotlhad the watch repaired immediately. 
+(ii) VOLITIONAL verbs: want, need, like 
+I wantlneed this watch repaired immediately. 
+(iii) PERCEPTUAL verbs: see, hear,feel (oneself), watch 
+Someone must have seenlheard the car stolen. 
+l 
+A fourth group is peripheral to this construction: 
+(iv) Verbs for which the -ed participle describes a resulting state:$nd, 
+discover, leave 
+Theyjbund/discovered/leji him worn out by travel and exertion. 
+In this construction, as in that of [C6], have can have either an agentive 
+causative meaning, or a stative meaning. Hence Theguardpatrol had two men 
+shot is ambiguous, meaning either 'The patrol caused two men to be shot', or 
+I 
+'The patrol suffered the loss of two men by shooting'. The latter meaning is 
+that of the have-existential construction (cf 18.51ff). In general, this 
+complementation type is semantically equivalent to one with an infinitive 
+form of the verb be. Thus in Type (ii), I would like my room cleaned is 
+synonymous with I would like my room to be cleaned; in Type (iii), He saw the 
+team beaten is synonymous with He saw the team be beaten. 
+Note 
+[a] There is no passive for most verbs in pattern [C7], and at best the passive is dubious: ?The 
+car must have been seen stolen. The acceptability of the passive with Type (iv) is exceptional: 
+I hate my friends leaving early. [does not entail: I hate myfriends] 
+
+
+1208 Complementation of verbs and adjectives 
+The car was found abandoned. This is, indeed, an indication that Type (iv) may not belong here 
+so much as with the object complement construction [Cl], the participle construction being 
+adjectival (cl: an abandoned car). 
+[b] In addition to the two meanings of have + object + -ed participle above, a third meaning 
+results if the -ed clause is analysed as a postmodifier of the object; eg: She had a book (which was) 
+stole~~frorn 
+the library. 
+Ditransitive complementation 
+[Dl] 
+Noun phrases as both indirect and direct object 
+16.55 
+Ditransitive complementation in its basic form involves two object noun 
+phrases: an indirect object, which is normally animate and positioned first, 
+and a direct object, which is normally concrete. The two noun phrases differ 
+from those of [C21 in not being in a copular relationship: 
+He gave the girl a doll 
+U* 
+S v : Oi 
+Od 
+The difference between this and complex transitive complementation is seen 
+in : 
+SVOC: He found her a loyal friend. 
+(- She was a loyal friend) 
+SVOO:: He found her an apartment. 
+. 
+(- The apartment was for her) 
+The characteristics of indirect objects in contrast to direct objects are fully 
+discussed in 10.7. 
+Some ditransitive verbs have two passive analogues, which we shall 
+distinguish as 'first' and 'second': 
+The girl W;$ 
+given a doll. [FIRST 
+PASSIVE] 
+A doll was given the girl. 
+[SECOND 
+PASSIVE] 
+Of these two, the first passive, in which the indirect object becomes subject, 
+is the more common. The prepositional paraphrase is more usual, as an 
+alternative, than ihe second passive: A dol<was given to the girl. (For a list of 
+verbs of Type [~1'], 
+cf 16.57 below.) 
+[D21 Object and prepositional object 
+16.56 In the ditransitiqe category, prepositional verbs form an important group 
+with its own subddivisions, and may therefore be given a separate category 
+number [D2]. These verbs are those we have called Type I1 prepositional 
+verbs (cf 16.7-8). Alongside the ordinary indirect object pattern, two main 
+prepositional patterns may be distinguished: 
+Indirect object + direct object. 
+Direct object + prepositional object. 
+Indirect object + prepositional object. 
+Types of verb complementation 1209 
+The indirect object is normally animate, and is the recipient or beneficiary of 
+the process described by the verb (cf 10.19). Unlike ditransitive verbs of 
+category [Dl] (eg: give), ditransitive verbs with prepositional objects normally 
+have only one passive: 
+We addressed our remarks to the children. 
+- Our remarks were addressed to the children. 
+(*The children were addressed our remarks (to)) 
+We reminded him of the agreement. 
+- He was reminded of the agreement. 
+(*The agreement was reminded him (of)) 
+Some verbs have all three possibilities of construction in the active; many 
+have two; for others there isonly one possibility (in some cases the alternatives 
+are not identical but very similar in meaning): 
+The different constructional possibilities of certain verbs provide a means of 
+achieving different focus (cf 18.37f). Compare the following pairsof sentences 
+as pronounced with unmarked (end) focus: 
+tell 
+[D1 + 2a + 2b] 
+offer [D1 + 2a] 
+envy [D1 + 2b] 
+wish [Dl] 
+blame[D2a + 2bl 
+say 
+[D2a] 
+warn [D2b] 
+Mary blamed the broken vase on J&N. 
+Mary blamed John for the broken VASE. 
+(C': John was blamed. . . by &Y.) 
+Mary told only John the secret. 
+[D11 
+Mary told the secret only to John. 
+[D24 
+Mary told only John about the secret. 
+[D2bl 
+John offered Mary some help. 
+[D11 
+John offered some help to Mary 
+[D2aI 
+She envied John his success. 
+[D11 
+She envied John for his success. 
+[D261 
+They wished him good luck. 
+[D11 
+Helen blamed the divorce on John. 
+[D2a] 
+Helen blamed Johnfor the divorce. 
+[D2bl 
+Why didn't anybody say this to me? 
+[D2a] 
+Mary warned John of the dangers. 
+[D2b] 
+The government supplied blankets for the H ~ M E ~ ~ S S .  
+The government supplied the homeless with BLANK~~S. 
+(C' Blankets were supplied. . . by the ~6vernment.) 
+Note 
+[a] The above constructions are presented in the most typical syntactic ordering, but post- 
+ponement of the direct or indirect object may take place in contexts where end-focus or end- 
+weight is required (cf 18.37); eg: John oflered to Mary the help that she needed. 
+[b] Additional prepositional verb patterns should be briefly mentioned. There is, for example, 
+the double-prepositional-verb pattern noted in 16.17(c): 
+
+
+12 10 Complementation of verbs and adjectives 
+I am applying to the hospitalfir a job. 
+There is a further possibility that two prepositional objects may follow a direct object: 
+: 
+We are paying $100 to the garage for the repairs. 
+Verbs of complementation types [Dll and [D21 
+16.57 
+The following list gives some of the verbs that occur in Types [Dl], [D2a], 
+[D2b], organized according to the cross-classifications of 16.56 above. We 
+are interested here only in synonymous or nearly synonymous constructions, 
+in which the same participant roles (cf 10.18Jn occur. Hence many possible 
+prepositional verbs are ignored. Pay for, for example, is ignored because it 
+introduces a further participant (the commodity bought) not included in pay 
+(with) and pay (to). 
+Table 16.57 
+- 
+Type [D11 
+Type [D2a] 
+Type [D2b] 
+EXAMPLE 
+serve (Jack scampi) 
+serve (scampi) 
+serve (Jack) 
+to (Jack) 
+with (scampi) 
+[D1 + 2a + 2b] pay 
+Pay to 
+pay with 
+provide (AmE) 
+provide for 
+provide with 
+serve 
+, 
+serve to 
+serve with 
+. 
+tell 
+tell to 
+tell about 
+[D1 + 2a] 
+(i) bring 
+deny 
+give 
+grant 
+, hand 
+' leave 
+jlend . 
+ioffer 
+'owe 
+!promise 
+read 
+qend 
+show 
+teach 
+throw 
+bring to 
+deny to 
+give to 
+grant to 
+hand to 
+leave tolfor 
+lend to 
+offer to 
+owe to 
+promise to 
+read to 
+send to 
+s h h  to 
+teach to 
+throw to 
+(ii) do 
+jnd 
+hake 
+order 
+reserve 
+save 
+Spare 
+dofor 
+find for 
+make for 
+order for 
+reserve for 
+save for 
+spare for 
+(iii) ask 
+ask of 
+Types of verb complementation : 12 1 1 
+[D1 + 2b] 
+envy 
+envy for 
+, 
+excuse 
+excuse for 
+forgive 
+forgive for 
+[D11 
+allow 
+charge 
+fine 
+refuse 
+wish 
+[D2a + 2b] 
+blame on 
+blame for 
+supply forlto 
+supply with 
+address to 
+announce to 
+communicate to 
+explain to 
+say to 
+-- 
+advise about 
+punish for 
+etc 
+The membership of [D2b] is numerous. Here are further examples, arranged 
+by prepositions: 
+thankfor 
+convince of 
+rob of 
+refer to 
+prevent from 
+deprive of 
+suspect of 
+sentence to 
+protect from 
+inform of 
+warn of 
+subject to 
+interest in 
+persuade of 
+congratulate on 
+treat to 
+accuse of 
+relieve of 
+conjne to 
+charge with 
+convict of 
+remind of 
+introduce to 
+compare with 
+Note that reflexive verbs (cf 6.25) sometimes occur with a prepositional 
+object; eg: We pride ourselves on the service we offer. Some of the verbs above 
+(such as compare with) can have two inanimate objects. 
+~ 
+In Table 16.57, we have distinguished, under [D1 + 2a], verbs taking to as 
+their preposition from those taking for; eg : 
+(i) She sent Paul a present. - She sent a present to Paul. 
+(ii) She made Paul a meal. - She made a mealfor Paul. 
+Occasionally, a preposition other than to and for occurs in this function: 
+(iii) She asked Paul a favour. - She asked a favour of Paul. 
+16.58 
+Distinct from [D2a] and [D2b] above is a kind of prepositional verb which 
+has already been discussed in 16.7-8; a verb for which the direct object 
+forms part of an idiomatic unit with the verb and the preposition. The 
+syntactic properties of this type, which we label [D~c], have already been 
+dealt with, and it is enough here to list a further sample of such idioms: 
+
+
+1212 Complementation of verbs and adjectives 
+catch sight of 
+make allowance for1 
+put a stop to 
+give place to 
+make fun of 
+setfire to 
+give way to 
+make a fuss ouer/aboutl 
+take account of 
+keep pace with 
+make room for 
+take advantage of1 
+lose sight of 
+make use of l 
+take care of1 
+lose touch with 
+pay attention to' 
+take note of1 
+lose track of 
+put an end to 
+take notice of' 
+Those marked with a raised '1' can take not only a prepositional passive (cf 
+16.7-8) but also can easily take a passive for which the idiomatically-fixed 
+direct object becomes subject; eg: (Some) aNowance was made for loss of 
+earnings; (Little) notice was taken of this event. Other verbs can take the 
+passive, but with greater difficulty; with these examples, as with prepositional 
+verbs in general, idiomatic cohesion is a matter of gradience. 
+Variants of ditransitive complementation 
+ID31 Indirect object + that-ciause object 
+16.59 
+Corresponding tomonotransitive verbsof Type [B31 (cf 16.30) are ditransitive 
+verbs for which the direct object is a that-clause: 
+John convinced me (that) he was right. 
+- I wasconvinced (bx John) (that) he was right. 
+The second passive is unacceptable when the direct object is a clause: *That 
+he was right was convinced me. Thus the first passive (cf 16.55) above is the 
+only passive that can occu~ with this pattem. With some verbs, such as 
+convince above, it is impossible to delete the noun phrase object: 
+*John convinced (that) he was right. 
+. 
+With other verbs, such as show, the indirect object is optional: 
+The professor of mathematics showed me that Pythagoras was mistaken. 
+- The professor of mathematics showed that Pythagoras was 
+mistaken. 
+Ditransitive verb$ followed by a that-clause may be divided into a subtype 
+introducing an indirect statement, and a subtype introducing an indirect 
+directive (cf 14.33$. In the indirect statement, the that-clause contains an 
+indicative verb; in the indirect directive the verb may be indicative or 
+subjunctive, and often contains putative should or another modal verb (cf 
+16.32 for the distribution of these options): 
+INDIRECT STATEMENT : 
+May I infor/n you that your order is ready for collection? 
+INDIRECT DIRECTIVE : 
+Shepetitioned the king that her father 
+In the following list, Type (i) verbs introduce indirect statements, and Type 
+(ii) verbs introduce indirect directives. The indirect directive construction is 
+Types of verb complementation 1213 
+rare and formal in comparison with the similar infinitive construction (cf 
+16.63): 
+help. (formal) 
+?I begged her that she should 
+I begged her to help. (more uiual) 
+For those verbs marked '0' the indirect object is obligatory; for those marked 
+'(O)', the indirect object is optional; for those marked '((0))' the indirect 
+object is not only optional, but unusual: 
+(i) advise (0) 
+assure 0 
+bet (0) 
+convince 0 
+forewarn (0) 
+inform 0 
+notify3 0 
+persuade1 0 
+promise3 (0) 
+remind 0 
+satisjL 0 
+show3 (0) 
+teach3 (0) 
+tell 0 
+wager (0) 
+warn (0) 
+write2s3 (0) 
+(ii) ask3 ((0)) 
+beg3 (0) 
+charge (0) 
+command ((0)) 
+instruct ((0)) 
+order ((0)) 
+petition3 (0) 
+tell 0 
+The superscripts are interpreted as follows: 
+1 : Persuade in the sense of 'convince' belongs to Type (i); but it may also 
+be used in a Type (ii) sense of 'persuade someone to do something'. 
+2: Write is found with an indirect object + that-clause especially in AmE. 
+3: With verbs so marked, the indirect object can be replaced by a 
+prepositional object (cf 16.60). 
+Note 
+Superficially similar to the [D31 pattem is the 'impersonal' construction it strikes/stmck me (that) 
+. . . , as in: 
+It strikes me this work is for his own amusement. 
+But here the thatclause (as in 16.34) is the extraposed subject of the verb. Compare: He strikes 
+me as. . . (cf 16.46 Note [c]) and It occurs to me that. . . (cf 16.34 Note [cl). 
+lD3prl Prepositional object + that-clause object 
+16.60 
+The verbs marked '3' in the above list can be optionally followed by a 
+preposition, thus forming a category similar to [D2a] in 16.56: 
+Hepromised ((to) me) that the debt would be repaid. 
+For most verbs of [D31 which permit a prepositional object, the preposition 
+is to: 
+He wrote to me . . . 
+He reported to me that. . . etc 
+Exceptions are ask and beg, which (in somewhat formal usage) are followed 
+by the preposition of: 
+I asklbeg of you that you will keep this secret. (formal) 
+There is, in addition, a group of verbs which were classified in 16.31-32 as 
+monotransitive, but which optionally allow the preposition to preceding a 
+prepositional object. These may be distinguished as Type [D3pr], and 
+subdivided into sub-types (i) and (ii), as in the parallel description of [B31 
+verbs: 
+
+
+1214 Complementation of verbs and adjectives 
+Types of verb complementation 1215 
+Joan mentioned (to me) that her father was sick. [Type (i)] 
+Dr Day recommended (to her) that the treatment be continued. [ ~ ~ p e  
+(ii)] 
+For example : 
+(i) acknowledge 
+declare 
+remark 
+(ii) propose 
+admit 
+explain 
+report 
+recommend 
+announce 
+mention 
+SOY 
+suggest 
+complain 
+point out 
+signal 
+confess 
+prove 
+state 
+As before, Type (i) verbs introduce indirect statements, and the less numerous 
+Type (ii) verbs introduce indirect directives. As before, too, some exceptional 
+verbs take a preposition other than to: 
+She demanded of me that. . . 
+She agreed with me that. . . etc 
+Unlike the nonprepositional verbs of [D3], these prepositional verbs allow 
+the that-clause to become subject of a corresponding passive clause, an option 
+which is more acceptable with extraposition: 
+That several ministers are resigning has been admitted to our 
+correspondent. 
+- It has been admitted to our correspondent that several ministers 
+are resigning. 
+It has been shown to us all that Miss Jones was innocent. 
+Without the preposition, it with an ordinary indirect object, such sentences 
+are at best marginally gra~matical: ?*It has beenshown usall that Miss Jones 
+was innocent. 
+Note 
+The constructions of It a~~earslha~~ens/occurslseems 
+to me that . . . superficially appear to belong 
+to the pattern [D3prl: but in fact these contain monotransitive verbs with an extraposed that- 
+clause as subject: 
+' 
+It ocnrred/seemeh'to me that he was lying. 
+Cf similar patterns widhextraposition in 16.34, 16.59 Note. 
+ID41 Indirect object + finite wh-clause object 
+16.61 This pattern of complementation is primarily found with the verb ask, which 
+introduces a reported question: 
+\ 
+John asked mk what time the meeting would end. 
+- I was asked (by John) what time the meeting would end. 
+Also used with this pattern are verbs which take an indirect object followed 
+by a that-clause (Type (i) of [D31), but for these the wh-clause tends to be 
+limited to nonasse$ve contexts (cf 16.35). Compare: 
+George didn't tell them that the train was late. 
+[l] 
+George didn't tell them whether the train was late. 
+L21 
+The difference o f  meaning between the that- and whether-constructions can 
+be stated in terms.of presupposition. Sentence [ l ]  typically implies that the 
+train was late, while [2] is noncommittal on the matter. [D41 verbs can also 
+introduce other question words such as where and how: 
+Jim was reluctant to inform us (of) where he got the money. 
+Would you remind me (about) how we start the engine? 
+A preposition may always be placed before the wh-clause. In the above cases, 
+the preposition is optional, but in the case of verbs like enquire of (Type 
+[D4pr]) the preposition is obligatory: I enquired of the clerk which documents 
+were needed. The complex preposition as to can be rather generally used for 
+introducing the wh-clause; eg: I enquired . . . as to which documents were 
+needed. 
+(D51 Indirect object + wh-infinitive clause object 
+This is yet another complementation pattern (comparable with [B51, 16.37) 
+which may be taken by some verbs listed under [D31 in 16.59: 
+advise ask instruct remind show teach tell warn 
+The instructor taught us how to landsafely. 
+- W e  were taught (by the instructor) how to land safely. 
+They advised him what to wear in the tropics. 
+Please remind me where to meet you afier lunch. 
+The equivalent prepositional verb pattern [DSpr] is illustrated by suggest to, 
+recommend to : 
+Could you please suggest to the visitors which museums to visit? 
+Here, as in the [D41 type, a prepositional phrase introduced by as to can be 
+used: 
+Helen advised us (as to) how to mainwin the machine. 
+[D61 Indirect object + to-infinitive clause object 
+W e  have seen that the [D31 pattern may be used to introduce indirect 
+statements, and that the [D41 pattern may be used to introduce indirect 
+questions. Now we turn to the verbs of class [D6], which introduce indirect 
+directives (cf 14.33): 
+I told/advised]persuaded Mark to see a doctor. 
+111 
+- Mark was told/advised/persuaded to see a doctor. 
+B1 
+This complementation category looks like those of [B81 and [CS], in that the 
+verb is followed by a noun phrase and an infinitive construction. But the [D63 
+pattern differs from these in that the noun phrase following the verb is an 
+indirect object, as will be clarified in 16.66 below. As with other verbs 
+introducing indirect speech, the subject refers to the speaker of some speech 
+act, and the indirect object refers to the addressee. Like [D31 verbs, [D61 
+verbs form only the first passive exemplified in [2] above: we do not find *To 
+see a doctor was told Mark. The following verbs belong to this class: 
+advise 
+command 
+entreat 
+instruct 
+remind 
+teach 
+ask 
+counsel 
+exhort 
+invite' 
+request1 
+tell 
+beg 
+detail' 
+forbid 
+order 
+recommend 
+urge 
+beseech 
+direct 
+implore persuade 
+challenge1 enjoin' 
+incite' 
+pray' 
+
+
+- 
+z 
+L 
+4 
+\ 
+1216 Complementationof verbs and adjectives 
+Types of verb complementation 1217 
+Those verbs marked with a raised 'l'do not have the equivalent construction 
+with a that-clause containing a modal or a subjunctive verb (Types [B3(ii)], 
+[D3 (ii)]). Contrast: 
+Each of these sentknces consists of the sequence NI V NZ to V N3, and yet we 
+have analysed them respectively as monotransitive (SVO), complex 
+transitive (S V 0 C,), and ditransitive (S V O,Od). A different analysis, in 
+some ways more revealing, would recognize an overlap between two 
+competing descriptions of the intermediate noun phrase NZ. There is little 
+doubt that in [I] this is to be analysed as subject of the infinitive clause (cf 
+16.36); whereas in [3] there are equally strong reasons for regarding N* as 
+(indirect) object of the main clause (cf 16.66): 
+They {t:;:} her to stay another week. 
+They {,t!?fzi] (her) that she would stay another week. 
+The alternative that-clause construction, however, is more formal, especially 
+when the indirect object is present. 
+Note 
+[a] The verb promise, when it occurs with this kind of complementation, is exceptional in that 
+the understood subjectof the infinitive is identified with the subject rather than with the object 
+of the main clause: 
+Sam promised me to get some food. 
+I 
+= Sam promised me that he would get some food. 
+# Sam promised me that Iwould get some food. 
+The present pattern [D61 is, however, less common with promise than the [B61 pattern without 
+the indirect object: Sampromisedfogef some food. 
+p] Only order can be followed by a passive infinitive: HL ordered them to be imprisoned/released. 
+Fig 16.64b Sentence [l] 
+Fig 16.64~ Sentence [3] 
+Sentence [2], however, partakes of both these descriptions. From the semantic 
+point of view, it requires the analysis of Fig 16.64b (cfi They expected [that 
+James would win the race]). But from the structural point of view, the analysis 
+Multiple analysis and gradience in verb complementation 
+16.64 
+Before we leave verb classification, it is important to reflect on the problems 
+of dividing verbs into complementation ;types. The major division of 
+complementation patterns into copular [A], monotransitive [B], complex 
+transitive [C], and ditransitive [D] categories (introduced in 2.16) has been 
+extended with little difficulty to include patterns in which the verb's 
+complementation includes finite and nonfinite clauses. This is the basis for 
+the classificatipn ~f verbs into types in 16.20-63 above. But unavoidably, our 
+aim of presenting a clear classification has obscured some problems of 
+gradience and! multiple analysis (cf 2.60ff), and to illustrate these we return 
+to three superficially identical structures already discussed in 16.36. These 
+are now illustrated with three new examples, each of which conforms to the 
+pattern N, ViVz to V N3, (where N = noun phrase, and V = verb phrase): 
+in Fig 16.64~ is more appropriate, reflecting N<s ability to become subject of 
+the passive sentence : James was expected to win the race. We might reasonably 
+say ihat in [2], NZ behaves like an bbject (0, rather than Oi) inrelation to the 
+first verb, but like a subject in relation to the second, infinitive verb. The 
+term RAISED OBJECT, 
+applied in 16.49ff to the intermediate noun phrase of 
+patterns [C4 - C7], incorporates yet another way of recognizing this double 
+analysis, by envisaging a process whereby the subject of the infinitive 
+becomes the object of the preceding finite verb. This raised object will be 
+symbolized, in what follows, S/O. 
+16.65 Given that the double analysis above provides some insight into clauses 
+containing nonfinite complementation, we could take such an analysis 
+further, and apply it to all complex transitive patterns, including the more 
+straightforward SVOC and SVOA patterns of [Cl - C3]: 
+that John is a good driver. 
+John to be a good driver. 
+John a good driver. 
+Table 16.64a 
+\ 
+\ 
+NI 
+: 
+[c41 1 
+; 1 ; 
+They 
+expected 
+0 
+, 
+all parents 
+1 to visit 
+the school 
+The parallelism of meaning and phrasal relations demonstrated in these 
+three sentences recommends an analysis in which the complementation of 
+I 
+V 
+111 
+0 
+James 
+NZ 
+to V 
+N3 
+l+l 
+to win 
+the race 
+[2] 
+pattern [C2], John a good driver,. woild be regarded as a ciause in its own 
+right: ie as a verbless clause consisting of S = John and C, = a good driver, 
+without an intervening V. This description would not, however, displace the 
+by now familiar SV Od CO analysis, but would rather be seen as an alternative 
+way of looking at the same construction. 
+the students 
+to attend 
+a lecture 
+[3] 
+
+
+12 18 
+Complementation of verbs and adjectives 
+Gradience 
+16.66 
+The technique of multiple analysis still leaves some subtleties unexposed. 
+What this technique has suggested is that there are the following three 
+categories corresponding to [l -31 in 16.64: 
+NZ 
+= S: 
+We like allparents to visit the school. 
+[l] 
+N2 = S/O: They expected James to win the race. 
+L21 
+NZ = 0: 
+We asked the students to attend a lecture. 
+[31 
+But more than three categories can be appropriately distinguished if we 
+recognize [l] and [3] as end-points of a gradient, with [2] at some point on the 
+scale between them. This area of grammar affords a good example of 
+gradience. 
+At the monotransitive end of the scale, [I] can be characterized by a 
+number of criteria which suggest that N, to VN3 (allparents to visit theschool) 
+constitutes the direct object of an SVO pattern: 
+(a) It can be replaced by a pronoun referring to the clause or noun phrase 
+nominalizing it: We like it; We Iike allparents' visits. 
+(b) It can be an answer to a what-question: 
+A: What do you like best? 
+B: We like all parents to visit the school. 
+(c) In some dialects, it can be preceded by the infinitive clause introducer 
+for: We like (it)for all parents to visit the school. 
+(d) It can easily (when preceded by for) be the focus of a pseudo-dleft 
+sentence: What we Iike (best) is for allparents to visit the school, 
+(e) When the sequence NZ to VN3 is turned into the passive form N3 to be 
+Ved, by NZ, there is,no change of meaning: 
+We like all parents to visit the school. 
+= We like the school to be visited by all parents. 
+(f) In a reduced construction the infinitive marker to remains: We like them 
+does not have the same meaning as We like them to. 
+At the other, hitransitive end of the scale, a contrasting set of criteria 
+characterize [3), and support the analysis of N2 (the students) as an indirect 
+object and to VN3, (to attend a lecture) as a clausal direct object: 
+(a') to VN3 can be replaced by a pronoun, a noun phrase, or a finite clause, 
+with NZ still functioning as indirect object: 
+l 
+We asked the students 
+lwhat they wanted. 
+(b') to VN3 can be the answer to a wh-question, while N2 functions as 
+indirect o b r :  
+A: W at did you ask the students? 
+B : We asked them to attend a lecture. 
+(c') When the sequence NZ to VN3 is turned into the passive sequence N3 to 
+be Ved, by NZ, the meaning is always changed: 
+They asked the students to attend a lecture. 
+# *They asked a lecture to be attended by the students. 
+(In this case, indeed, the passive transform results in an absurdity.) 
+Types of verb complementation 12 19 
+(d') to VN3 can marginally become the focus of a pseudo-cleft sentence: 
+?What they asked the students was to attend a lecture. (Contrast the 
+decidedly unacceptable *What we like theparents is to oisit the schoot) 
+(e') NZ, 
+which like Oi in general is usually 'personal', can be detached from 
+its place after the first V to become subject of a corresponding passive 
+sentence : The students were asked to attend a lecture. 
+(f') In a reduced construction, the infinitive marker to can be omitted: We 
+asked them; We persuaded them; etc. 
+Note 
+[a] With some ditransitive verbs, criterion (a') has to be interpreted as the replacement of the 
+infinitive clause by a preposition and prepositional object (cf 16.56-8): 
+They reminded him of his responsibilities. 
+One man challenged the other to a duel. 
+[b] Criterion (d') is less reliable than the others, since the pseudosleft sentence is unacceptable 
+for many verbs. But a pseudo-cleft sentence in which the indirect object is replaced by a 
+prepositional object tends to be more grammatical: What they askedof the students was to attend 
+a lecture. (The alternative construction with the substitute verb do, which alsooccurs with [l], is 
+always more acceptable: What they asked the students to do was to attendo lecture.) 
+16.67 
+To give a simplified illustration of the analysis of gradience in the sequence 
+N, VN2 to VN3, we now take a subset of the criteria listed above, and apply 
+: them to a range,of verbs on the gradient connecting [l] and [3] of 16.66. 
+Fig 16.67 A complementation gradient 
+The matrix uses only three criteria, and thereby distinguishes only four 
+categories. This is sufficient to indicate the principle, however, that the three 
+categories [B8], [C4], and [D61 of our taxonomy could be broken down into a 
+finer spectrum of categories between which the differences are small. In 
+effect, Fig 16.67 distinguishes two subcategories of [C4]: one (including elect 
+and allow) which is closer to the ditransitive type, and one (including intend 
+and expect) closer to the monotransitive type. Elect and allow respond to 
+criterion (c') : 
+They elected Miss Coe to succeed the present secretary. 
+# *They elected the present secretary to be succeeded by Miss Coe. 
+We don't allow residents to entertain visitors. 
+# We don't allow visitors to be entertained by residents. 
+(4) 
+want, 
+like, 
+etc 
+- 
+- 
+- 
+(:;end, 
+expect, 
+etc 
+- 
+- 
++ 
+t
+,
+ 
+allow, 
+etc 
+- 
++ 
++ 
+vERBcL*IB * 
+!?k, 
+tell, 
+etc 
+(a') to V N3 can be replaced by 
+a finite clause 
+(c') change of meaning in passive 
+of NZ ro V N3 
+(e') NZ can become subject of passive 
++ 
++ 
++ 
+
+
+1220 Complementation of verbs and adjectives 
+while intend and expect do not: 
+They intended the students to see the professor. 
+= They intended the professor to be seen by the students. 
+They expect the students to enjoy the classes. 
+= They expect the classes to be enjoyed by the students. 
+Note 
+For verbs in group (3). the voice of the infinitive clause and the voice of the main clause may be 
+independently varied, with the result that a sentence like They expected the students to enjoy the 
+classes has three corresponding passives with the same meaning: 
+{ 
+They expected the classes to beenjoyed by the students. 
+= The students were expected to enjoy the classes. 
+The classes were expectedto beenjoyed by the students. 
+The last example has a passive verb phrase in both the superordinate clause and the infinitive 
+clause. 
+Adjective complementation 
+16.68 
+Categories o f  complementation in adjective phrases (cf 2.28, 7.21-2) are 
+similar in variety to those of verb complementation. W e  distinguish [El-E51 
+as follows : 
+[El] Complementation by a prepositional phrase 
+[E21 Complementation by a that-clause 
+[E31 Complementation by a wh-clause 
+[E41 Complementation by a than-clause 
+[E51 Complementation by a to-infinitive clause 
+[E61 Complementation by an -ing participle clause 
+These complementation patterns can occur after an adjective (and its 
+modifiers, if any) in various syntactic functions. For example: 
+The violin (rather) dficult toplay. 
+(adjectivd phrase as CJ 
+\ 
+Mary found(the violin (rather) d13cuk toplay. 
+(adjective' phrase as C,,) 
+The violin is an instrument (rather) dz$cult toplay. 
+(adjective phrase as postmodifier) 
+The only positiob in which an adjective cannot normally be followed by its 
+complementation is the premodifying position in a noun phrase: *a keen 
+child on chess. But here, too, with certain constructions (Types [E5(i)] and 
+[E5(v)]) the complementation can follow discontinuously after the head 
+noun: The violin is a difficult instrument to play (cf discontinuity with 
+comparative constructions, 15.75). For illustrative purposes, we will confine 
+examples in the following sections to the subject complement function. The 
+lists, like the verb lists in 16.20-63, will be selective. 
+Adjective complementation 1221 
+Note 
+There is a considerable parallel, as the categories [El-ES] above demonstrate, between patterns 
+associated with adiectives and those associated with monotransitive verbs. The chief difference 
+is that adjectives cannot be followed by a noun phrase object. To bring out the parallel further, 
+we could describe adjectives exemplified in 16.69 below (owrse to, conscious of, etc) as 
+'prepositional adjectives' comparable with prepositional verbs. We could moreover identify 
+'phrasaladjectives'(derived from participial formsofphrasal verbs) suchas nmdown('exhausted, 
+depressed') and 'phrasal-prepositional adjectives' such as/ed up (with). These latter variants, 
+however, are rare enough to be disregarded in the following lists. 
+[El] Adjective complementation by a prepositional phrase 
+16.69 
+Like prepositional verbs, adjectives often form a lexical unit with a following 
+preposition: good at, fond oj; opposed to, etc. The lexical bond is strongest 
+with adjectives for which, in a given sense, the complementation is 
+obligatory: Max is averse to games .-U *Max is averse. Such adjectives are 
+marked 'l' in the following lists. 
+The lists make a distinction between participial (cf 7.15-19) and 
+nonparticipial adjectives. The difference between participial adjectives and 
+the -ed participle of the passive construction is discussed in 3.75-77. These 
+lists provide only a small sample of the adjectives accompanying the 
+prepositions concerned. In particular, it is often possible for the same 
+adjective to go with two or more prepositions, as in angry about, angry at and 
+angry with. 
+ABOUT: He was very worried about her reaction. (cf 9.60) 
+NONPARTICIPIAL 
+( PARTICIPIAL 
+angry 
+knowledgeable 
+glad 
+mad 
+happy 
+reasonable 
+aggrieved 
+frightened 
+annoyed 
+pleased 
+delighted 
+worried 
+FROM: The village is remotefrom the bustle of city life. (cf 9.18,9.47) 
+dtfjerent distant distinct free 
+remote 
+AT: She was badat mathematics. (cf 9.62) 
+OF: She was aware of his difficulties. 
+NONPARTICIPIAL 
+angry 
+good 
+brilliant 
+hopeless 
+clever 
+terrible 
+NONPARTICIPIAL 
+I PARTICIPIAL 
+PARTICIPIAL 
+alarmed 
+disgusted 
+amused 
+pleased 
+delighted 
+puzzled 
+ON/UPON: Their plan was based on cooperation. 
+NONPARTICIPIAL 
+PARTICIPIAL 
+contingent1 intent1 
+reliant1 
+based1 
+set1 
+dependent 
+keen 
+severe 
+bent' 
+afraid 
+conscious' 
+glad 
+ashamed 
+empty 
+~roudl 
+capable 
+fond1 
+short1 
+convinced 
+scared 
+tired 
+certain 
+full 
+worthy 
+
+
+1222 Complementation of verbs and adjectives 
+TO: All capital gains are subject to taxation. 
+NONPARTICIPIAL 
+I PARTICIPIAL 
+answerable 
+close. 
+liable1 
+accustomed1 
+averse1 
+due' 
+similar 
+l allied1 
+WITH: This plan is not compatible with our principles. 
+NONPARTICIPIAL 
+I PARTICIPIAL 
+angry 
+happy 
+busy 
+impatient 
+comfortable incompatible' 
+compatible' sick 
+content 
+uneasy 
+familiar 
+friendly 
+furious 
+annoyed 
+bored 
+concerned 
+delighted 
+depressed 
+disappointed 
+disgusted 
+dismayed 
+distressed 
+drunk 
+enchanted 
+obsessed 
+occupied 
+overcome 
+pleased 
+satisJied 
+taken1 
+Note 
+[a] In general, choice of preposition remains the same after morphologically related verbs, 
+adjectives, and nouns: diflerentfron~, d8er from, drflerencefiorn. But this correspondence is not 
+always to be relied on: contrastfullofwith filled 1virh;proud ofwithpride in. 
+[b] Other prepositions which less commonly enter into adjective + preposition idioms includefor 
+and towards: gratefulfir, sorry for, inclined towards. 
+[cl Used followed by the preposition to, a more informal synonym ofaccustomed (to), is participial 
+in spelling, but has the special pronunciation I'ju:sta/. Unlike accustonled, however, used does 
+not occur with a following infinitive (cf 16.79). This adjectival used to, in spite of identity of 
+spelling and pronunciation, is quite distinct from used to as a marginal modal (cf 3.44). Contrast: 
+I'm used to hard work. 
+I used to work hard. 
+[dl In the past, prescriptive objections have been made to the use of to rather thanjiom after 
+averse and dl@erent. However, to is the normal preposition to follow auerse, and dtflerent to is 
+quite widely used (esp in BrE) as an alternative to dflerentjiom. On dlxerent than, cf 15.66 Note, 
+16.74. 
+[el With can be obitted after (in)compatible if the subject is plural, cf 'mutual participation', 
+13.60: 
+'Car1 is incom atible. 
+B
+:
+ Carl and Eva are incompatible. 
+P 
+[E21 Adjective complementation by a that-clause 
+16.70 
+Like that-claus S following a verb, that-clauses following an adjective may 
+have : 
+7 
+\ 
+(A) indicative verb: 
+I am sure (that) he is here now. 
+(B) subjunctive verb: They were insistent (that) we be ready. (formal) 
+(C) putative should: 
+I'm sorry (that) he should have left. (formal) 
+The uses of th$ mandative subjunctive and of putative should have been 
+discussed in 3.39 and 14.25 respectively. Putative should often occurs after 
+expressions of emotion (sorrow, joy, displeasure, surprise, wonder, etc), and 
+is often accompanied by intensifying expressions such as so, such, like this/ 
+that, ever, or at all. The indicative that-clause, on the other hand, refers to an 
+established fact.. The following pairs illustrate choices of construction: 
+(that) I have to leave so early. 
+I am sorry (that) you should have been (so) inconvenienced. 
+Adjectivecomplementation 1223 
+{ 
+(that) you didn't call the doctor before. 
+I am surprised (that) anyone of your intelligence should swallaw a lie 
+like that. 
+With some adjectives (those in category [E2b(ii)], 16.72) the should-clause 
+can be paraphrased by an infinitive clause with a subject: 
+It was natural for him to go to London after the war. 
+= It was natural that he should go to London after the war. 
+That-clauses cannot be preceded by prepositions. Hence adjectives which 
+are constructed with prepositions before noun phrases ([El]) drop the 
+preposition before a that-clause (cf 16.28). Compare the following: 
+I am convinced of his innocence. 
+[Ell 
+(that) he is innocent. 
+[E21 
+Many that-clauses following an adjective are actually subjects postponed by 
+extraposition (cf 18.33): 
+It is lucky (that) you came. - That you came is lucky. 
+These are listed separately in 16.72. 
+[EZa] Adjectives with experienwr (cf 10.23 Note) as subject 
+16.71 
+(i) THAT-CLAUSE HAS INDICATIVE VERB ONLY (CS Note [a] below) 
+. , 
+These adjectives express degrees of certainty or confidence: aware, 
+certain, confident, sure: 
+, 
+We were confident that Karen was still alive. 
+(ii) THATCLAUSE HAS PUTATIVE SHOULD, OR SUBJUNCTIVE VERB 
+(or marginally also an indicative verb) 
+The three principal adjectives in this class are anxious, eager, and willing: 
+{ 
+he should be permitted to resign? 
+Are you willing that 
+he be permitted to resign? 
+?he is permitted to resign? 
+(On the distribution of these three alternatives, cf 16.30.) 
+(iii) THATCLAUSE HAS INDICATIVE VERB OR PUTATIVE SHOULD 
+These adjectives express emotions: 
+I'm so thankful that nobody was hurt. 
+Were you surprised that Ray should win the prize? 
+NONPARTICIPIAL 
+I PARTICIPIAL 
+There is a tendency to prefer the putative should construction in 
+nonassertive contexts, or where the adjective has negative or unfavour- 
+able associations. 
+afraid 
+hopeful 
+angry 
+proud 
+glad 
+sad 
+grateful sorry 
+happy 
+thankful 
+alarmed 
+depressed 
+horrified 
+amazed 
+disappointed irritated 
+amused 
+distressed 
+pleased 
+annoyed 
+disturbed 
+shocked 
+astonished frightened 
+upset 
+
+
+1224 Complementation of verbs and adjectives 
+Adjectivecomplementation 1225 
+Note 
+[a] The restriction of Type (i) above to 'indicative verbs only' is meant to allow for the use of 
+modal auxiliaries, including shouldin a nonputative sense; eg: lam aware that Ishould[= 'ought 
+to'] how joined long ago. 
+[b] Afraid is unique among adjectives iri that it accepts the pronoun so (and its negative 
+equivalent not) as a that-clause substitute (cf 16.31): I h r  afiaidsolnot. 
+[E2bl Adjectives with anticipatory it as subject 
+16.72 
+The that-clause in this construction is an extraposed subject. Three types are 
+again distinguished, matching those in 16.71. 
+(i) THAT-CLAUSE HAS INDICATIVE VERB ONLY (cf 16.71 Note [a]) 
+These adjectives have to do with truth or knowledge: 
+It is true that she never comes on time. 
+apparent evident 
+likely 
+possible untrue 
+certain 
+implicit 
+obvious true 
+well-known 
+clear 
+indubitable plain 
+unlikely 
+(ii) THATCLAUSE HAS PUTATIVE SHOULD, OR SUBJUNCTIVE VERB (or margin- 
+ally, also, an indicative verb) 
+These adjectives express concepts concerned with modality or volition: 
+should be lifted tomorrow. 
+It is essential that the ban 
+be lifted tomorrow. 
+(?) is lifted tomorrow. 
+appropriate essential 
+important necessary vital 
+compulsory fitting 
+impossible obligatory . 
+crucial 
+imperative improper 
+proper 
+Various de4erbal adjectives ending in -able also belong to this group, eg: 
+advisable, desirable, preferable. 
+(iii) THATCLAUSE HAS INDICATIVE VERB OR PUTATIVE SHOULD 
+This group consists mainly of emotive adjectives, and includes a large 
+number of participial adjectives ending in -ing: 
+she should beio late. 
+awkward 
+logical 
+curious 
+, 
+odd 
+disastrous I 
+peculiar 
+dreadful 
+1 
+sad 
+extraordinary silly 
+fortunate 
+tragic 
+irrational 
+unfortunate 
+PARTICIPIAL 
+alarming 
+perplexing 
+annoying 
+pleasing 
+depressing 
+shocking 
+disappointing surprising 
+embarrassing 
+frightening 
+irritating 
+Various -able/-ible adjectives also belong to this group: admirable, 
+commendable, deplorable, despicable, incomprehensible, inconceivable, 
+lamentable, remarkable, understandable, unjustifiable, etc. 
+Note 
+[a] Although the pro-forms so and not cannot be used after these [EZb] adjectives (cf 16.71 
+Note [b]), there is a possibility of replacing the adjective + solnot by a related adverb + solnor: 
+A: It is apparent that she lives/doesn't live here. 
+B: Yes' obciously'fOrtu'tate'yso' 
+' [B : No, eoidenfly/sadly not. 
+[bl When an adjective of Type (iii) above occurs after a modal verb construction, the thot-clause 
+is commonly replaced by an ifelause. If the modal verb in the main clause is hypothetical (eg: 
+would), the verb in the $*lause is placed in the hypothetical past. Compare: 
+It is sad that you have to leave. 
+It will be sad ifyou haw to leave. 
+It would be sad ifyou hod to leave. 
+[E31 Adjective complementation by a wh-clause 
+As with that-clauses, we have to distinguish those adjectives ([E3a]) which 
+are predicated of an experiencer (normally a person) as subject, and those 
+([E3b]) which go with anticipatory it. In the latter case, the wh-clause is an 
+extraposed subject. Examples are: 
+what I should say. 
+[E3a] I was unsure 
+111 
+whether the problem was solved. 
+[2] 
+[E3b] It was unclear what the; would do. 
+[31 
+Type [E3a] consists of adjectives which are constructed with prepositions, 
+and which therefore belong also to Type [El]. The preposition is sometimes 
+omitted before the wh-clause (cf 15.5 Note [c]). In Type [E3b], on the other 
+hand, no preposition can be inserted: *It was unclear oflabout what they would 
+do. Also no infinitive wh-clause is possible (cf 16.37): It is unsure where to go 
+is unacceptable unless it refers to some animate being (such as a mouse), and 
+is consequently not interpreted in terms of extraposition. 
+Returning to Type [E3a], we note that in some cases the adjective takes a 
+wh-clause in assertive contexts: eg: careful (about), doubtful (as to), fussy 
+(about), puzzled (as to), unclear (about), uncertain (of), undecided (about), 
+unsure (of), unaware (of) : 
+John is careful (about) what he does with his money. 
+Most of these adjectives are intrinsically negative in meaning. In other cases, 
+although elsewhere it is associated with an indicative that-clause [EZa(i)], the 
+adjective tends to occur with a wh-clause in nonassertive contexts (cf 16.35), 
+eg: aware, certain, clear, sure: 
+Are you sure (of) how much the machine costs? 
+I wasn't altogether clear (about) what we had to do. 
+A similar division may be made among adjectives of the anticipatory-it 
+type ([E3b]). Those which intrinsically express doubt, and therefore take this 
+structure even in assertive contexts, include doubtful, uncertain, unclear, 
+unsure, and unknown. Those normally occurring with an indicative that-clause 
+(ie Type [E2b(i)]) include apparent, certain, obvious, and plain. They can take 
+a wh-clause in nonassertive contexts. Each type is illustrated in: 
+It was unclear whether an amendment would be accepted. 
+It was not obvious how far the westernization process would go. 
+
+
+1226 Complementation of verbs and adjectives 
+Adjectivecomplementation 1227 
+After adjectives of Type [E3a] there may also occur an infinitive wh-clause: I 
+was uncertain (oJ) what to do. This is preferable to the finite clause in cases 
+illustrated by [l-31 above, since the subject can remain unexpressed in the 
+reduced nonfinite version. 
+[E41 Adjective complementation by a than-clause 
+16.74 
+There is an unusual construction in which a noncomparative adjective is 
+followed by a comparative than-clause as complementation. Different is the 
+only adjective which fits into this pattern, and even then there is a tradition 
+which regards the use of than here as improper. There is, however, no 
+felicitous alternative to the different than construction in examples such as: 
+She's quite a dlyerent girl than she wasfive years ago. 
+[l] 
+The various stylistic variants of, and alternatives to, the than-clause after 
+different are examined in 15.66 Note [b]. When the clause is reduced to a 
+noun phrase, it becomes possible to usefiom as an alternative to than: 
+The unions a n  taking a very different  attitude[$^^} the employers. 
+When the noun phrase following than/from cannot be derived by ellipsis from 
+a clause, than is decidedly less acceptable thanfrom: 
+The main languages of southern India are totally different in origin 
+{?g} 
+those of the northern part of the country. 
+Note 
+[a] On different from and dflerent to, cf 16.69 Note [dl. 
+[b] It is also possible for a than-clause to be used after the adverb d~rerently: 
+In the west of the country, they pronounce their vowels quite d~rerenfly thon (they do) in the 
+' east. 
+The same prescripti<e objections are made to dfirently than as todifferent than. 
+[E51 ~djective' 
+complementation by a to-inf initive clause 
+16.75 
+We distinguish seven kinds of construction in which an adjective is followed 
+by a to-infiniti~e~clause. 
+They are exemplified in the following sentences, 
+which are superficially alike: 
+l 
+(i) Bob is splendid to wait. 
+\ 
+(ii) Bob is slow to react. 
+(iii) Bob is sorry to hear it. 
+(iv) Bob is hesitant to agree with you. 
+(v) Bob is hard to convince. 
+(vi) The food is r ady to eat. 
+(vii) It is importa d t to be accurate. 
+In Types (i-iv) the subject of the main clause (Bob) is also the subject of the 
+infinitive clause. We can therefore always have a direct object in the infinitive 
+clause if its verb is transitive. For example, if we replace intransitive wait by 
+transitive build in (i), we can have: Bob is splendid to build this house. 
+For Types (v-vii), on the other hand, the subject of the infinitive is 
+unspecified, although thecontext often makesclear which subject is intended. 
+In these types it is possible to insert a subject preceded by for; eg in Type 
+(vi): The food is ready (fbr the children) to eat. 
+E 
+Note 
+Infinitive complementation following adjectives modified by too and enough is discussed else- 
+where, in 15.73. 
+[ES(i)l Bob is splendid to wait 
+16.76 
+Type (i) has an analogue in a construction involving extraposition (cf 18.33): 
+It is splendid of Bob to wait. This type of construction also permits a head 
+noun between the adjective and the infinitive: 
+Ifo build 
+}this house. 
+Bob must be a splendid crajisman to have built 
+As this example shows, the infinitive may be perfective. We may also 
+compare constructions in which an evaluative noun with its determiner 
+replaces the adjective: 
+You're (~~'"~} to wait for me. 
+Adjectives in this group are evaluative of human behaviour. They include : 
+careful 
+crazy 
+mad silly 
+wise ' 
+caretess greedy nice 
+unwise wrong 
+These adjectives can also occur with anticipatory it and an ofphrase as 
+additional complementation (416.82): 
+i 
+It wasfoolish of you to spend so much. 
+[ES(ii)] Bob isklow to reuct 
+16.77 
+In Type (ii), the sentence corresponds to one in which the adjective becomes 
+an adverb, while the infinitive becomes the finite verb: 
+I 
+Bob is slow to react. - Bob reacts slowly. 
+In another analogue, the adjective is followed by in and an -ing participle: 
+Bob isslow in reacting. The infinitive verb phrase must be simple: for example, 
+unlike the infinitive phrase in [E5(i)], it cannot be perfective: *Bob isslow to 
+have reacted. Other adjectives in this small group are quick andprompt. 
+Npte 
+There is also a partial adverbial analogue (c/ 8.127ff) for Type (i), but in Type (i), unlike Type 
+(ii), the perfective infinitive, and even the get-passive (cf3.66) can be used: 
+Joan was wise to resign. - Joan wisely resigned. 
+loan was careless to get beaten. - Joan carelessly got beaten. 
+Joan is careless to have got beaten. 
+[ES(iii)l Bob is sorry to hear it 
+16.78 
+In Type (iii), the head of the adjective phrase is an emotive adjective 
+(commonly a participial adjective), and the infinitive clause expresses 
+causation : 
+
+
+l 
+1 
+Adjective complementation 1229 
+l 
+1228 Complementation of verbs and adjectives 
+I'm sorry to have kept you waiting. ['I'm sorry because I have kept you 
+waiting'] 
+: 
+I was excited to be there. [- 'To be there excited me'] 
+We are accustomed to take tea on the terrace. (formal) 
+He was wont to leave the office at 5 p.m. (formal, archaic) 
+[E5(v)I Bob is hard to convince 
+16.80 
+In Type (v), the subject of the sentence is identified with the unexpressed 
+object of the infinitive clause, which must therefore have a transitive verb; 
+hence the unacceptable *Bob is hard to arrive. There is an analogous 
+construction in which the adjective is complement to an infinitive clause 
+acting as (extraposed) subject (cf 18.36): 
+Adjectives in this group correspond closely to the adjectives followed by a 
+that-clause in 16.71 (Type [EZa(iii)]): 
+NONPARTICIPIAL 
+PARTICIPIAL 
+afraid 
+happy 
+angry 
+impatient 
+ashamed 
+indignant 
+content 
+jubilant 
+furious 
+thankful 
+. . 
+glad 
+annoyed 
+disgusted 
+overwhelmed 
+astonished 
+dissatisfied 
+perturbed 
+bored 
+embarrassed 
+puzzled 
+concerned 
+fascinated 
+relieved 
+delighted 
+frightened 
+surprised 
+depressed 
+interested 
+worried 
+disappointed 
+overjoyed 
+- To convince Bob is hard. 
+Bob is hard 
+convince.{- It is hard to convince Bob. 
+Adjectives so used refer to degrees of ease or comfort, and include: 
+awkward 
+hard 
+tough (informal) 
+convenient impossible 
+tricky (informal) 
+d#cult 
+nice (informal) 
+unpleasant 
+easy 
+pleasarit 
+IE5(iv)j Bob is hesitant to agree with you 
+16.79 In Type (iv), the head of the adjective phrase expresses volitional meaning, 
+or a modal meaning such as ability, possibility, or liability. Examples are: 
+Unless there is ellipsis, we cannot omit the infinitive clause, and so there is 
+no semantic implication between (say) The bread was hard to bake and The 
+bread was hard. Unlike the preceding types, Type (v) permits for + subject to 
+be inserted at the beginning of the infinitive clause: Those darts are tricky 
+(for a beginner) to use. Where the infinitive has no overt subject, its implicit 
+subject is understood to,have an indefinite meaning: 
+NONPARTICIPIAL 
+able 
+keen 
+anxious 
+liable 
+apt 
+likely [E2b] 
+certain [E2b] loath 
+curious 
+powerless 
+due 
+prone 
+eager 
+ready [E51 
+eligible 
+reluctant 
+fit [E51 
+sure [E2b] 
+free[E5] 
+i unable 
+greedy 
+; welcome 
+hesitant 
+' willing 
+impotent 
+worthy 
+PARTICIPIAL 
+determined 
+disposed 
+fated [E2b] 
+inclined 
+poised 
+Jack is easy to fool. = Jack is easy for anyone to fool. 
+prepared 
+(all) set 
+unqual$ed 
+Note 
+With some adjectives in this group, such as nice or unpleasant, the entailment relation between 
+be + adjective to V and be + adjective is less easy to avoid; eg: Jenny is nice to know implies that 
+Jenny is nice. 
+[ES(vi)l The food is recrdy to eat 
+16.81 Again, in this type the subject of the main clause is identified with the object 
+of the infinitive clause. But unlike Type (v), Type (vi) has no analogous 
+construction with an infinitive clause subject: 
+The adjectives marked [E2b] occur with a corresponding construction with 
+extraposition of q~ that-clause: 
+The food is ready to eat. 
+*To eat the food is ready. 
+l 
+\ 
+Jill is likely 
+attend. 
+- It is likely that Jill will attend. 
+Also, we can generally (a) omit the infinitive clause, or (b) substitute a passive 
+infinitive clause without change of meaning: 
+Those marked [E51 are capable of occurring with an infinitive construction 
+of 'passive' meaning, ie with an indefinite implied subject and a coreferential 
+implied object: I 
+l 
+Are these cups available (to use)? 
+= Are these cups available (to be used)? 
+Some adjectives of this type, such as available,fit,free, ready, and sufficient, 
+belong additionally to Type (iv), so that a sentence like The lamb is ready to 
+eat is ambiguous, in one sense (the most accessible) being equivalent to the 
+passive The lamb is ready to be eaten. Then there is a wider set of adjectives 
+which often occur without complementation at all : 
+They are not fit to eat. = They are not fit to beeaten. 
+l 
+Some of the most common adjectives in this list have a tendency to coalesce 
+with the preceding copula to form a semi-auxiliary verb (cf 3.47): be able to, 
+be willing to, be sure to. In addition to modal and volitional adjectives, some 
+adjectives of aspectual meaning, such as accustomed and wont may be placed 
+here : 
+The air is frosty (to breathe). 
+Its fur is soft (to touch). 
+
+
+1230 complementation of verbs and adjectives 

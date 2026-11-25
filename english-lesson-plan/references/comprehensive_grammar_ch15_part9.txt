@@ -1,0 +1,1418 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 15: Syntactic and Semantic Functions of Subordinate Clauses
+Covers: Nominal clauses, Relative clauses, Adverbial clauses, Comparative clauses
+[Part 9 of 10]
+============================================================
+
+isgiven, but merely as scene-setting to the weightier inform;~tion that is tocomc: 
+Late last night a group of terrorists attiicked an army post. 
+we m i ~ h t  hear in a news broadcast: 
+It atas late lasl NIGHT that a group of terrorists . . . 
+This conveys unwarrantably the impression that the fact of the attack was known to the hearer 
+but not the time at which it had hken place. The habit can be defended in that an adjunct 
+(especially of time or place) is a fitting scene-setting and lli;~l it is this function that tbc cleft 
+structure emDhasizcs. There is a comparable stylistic cliche to be found in conventional 
+narrative. In place of a straightforward sentcnce st~ch as: 
+When Harry returned that night, he found that his wife w;ls very troubled. 
+a rather mannered form of writing might have (cl17.3 Note): 
+It was a very troubled wife that greeted Harry on hisreturn that night. 
+[c] Subject pronouns other than it sometimes occur: 
+(No,) rhnr was the &tor 1 was speaking to. 
+Those are my F ~ E T  you're treading on. 
+He was a real Gk~ius that invented this. 
+In eilch of these, we could find divided focus (cj.l8.17), with ;I rising tone on spcokir~g. rrcc~dif~p. 
+and this. 
+18.27 
+The flexibility ofthe clcft scntcncc tlcvicc can hc sccn in thc c;tsc with which 
+diffcrcnt parts can be higl~liglltctl. C'onsitlcr thc scnlencc: 
+.l01111 wore ;I wl~ilc sl~it 
+ill lltc ~I:IIICC I;tsI 1tigI11. 
+From this, four clcft sentenccs can bc dcrivcd. 111 thc Ibllowi~lg, we shall 
+;ISSLII~C that the aim in c;tcIi case is to tn:tkc lltc sccontl lilcus s t ~ h s i d i : ~ r ~  
+:IS 
+rcl:~livcly '~:ive11': 
+O,, as focus: 
+It W:IS :I [wl~ilc 
+S ~ J I . ~  
+[l11;1t) 'Jt~lttl 
+' W I I ~ ~  
+:I! I I I C  I)AN~.I: 
+'I;ISI 'I~;[:IIII 
+A,i,,,, as focus: 
+It was llast N~GHT (that) 'John 'wore a 'white 'suit at thc D ~ N T E I  
+A ,,,,,,,,,, as focus: 
+at the (DANCE that 'John 'wore a 'white s i r r ~  
+'last 'nighll 
+the I D ~ N C E  
+(that) 'John 'wore a 'white SCIT at 'last 'night1 
+(informal) 
+Two other clause elements can marginally act as the initial focus of a cleft 
+sentence : 
+Oi as focus: 
+?It's me (that) he gave the book. 
+But more usually Oi would be replaced by a prepositional phrase: 
+It's me he gave the book to. 
+It's to me that he gave the book. 
+C, as focus: 
+It's clarkgreen that we've painted the kitchen 
+There are severe restrictions (except informally in Irish Englisli) on thc use 
+of C, in this function, especially with the vcrb he at the end of the second 
+clause and especially when C, is realized by an adjective phrase: 
+?It's a genius that he is. 
+?It's o lectrrrcr that I am now. 
+?It's very tall you are. 
+But, without thesc restrictions, C, can be acceptable: 
+It was adocror that he eventually became. 
+The V element does not occur at all as focus, just as it does not occur a s  a wh- 
+element (cf 2.50): 
+*It's wore that John a white suit at the dance. 
+Informally, we sometimes find a predication frontcd in a cleft sentence, the 
+
+
+1386 
+Tliomo, focus, a n d  infornlstion proc00uint7 
+V element made nonfinite and then subsequently replaced by do in the second 
+clausc; cx;~mplcs like thc following arc regarded, however, as stylistically 
+awkward (again except in inforn~al Irish English): 
+?It wns retrcll I51,qli.slr irr (I ,school thitt hc did ;tt lh:tt timc. 
+?It was teucl~it~g 
+Euglish CI a school that hc was doing at that titnc. 
+?Is it spyitlg or1 us he is? 
+It's rlext week's match that he's hoping to attend. [ie not this week's] 
+It's this 1valc11 1 said I would Ict you hitvc. [knot ~li;~t] 
+There arc dill'ercnccs from rclative clauscs, howcvcr, in Illat thc IV/I-forms 
+arc rare in clcft scntcnccs in comp;trison will) rlrtrr itnd ~ c r o .  
+A l t h ~ t ~ g h  
+II~/I~I.SC 
+is allowed in clcft scnlcnccs (11s Utrclo Bill tl,ho.se crdi1re.s.s I Iitsr), ii,lrot?r and 
+~c'hich are only marginally possible, and it is virtually impossible to use ~vlron~ 
+or which prccedcd by a preposition. Thus: 
+It was thc dog to which I g:tvc tltc water. 
+can be read only as a sentence containing a postmodifying rclative clause 
+(compare She was the wornajz to rvhotil I guue the ~c,a/er), and not as a clcft 
+sentence. Characteristic intonation is also different: 
+It was the DOG I gave the wirer to1 [cleft sentence] 
+was the dog Igave the wiirrto~[SVCmtence. the C being the 
+italicized noun phrase incorporating a relativc clause] 
+A further difference between the postmodifying relative clause and the clause 
+following the first focused element in cleft sentences is the ability of the latter 
+to have as its antecedent (ie the first focused element) not only an element 
+realized by a noun phrase but an adjunct realized by a clause or prepositional 
+phrase: 
+It was because he was ill (that) we decided to return. 
+It was in Septetnber (that) I first noticed it. 
+Indeed, such a construction, where there is no noun-phrase antecedent, 
+makes inappropriate the use of the term 'pronoun' for the linking word that. 
+It is noteworthy that a wh-relative pronoun cannot be used in cleft sentences 
+where the focused element is an adjunct, and where consequently that does 
+not have a strict 'pronominal' status: 
+*It was because he was ill tvhich we decided to return. 
+C ~ m p ; ~ r c  
+with fronting within the matrix ckluse: 'She it was that gave the signal'. 
+[b] Though the verb form in the first clause of ;l clcft sentence is usu;llly simple present or p;tst. 
+forms xith modals arc perfectly possible: 
+It iital'be his father that you're thinking of. 
+It would hocc beot at that time th;!t he went to live in Wisconsin. 
+Decision between present and past, however, is somewhat complicated. Where the verb of thc 
+second clause is present, that of the lirst will be present: 
+It is novels that Miss Williams enjoys reading. 
+'It was novels that Miss Williams enjoys reading. 
+Cj: Was it novels that you said Miss Williams enjoys reading? 
+Where the second verb is past, the first can always be past: 
+It was novels that Miss Williamsenjoyed as a pastime. 
+It was as a pastime that Miss Williamsenjoyed reading novels. 
+But the first verb may be in the present where the personsconcerned are still living or theobjects 
+concerned still familiar in the participants'experience: 
+It is Miss Williams that enjoyed reading novels as a pastime. 
+It is these very novels that Miss Williams enjoyed reading as a pasttime. 
+I t  is as a pastime that Miss Williams enjoyed readingnovels. 
+[=]The cleft sentence structure can be used in questions, exclamations, and subordinate clauses: 
+we italicize the first focal item: 
+Was itfor this that we suffered and toiled? 
+Who was it who interviewed you? 
+Wltot oglorious boififire it was you made! 
+He told me that it was because he was ill that tlley decided to return. 
+[d] It should be clear that in singling out an item for highlighting in the cleft sentence, strong 
+presuppositions are entailed. Thus beside'Bill didn't come to the party', we can have: 
+It was Bill that didn't come to the party. 
+111 
+It wasn't Bill that came to the party. 
+[21 
+In [I], it is suggested that a memory search is trying to identify a missing guest, while 121 is 
+concerned with converse reflections on who had in fact been present. 
+18.28 
+The second clause in a cleft sentence is obviously similar in structure to a 
+restrictive relative clause; and yet (as we shall see below) there are 
+considerable dilferences. Examples above show that pronouns used in 
+relative clauses (u'ho, that, 'zero' pronoun) are also used to introduce cleft 
+sentences. Alsosuggestive of the relativeclause is the frontingof the pronoun; 
+moreover, as in relative clauses, the pronoun can be fronted from a position 
+in a prepositional phrase, or from a pushdown (cf l l. 18) position in a noun 
+clause as object: 
+It's thegirl that I was complaining about. [ie not the boy1 
+Note 
+Mention might be madeof two furthercontrasts between relativeclauscs and the typcof'annex' 
+clause that occurs in clcft sentences. One is the possibility, in familiar English, of omitting rhar 
+assubject in a cleft sentence, but not as subject of a relative clause: 
+It was the President himself ,rpokc to me. 
+Theother is that cleft sentences may have n proper noun ;is a focus cle~ncnt, whereus restrictive 
+relative clauses cannot have a proper noun as an antecedent. Thus Ir:r Cltclreo (rho!) Ire h r s  irt 
+is unambiguously a cleft sentence. 
+Pseudo-cleft sentences 
+18.29 
+The pseudo-cleft sentence is another device whereby, like the cleft sentence 
+proper, the construction can make explicit the division bctween given and 
+new parts of the communication. It is essentially an SVC sentence with a 
+nominal relative clause as subject or complement (cf 15.8f). It thus differs 
+from the ordinary cleft sentence in being completely accountable in terms of 
+the categories of main clause and subordinate clause discussed in Chapter 10 
+(and cf 18.26, Note [a]). The following are virtually synonymous, assuming 
+focus upon rest: 
+
+
+1388 Tllelnu. focus, 111111 i ~ ~ l ~ r r r ~ i ~ t i ~ ~ ~ ~  
+IIIOC#?:~:~~II(J 
+It's a good rest that you need most. 
+A good rcst is what you nectl most. 
+'I'llc ~'se~~clo-clcl'l 
+sc~ilc~lcc 
+occurs 111o1.i~ 
+ly11ic:llly. I~owcvcr, will1 lllc II'/I-~~:IIISC 
+as subject, since it can thus prcscnt a climax in the cotllplct~lc~lt: 
+Whot yeti rtc,rtl rno.st is n good rest. 
+I l  i:. lcss ~csl~.ic~li~cl 
+~ I I ~ I I I  
+I I I C  cIcII 
+S C I I ~ L ~ I I C C  
+(11111 v/ 1 %  30) ill OIIC ~ C S ~ C C I .  sillcc. 
+through use OS thc substitute vcrb do, it more I'rccly pcrtnits 11l;lrkccl Ibcus 1u 
+fall on the predication: 
+What he's done is (to) spoil the whole thing. 
+What John did to his suit was (to) ruin it. 
+What I'm going to do to him is (to) teach him a lesson. 
+In each of thcsc, WC wot~ltl Ii;lvc ;ul ;tnticip;ltory fixus on thc (to ilcln, thc 
+main focus coming at normal end-focus position. Thus: '. . . D ~ N E  . . . TH~NC'. 
+The complement of these sentences is normally in the form of an infinitive 
+clause (with or without to). When the verb in the wh-clause has progressive 
+aspect, however, the complement (except in the case of he gobrg to) matches 
+it with an -ing clause (cf 18.27): 
+What I'm doing is teaching him a lesson. 
+The constraints are the same as for the pro-prcdicational (10; cf 
+12.21. 
+Occasionally, such matching of the two verbs is extended to verbs in the 
+perfective aspect, which can have as their counterpart an -edclause: 
+(?) What he's done is spoilt the wjhole thing. 
+This last type is, however, of doubtful acceptability, and instances of it may 
+indeed be interpreted as ellipted forms of an alternative construction 
+involving apposition: 
+What he's done is ((this): he's) spoilt the whole thing. 
+18.30 
+In some respects, the pseudo-cleft sentence is more limited than the cleft 
+sentence proper. It is indeed only with what-clauses that we can make a 
+direct comparison (or choice) between the two constructions. Clauses with 
+who, where, and when are sometimes acceptable, but mainly when the wh- 
+clause is subject complement: 
+Here is where the accident tookplace. 
+(In) Autumn is when the countryside is most heautful 
+(?) The police chief was who I meant. 
+Clauses introduced by whose, why, and how do not easily enter into the 
+pseudo-cleft sentence construction at all: 
+*With a Scottish accent is how he talked. 
+?*Why we decided to return was because he was ill. 
+To compensate for these restrictions, there are numerous'paraphrases'of the 
+pseudo-cleft construction involving noun phrases of general reference in 
+place of the wh-item. Thus beside the cleft: 
+It must have been thc ma~rager that spoke to you. 
+we have $1 noun phr:lsc in pl;tcc of Ihc psc~ltlo-clcl't: 
+'IIrc,prr:von 11,ho .s/~oXr tojor~ rnttsl Ii;~vc hccll lllc In;lltagcr 
+So also: 
+3Soi~~i,l~o(/~~ 
+/ ~ J ~ I ~ I ~ ~ ~ ~ I I ~ ~ ~ / , I ~  
+/;li(* is .I~IIIII, 
+711~ 
+I I ~ ( I ~ ~ . I ~ ~ I I . V / I ~ I I / ~ ~ ~ ~  
+is v i i ~  ~'llcl1~11l1;1111. 
+The  cry we mokr c1 cake is by following niothcr's rccipc 
+The, reasor1 ~ve (IecitIe~I to rc,tirrr~ was {because 
+t h : ~ ~  <informal>} he 
+Theplace (where) the accident Ilapr)et~ed is here. 
+. . 
+The time when the coutltrysi(/c is mo.vt h(~crrrtifii1 is (in) ;iutumn. 
+Tire hour at wlric,h .v110 must ~iroka lrc~r rli~cisio~r 
+w;~s I:,lst :~ppro:~cliing. 
+Compare : 
+The hour was fast approaching (11 tvltich slre must make her deci.riott. 
+See further 18.39. 
+Note 
+[a1 The device of general antecedent is also found where a correspo~ldinp pseudo-cleft is fully 
+available: 
+~ l ~ a ~ i n ~ ]  
+I likeahout JO~III 
+is hcrscll~of humour 
+[bl The cleft and pseudo-cleft types can cooccur. For example: 
+What it was you asked for was a ticket to Brighton. Did you mean Birmingh;~m? 
+Postponement 
+18.31 
+It will be clear from the examples in the foregoing sections that one important 
+communicative difference between the two types of cleft construction is that 
+while the cleft sentence with it is often used to put the main focus near the 
+front of the sentence, the pseudo-cleft is chiefly used to postpone the focus 
+to end position. In this respect it is often in competition with the passive 
+(cf 18.32): 
+The manufacturers tested the device. 
+Focus is placed on the noun phrase the nratrufacturers by means of the passive 
+in [l] and by means of the pseudo-cleft in [Z]: 
+The device was tested by the manufacturers. 
+[I1 
+The people who tested the device were the manufacturers. 
+[21 
+It should be noted that [2] presupposes that the hearer knows that testing has 
+taken place; with [l] this is not so. 
+
+
+1300 Tliornn, focus, nnd information processing 
+Given the importance of end focus (cj'18.3), it is not surprising that 
+English has numerous resources to enable us to phrase a sentence in such a 
+way as to cnsure the distribution of inl'ormation according to our wishcs. 
+Thcre are. for example, lexical and grttminatical tlcviccs which rcvcrse the 
+ortlcr ol' rolcs: 
+An uncle, three cousins, and two brothers berrcfitedjiam the will. 
+The will berrqfited an uncle, three cousins, and two brothers. 
+An unidentified blue liquid i t ~ s  
+it1 the bottle. 
+The bottlc corrtrrbretl on unidcntilicd blue liquid. 
+A red sports car was hel~iriti the bus. 
+The bus was in jrartt of a red sports car. 
+The items or sequences in italics are converses; ie they express the same 
+meaning, but with a reversal of theorder of participants. The second sentence 
+in each pair will be generally preferable, since the element with the 'definite' 
+meaning, containing given information, would normally not take end-focus. 
+Note 
+A special case of converseness is the relation of reciprocity expressed by certain terms such as 
+sintilor to, ducrcnrfronl, ncor (10). forfionl, upporire, ntorried 10, where reversing the order of the 
+perticipants preserves the essential meaning without any other change in the construction: 
+My house is opposite the hotel. =The hotel is opposite my house. 
+A more complex relation of converseness is illustrated by: 
+The dealer sold the car ro my friend. 
+My friend bottgllr the car from the dealer. 
+Compare also rent to/rcnrfront, lprrd (ro)/horro~vfrottt,git~e 
+(to)/receirefrunt. 
+Voice and postponement 
+18.32 With transitive clauses, the passive voice provides a convenient way of 
+postponing the agentive subject by turning it into the agent in a passive 
+construction (cf3.63ff'). We thus reverse the active order of the agentive and 
+affected elements (cf 10.19) where the agentive requires end focus: 
+A: Who makes these tablemats? 
+K \ 
+/r 
+/ 
+\ 
+/ 
+/ 
+//'\ 
+/ 
+/ 
+k' 
+\I 
+B: They are made by my sister-in-law. 
+A preference for end-focus (in this instance, coinciding with end-weight) can 
+even override an aversion to passive constructions that are in themselves 
+rather awkward (cf 16.14): 
+The regulations were taken advarltage ofby all the tramps and down- 
+and-outs in the country. 
+A finite clause as subject is also readily avoided by switching from the active 
+to the passive voice: 
+That Ire ivasprepared to go to suck letlgths astounded me. 
+I was astounded that he wasprepared to go to such lengths. 
+It was pointed out in 18.27 that the V clcmcnt cannot be focuscd in the cleft- 
+sentence construction. Where such focus is desirable with an intransitive 
+vcrb, end-focus is easily ;~chicvcd; with :I l~xnsitivc vcrb, it c;tn he acliievcd 
+by the usc of the passive, providcd th;tt the itgent can bc ignorcd as either 
+givcn or othcrwisc dispcns:~hle (cf3.71). T h u s  it1 pl;~cc of: 
+But our Iscientists 'finally SOLVED '1111 'thcsc 'problcmsl 
+we can have, ignoring thc noun phrase ortr ,scic~rrti.st.s: 
+But \all 'these 'prohlcms wcrc 'fin;tlly sh~venl 
+The passive can also ensure a smooth crcscendoof coni~nunicativcdynamism 
+with ditransitivc verbs by making the indirect objcct thcmatic. Thus, after 
+'Marion performed well for the judges', we might hear: 
+They alwarded her the P R ~ Z E ~  
+But both they and her are obviously 'given' and thcre is thus a brcak in the 
+crescendo of new information between the subsidiary rrlc~rrrrled and the focal 
+prize. Such a break is avoided in the alternative passive, now ignoring the 
+active subject they: 
+She was alwarded the P R ~ Z E ~  
+Note 
+[a] II should he noted that the prlnc~plc or end-focus applies just x i  mc.ch lu !hr. trrdertng of 
+cl.toses within a scnlencc as to thc orderlnc of elcmcntf U I I ~ I I I I  II cl.81.ic 'Thv nr~nc~nlc 
+or end- 
+, 
+. 
+focus also has its analogue at sentence level;n the principle of RESOLUTION (d. 14.37). 
+[bl The passive of hacc is rarely used, but when it occurs, the verb has ;I tr;~nsilive meaning 
+usually i~bsenl from the active. Compere: 
+(People) have little satisfaction from pop music. 
+with the following examples which combine existential rhcre (cf18.45) with the pi~ssive: 
+There's little satisfaction to be had from pop music. 
+I wanted to buy sherry but there was none to be had. 
+[~ITogether with thephenomenonofdiscontinuousnou~~phrases 
+(c/.18.39), the rollowing tcxtui~l 
+example uses the passive to enable nu n~enrion to be themi~tized and rhepolicr to be focused (at 
+somecost in possible misunderstanding ofthe written form of the sentence): 
+No nrenrion is made in the report oftbepolice. 
+[=They make no mention of thc police in the report.] 
+Extraposition 
+Extraposition of a clausal subject 
+18.33 
+Postponement which involves the replacement of the postponed element by 
+a substitute form is termed EXTRAPOSITION. 
+It operates almost exclusively on 
+subordinate nominal clauses. The most important type of extraposition is 
+that of a clausal subject - ie a subject realized by a finite or nonfinite clause. 
+The subject is moved to the end of the sentence, and the normal subject 
+position is filled by the anticipatory pronoun it. The resulting sentence thus 
+' 
+contains two subjects, which we Inay identify as the POSTPONED SUBJECT (the 
+one which is notionally the subject of the sentence) and the ANTIC~PATORY 
+SUBJECT (it). A simple rule for deriving a sentence with subject extraposition 
+from one of more orthodox ordering is: 
+, subject + predicate - it + predicate + subject 
+
+
+1392 Theme, focus, and information processing 
+Postponement 
+7393 
+Thus: 
+'1'0 I I C ; I ~  I I ~ I I I  S ; I ~  
+III:II 
+l s111prisc(I IIIC -, It 
+I s ~ ~ ~ p r i s c d  
+1 1 1 ~  -1 to 11c:lr 
+him say that 
+But it is worth enlphasiziog that for clausal subjects (though $1'18.34) tlie 
+IM~SIII"IIW(I posilion is ~nol-c 
+I I S I I : ~ ~  
+II1:1ti lllc C:IIIOII~C;II posilioll I)cI'oI.c tI1c vcr17 
+(c:/ l0,2(>), l~xillll~1lc~ 
+;Ire: 
+Type SVC: 
+It is ;I p1c;lsure to tc,ctr./t 1rc.r. 
+Type SVA : 
+It wits or1 tlic news tltctl Ctc.otttc~ lrix i.v 10 hc Iowc,rc,e/ 
+Tvne S V :  
+It doesn't matter what you do. 
+Teucl~it~g 
+lrer to rlrii~e tclrncd ottt to bc qui tc ct~joy;~ 
+blc. 
+Gettirtg the, c~qtiiptttcilt I c ~ a ~ l e ~ ~ l  
+was c;~sy. 
+Ilxll.:~l)osilio~l 
+of -~II,L: CLIIJSCS 
+is it1 llcl LIIICOIIIIIIOII ol~l\iclc it1lc11111;1l SJ)CCCII. 
+Compare : 
+It was cnsy grttbtx tltc c,qrtilri~rc~rlt 
+111a1k~l 
+SCIIIIC 
+C O I I I I I I O I I  i l l l i i r ~ ~ ~ : ~ l  
+CX:IIIIJ)ICS 
+: I I C :  
+It's n o  ttsc tc~llit~g 
+irbn tlrttt. 
+It woultln't bc any good trvittg to ccrtc,lt tltr hii.~. 
+S V ~ :  It surprised m e  to hear him say that. 
+The -i)]g clause ofien shows itself i n c o m p ~ c t c l ~  
+atl;lplcd to the extraposition 
+~~~c SVOC: 
+It makes her happy to see othersenjoyilg tltf?tn.wlues. 
+notably by being resistant to bearing the muin information 
+'rypc SV,,,,,,: 
+It is s;titl tltoc .~/lc .slil)/~oel ~r.~c,trk. 
+it110  hi^ !C(). 
+~OCUS. 
+Rathcr than : 
+[c/'Notc [all 
+Type SI/,,,, 
+C: It was considered impossiblefir aityorle 10 escape. 
+It's lfun being a wosressl 
+w e  hear: 
+Note 
+certain constructions which hnvc a11 the appearance of chusel extraposition (11 ~ c c ~ ~ l s l  
+appe~r,~/~~pp~,pcncd/cl~ui~ced/etc), 
+the corresponding nonextraposed version does not occur. For 
+It's I F ~ N  being a H ~ S T ~ S S ~  
+there is no sentence '~itot ceeryrilir~g i.sfi,~e srTnrs to correspond with 11 rcenls ihat 
+rucr,,ryrllj,rg 
+jsfille, nor do WC find * TIIUI she slipped arrozir blto his i~,o i.v mid. In such cases, WC 
+with main focus o n  the first element of the predicate. 111 writing, (his example 
+may say that the extraposition is obligatory. With be, this type of cxtra~osition is 
+Ibr 
+could well b e  punctuated as: 
+expressions of possibility and (especially) for reflective quc~lions: 
+It may be that she no longer trusts you. 
+It's fun, being a hostess. 
+could it be that you left the keys in your office? 
+other charllcteristics ofthe verbs entering into this calegoty are presented in 18.36. 
+W e  might conclude from this that the participial clause has just as much 
+[b] clauscs 
+with extrap~s~d 
+subject must be distinguished from superficially similar clauses in 
+with a noun-phrase tag (Cf 18.59; eg : He> rrfiiend o f . n j j ~ j ~  
+~
+/
+~
+~
+~
+t
+ 
+)llN,l) 
+whicll it is a 
+pronoun or empty 'prop' subject: Ii's,qood to cut (ir 'This (fish, eft) is good 
+a s  with a genuine extraposed subject. 
+to eat'); 1i:i loue(v a'cu~her ~o~O/i~.vhil~,? 
+(C/! (1.321). 
+[c] ~j- 
+and a~/len-clauses behave very much like extraposed subjects in SCntCncCs like: 
+~t would be a pity if we missed the show. 
+[c/ lt is a pity that we missed the show1 
+11'11 be a great day when you win the sweepstake. 
+Extraposition of a clausal object 
+I[ is doubtful in each case, however, whether the clausc could act as subject, although it could 
+18.35 
+When the object is a n  -ing clause in S V O C  and SVOA clause types, it can 
+act as initial adverbial clause: ~ j i ~ s  
+nlisser~ [/re shoiv, ii ~vosl</ he n pill' (cJ'Io.~~). 
+on 
+undergo extraposition; when it is a to-infinitive clause or a that-clause, 
+it 
+t~lererore, these appear to be sdverbials rather lhan extraposed subjects. Contrast: ror'ls (onliss 
+must d o  SO: 
+[he sboiv lvolrld he a pity - If u,ua/d be upir), for us to >rri.S.i rhr .dlo)v. 
+[,JJ ~
+~
+~
+t
+h
+~
+~
+ 
+case is the 'phrasal extraposition' of 11's iivo 111111ilre1l 
+n~il@sfiol~l 
+Bosiorllo 
+You must find it exciting working llere. 
+N~,,,, ycrrk, where the prepositional phrase sequence, if fronted, could ;cl either as subject or as 
+Cotltrast: I m a d e  settlirtg the ttmtter my prime objective, 
+*I m a d e  ir my prime objective settling the I
+P
+I
+~
+~
+~
+~
+~
+.
+ 
+I owe it to you that the jury acquitredme. 
+Cf: **I owe that tlre jury acqtiitted nle to you. 
+I i3we nlY acquittal to you. [with corresponding 
+Extraposition of -ing clauses 
+18.34 
+.b,]though 
+w e  mentioned (18.33) that extraposition isusualforclausalsubjectsl 
+Something put it into his head tltat she lvos a 
+there is a n  exception with -ing clauses which occur very naturally in ordinary 
+Cf: **Something put that slte was a spy into his head. 
+subject position: 
+Something Put the iflea of her being a spy into his h e a d ,  
+
+
+1394 
+Theme, focus, a n d  information p r o c ~ a ~ i ~ ~  
+The construction type She's a p l e a s u r e  to teach 
+Whcrc thc cxtr;tposed cl;~use of 18.33 is of typc SVCand compriscs:ln object 
+or prepositional complement, the noun phrase concerned can somctimcs hc 
+frontcd to becomc the thcmc in placc of it. For example: 
+To teach Elizabeth is a pleasure. 
+It is a pleasure to tcach Elizabeth. (cj'18.33) 
+- Elizabeth is a pleasure to teach. 
+It's impossible to deal with him. - WC's impossible to deal with. 
+It's easy/difficult to beat them. 
+- They're easy/dificult to beat. 
+It's fun (for us) to be with Margaret. - Margaret is fun (for us) to be 
+with. 
+This thematic fronting does not apply to all constructions of the same kind. 
+For instance, with: 
+there is no corresponding: 
+'They are 
+to {F::]. 
+(See further 16.72j') 
+. 
+There is a similar construction for be sure, be certain, seem, appear, b e  said, 
+b e  krlowi~, etc, except that in these cases the corresponding construction with 
+anticipatory it requires a that-clause, not a to-infinitive clause, and except 
+also that it is thesubject of the extraposed clause that is fronted: 
+It's certain that we'll forget the 
+- We're certain to forget the 
+address. 
+address. 
+It seems that you've made a mistake. - You seem to have made a 
+mistake. 
+It is known that he's a coward. 
+- He's known to be a coward. 
+Note 
+[n] A combination of the movement explained in 18.33-34 permits a valuable range of sentence 
+forms adjusting the development of communicative dynamism and the assignment of end-focus 
+as desired. Thus along with the canonical SVCsentence: 
+To /play 'Mozart on 'this vio'lin is ~ C L ~ G H T ~ U ~ ~  
+we have three further possibilities. First, with ordinary ir extraposition: 
+It is dcllightful to 'play 'Mozart on 'this violi~l 
+Secondly, with thematization of the object Mozurt in the extraposed clause, we emphasize even 
+lbl We must make a clear distinction hclwcen the type of them;~tic fronting d~scusscd here 
+(where the itcm ;lssomes m;~xi~n;llly 
+'givcn'sl;~lus) ;111d llle Srollli~tg disc~l\\ctl ill IX.?OI, where 
+tllc itcm rc1;lins ils n~~t~sl~l>jccl 
+sI:!lus gli~rll~~lilli~itlly 
+~
+I
+I
+I
+~
+ 
+I \  ~ ~ V C I I  
+~ ~ C : I I C I  
+tl~elor~ci~l 
+c ~ i i p l ~ ; ~ ~ i s .  
+Contrast the Ibllowing pairs: 
+IM~~/i~rt 
+is dc'liglllf~~l 
+to play <m this vit,ri~( 
+L I~6z;lrll it is dclliglitiul III play on this viori~l 
+E~iznbclhl il is ;I Iplc;~surc to~Bnc111 
+A slighter hut sornewh;~t corrcspon~ling dilTcrcncc occurs hctwccn: 
+In Iheg;lrdclt lltere is ;I sun<li;~l. In lllc g;~rden I\:$ aul11li;ll. 
+Scc IX.2.1. IX.45//. 
+[c) With b~~rerroitt. 
+hcsurr. ;I persan;ll sul~jcct can he li~llawcd Iry eitllcl ;I ro-i~~li~l~livc 
+cl:tubc or 
+;In +r~gclause, but there is ;I cruci;ll dilrcrencc in me:loing. 
+cerl;lla 
+to be puf on the o ~ n ~ m ~ l l e r .  
+ITl~r.spc;~ker 
+is cor~lidcntl 
+J ~ I ~ C I  
+is Cr. ' ] { of being pul on tlic co~nmillee. [J:~ncl is conl'idenl] 
+Id] The conslruction type 'Sbc is a plc;~sure to te;lch' 
+hcen r;~lled .Toup11 kluvemcnt' by 
+reason of cnnonic~ll (if rather informal)cx;lmples involving tlte ;~djective 
+m,g/~./,. ;IS in //r,:t o ~,,II~/, 
+~~rnfr 
+fu urgrre ~virh. 
+Postponement of object in SVOC and SVOA clauses 
+18.37 
+When the object is a long and complex phrase, final placement for end-focus 
+or end-weight is possible in SVOC and SVOA clause types. This does not 
+involve an it-substitution. 
+(a) Shift from SVO,,C, order to SVC,O,, order: 
+They pronounced guilty euerjl orie oj'tlie acclrsed. 
+He had called an idiot the nlail oil ~vhose 
+jltdgmerlt h e  rio~v had t o  rely. 
+(b) Shift from SV0,A to SVAO,: 
+I confessed to him all itiy lvorst def>cts. 
+We heard from his own lips t11e story of'ho~v h e  Iiud bee11 s t r a r i ~ l e d  
+.for days ~~,ithorct 
+food. 
+She dragged (right) in(side) the tiro h e a u ~ ,  
+6o.yes qf'cher~riccrls. 
+We cannot set (totally) aside a nhale .vystet,r ql' rtrlcs rlecised by 
+Co)igre.~s iiselJ: 
+The fact that we are disturbing the normal order in such clauses is indicated 
+by a tendency to adopt a different intonation pattern. Thus the movement 
+forward of the C or A is usually accompanied by the assignment to it of a 
+marked (subsidiary) focus (cf 18.17): 
+He had lcalled an i ~ i o t  
+his 'best F R ~ E N D ~  
+She Jpulled to 'one S ~ D E  the 'heavy cii~tainl . 
+Compare: 
+He had lcalled his 'best 'friend an i~iotl 
+She lpulled the 'heavy 'curtnin to 'one S ~ D E ~  
+Note 
+The Sentence 1f1. /~irod r'l!llei/ (111 ir/iol hls b<,.sr h.i',ta/ ~nccd not of course invol\,e tnovcmcnt: with 
+unc~ltered SVOC we would understand Illat ;in idiot w;~s his hest I.ricnd. 
+more (hi propertiesofthe violin: 
+IMozart is de'lightful to 'play on 'this V ~ O L ~ N (  
+Thirdly, with Lhemalization of the prepositional complement, we switch attention to the 
+properties of Mozart's music: 
+IThis vio'lin is de'lightful to'play ~ o z a r t  
+'on1 
+The shifting relations of the adjective can perhaps be seen more cleerly in the follo\ving: 
+This (jug is ~ i ~ f i c u l t  
+to pour CRBAM out of1 
+\Cream is ~ i ~ f i c u l t  
+to pour out of this l b ~ l  
+The rormer implies difficulties with the jug (perhaps its spout is too narrow); the latter implies 
+dificulties with cream (perhaps it is too thick). 
+
+
+1396 Theme. focus, and information processing 
+~
+-
+-
+ 
+Objects and paraphrases 
+18.38 
+In tlitr;~nsitivc cotnplelncntation (~I.16.5S/f.), the indircct object precedes the 
+direct object : 
+~
+1
+1
+~
+ 
+\ g v e  { ~ ~ ~ h r o t " c r )  
+a s~oncteritlg\ 
+(11 
+']'lltls 
+, v ~ l ~ ~ ~ ~ c l -  
+110t tltc 0, is ~ i r o ~ ~ o ~ ~ ~ i ~ ~ ; ~ l i , c c l ~  
+IIIC i ~ ~ ~ p l i c : ~ l i o ~ )  
+is lh:ll i l  
+cctrries lesscommunicntive dyn;lmism (is rcl;ttivcly 'givcn') n s c ( ~ ~ ~ ~ p ; ~ r c t l  
+with 
+the O,!. Where thc conversc is truc, the 0, is replaced by a prepositional 
+phrase and placed after Od: 
+She (gave a 'signet ring to her  BROTH^^^ 
+[21 
+but tllcrc is a thjrtl possibility; Lllc prcposition;~! p:l~.:lpIlr~~~ 
+Of the 0, C;tn 
+itself precede the 0,: 
+She (gave to her n ~ 6 ~ H e r  
+a sicnet 'ring( 
+L31 
+Note that we cannot have: *Site gave (to) her brother it (~1'10.7). The O,I in 
+[3] has the same rhetnatic force as in [l] but the Oi has been replaced by a 
+form that raises its comtnunicative dynamism above that of the Oi in [l] 
+though still below that of the paraphrase in [2]. 
+Collsider now the special type of ditransitive construction we find with 
+eventive objects (cf'10.30): 
+We paid them a visit. 
+l41 
+He gave Helen a N ~ D G E .  
+L51 
+Here we have a device which is convenient when our c0mmunicative 
+requirement is to put focal emphasis on the activity rather than on a human 
+participant. Contrast: 
+We paid a visit to some old FR~ENDS. 
+14al 
+?He gave a nudge to H E L ~ ~ .  
+[Sal 
+But as we can see from the doubtful acceptability of [Sal, it may be preferable 
+not to use the eventive object construction at all when it is a human 
+participant that is needed in end-focus: 
+We visited some old FR~ENDS. 
+[4bI 
+He nudged H E L ~ ~ .  
+[5bI 
+(See further 18.43). 
+Note 
+Where both Od rind 0, are pronouns, it would be usual to replace thc latter by ;l to-phrase: 
+She GAVE it to him. 
+She gave it l0 H ~ M  
+but not: 
+Discontinuous noun phrases 
+18.39 
+Sometimes only part of an element is postponctl. The most commonly 
+:~li'cctccl par1 is tltc [iost~nocIific;~lio~l 
+ol' ;I no1111 pltr;~sc, 
+;IIXI 
+IIIC 111ti1s 1110st 
+rc;tdily poslponcd arc nominal (in this c;lsc alllx~silivo) cliluscs (t:/ 17. 172 ;incl 
+also 18.3.3f): 
+A rt~tttoitr circt~l;~tc~l 
+wi(lcly 11it11 111, I I , ~ ~ , s  ,s~*t,r~,//t, 
+I,,I,:~~~:,~,/ 
+I(, !lJ1, 
+hfor~'/tirJtt~~.~.v. 
+(U: '/I rtlltt~~lrr 
+rltol 111. II<~I.S .r,,r.r~.!/~, 
+~.tyrtfi~.~/ 
+l,, /Ill. 
+Mtrrchio~rc.s.s circulated widcly:) 
+Tlic prohloir then arose It!/] 11.1itt1 c~ot~rril)rt/k~~r 
+~h~~l~rthlic 
+.sltorrl~lpc~~. 
+(Cj': 'Tlteprobletrt (/;l 
+who! cotttrib~tiio~t 
+tltepttblic .shoultlpc~~. 
+then 
+arose. ') 
+Ilowcvcr, ollic~. postmotlilying cl;~l~scs, 
+;~li(l 
+CVCII ~Itr;tses, ~ : I I I  
+I>c SO post- 
+poned : 
+The tir~le had come to rlecorate tlte house fbr CItri.sr11icrs. 
+Tltnt loaf'was stale that you solclnte. 
+A steering conv~iittee had been formed, corui.stittg q/ Mes.sr.r Ogrt~j,o, 
+Schultz, and Robinson. 
+The postponement in each case results in a 'discontinuous' noun phrase 
+(cf'17.122) which is italicized in the examples. Discontinuity often results, 
+too, from the postponement of postmodifying phrascs of exception (cJ 9.58): 
+ANofus were frightened {t:ept} the mptr~in 
+As well as subject, the discontinuous noun phrasc can be a complement or 
+object: 
+Wl~at btisit~ess is it of yours? (CfWhat business of yours is it?') 
+We heard the story from his own lips (/'/IOIV 
+11e II~(I.Y 
+.strc~~rclerl/i,r 
+do~ir 
+n~itltout food. 
+I met a mart this morning carrying art ittjtrrerl child. 
+But we may speak analogously of internal discontinuitics: that is, where 
+there is movement of parts of a noun phrase to achieve end-lbcus, without 
+actual insertion of elements that do not form part of the noun phrase as a 
+whole. Compare the following 'normal'example: 
+The discouery oj'nerv huilclintg 1trciteric11.r in tllr course uj'this centur~j (has 
+revolutionized architecture). 
+Compare SVOA: 'They discovered the ncw materials this century'. In fact, 
+the unedited example was as follows: 
+Architecture has been rcvolutionizcd by the di.scol;er)~ in the course c?/ 
+this century ofrlew btiilrlirlg ntaterials. 
+This corresponds to SVAO: 'They discovered this century the new materials'. 
+in 18.37, an agential phrase of our own was internally discontinuous: 
+. . . is usually accompanied by the c~ssignritertt to it of'o nrcirkecl . . .,lbcus. 
+In such cases, as with the illustrative examples of 18.37-38, the item which 
+
+
+1398 Theme. focus, and inforrnutioll pr~~0~11illO 
+has in effect been fronted (to it in this example) is frequently given marked 
+focus: 
+. . . by thc aslsignmcnt rb it1 of a Imnrkcd . . . FVCUS~ 
+Let us take onc tinill examplc to illuslr:~tc tltc llcxihility olrcrcd by 
+nominalization ill providing, through 'internal discontinuities', a vnricd 
+ordering of constituents to suipspecific informational goals. Bearing in mind 
+the constraints on permuting the sequence of sentence elements, WC indicate 
+thc gre:l[cr I'rccdom within the noun phrase hy putting in quot:ltion marks 
+the analogies betwecn scntcncc elcmcnts and tlic noun-phrnsc constituents. 
+It will be seen that we can give end focus to constituents corresponding 10 all 
+.. ~.~ 
+four of the elements in an SVOA sentence: 
+Lovell discovered the new star in 1960. 
+SVOA 
+Lovell's discovery of the new star in 1960. . . 
+- 'SVOA' 
+The discovery by Lovell in 1960 of the new star. . . - 'VSAO' 
+The discovery of the new star in 1960 by Lovell . . . - 'VOAS' 
+(?)Lovell's 1960 new star discovery. . . 
+- 'SAOV' 
+18.40 
+Whether we are reordering the constituents within a noun phrase or 
+interrupting them to insert another sentence element, there appear to be two 
+major motivations: 
+(a) Theone is toachieve a stylistically well-balanced sentence in accordance 
+with the norms of English structure; in particular to achieve END-WEIGHT. 
+For example, it would be usual to avoid forming a scntence with a long 
+subject and a short predicate. Thus we would prefer [l], with discontinuity, 
+to [2], without discontinuity: 
+Tl~e story is told of her pltet~otnettal s~rcccss in Australia. 
+[l1 
+(?) Tlre story ofherphenomenal success in Alrstralia is told. 
+[21 
+(b) The other is to achieve an information climax with END-FOCUS. For 
+example : 
+She rapidly spotted the book right on my desk tltar Ihad been 
+clesperately searchblg Jar all mor~titlg. 
+[31 
+ordering found in [3] matches in a highly satisfying way the mounrlng 
+communicative flow: 
+She rapidly spotted the book. 
+It was right there on my desk. 
+Yet I had been desperately searching for it all morning. 
+At the thematic end we have the rapidity of finding the book; at the rhematic 
+end the long duration of the search; in the transition - the point of noun- 
+phrase discontinuity - we have the ironic juxtaposition of the book and the 
+desk. 
+In most of the exalnples given in 18.39, of course, the two factors (a) and 
+(h) coincide, as indeed they do in [l] and [3] above. With another type of 
+noun phr:~sc, I~owcvcr, it is clc:~rly to givc cntl-liicus ri~tllcr than cnd-wcight 
+th:tt (hc postponctnent t;~kcs pl:lcc. 'l'ltis is [hc noun phr;tsc wit11 ~ I I I  c11ipl1;ilic 
+rcflcxive pronoun (hittt.~r,l/; etc) in iipposition: 
+The driver h i r n s k ~ ~  
+told me. -- 'I.hcdrivcr told mc hims8~r.. 
+Did you y o u r s i ~ ~ p a i n t  
+the portrait? - Did you paint the portrait 
+y o u r s b ~ ~ ?  
+As the cmphi~tic rellexive pronoun I.rccluc~itly hc:~rs nuclear stress, the 
+postponement is necessary if thc sc~ltcncc is to havc end-lbcus. Such 
+postponement is possible, however, only if the noun phrase in apposition 
+with the pronoun is thesubject: 
+Ishowed Ian the letter myseu: 
+*I showed ran the letter hinlsclj: 
+(But cf: 'I showed ran hinlselfthe letter') 
+Note 
+With some otlier czises of pronominal apposition, we mxy prefer to postpo~le the second clcnlcnt 
+lo a position immedii~lely following the opernlor rather than to the end ol.the scntence. This is 
+especizilly true with 011, horlr, eoclr (cf6.50). For cxnmple: 
+Tlleaduisers had U// been arrel'ully selected. 
+We also find: 
+My sistersdon't either of rhem eat enough. 
+T e e  l 
+c 
+e n t i a s t i  ) (inrOrmill) 
+Correlative items in comparative sentences 
+18.41 
+Somedegree of discontinuity is the rule rather than the exception in sentences 
+containing comparative clauses, tliougl~ where the comp-element (cf. 15.63lj.) 
+is a degree adverbial, examples without discontinuity are fairly easy to find. 
+For example : 
+He has worked for the handicapped rnore thart ariy othc~rpoliticiart (has). 
+He has worked more for the handicapped than at!,) otherpoliticicttr (has). 
+Comparisons involving noun phrases as heads are rare without discontinuity 
+and are frequently punctuated to indicate that they are regarded as ad hoc 
+compounds ( d A p p  1.59): 
+He is earning higher-than-average wages. 
+In such cases, verb ellipsis is obligatory; compare: 
+He is earning higher wages than (are) average, 
+There is thus a minimum 'discontinuity' that we should take as the norm, 
+with the correlative item following the head of the comp-element phrase 
+(though we regard these as complementation structures: c/ 2.32): 
+She had tnore money that1 herfirrho (had) by the time she was thirty. 
+He is more skilled tkalt hb brotltcr (is) in [natters of finance. 
+They visit her more frequently thoti the,. user1 to now that she's ill. 
+He was too hot to do Ifis work despite the air-conditioncr. 
+
+
+1400 Theme, focus. and information processing 
+~ u t  
+if nuclear focus were required on thc correlative item, it could bc lnovcd 
+to finall position in each case even though the discontint~it~ 
+would now 
+II<IIIII:III~ 
+~.cqui~c 
+s<.(~:tl:~lion 
+i i l t , ~  (lill'(.rc~~l 
+IIIII? !~llill(: 
+She had (~nore'money 
+by thc'time she ~;IS.TII~IVI.Y~ 
+tl1;111 Iter I I : ~ I . I I C ~  
+(had)J 
+I Ic is 1rnot.c Iskillctl in '1n:lttcrs oS~:i~;tncc( 
+than his Innd~llcr (is)[ 
+'1 11cy 
+l ~ c r ~ ~ ~ ~ o ~ c ~ l ~ r ~ ~ ~ ~ t ~ c ~ ~ l l y ' ~ t ~ ~ w  
+llt:~l 4 1 ~ ' s  
+i1.1.1 
+III:III ll~cy 
+I < I S I ~ I )  1111 
+1 1 ~  
+~ ; i s  
+I[OO~\I<I[ 
+L\cs~-i 
+I.V lltc ~il<-co~~'~Iitit~~~crl 
+10 Itfo 111s 
+W I ' I I < I ~ I  
+Otlier discuntiiluities 
+18.42 
+Some adjectives that take complementation (cf7.22, 16.68fj') can simultane- 
+ously function as premodifiers. Compare: 
+clijJcrtv~t resultji~or~~ 
+~~oltr:s. 
+This is a { similar result ro hers. 
+In cases like these last, discontinuity is felt to be quite normal and the 
+position is similar to that of the correlative item in comparative sentences 
+(cf 18.41). So also: 
+She works in the opposite room to this 
+It is a timid dog ~sith strangers. 
+Despite superficial similarity with prepositional phrases postmodifying a 
+head, there is rarely danger of ambiguity: 
+1 was told by a man in the office. 
+The possible difference here ('A man told me in the ofice' or ' A  man in the 
+ofice told me') is unlikely to give rise to communicational difficulties, but the 
+following example is more seriously ambiguous: 
+They made an embarrassing protest to the authorities. 
+In such instances, revision is essential to make it clear which of the two 
+possible meanings is intended: 
+They made a protest that was embarrassing to the authorities. 
+[l] 
+[ie 'Their protest embarrassed the authorities'] 
+They made a protest to the authorities that was embarrassing. 
+[2] 
+[ie 'They protested to the authorities in a way that was 
+(generally) embarrassing'] 
+If the meaning of [Z] is intended but with the end focus on the atcthorities as 
+in [I], further revision is necessary. Perhaps: 
+Thev embarrassed everyone by making a protest to the authorities. [2a] 
+They were fond to some extent of Brecht's early work. 
+It was differee in many respects from what she had expected. 
+A similar type of discontinuity can occur within ~wcposi~ionatl 
+phritscs: 
+He workcd h:irtl, 111i/l//iri! li)r rhc most 1x1r-1 
+m ! ,  ~.(.II.NY//. 
+Nlllr 
+I I I  i ~ c l ~ l l i i ( n l l . o l  
+U U I I I ~ C .  &VC llilve lllc I I I P I I ' I ~ ~ ~ I O I ) . ~ ~  
+~ ~ I ~ I . ! ~ ~ ( . ~ I I ~ ~ ~ ~ I I I ~ ~ I ! I I I I C ~  
+1 t 1  1
+1
+~
+~
+ 
+1)1111.: 
+Il%iclr~n,ri/~sl~;~ll 
+we pol him ik'! 
+Altl~ough we do not speak of discontinuity ill tltc vcrh pl~r;~sc, tllere is omen a,mp;tr;thlc 
+inrorm;ltion;~l mo1iv;llion ill tllc inqcrtion of :~~lirrhi;ll.; 
+ill I f ;  r.1 H 10 I)<~tlhllc.;\ lllc wihlt to 
+:~v<,icl;~ 
+'sl'lll i t ~ l i ~ l i l i v r ' ( r / H  
+? l )  i \ ; t  wisll I t ~ ; ~ v < n ~ c l  
+.I ~lr.!t<.lvvcl 
+I~I.~(IIII!IIIIIIIV 
+Y ~ I  
+III w r i l ~ ~ , ) ! ,  
+I I  i, 
+I I I ~ C I I  L.IIIIVI.IIIPIII 111 11'<1. :l11 i l l l \ ' ~ . l I ~ ~ : l I  
+i l l l l l l ~ ! < ~ l I I l  
+1 1 1 ~  
+1'1111111~1111 0111'1.11111 
+1 I # #  ~'h.lll>lllp 
+'l'l~cy did 111~1cccI 
+/III~:I 
+h o l u l i u ~ ~ .  
+'1'11~ i~~lcrl~~~sillg 
+of ~ I I ~ / < ~ I ' ~  
+IlCre jllslilic~ illc criI~~l1~~11c 
+</it/ (c:/ 
+lflc c l i w t ~ s s i ~ ~ ~ ~  
+< > l  I I I \ C I I I I I ~  
+i,, ,Y/,,,~I, 
+IX.I.7). i~ch~cving 
+;In cllkul comp:lri~hlc to 111c ~lsc ofl,ror~,cly ;~lonc III spvurh: 
+They loio lind a solution1 
+Str~~cturill 
+cotnprssi~lios 
+18.43 
+A major prcocclipation in the pl~cnomcn;~ 
+we 11;lvc hccn consitlcring in 
+18.3!/r has been the ;~chicvc~ncnt 
+of cnd-weight whctl~cr phrasal, clausal, 
+orsentential. The very natureofthe~ncand Ibcus,givcn and ncw information, 
+leads to the expectation that the thematic itcm (typically the subject) will be 
+shorter than the focal item (typically a part of the predicate). Given, 
+moreover, that the V element is not normally expected to carry the maximum 
+communicative dynamism in a sentence (cf'18.3), we develop the expectation 
+that V will be at a transition point between a thematic low communicative 
+dynamism and a focal high: 
+JJill will de'cide next WBEKJ 
+The /boy 'broke the wi~dowl 
+My Jfriend be'came ri~gry) 
+All this has the effect of making the simplest realization of the SVclause type 
+sound oddly incomplete: 
+JMary ~ N G I  
+My lfriend COOKED~ 
+In consequence, this type of SV realization is rather rare and it would be 
+more usual to find an optional predication adjunct (cf 8.34): 
+Mary sang for hours. 
+My friend cooked enthnsiastically. 
+At the very least, we would make intransitive verbs bipartite, an auxiliary 
+serving as a transition between theme and focus: 
+/Mary was sj~cingl 
+My Jfriend would coo~l 
+Such rephrasing is obviously context-dependent; it is not often, for 
+example, that a verb phrase might equally well be progressive or 
+nonprogressive. Other means have therefore had to bc devised for 'stretching' 
+the predicate into a multi-word structure. One of the most generally 
+serviceable (though it tends to be rather informal in tone) is to replace the 
+intransitive verb by a transitive one of very general meaning, taking as its 
+eventive object a nominalization of the intransitive item (cJ10.30, 17.5lf). 
+The general verbs do, make, give, have, rake are widely used in this 
+construction, though the choice is strictly limited in any individual case (*She 
+took a shriek, *She did a shriek - unless the latter is in the sense 'She acted/ 
+
+
+140% Tlloma, focuo, oncl inforrt~ation procossing 
+perjbrmed a shriek', as on the request of the producer). Consider the following 
+pairs: 
+Likewise, in place of [2] and [3]: 
+lmany s~6dentsl in filnancial ~ R b U ~ l e l  
+[Fa1 
+/quite a 'few 'species of himalsl in [danger of 
+Pal 
+does some cooking. 
+She rcplicd. 
+She made a reply 
+Mary shrieked. 
+They strolled. 
+Mary gave a shrick. 
+Thcy took ;I stroll. 
+I bathed. 
+I had a bath. ['I took a bath' (esp A m 0 1  
+So also solve -find a solutiort, agree - reach (or conte to) art agreement, apply - 
+subtnit an applicatiott, stcggest - ojer (or t a k e )  a slcgges!io~~, punlit - grcrttt 
+(orgiae)permission, attend - pay altenlion, etc (cfalso 10.28, 18.38). 
+Existential sentences 
+18.44 
+We have seen in 18.8-9 that the organization of sentences in terms of theme 
+and focus generally presumes that a sentence begins with reference to 'given' 
+information and proceeds to provide 'new' information. But there are many 
+occasions when we must make statements whose content does not fall neatly 
+into these two categories: 
+A /car is 'blocking my WAY) 
+[I1 
+\Many 'students are in fi'nancial T R O U B ~ ~ ~  
+L21 
+\Quite a 'few 'species of 'animals are in 'danger of exli~ctionl 
+[3] 
+Let us assume that the originator of these sentences has in each case put the 
+focus where it was wanted. Nonetheless a certain awkwardness is sensed 
+where the recipient is expected to interpret a theme as entirely new and 
+unconnected with anything previously introduced. It is in these circumsPances 
+that it is convenient to have devices for providing some kind of dummy 
+theme which will enable the originator to indicate the 'new' status of a whole 
+clause, including its subject. Thus in place of [l], we might have: 
+Existr:ntial s e n t e n c e s  1403 
+In serving to bring the existence of an entire proposition (such as !hose in [I], 
+[2], and [31 to the attention of the hearer, thc resultant constructions are 
+known as 'exislcntial sentences', by far thc commonest bcing the type 
+introduced by unstressed thcre, accompanied by thc simplc prcscnt o r  past of 
+he. 
+Note 
+[a1 Many othcrconstructionstl~~~n 
+those illustratecl :~hovc ;Ire invoked to serve thc same purpose; 
+for cx~lmple, il with the proposilion asexlr;~poscd subject (1.1 18.33): 
+It is 
+lllls 
+a f;lct 
+l,, l,c t11;rt tlwt) ~n:tny S I ~ I ~ ~ C I ~ I S ; I ~ C  
+in fi~~;t~lciiil 
+~rctul>lv. 
+Allcr~~;~livcly 
+t ~ g ~ ~ i n ,  
+llle proposrtion c;ln be nl;~dc ;I cl;ius;tl ol,jccl: 
+Onc finds t h ; ~ ~  
+WC musl recognize th11t many students ;arc in fin;~nci;~l 
+trouhlc. 
+I have to say th;~t 
+existential: 
+DANGER! 
+I 
+[bl Block language ((1 1.451/) oficn consisls ol' vcrhlcss senlcnccs t11:1t c:!n he reg;ircled ;IS 
+YEN AT WORK OVERHEAD 
+Note that thereare two typesof negative directives and slog;~ns: 
+No way out 
+No exit 
+I 
+='There is. . .' 
+No through way 
+No arrest without warrant 
+No reduction in wages 
+='There~~rrirr 
+he. . : 
+No discrimination 
+I 
+[clSentences withentirely 'new'themesseem to belessawkward ifcombined with discontinuous 
+postmodification of the noun phrase (cf 18.39), thus placing the focus of new infonni~tion at the 
+end. Compare: 
+?A birdis in that tree. 
+A bird is In that tree 1shic11 Ibe newr seen arureid here hclorc,. 
+{. 
+{?AV idea is in his head. 
+Ar rdea is in his head rlrar the resl of ss ore ogoi~~sr 
+hir~~. 
+Existential there 
+Correspondence with basic clause patterns 
+18.45 
+There is aregular correspondence between existential sentences with tlrere + 
+be and clauses of equivalent meaning as specified in terms of the basic clause 
+patterns (cf 10. lff), provided that the clause concerned 
+(i) has an indefinite subject (but cf Note [a]); and 
+(ii) has a form of the verb be in its verb phrase. 
+Allowing for these tworequirements, wemay relate basic clauses to existential 
+forms by means of a general rule: 
+subjcct + (auxiliaries) + be + predication 
+-there + (auxiliaries) + be + subject +predication 
+The subject of the original clause may be called the 'notional' subject of the 
+there-sentence, so as to distinguish it from there itself, which for most 
+purposes is the 'grammatical' subject (cf 18.46). Examples of the seven clause 
+types along with the existential correspondences are given below: 
+
+
+1404 
+Therne, focus, and information processing 
+Type SVC 
+S(lmcllling must hc wrong. - Thcrc mnst hc something Wrong. 
+Typc SVA 
+Was anyone in the vicinity'? - Was thcre etlyonc in Ihc vicinity? 
+'Typc SV 
+N~OIIC 
+W;IS 
+w : ~ i l i ~ ~ ~ ! , ,  
+. '~'IIL'IL' W;IS 1 1 0  ,III(, 
+w:~ilil~l,,. 
+Typc SVO 
+Plenty of pcoplc ;trc gcttitlg promolion. 
+- There are plenty of people getting promotion. 
+Type SVOC 
+Two bulldozers hnve been knocking the place flat. 
+- Tllcrc have I ~ ~ I I  
+two bulldozers knocking thc pl;lcc flat 
+Typc SVOA 
+A girl is putting the kettle on. - There's a girl putting the kettle on 
+Type SVOO 
+Soniething is causing my friend distress. 
+- There's something causing my friend distress. 
+Passive versions of the correspondences are also to be noted: 
+Type SVps 
+A whole box has been stolen. - There has been a whole box stolen. 
+Type SV,, 
+C 
+No shops will be left open. - There'll be no shops left open. 
+The notional subject can be postponed (cj'18.31) if it is required to have focal 
+prominence: 
+There was in the vicinity a helpful doctor. 
+There'll be left open no single well-stocked shop. 
+Especially in informal usage, there is an existential sentence with an -ed 
+clause following the noun phrase: 
+There's a parcel come for you. 
+There's a book gone from my desk. 
+There's a tree fallen across our driveway. 
+There's a new history of Indonesia published. 
+N~~~ 
+~h~ rule 
+that existential sentences should have an indefinite noun phrase as'notional subject' 
+us from constructing sentences like *Tl~ercS Ihe rrrorreJJ irr rbe box from Tllc alon@JJ is 
+(he bol,  hi^ limitation can be waived, however, where the definite noun phrase conveys new 
+information. 
+in 
+answerstoexistentiaI questions (actualor implied), such that the answer provides 
+.. .. 
+a specific (and hence definite) instance: 
+A: Have we any loose cash i n  thehouse? 
+R. Wcll. there's the money in the box over thcre 
+. . . -. . , . 
+A :  Is there anyone coming to dinner? 
+B: yes, there's Harry and there's also Mrs lones. 
+compare 
+also: m e r e  are seueral arrirnals commonly depicted i n  heraldry; for instance, there is 
+Also ;~cccpl:~hlc is llie ~ l c l i ~ l i l c  
+rho wlliclh is ~lclerhninc(l hy llic ;hhv,lulc \c~l,crl;hlivc (,./7.84). :IS 
+ill. 
+'rlicrc's l l ~ c  
+rrrlclc\l-lorrkin~! IB:~I \li~ll<li~h~!:~l 
+lllr lv~,~lt 
+CII,I 
+'I Ili* L.(IIII.~II(DII~~ 
+1 1 ) i t l l  ill~l~llrlilc 
+illllclr ill IIIP Icnllo\(,i~~~~ 
+,III~.III:III~,L~ 
+l . ~ ~ t l r ~ ~ , ~ :  
+'I Ilcrc'srf III~II~ 
+L ~ S I I J ~ ~ ~ ~ ~ I ~ ~ ~ ~ . ~ ~  
+,,/,,,,,,,r,,,,,~,.b~;~~i,l~~,g 
+;,I 111, ,,,,,,I ,I,,,., 
+lbl Whcrc />?is p;lrt ofil scmi-:luxilillry collslrllclion. lllcrc ;Ire I-cslriclir~ns 
+wilb cxislcnli;~l fh.n.: 
+A man is l0 lix il lornorrow. 
++ 'l'licre is :I hi1;111 I,) I i y  it Iorimrrow. 
+A r n ~ i l t ~  
+isIx)1111d 
+I t ) i ~ ~ t i v c h o o ~ ~ .  
+- " l l ~ r ~ c  
+i\:l 111,111 I>IIIIIIII III:III~VC'.~~~,I~ 
+A III~III 
+1, 
+yc~1111~ 
+11% 1 1 ~ 1 1 1  lllr 
+. ''l I!rnc I,.:, ~ ~ L , I I )  
+) S O C I , ) *  
+11, 1 n ~ 1 1 ~  
+Ilu1: 
+A m;ln is hoohl(1 10 he lherc soon. - 'l'lhcre i., holtrrri ro hr. ;I II~:III IIC~C SO~,II. 
+A II:II 
+is g(1i11g to be ~1111 
+Iler. - 'I'lhcre r\xr,rrrx rrr hr, ;I III;III WIIII ICI 
+[C] Noun phrtlses introduced by the '~!nivers:~l' 
+lerllls~llor 
+orr,r~, ;Ire not a, c:~sily m;ldc 'notional 
+subjects' ofcxistcntii~l scnlences (?* Tlrerc II,~I.V 
+crcrynrhc irr rln. rooar) :IS other types o f  indefinite 
+expression. They act :IS 
+such mostly in'second insl:~~~cc';!nswcr.; lo ehistcnli;~l questions: 
+A :  WII;II is lllere 111 he :lfr:~icI of? 
+11: ~l'l~crc's 
+i~vcrytlhi~~g 
+10 lhc :xI'r:~icl of! 
+Ncg:llivc ol~ivcrs;~ls 
+arc fully :hcccptablc: Y " ~ c ~ c ' s  
+1lot11111g 
+10 wor~y 
+~I~UIII: 
+Id1 Existential rhercoccurs Srccly in d e p c ~ ~ d e ~ ~ t  
+cl;t~~ses: 
+Let me know if there's ;lllvonc wailinn. 
+[cl I n  SVC-related sentences, the C cannot usu;~lly denulc :I pcrm;inent property: 
+There were several students ill. 
+But: 
+?'There were sever;~l students t;iIl. 
+[O Some frozen exisrenti;~l clauses exist without rArrt>; for example (inSornm;~l): 
+Time Wi\S wl~en I'd have tackled it. [= 'l'hcre w:hs (once) ;I tin~c . . :l 
+The status of existential there as subject 
+18.46 
+The there of existential sentences differs from there as an introductory adverb 
+in lacking stress, in carrying none of the locative meaning of the place- 
+adjunct there, and in behaving in most ways like the subject of the clause, 
+doubtless reflecting the structural dislocation from the basic clause types: 
+(i) It often determines concord, governing a singular form of the verb 
+(cf 10.34fl) even when the following 'notional subject' is plural: 
+Tllere's some people in the waiting room. (informal) 
+occurs alongside: 
+There are some people in the waiting room. 
+(ii) It can act as subject in jws-no and tag questions: 
+Is there any more soup? 
+Therc's nothing wrong, is tlic,re? 
+(iii) It can act as subject in infinitive and -;rig clauses: 
+I don't want there to he arjy 1nis1111rlersta1r~Ii17g. 
+He was disappointed at there heitig so little to do. 
+Tliere Iiavinig bee11 trouble over tlris in thepast, I want to treat the matter 
+cautiously. 
+Note 
+[a1 The absence oTlocative meaning is indicc~lcd by the ;lcccptability ofthe cxistcnlial scntcnce 
+with herecooccurring with introductory rhert,: 
+There's a screwdriver here. 
+By conlrast, i~djunctrherc wit11 inversion (~f18.23),;1sin~Thcrc'stl1cgirl~. 
+would becontr;~dictor~ 
+with an added here: 
+"There's tile screwdriver here! 
+(Bet d. ~THBRES 
+tllc sc~Bwdrivcrl - IRigllt "HBREI 
+[bl Existential rhrrccan be frontcd in association with the type oflo-clause discussed in 18.36: 
+the lion'. 
+
+
+1406 Theme, focuu, and infor~r~alion 
+procoosirl(l 
+'Bare' existential sentences 
+18.47 
+Apart from sentences related to basic clause types in the manncr dcscribcd 
+in 18.45, we have to consider various other types of sentence introduced by 
+existential /lrc,re. Among them is the 'bare' existcntial (somctimcs called 
+'ontological') sentence, which simply postulates the existence of some entity 
+or entities. It has a simple clause structure /Ircrc+ be + indefinite noun 
+phrase : 
+There was a moment's silence. 
+There's nothing to do. 
+There was a sudden noise. 
+There are numerous species of edible fungi. 
+Undoubtedly, there is a God. ['God exists'] 
+Is there any other business? [as spoken by the chairman at the end of a 
+meeting] 
+There must be a more direct route. 
+Such sentences are perhaps to be explained as cases in which the final 
+element is omitted as understood: 
+There is a God (in the Universe). [ie now as always] 
+Is there any other business (for the committee at this meeting)? 
+There must be a more direct route (than the one we're discussing). 
+Other sentences superficially like these are certainly to be so explained. For 
+example, the sentence There'll be trouble, occurring on its own, implies a 
+definite context: 'There'll be trouble at the matchlat the party', etc. 
+Alternatively, it seems significant that many textual examples of 'bare' 
+existentials comprise complexities that provide for the required double 
+prominence. Compare such paraphrases of foregoing examples as: 
+Edible fungi exist in numerous species. 
+There was Isi~ence for a 'moment1 
+In 'There have always been wars', we have an SVA existential, though the 
+A-element (always) is at M (cf 8.16); compare 'There have been wars in all 
+pcriorls of history'. 
+Existential sentences with relative and infinitive clauses 
+18.48 
+A more important additional type of existential sentence is that which 
+consists of there + be + noun phrase + relative clause, and which resembles 
+the cleft sentence (cf18.25, example [2]) in its rhetorical motivation. Such 
+sentences can be related to sentences of orthodox clause types without the 
+two restrictions mentioned in 18.45: the verb need not be n form of the verb 
+hr. ;~ntl illlll011g11 there must he ;In indcli~lilc clc~ncnl, 
+i f  ncrtl 1101 Ilc s~~l?jcct: 
+Sonictlii~~g 
+kccps upsclling him. (C'/ 'So~ltcll~ing 
+i h  1.cl1c;1tctlly 
+upsctting him') 
+- 'I'hcre's something (tlii~t) kccps upsctting him. 
+[I l 
+I'd like you to mcet some pcoplc. 
+- There's some pcoplc (that) I'tl likc you to Incct. 
+L21 
+It is interesting that the rcl:~tivc pronoun r11c11 in chc 'anncx' cl;~usc of[I] can 
+bc omittctl (cspcci;~lly in inli~rlnal usilgc) cvcn wl~cr~ 
+it is suhjcct OS thc 
+relative clause; something not permissible according to the norm;~l rulc for 
+relative clause formation (cf17.15): 
+Thcre's a man lives in China. 
+- 
+*I know ;I man lives in China. 
+This omissibility is a sign of the special status within the main clause of the 
+annex clause here, as in cleft sentences (c/ 18.28 Note). 
+As with cleft sentences, we can have direrent tenses in the two parts of the 
+sentence. Compare: 
+There were some paintings that were admired by everyone. 
+There are some planets that were discovered by the ancients 
+The existential-with-relative construction is particularly common as a 
+means of emphasizing a negative (cf Note below): 
+There's nothing I can do about it. (- nothing rlrat/wlrich I can do) 
+There was no way they could persuade her to try again. (- no way in 
+which they.. .) 
+Compare, without this construction, 'They could persuade her b~ no \ray to 
+try again.' 
+. - 
+Again, as with cleft sentences, WC can negate either part: 
+There was a student who didn't pass the exam. 
+[= one failed] 
+There wasn't a student who passed the exam. 
+[= all failed] 
+But we can also negate both parts: 
+There wasn't a student whodidn't pass the exam. [=all passed] 
+One may also mention a common existential sentence pattern there +he + 
+noun phrase + to + infinitive clause, which is problematic to the extent that 
+it cannot be directly related to the basic clause types of 10. lff': 
+There was no one for us to talk to. 
+There's (always) plenty of housework to do. 
+Such infinitive clauses are allied to relative clauses (cf17.9ff'), as we see on 
+comparing: 
+At last there was something to write home about. 
+with the (stiffly formal) relative clause construction: 
+At last there was something about which to write home. 
+
+
+1408 Theme, focus. and informlion procewiny 
+This typc of existential scntcncc somctimcs has a dclinitc noun phrase as 
+nolion;~l suhjcct (c/'] 8.45, Note [a]): 
+'I'hcrc's the III;III ttexl (Ioc~r 
+10 col~siilrr. 
+Note 
+Alsothercis ;l restricted i~liom;lticc~,nstr!lclioll collsisli~~goflla~n~ 
+-1- h? + l1eg;lllve -I- -ir!l:cl;lllsc: 
+I
+1
+1
+e
+ 
+l
+i
+~
+ 
+I
+t
+ 
+I I I I  l 
+'flic~e iw't a n y  getting ;lw:ly frulll it. 
+0 1 1  IIII, I ~ ~ ~ L ~ I I I : I I I I ~ ~ ~ ~ I  
+I ~ ~ ~ ~ L . ~ I I I ~ . ~ ~ ~ ~ L ~ ~ c ~ I I . ~ ~ /  
+I 
+l4 
+Existential sentences with verbs other than be 
+18.49 The existential sentence has been described as 'presentative', in serving to 
+hring sotncthing on to llic discours:ll stage deserving our attention. This 
+sccmscspccially t1.11c ol';~ r;~tllcrlcsscotn~no~~, 
+111t1rc lilcritry Iy~)c ~ I ' c x ~ s I c I I I ~ ~ I ~  
+clause in which rhere is followcd by n vcrb other Ili:~n hi,: 
+There rose in his imagination grand visions of a world empire. 
+There exist a numbcr of similar medieval crosses in different parts of 
+the country. 
+There may come a time when the Western Nations will be less 
+fortunate. 

@@ -1,0 +1,1267 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 14: The Complex Sentence
+Covers: Coordination, Subordination, Reported speech, Conditional clauses
+[Part 3 of 9]
+============================================================
+
+acceptable than [2]. The change from [2] to [2a] brought about by extraposition 
+is visually presented in Fig 14.39. 
+Fig 14.38b Structuresof sentences 14.37 [l -51 
+
+
+1040 The complex sentence 
+Nesting (medial branching) causes the most awkwaidness, if the nested 
+. 
+. 
+clause is long and is'itself complex: 
+Vanessa, whose brother Jim likes to tell at great length how he 
+used to play tennis with famous movie stars when he lived in 
+Los Angeles, is my best friend. 
+L31 
+Although the subordinate clauses within this nested relative clause are all 
+right-branching, the nesting of just the one superordinate relative clause is 
+sufficient to reduce the acceptability of the sentence. Contrast [3] with [3a], 
+where by a switch of subject and subject complement the relative clause 
+becomes right-branching, resulting in a much more acceptable sentence: 
+My best friend is Vanessa, whose brother Jim likes to tell at great 
+length how he used to play tennis with famous movie stars 
+when he lived in Los Angeles. 
+[ h ]  
+There is a further factor contributing to the awkwardness of [3]: it violates 
+the principle of end-weight. At the sentence level, this principle requires that 
+the part of the sentence following the verb should be as long as, and preferably 
+longer than, the part that precedes the verb. 
+Posing particular difficulties for comprehension is SELF-EMBEDDING, the 
+medial subordination of one constituent within another constituent of the 
+same kind. While the sentence (found in a well-known nursery story) This is 
+the. . . rat that ate the malt that lay in the house that Jack built is tolerable and 
+easily intelligible regardless of the number of relative clauses, the self- 
+embedded alternative: 
+. 
+I 
+2 
+2 
+I 
+?*This is the house [that the malt [that the rat ate] lay in] 
+is extremely awkward and not easy to understand, even though there is only 
+one layer of e elf-embedding. We need add only a second layer of self- 
+embedding to render the sentence completely baffling: 
+I 
+2 
+3 
+3 
+2 
+*This is the house [that the malt [that the rat[that the cat killed] ate] lay 
+I 
+in] 
+: 
+\ 
+The various ariangements of subordinate clauses, therefore, do not just 
+concern stylistic options and their relative merits, but also the more basic 
+question of what constitutes a possible English sentence. 
+Note 
+Despite the overal! tendency towards final subordination, certain types of adverbial clauses 
+favour initial positipn. They includeconjuncts (c/ 15.18). subjuncts (c/ 15.19), most styledisjuncts 
+(cf15.21). and sentence adjuncts (c/ 15.22). Moreover, adverbial correlative constructions with 
+a correlative adverbial in the second clause (c/ 14.13) not merely favour but require initial 
+placement ofthe subordinate clause. 
+Subordination versus coordination 
+14.40 Coordination is the kind of link most used for optimum ease of comprehen- 
+sion. At the same time the link, especially with and, is vague in that it leaves 
+the specific logical relationships to the inference of the speaker (cf 13.22ff). 
+r g 
+Sentence complexity and comprehensibility 1041 
+In the following examples we seek to demonstrate correspondences between 
+: 
+coordination and subordination, while preserving the information ordering. 
+l
+/
+ 
+This ordering, however, has the effect of suggesting an initial positioning of 
+subordinate clauses that is more frequent than usual. 
+SUBORD: Reaching for the phone, he asked for the operator. 
+[l] 
+CWRD: He reached for the phone and (then) asked for the operator. [la] 
+SUBORD: Although admission was free, few people attended the 
+lecture. 
+[21 
+COORD: Admission was free, but (nevertheless) few people attended 
+the lecture. 
+Pal 
+SUBORD: If YOU push the door hard, it will open. 
+L31 
+COORD: Push the door hard, and (then) it will open. 
+Pal 
+SUBORD: Unless yo; give it back to me, I'll tell your mother. 
+[41 
+CWRD: Give it back to me or (else) I'll tell your mother. 
+&l 
+SUBORD: Over fifty demonstrators were arrested, some of them 
+women. 
+151 
+COORD: Over fifty demonstrators were arrested, and some of them 
+were women. 
+[5a1 
+SUBORD: When the ship arrived at Naples, the sailors were given 
+shore leave for twelve hours. 
+161 
+COORD: The ship arrived at Naples, and the sailors were (then) 
+- given shore leave for twelve hours. 
+[6al 
+SUBORD: I lent my bicycle to Robert, who lent it to David. 
+171 
+COORD: I lent my bicycle to Robert, and he (then) lent it to David. 
+[7a] 
+SUBORD: Whereas the Northeast and the Midwest are rapidly losing 
+population, the Sun Belt states are receiving more people than 
+they can cope with. 
+l81 
+CWRD: The Northeast and the Midwest are rapidly losing 
+population, and/but (at the same time) the Sun Belt states are 
+receiving more people than they can cope with. 
+[8al 
+SUBORD: Mortimer exploded a firecracker during the lesson, as a 
+result of which he was suspended from school for a week. 
+L91 
+COORD: Mortimer exploded a firecracker during the lesson, and as a 
+result of that he was suspended from school for a week. 
+Pal 
+SUBORD: Discovered almost by accident, this substance has 
+revolutionized medicine. 
+[l01 
+COORD: This substance was discovered almost by accident, and it 
+has (since) revolutionized medicine. 
+[l04 
+SUBORD: AS Jane was the eldest, she looked after the others. 
+[l11 
+COORD: Jane was the eldest, and (so) she looked after the others. 
+[l la] 
+The conditional uses of and and or exemplified in [3a] and [4a] are rarely 
+encountered in written English. On the other hand, the adverbial participle 
+clauses in [l] and [l01 (cf15.58ff) are rarely encountered in spoken English. 
+
+
+1042 The complex sentence 
+Sentence complexity and comprehensibility 1043 
+Parataxis without a coordinator (cf 13.2) is also a common substitute for 
+subordination. The clauses may be punctuated as separate sentences or they 
+may be separated by semicolons or (in restricted circumstances, cf App 111.6) 
+by commas within the same orthographic sentence. The three examples are 
+based on the last three pairs above: 
+Mortimer exploded a firecracker during the lesson; as a result he 
+was suspended from school for a week. 
+[9bl 
+This substance was discovered almost by accident. It has since 
+revolutionized medicine. 
+[lob1 
+Jane was the eldest, so she looked after the others. 
+[llbl 
+Structural ambiguity 
+14.41 
+Ambiguities may arise in complex sentences when two interpretations are 
+plausible. If a complex sentence contains two final subordinate clauses, as in 
+[l], the last subordinate clause may be interpreted as subordinate (a) to the 
+sentence as a whole or (b) to the preceding subordinate clause. The two 
+paraphrases are given in [la] and [lb] respectively. 
+1'11 let you know whether 1'11 need you here when the doctor 
+arrives. 
+[l1 
+When the doctor arrives, I'll let you know whether I'll need you 
+here. 
+[ l 4  
+I'll let you know whether, when the doctor arrives, 1'11 need you 
+here. 
+[lbl 
+The two structures are shown in Fig 14.41a. 
+Fig 14.41a Structural ambiguity of[I] 
+l 
+If the (a) interpretation is intended, the last subordinate clause should be 
+preposed, as in the paraphrase in [la], since generally a final subordinate 
+clause is interpreted as subordinate to the immediately preceding clause. But 
+the final placement in [l] for the (a) interpretation is not uncommon. In 
+conversation, any misinterpretation can be immediately corrected, but in 
+writing the misplacement in [l] for the (a) interpretation is a stylistic error. 
+The same ambiguities may occur with phrases as well as clauses: 
+Doris watched her children doing their homework forashort time. 
+I remembered having told Tom soon ajierwards. 
+A similar ambiguity occasionally arises with two coordinated clauses 
+followed or preceded by a subordinate clause: 
+John reported to me and I informed Bob that everything was 
+ready. 
+l21 
+If Mary has recovered from the flu she is in the supermarket and 
+the children are at a play centre. 
+D] 
+The interpretation of the sentences depends on whether the subordinate 
+clause belongs (a) to both main clauses or (b) to only one of them. Punctuation 
+(and in speech, intonation) can distinguish the two interpretations of [2]: 
+John reported to me, and I informed Bob, that everything was 
+ready. 
+I24 
+John reported to me, and I informed Bob that everything was 
+ready. 
+[2bl 
+For the [2a] interpretation of [3], separation by punctuation or intonation of 
+only the subordinate clause may be sufficient: 
+If Mary has recovered from the flu, she is in the supermarket and 
+the children are at a play centre. 
+Pal 
+A clearer alternative is to subordinate the second clause: 
+If Mary has recovered from the flu, she is in the supermarket 
+while the children are at a play centre. 
+[3a11 
+For the (b) interpretation, the main clauses may be switched: 
+The children are at a play centre and, if she has recovered from 
+the flu, Mary is in the supermarket. 
+[3bl 
+Alternatively, the subordinate clause may be placed at the end of the first 
+main clause: 
+Mary is in the supermarket, if she has recovered from the flu, and 
+the children are at a play centre. 
+[%'I 
+Yet a further type of ambiguity involves a final coordinated clause which 
+follows a subordinate clause. The ambiguity depends on whether the final 
+clause (a) is a main clause or (b) is coordinated with the preceding subordinate 
+clause : 
+I know (that) he's cheating and I can't do anything about it. 
+[41 
+If a relation of coordination is represented as M, then the two 
+interpretations of [4] can be represented as in Fig 14.41 b. 
+Fig 14.41b Structural ambiguity of[4] 
+
+
+1044 The complex sentence 
+i i 
+To make it clear that interpretation (b) is intended, we could insert rhar at 
+the beginning of the final clause as well as at the beginning of the first 
+subordinate clause : 
+I know that he's cheating and that I can't do anything about it. 
+[4b] 
+If we do not change the wording of [4] there is no sure way of insisting on 
+interpretation (a), but the major syntactic break after cheating can be 
+indicated at that point by a semicolon, or by a tone unit b2undary and a 
+pause. A clearer alternative requires in addition the omission of and: 
+I know that he's cheating; (however) I can't do anything about it. 
+[4a] 
+In our discussion of structural ambiguity we have considered five devices 
+that can be used to avoid ambiguity: 
+(I) changing the order of the clauses, as in [la] [lb], [3b], [3b'] 
+(2) using punctuation to mark the major (ie least embedded) clause 
+boundary, as in [2al, [2bl, [3al 
+(3) using intonation, if necessary endorsed by pause, to mark the major 
+clause boundary, as in [2a], [2b], [3a] 
+(4) supplying ellipted elements, as in [4b] 
+(5) changing the structural relationship of the clause, eg from coordinate 
+to subordinate, as in [3a'], or from coordinate to paratactic without a 
+coordinator, as in [4a]. 
+Bibliographical note 
+On the terminology for sentence and clause, see Greenbaum (1980). 
+On thecompleisentence and subordination ingeneral see Haegeman (1985); Hudson (1971); 
+~akajima(1982);Smab~ 
+(1974).Onnonfiniteand verblessclausesbeginningwithasubordinator, 
+see Backlund (1984). 
+On the overlap of conjunction and preposition, see Jacobsson (1977a); Matthews (1981). esp 
+174-81. 
+On the choice ofverb in subordinate clauses, see Palmer (1974; 1979), bothpassim. On more 
+specialized topics, ,see Close (1980); Haegeman (forthcoming b); Johansson (1979); Quirk 
+(1981). The last three cite evidence from elicitation experiments or from corpus analysis on the 
+preferences for the kandative subjunctive, the sl~ouid-construction, and the indicative. 
+On backshift in indirect speech, see Palmer (1974; 1979), bothpassim. 
+On transferred negation, see Cattell (1973); Horn (1978b); LakoK(1969); Lindholm (1969). 
+On sentence complexity and comprehensibility, see Chomsky (1965), especially pp 10-14; 
+Huddleston (1965);,Rosenbaum (1967b); Williams (1979); Yngve (1961). 
+1 5 Syntactic and semantic functions 
+of subordinate clauses 
+15.1-2 
+Syntactic functions of subordinate clauses 
+1047 
+.2 
+Functional classes of subordinate clauses 
+1047 
+Nominal clauses 
+That-clauses 
+Wh-interrogative clauses 
+Yesno and alternative interrogative clauses 
+Exclamative clauses 
+Nominal relative clauses 
+To-infinitive clauses 
+-ing clauses 
+Bare infinitive clauses 
+Verbless clauses 
+15.17-23 
+Syntactic functions of adverbial clauses 
+1068 
+.l8 
+Conjuncts 
+1068 
+.l9 
+Subjuncts 
+1069 
+.20 
+Adjuncts and disjuncts 
+1070 
+.21 
+Style disjuncts and content disjuncts 
+1072 
+.22 
+Predication and sentence adjuncts 
+1074 
+.23 
+Restrictive and nonrestrictive adverbial clauses 
+1075 
+Semantic roles of adverbial clauses 
+Clauses of time 
+Subordinators and structural types of clauses 
+Time relationships 
+Time before 
+Same time 
+Time after 
+Clauses of contingency 
+Clauses of place 
+Clauses of condition, concession, and contrast 
+Overlap of semantic roles 
+Conditional clauses 
+Direct and indirect condition 
+Subordinators and structural types of clauses 
+Direct condition 
+Open and hypothetical condition 
+The verb phrase in the conditional clause 
+Rhetorical conditional clauses 
+
+
+Indirect condition 
+Clauses of concession 
+Subordinators and structural types of clauses 
+Concessive relationships 
+Alternative conditional-concessive clauses 
+Universal conditional-concessive clauses 
+Clauses of contrast 
+Clauses of exception 
+Reason clauses 
+Direct and indirect reason relationships 
+Subordinators and structural types of clauses 
+Clauses of purpose 
+Clauses of result 
+Clauses of similarity and comparison 
+Clauses of proportion 
+Clauses of preference 
+Comment clauses 
+15.57 
+Sentential relative clauses 
+15.58-62 
+Nonfinite and verbless adverbial clauses 
+.58 
+The attachment rule for identifying the subject 
+.59 
+Unattached nonfinite and verbless clauses 
+.60-62 
+Supplementive clauses 
+.61 
+Subjectless supplementive clauses 
+.62 
+, Supplementive clauses in final position 
+, Comparative clauses 
+The comp-element 
+Clause functions of the comp-element 
+Ellipsis in comparative clauses 
+, Ambiguity through ellipsis 
+~ u l t i ~ l e  
+and partial contra:ts 
+~bnctions of comparative more 
+Comparisons of equivalence: as . . . as 
+Comparisons of sufficiency and excess 
+Enough and too 
+I S o .  . . (that) and such. . . (that) 
+I Syntactic function of comparative clauses 
+Bibliographical note 
+Syntactic functions of subordinate clauses 1047 
+Syntactic functions of subordinate clauses 
+15.1 
+Subordinateclauses may function as subject,object, complement, or adverbial 
+in a superordinate clause: 
+1 
+subject: That we need a larger compuzer has become obvious. 
+direct object: He doesn't know whether to send a gift. 
+indirect object: You can tell whoever is waiting that I'll be back in ten 
+minutes. 
+subject complement: One likely result of the postponement is that the cost 
+of constructing the college will be very much higher. 
+object complement: I know her to be reliable. 
+adverbial: When yousee them, give them my best wishes. 
+In addition, subordinate clauses may function within these elements, eg: 
+postmodifier in noun phrase: (Few of the immigrants retained) the 
+l 
+customs that they had brought with them. 
+prepositional complement: (It depends) on what we decide. 
+adjectival complementation: (We are) happy to see you. 
+Note 
+There are constraints on the functioning of clauses as indirect objects or as object complements. 
+Among the finite clauses, only nominal relative clauses function as indirect object (but c/ 15.4 
+Note [a]) or as object complement. 
+Functional classes of subordinate clauses 
+1 
+15.2 
+On the basis of their potential functions, we distinguish several major 
+categories of subordinate clauses: NOMINAL, 
+ADVERBIAL, 
+RELATIVE, 
+and 
+COMPARATIVE. The functional classification resembles to some extent that of 
+subclausal units such as noun phrases and adverbs. 
+NOMINAL CLAUSES have functions that approximate to those of noun 
+phrases: subject, object, complement, appositive, and prepositional comple- 
+ment. Every nominal clause may function in some or all of these functions. 
+Unlike noun phrases, however, nominal clauses may also function as 
+adjective complementation without a preposition (cf 16.70): 
+I'm not sure that Ican remember the exact details. 
+The privilege of occurrence of nominal clauses is more limited than that of 
+noun phrases because semantically the clauses are normally abstract; ie they 
+refer to such abstractions as events, facts, dates, and ideas rather than to 
+perceptible objects. The one exception to this generalization is the nominal 
+relative clause (cf 15.8 f ) ,  which may refer to objects (including persons) and 
+which has some of the properties of a noun phrase consisting of head and 
+postmodifying relative clause, the head and relative pronoun coalescing to 
+form a single wh-element. Compare the equivalent sentences: 
+What pleases oneparty infuriates the other. 
+That which pleases one party infuriates the other. (formal) 
+
+
+1048 
+Syntactic and semantic functions of subordinateclauses 
+\ 
+I 
+Since indirect objects normally refer to persons, we can see why the nominal 
+relative clause is the only type of clause that can normally function as an 
+indirect object. Nominal clauses that are involved in the complementation 
+of verbs and adjectives are examined in detail in Chapter 16. 
+ADVERBIAL CLAUSES (cf 15.17.8') function mainly as adjuncts or disjuncts 
+(cf 15.20 f). In those functions they are like adverb phrases, but in their 
+potentiality for greater explicitness, they are more often like prepositional 
+phrases: 
+We left after the speeches ended. 
+We left afrer the end of the speeches. 
+We left afrerwards. 
+RELATIVE CLAUSES generally function as restrictive or nonrestrictive 
+modifiersof noun phrases and are therefore functionally parallel to attributive 
+adjectives. Compare: 
+a man who is lonely - a lonely man 
+But they are positioned like postmodifying prepositional phrases: 
+tourists who come from Italy - touristsfrom Italy 
+These adnominal relative clauses are discussed in detail in Chapter 17, the 
+chapter concerned with noun phrases. Two typesof relativeclauses, however, 
+are discussed in this chapter: the nominal relative clause (15.8 f )  and the 
+sentential relative clause (15.57). The status of the nominal relative clause is 
+indeed equivocal between noun phrase and nominal clause, but its 
+resemblance to nominal clauses proper is sufficient to justify its treatment 
+together with them. The sentential relative clause does not function as a 
+modifier of a,noun phrase; its relative item refers anaphorically to a unit 
+larger than a phrase, usually to a clause but sometimes even to a series of 
+sentences. The inclusion of the sentential relative clause in this chapter is 
+warranted by its resemblance in certain respects to adverbial clauses. 
+COMPARATIVE CLAUSES (cf 15.63 ff) 
+resemble adjectives and adverbs in their 
+modifying functions: 
+He's not a$ clever a man as I thought. 
+I love you pore deeply than I can sal: 
+Semantically, the comparative clauses together with their correlative element 
+(eg: more, as, -er) are equivalent to degree adverbs. 
+Nominal clauses 
+15.3 
+Nominal clauses (clauses approximating in function to noun phrases) fall 
+into six major categories: 
+that-clauses, or subordinate declarative clauses (15.4) 
+subordinate interrogative clauses (15.5 f) 
+Nominal clauses 1049 
+subordinate exclamative clauses (15.7) 
+nominal relative clauses (15.8 f) 
+to-infinitive clauses (15.10 f) 
+-ing clauses (15.12 ff) 
+Nominal clauses may take it or that as pro-forms: 
+i know that you mean well, but THBY don't know it. 
+How a book sells depends on the author, but it also depends on the 
+publisher. 
+I hope to see you tomorrow, but that depends on the weather. 
+Collectingstamps was her hobby, but she has given that up. 
+That-clauses 
+15.4 
+Nominal that-clauses may function as: 
+subject: That the invading troops have been withdrawn has not affected our 
+government's trade sanctions. 
+direct object: I noticed that hespoke English with an Australian accent. 
+subject complement: My assumption is that interest rates will soon fall. 
+appositive: Your criticism, that no account Itas been taken ofpsychological 
+factors, is fully justified. 
+adjectival complementation: We are glad that you are able to join us on our 
+wedding anniversary. 
+They may not, however, function as object complement or (but cf 9.2) as 
+prepositional complement. 
+When the that-clause is direct object or complement, the conjunction that 
+is frequently omitted except in formal use, leaving a zero that-clause: 
+I know it's late. 
+It is similarly omitted frequently when a subject that-clause (with anticipatory 
+it) is extraposed (cf 18.33ff): 
+I 
+It's a pity you don't know Russian. 
+But otherwise that cannot be omitted in a subject clause, since without the 
+subordinate marker the clause would be initially misinterpreted as a main 
+clause : 
+l 
+*You don't know Russian is a pity. 
+Subject that-clauses are usually extraposed. Extraposition is particularly 
+preferred when the superordinate clause is interrogative or passive: 
+Is it possible that they can't afford to rent that apartment? 
+It was thought that the cease-fire still held. 
+If the superordinate clause is exclamatory, extraposition is obligatory: 
+How strange it is that the children are so quiet! 
+
+
+1050 
+Syntactic and semantic functionsof subordinate clauses 
+Object that-clauses are normally extraposed when they cooccur with an 
+object complement: 
+Their daughter's success makes it very likely that she will return to 
+California. 
+Note 
+[a] A nominal that-clause functioning as indirect object is marginally acceptable and rare: 
+They would not give that she passed her c.varnirroriu ~rith disti~rction any consideration in 
+determining her salary. 
+[b] The zero that-clause is particularly common when the clause is brief and uncomplicated. 
+Retention of that is necessary under cerlain condilions other than when the clause is an 
+unextraposed subject: 
+(i) to clarify whether an adverbial belongs to the matrix clause or the that-clause: 
+They told us once again rhar tlre situatiorr ~i~asseriffrts. 
+They told us that orlce again ttre situatiorr nos seriorr.~. 
+(ii) to prevent a coordinated that-clause from being misinterpreted as a coordinated main 
+clause (cf 14.41): 
+I realise that I'm in charge and that ecerj~body accepts rn)' leaderslrip. 
+- I realize that I'm in charge, and everybody accepts my leadership. 
+(iii) when the object that-clause is fronted (as with an initial subject clause): 
+That she euer said suclr a thi~tg I simply don't believe. 
+(iv) when a clause or a long phrase intervenes between the verb and the that-clause: 
+We decided, in view of his special circumstances, that ~vc iiauldadnrit him for a 
+probatiorraryperiod. 
+[cl Like most other nominal ciauses, nominal that-clauses cannot be object complements, but 
+alternative to-infinitive constructions are available with some verbs (cf 16.50f): 
+*I thought his argument that Iveshouldpay. 
+- I thought his argument to be that iir skoaldpa~~. 
+Also a finite construction: . 
+- I thought (that) his argumenr was (that) ive shozrldpay. 
+[d] If the subject of the that-clause is a pushdown ~vh-element (cfll.l8) and is therefore moved 
+to the front of the superordinate clause, the subordinator thot must be omitted, perhaps to 
+prevent that being initially misinterpreted as subject of the following verb: 
+Who did she hope would be the winner? 
+[l] 
+*Who did she Aope that would be the winner? 
+[lal 
+They pointed'out the damage which they supposed had been done by last night's 
+storm. 
+(21 
+'They pointed out the damage which they supposed that had been done by last 
+night's storm. 
+Pal 
+Contrast [lb] with ['l] and [lal: 
+Wlta did she hdpe (that) that would be? , 
+[Ibl 
+In [Ib], the second ihat is indeed the subject of the rlrar-clause; who is the subject complement 
+and therefore the subordinator that may be optionally retained, the presence of a subject thot 
+before the verb preventing misinterpretation. 
+Here are several other examples of optional that when the ~sh-element is not the subject and 
+hence a subject appears before the verb in the that-clause: 
+Wllo do you expect (that) tlrey have chosen? 
+She told me hop she thought (that) the machine worked. 
+They mentioned the name of the men (ado) they knew (that) you had spoken to. 
+Wh-interrogative clauses 
+15.5 
+Subordinate wh-interrogative clauses occur in the whole range of functions 
+available to the nominal that-clause (cf 15.4) and in addition may function as 
+prepositional complement: 
+subject: How the book willselldepends on the reviewers. 
+direct object: I can't imagine what they want with your address. 
+Nominal clauses 1051 
+l 
+i 
+1 
+subject complement: The problem is who will water my plants when I am 
+I 
+away. 
+appositive: Your original question, why he didnot report it to thepolice 
+earlier, has not yet been answered. 
+adjectival complementation: I'm not sure which she prefers. 
+prepositional complement: They did not consult us on whose names should 
+be put forward. 
+These subordinate clauses resemble wh-questions semantically (cf 1 1.14m 
+in that they leave a gap of unknown information, represented by the wh- 
+element. Contrast the known information expressed in the that-clause with 
+the unknown information in the wh-clause: 
+I know (that) Caroline will be there. 
+Do you know who will be there? 
+I'm sure (that) Ted has paid. 
+I'm not sure who has paid. 
+The type of subordinate wh-interrogative clause that most closely resembles 
+wh-questions is the indirect wh-question (cf 14.33): 
+She asked me who would look after the baby. 
+Compare the direct question: 
+She asked me, 'Who will look after the baby? 
+But we can claim a chain of resemblance from the request for an answer to a 
+question (as in the indirect question ) through uncertainty about the answer 
+(as in I'm not sure who will look after the baby), certainty about the answer (It's 
+obvious who will look after the baby), expressions of other mental states or 
+processes about the answer (I found out who will look afer the baby, It's 
+irrelevant who will look afer the baby), and informing about the answer (I told 
+you who would look after the baby). In all instances a question is explicitly or 
+implicitly raised, a question focused on the wh-element. 
+There are also grammatical similarities to independent wh-questions: 
+(i) the wh-element is placed first in its clause, as in all the examples in this 
+section. If the wh-element is a prepositional phrase, we have the same choices 
+as for the wh-element in wh-questions (cf 11.14, and Note [a] below): 
+I asked them on what they based their predictions. (formal) 
+I asked them what they based their predictions on. 
+(ii) The wh-elements have the same range of functions as the wh-elements 
+in wh-questions (cf 11.15). 
+(iii) Although the subordinate clause usually does not have subject- 
+operator inversion, such inversion may occur, particularly when the clause 
+functions as complement and the superordinate verb is BE or when it functions 
+as appositive: 
+The problem is who can weget to replace her. 
+
+
+1052 
+Syntactic and semantic functions of subordinateclauses 
+7- 
+1 
+l 
+Your original question, ~vhy did he not report it to the police earlier, has 
+not yet been answered. 
+Furthermore, the superordinate predications that allow ~vh-clauses will 
+generally also allow yes-no interrogative clauses: 
+Whether the book will sell depends on the reviewers. 
+I'm not sure whether sheprefers cofee. 
+They did not consult us on whether our names should be put forward. 
+An infinitive wh-clause can be formed with all wh-words, though instances 
+with u~hy are rare: 
+I don't know what tosay. [' . . . what I should say.'] 
+You must explain to them how to start the motor. 
+[' . . . how one/they should start the motor.'] 
+I never know who to speak to. [' . . .who one11 should speak to.'] 
+I'm wondering where to put my coat. [' . . . where I should put my coat.'] 
+I'm wondering why to go at all. [' . . . why I should go at all.'] 
+The infinitive clause has an obligational sense. 
+Note 
+[a] As with wh-questions (cf 11.15 Note [a]), the final preposition following BE in certain informal 
+questions must be deferred : 
+I can imagine what it is like. [*like what it is] 
+I'm not sure who it'sjbr. ['for 
+whom it is] 
+The preposition is generally deferred in: 
+I can't understand what you did thatfor. ['for what you did that] 
+[b] In literary style, subject-verb inversion occasionally occurs when the wh-element is the 
+subject complement or an obligatory adverbial, parficularly if the subject is lengthy: 
+She told us hojv strong was her niotiuotion to engage in research. 
+It took me some time to discover in whicli uiilage stood the memorial to our fallen comrades. 
+In addition subject-operator inversion is common in Irish English and dialectally: 
+Whenever I see her, she asks when will Ibe uisiting her mother. 
+[c] Prepositions are optionally omitted before wli-clauses: 
+We have solved the problem (of) who wasat fault. 
+I'm not sure (about) what to do. 
+[d] There may be mpre than one wh-element in the clause: 
+I don't know who wants what. 
+\ 
+Compare the multiple wh-elements in lvh-questions (cf 11.19). 
+[e] The case distinction in formal contexts between subjective who and objective whom depends 
+on the function of the wh-word in its clause: 
+I do not know who wantsyou. 
+who you want. 
+I do 
+IWhom you want. (formal) 
+The distinction apblies regardless of a governing preposition in the superordinate clause, since 
+the complement of the preposition is the whole clause, not the wh-word: 
+It depends on who wants you. 
+It depends on { who you want. 
+whom you want. (formal) 
+Nevertheless, the preceding preposition sometimes influences speakers to use objective whom as 
+a hypercorrection even when it has the function of subject in the wh-clause. Except in formal 
+. - 
+contexts, who is used for all functions. 
+What we have said in this Note applies equally to the case distinction between subjective 
+whoever and formal objective whomeuer in nominal relative clauses. 
+[I] Some noun phrases correspond semantically to subordinate wh-clauses, in contexts where 
+such clauses are also appropriate: 
+Nominal clauses 1053 
+~e eiplained the way to the park. p. . . how to get to €he park.'] 
+[I] 
+We found out the time it takes to get there. [' . . . how long it takes to get there.'] 
+l21 
+1 don't know the { culprit. [' . . .who theculprit is'.] 
+person you want. 
+l31 
+She asked the reason for the delay. [' . . . why there was a delay.'] 
+l41 
+Example 131 can also mean 'l am not acquainted with the culpritlthe person you want'. 
+Yes-no and alternative interrogative clauses 
+15.6 
+Subordinate yes-no interrogative clauses (cf 11.5fl) and subordinate 
+alternative interrogative clauses (cf 11.20 f )  occur in the whole range of 
+functions available to subordinate wh-interrogative clauses (cf 15.5), and may 
+include infinitive clauses. The yes-no clause is introduced by the subordinators 
+whether or if: 
+Do you know whether the banks are open? 
+I wonder ifyou can help me. 
+The alternative clauses are formed with the correlatives whether . . . or or 
+if. . .or: 
+I can't find out [F] 
+theflight has been ~ ~ L A ' Y E D  
+or 
+[F] 
+it has been ~ c e l l e d .  
+[l] 
+If, as in [l], the second unit is a full clause, the subordinator is repeated. It is 
+not repeated in [2-41, where the second unit is an abbreviated form: 
+They didn't say whether it will RAIN or be srfnmy. 
+I asked them ifthey wanted M E A T O ~  F~SH. 
+I don't care ifthey J ~ I N  us or NBT. 
+The abbreviated forms parallel those for independent alternative yes-no 
+questions (cf 11.21). Repetition is optional with to-infinitive clauses: 
+He didn't tell us whether to wait for him or (whether) to go on without him. 
+But the subordinator is not repeated if the second clause is abbreviated by 
+the omission of the infinitival to: 
+He didn't tell us whether to wait for him or go on without him. 
+Whether-clauses pose alternatives more obviously than if-clauses, which can 
+be ambiguous between this construction and that of conditional clauses. 
+Whether-clauses, unlike if-clauses, may be used where there is little 
+resemblance to an indirect question: 
+It's irrelevant 
+she's under sixteen. 
+You have to justify {,pether} 
+p u r  journey is really necessary. 
+lftends to be more frequent than whether in informal style for yes-no clauses. 
+
+
+1054 
+Syntactic and semantic functions of subordinate clauses 
+1 
+On the other hand, ifis more restricted syntactically than whether. It must 
+occur as complementation of verbs and adjectives, in consequence of which 
+it is excluded from certain contexts: 
+(i) If cannot introduce a subject clause unless the clause is extraposed: 
+Whether she likes the present is not clear to me. 
+*If she likes the present 
+It's not clear to me {F] 
+. 
+she likes the present. 
+(ii) If cannot introduce a subject complement clause: 
+My main problem right now is whether I should ask for another loan. 
+?*My main problem right now is iflshould ask for another loan. 
+(iii) The if-clause cannot be the complement of a preposition: 
+It all depends on whether they willsupport us. 
+?*It all depends on ifthey willsupport us. 
+(iv) The if-clause cannot be an appositive: 
+You have yet to answer my question, whether Ican count on your vote. 
+?*You have yet to answer my question, iflcan count on your vote. 
+In addition: 
+(V) If cannot introduce a to-infinitive clause: 
+I don't knqw whether to see my doctor today. 
+*I don't know i f  to see my doctor today. 
+(vi) Ifcannot be followed directly by or not: 
+He didn't say whether or not he'll be staying here. 
+*He didn't say ifor not he'll be staying here. 
+But or not can be postposed: 
+l 
+He didn't S;? 
+ifhe'll be staying here or\not. 
+Note 
+[a] There is a close connection between conditional if and interrogative if; both convey doubt 
+about the truth value of the clause. Compare: 
+If she wants you, (then) she will say so. 
+Does she want you? (Then) she will say so. 
+Where ambiguity mhy arise, intonation or punctuation separation may sometimes be necessary 
+to distinguish the in[errogative from the conditional clause: 
+interrogative [SVO,OJ: 
+I'll tell you later iflcanj'ind the time. [if= whether] 
+conditional [SVOlA]: 
+I'll tell you later, VI canj'ind the time. ['If I can find the time, I'll tell you later.'] 
+[b] As with either (cf 13.39fl), whether or if can be used for more than two choices, despite a 
+tradition of binary association (cf 15.41 Note [d]): 
+I don't care whether you do your homework or play outside or go to bed. 
+[C] On whether- and if-clauses as complementation of verbs such as doubt. cf 16.73. 
+[d] There is some prescriptive objection to or not as redundant. 
+Nominal clauses 1055 
+Exclamative clauses 
+15.7 
+Subordinate exclamative clauses generally function as extraposed subject, 
+direct object, or prepositional complement: 
+extraposed subject: It's incredible how fast she can run. ['It's incredible 
+that she can run so fast.'] 
+direct object: I remember what a good time I had at your party. 
+['I remember that I had such a good time at your party.'] 
+prepositional complement: I read an account of what an impression you 
+hadmade. ['I read an account that you had made an excellent (or a 
+terrible) impression.'] 
+As in independent exclamative clauses (cf 11.31 f), the exclamative element 
+is formed with what as predeterminer in a noun phrase and how as intensifier 
+of an adjective, adverb, or clause; the exclamative element is positioned 
+initially regardless of its normal position in a declarative clause. 
+Subordinate exclamative clauses generally have the same form as 
+subordinate interrogative clauses introduced by what or how (cf 15.5). 
+However, in exclamative clauses what is a predetenniner (preceding the 
+indefinite- article), while in interrogative clauses what is either a central 
+determiner or a pronoun. Thus [l] with predeterminer what is unambiguously 
+exclamative, while [2] with central determiner what and [3] with pronoun 
+what are unambiguously interrogative: 
+They didn't know what a crime he had committed. 
+[' . . . the terrible crime he had committed.'; cfi What a crime he 
+had comrnitted.l] 
+[l] 
+They didn't know what crime he had committed. 
+[' . . . the identity of the crime he had committed.'; cfi What 
+crime had he committed?] 
+l21 
+They didn't know what the crime was. 
+[' . . . the identity of the crime'; cf: What was thecrime?] 
+L31 
+The distinction between predeterminer and central determiner what is 
+neutralized for noncount nouns (what foolishness) and plural nouns (what 
+crimes). 
+If the superordinate clause has a predication appropriate for both types of 
+clauses and the wh-words are how or what with a noncount or plural noun, the 
+subordinate clause may be ambiguous: 
+You can't imagine what d~pculties I have with my children. 
+exclamatory interpretation: You can't imagine the great difficulties I 
+have with my children. 
+interrogative interpretation: You can't imagine the kinds of difficulty 
+I have with my children. 
+I told her how late she was. 
+exclamatory interpretation: I told her she was very late. 
+interrogative interpretation: I told her the extent to which she was 
+late. 
+
+
+1056 Syntactic and semantic functions of subordinate clauses 
+We all saw how strange a look she gave him. 
+exclamatory interpretation: We all saw that she gave him an extremely 
+strange look. 
+interrogative interpretation: We all saw the extent to which the look 
+she gave him was strange. 
+Nominal relative clauses 
+15.8 Nominal relative clauses resemble wh-interrogative clauses (cf 15.5) in that 
+they are also introduced by a wh-element. Indeed, a major reason for 
+including nominal relative clauses in this chapter is that it is often difficult to 
+distinguish them from the interrogative clauses. 
+On the other hand, in some respects nominal relative clauses are more like 
+noun phrases, since they can be concrete as well as abstract and can refer 
+even to persons. In fact, we can paraphrase them by noun phrases containing 
+a noun head with general reference that is modified by a relative clause: 
+Whoever did that should admit it frankly. 
+['The person whodid that. . .'] 
+I took what they offered me. 
+[' . . . the thing(s) that they offered me.'] 
+Macy's is where I buy my clothes. 
+[' . . . the place where I buy my clothes.'] 
+Compare also the paraphrase when the wh-element is a determiner: 
+I took what books shegave me. [' . . . the books that she gave me.'] 
+Furthermore, nominal relative clauses share with noun phrases a wider range 
+of functions than are available to other nominal clauses (see below). In 
+addition, like'noun phrases, they may display number concord with the verb 
+of the sentence (cf 10.34). Contrast for example: 
+Whatever book you see is yours to take. 
+Whateverbooks I have in the house are borrowed from the public library. 
+The nominal kelative clause is basic?lly a noun phrase modified by an 
+adnominal relative clause (cf 17.9ff), eltcept that its wh-element is merged 
+with its antecedent (the phrase to which the wh-element refers). In that 
+respect the nominal relative clause is more self-contained than the adnominal 
+relative clause and can function as an element in a superordinate clause. 
+Compare the 9ominal relative clause in [l] with the noun phrase in [la]: 
+I eat whad I like. 
+I eat that which Ilike. (formal) 
+In [la], which has approximately the same meaning as [l], the antecedent of 
+the adnominal relative clause is that. 
+The wh-item may be a pronoun, such as what in [2], a determiner, such as 
+what in [3], or an adverb, such as where in [4]: 
+She tasted what I bought. 
+She saw what food I bought. 
+Here is where I bought the food. 
+Nominal clause? 1057 
+On the wh-items that function as nominal relatives, cf 6.35 Note [b]. 
+The wh-element may function within the nominal relative clause as subject, 
+direct object, subject complement, object complement, adverbial, or 
+prepositional complement : 
+subject: What happened (upset him). 
+(They welcomed) whatever visitors came their way. 
+direct object: What he saw (upset him). 
+(She took) what she needed. 
+subject complement: What she became in later life (distressed her friends). 
+(I'm happy with) what I am. 
+object complement: (That's) what she calls her sister. 
+adverbial: Where she went (was Manchester). 
+(Now is) when I need you. 
+prepositional complement: (I'll show you) what you can open the bottle 
+with. 
+There are some restrictions on the use of the wh-element: 
+(a) The determiner what is only marginally acceptable when the wh-element 
+is subject. Contrast [5] with [5a]: 
+?(They gladly accepted) what money came their way. 
+[wh-element as S] 
+l51 
+(They gladly accepted) what money people gave to them. 
+[wh-element as Od] 
+[sal 
+Contrast [5] also with [5b], where the determiner whatever is fully acceptable: 
+(They gladly accepted) whatever money came their way. 
+[5bI 
+(b) Which, whom, and who (in its nonspecific meaning, cf 15.9) are restricted 
+to cooccurrence with a small semantic class of verbs (choose, [ike,please, want, 
+wish) : 
+whom(ever) shepleases. (formal) 
+She can marry wholever) she oleases. 
+L
+.
+'
+-
+ 
+['. . . anyone that/who/whom she pleases.'] 
+J 
+You can take which(ever) you like. 
+[' . . . any (that) you like.'] 
+In this environment, the three relatives have a nonspecific meaning (cf 15.9). 
+(c) Who in its specific meaning (cf 15.9) is most frequently found in a clause 
+functioning as subject complement, particularly after that's: 
+You're not who I thought you were. [' . . . the person I thought you were.'] 
+So that's who he's working for. 
+I'm who you're looking for. 
+How and why are generally restricted to the same environment (cf also Note 
+[b] below): 
+
+
+1058 Syntactic a n d  semantic functions of subordinate clauses 
+Nominal clauses 1059 
+That's how she works. [' . . . the way (that) she works.'] 
+That's'how long it takes. [' . . . the length of time (that) it takes.'] 
+This is how big it was. [' . . . the size (that) it was.'] 
+That's why Zdon't go there anymore. [' . . . the reason (that) I don't go 
+there anymore.'] 
+Nominal relative clauses have the same range of functions as noun phrases. 
+In addition to the functions available generally to nominal clauses, they can 
+function as indirect object and object complement: 
+subject: What I want is a cup of hot cocoa. 
+direct object: You should see whoever deals with complaints. 
+indirect object: He gave whoever askedjbr it a copy of his latest paper. 
+subject complement: April is when the lilacs bloom. 
+object complement: You can call me what(euer) you like. 
+appositive: I'll pay you the whole debt: what Ioriginally borrowed and what 
+Zowe you in interest. 
+prepositional complement: You should vote for which(ever) candidate you 
+think best. 
+Like noun phrases, nominal relative clauses require prepositions in adjective 
+complementation : 
+He's aware of 
+what I write. 
+the.books I write. 
+Contrast the optionality of the preposition with wh-interrogative clauses (cf 
+15.5 Note [c]). , 
+To-infinitive clauses may be nominal relative clauses, but they seem to be 
+restricted to ;the functions of subject complement and prepositional 
+complement: ' 
+subject complement: That's where to gojbr your next vacation. 
+[' . . . the place to go. . .'l 
+prepositional,complement: The book is on how to use a computer. 
+[' . . . the way to use. . .'] 
+\ 
+Excluded as relatives in to-infinitive clauses are all the -ever compounds and 
+which, why, and the determiner what. The pronominal relatives who(m) and 
+what do not function as subject within the infinitive clause, but otherwise 
+have the same range of functions as in the finite clauses: 
+direct 0bject:i~ere's what to eat. [' . . . the thing to eat.'] 
+indirect object: That's who(m) to ask. [' . . . the person to ask.'] 
+subject complement: That's who to be. [' . . . the role to be.'] 
+object complement: Here's what to call your dog. [' . . . the name to call 
+your dog.'] 
+adverbial: This is where to be. [' . . . the place to be.'] 
+prepositional complement: This is what to season the rice with. [' . . . the 
+spice to season the rice with.'] 
+Note 
+[a] Nominal relative clauses have also been called'independent'or 'Tree' relative clauses. 
+. 
+[h] IVhy is sometimes used in a pseudo-cleft sentence with a correlative 'because in the 
+superordinate clause (cf 15.46 Note [h]): 
+Why we lert early was becz~use we were tired. 
+[c] There may be occasional ambiguity between a nominal relative clause and a universal 
+conditional-concessive clause (d15.42): 
+Come here, alhoeuer you are. 
+relative interpretation: Come here, you (I don't know your name). 
+concessive interpretation: Come here, no matter who you are. 
+[d] On the choice between subjective wl~oeuer and formal objective ~~l~onreuer, 
+cf 15.5 Note [e]. 
+[c] When a verb can be used transitively or intransitively, there may be ambiguity with time or 
+place adverbials both with nominal relative clauses and corresponding noun phrases with 
+relative clauses: 
+~vhert .site saw me. 
+She remembered {,,le 
+ww rile,] [direct object or time adverbial] 
+15.9 
+The wh-element may express either a SPECIFIC meaning (generally indicated 
+by the absence of the -ever suffix) or a NON~PECIFIC meaning (generally 
+indicated by the presence of the -ever suffix): 
+SPECIFIC: 
+I took what was on the kitchen table. [' . . . that which was on the 
+kitchen table.'] . 
+[l] 
+May is when she takes her last examination. [' . . . the time when 
+she takes her last examination.'] 
+l21 
+NONSPECIFIC: 
+Whoever breaks this law deserves a fine. ['Anyone who breaks this 
+law . . .'] 
+131 
+I'll send whatever is necessary. [' . . . anything that is necessary.'] 
+[4] 
+As the paraphrases indicate, the wh-element in [l] and [2] is specific, while in 
+[3] and [4] it is nonspecific. The contrast is highlighted in: 
+Quality is what counts most. [' . . . is that which counts most.'] 
+Quality is whatever counts most. [' . . . is anything that counts most.'] 
+The first sentence, with specific what, is a pseudo-cleft sentence (cf 18.29f) 
+corresponding to Quality counts most ['Quality is supremely important.']; the 
+second sentence, with nonspecific whatever, purports to define quality. The 
+two meanings parallel those conveyed by specific some (and its compounds) 
+and nonspecific any (and its compounds); cf 6.59ff. 
+There are problems in some instances in distinguishing nominal relative 
+clauses from wh-interrogative clauses. They differ syntactically in several 
+respects: 
+(a) While an interrogative clause as subject must take a singular verb, a 
+nominal relative clause may take either a singular or a plural verb, depending 
+on the meaning of the wh-element: 
+What money I have is yours. ['The money (that) I have is yours.'] 
+What possessions I have are yours. ['The possessions (that) I have are 
+yours.'] 
+What were left behind were five empty bottles. ['The things (that) were 
+left behind were five empty bottles.'] 
+
+
+1060 Syntactic and semantic functionsof subordinateclauses 
+For the number choice, cf 10.34,10.38. As we havesuggested earlier (cf 15.8), 
+the number variation is indicative of the gradience between the wh-element 
+of a nominal relative clause and a noun phrase. 
+(b) While an interrogative clause allows a choice in the placement of the 
+preposition in a ~vh-element (cf 15.5), a nominal relative clause requires the 
+ivh-word to be placed first and the preposition to be deferred: 
+They ate what they paid for. 
+-*They ate for what theypaid. 
+(c$ They ate the things for which theypaid. [adnominal relative 
+clause]) 
+Whoever they lend the money to must be trustworthy. 
+(cfi Anybody to whom they lend the money must be trustworthy) 
+Make sure you include in the examination paper whatever questions they 
+didn't know the answers to last time. 
+[pushdown nominal relative clause, cf 11.181 
+(c) Who, whom, and which are common in interrogative clauses, but in 
+nominal relative clauses they are restricted to cooccurrence with a small 
+semantic class of verbs (choose, like,please, want, wish); cf 15.8. 
+(d) The compound forms in -ever are used in nominal relative clauses, but 
+not in interrogative clauses. Thus while They asked me what I didn't know is 
+ambiguous (see below), They askedme whatever Ididn't know is unambiguously 
+relative ('They asked me those things that I didn't know.') (cf Note [c]). 
+(e) Unlike ip interrogative clauses, determiner what in nominal relative 
+clauses has a paucal meaning : 
+Whatfriertds she has are out of the country. 
+['The few friends she has are out of the country.'] 
+He collected what information he couldfind. 
+['He collected the little information he could find.'] 
+In this function,:what can be followed by only the paucal quantifiers few and 
+little (what fewfriends, what little information) and not by the multal quantifiers 
+many and much or by cardinal numerals. For some speakers the determiner 
+whatever does not necessarily have a paucal meaning. Like what it cannot be 
+followed by numerals or the multal quantifiers, but for some speakers it 
+cannot be followed by the paucal quantifiers either. 
+The semantio distinction between the interrogative wh-clause and the 
+nominal relativdclause is easier to exemplify than todefine. The interrogative 
+clause contains a gap of unknown information, expressed by the wh-element, 
+and its superordinate clause expresses some concern with the closing of that 
+gap, with supplying the missing information. The nominal relative clause 
+does not contain a gap in information, and therefore the superordinate clause 
+is not concerned'with the closing of that gap. The information may indeed 
+be known to both speaker and hearer, as in I took what was on the kitchen 
+table. Since only the nominal relative clause can be concrete, when semantic 
+restrictions indicate that the clause is a physical object, the clause is 
+unambiguously relative: Isent them what they needed. In other instances the 
+clause may be ambiguous : 
+Nominal clauies 1061 
+Do you remember when we got lost? 
+relative interpretation: Do you remember the occasion, the time we 
+got lost? 
+interrogative interpretation: Do you remember when it was we got 
+lost? 
+['When did we get lost? Do you remember?'] 
+They asked me what Ikneiu. 
+relative interpretation: They asked me things that I knew. 
+interrogative interpretation: They asked me, 'What do you know?' 
+What she wrote was a mystery. 
+relative interpretation: She wrote a mystery story. 
+interrogative interpretation: I don't know what she wrote. 
+Note 
+[a] The nonspecific meaning of the wh-element often implies plurality of persons, things, or 
+situations: 
+Write to who(m)ewr you want. ['any persons'] 
+Give me back whatever you took from my desk. ['the various objects'] 
+He was happy with wltatever she did. ['any actions'] 
+The specific meaning leaves the number undetermined, except through context: 
+I took in what I found outside the door. rthe thing'or'the things'] 
+[b] Nonspecific who is occasionally found in nominal relative clauses that are not functioning as 
+subject complement: 
+Who sltould run the busittess is me. [clause as S] 
+I've found who you were looking for. [clause as O,] 
+[c] We distinguish the compound wh-words in -ever (eg: ~vhoeuer, whatever) from the informal 
+intensifying combinations that are normally spelled as two words (eg: who ever, who1 ewr), which 
+occasionally occur in subordinate interrogative clauses: I can't imagine who ever lvould ntorry hint 
+[' . . . who on earth. . .'l (cf 11.14 Note[b]). 
+To-infinitive clauses 
+15.10 
+Nominal to-infinitive clauses may function as: 
+subject: To be neutral in this conflict is out of the question. 
+direct object: He likes to relax. 
+subject complement: The best excuse is to say that you have an 
+examination tomorrow mor~iirzg. 
+appositive: Your ambition, to become a farmer, requires the energy and 
+perseverance that you so obviously have. 
+adjectival complementation: I'm very eager to meet her. 
+The presence of a subject in a to-infinitive clause normally requires the 
+presence of a preceding for.When the subject is a pronoun that distinguishes 
+subjective and objective cases, it is in the objective case: 
+For your country to be neutral in this conflict is out of the question. 
+For us to take part in the discussion would be a conflict of interest. 
+I'm very eager for them to meet her. 
+When the clause is a direct object, however, for is generally absent before the 
+subject: 
+He likes everyone to relax; 
+
+
+1062 Syntactic a n d  semantic functions of subordinate clauses 
+But, especially in AmE, certain verbs of wanting and their antonyms allow 
+an optional for in the object clause (cf 16.41): 
+H e  didn't like me to be alone at night. 
+He didn't like for me to be alone at night. (AmE only) 
+Prepositional verbs with for and adjectives complemented by a prepositional 
+phrase with for allow for to have the additional function of introducing a to- 
+infinitive clause with a subject: 
+I am waiting for her to say something. (cf: I am waiting for her reply.) 
+She must be impatient for me to be appointed. (c$ She must be impatient 
+for my appointment.) 
+As with that-clauses (cf 15.4), extraposition is more usual for subject clauses: 
+It's important (for us) to agree on ourposition before the meeting. 
+Object clauses are obligatorily extraposed when they cooccur with an object 
+complement: 
+I think it wiser (for me) to leave at once. 
+They consider it their duty to speak to hisparents. 
+For other types of nominal to-infinitive clauses, see also the sections dealing 
+with wh-interrogative clauses (cf 15.5), yesno and alternative interrogative 
+clauses (cf 15.6), and nominal relative clauses (cf 15.8 f). 
+Note 
+[a] When the infinitive clause is not functioning as direct object, for is generally available. 
+Contrast: 
+Every employee in my company would preferfor me to retirenow. (AmE only) 
+For me to retire now would be preferred by every employee in my company. 
+For is obligatorily dmitted, however, in certain constructions where the focus is on the subject of 
+the infinitive clause. Thus, for is optional in the sentence 
+He didn't likeyor me to be alone at night. (AmE only) 
+But the cleft sentence focusing on the subject of the clause is: 
+It was me he didn't like to be alone at night. 
+And thematic fronting of the subject (cf 18.20f) produces: 
+Me he didn't like to be alone at night. 
+Similarly,/or is omitfed in a question focusingon the,subject: 
+Who(m)didn3t hk like to be alone at night? 
+On theother hand, in a pseudo-cleft sentence that focuseson the whole infinitive clause for may 
+be retained, and is indeed more usual even in BrE: 
+What he didn't like was (for) me to be alone at night. 
+[b] Some AmE speakers also usejbr with the subject in an object clause following want: 
+He wantsjornte,to go with him. 
+[c] Where the subjeq of the infinitive clause can be made passive in the superordinate clause, 
+the construction is complex transitive complementation of the superordinate verb (cf16.50f): 
+They considered her to be the best candidate. 
+-She was considered to be the best candidate. 
+By analogy w~th They considered her the best candidate, to be the best candidate may be analysed 
+as object complement of her. 
+[d] For sentences such as It ~vas cleuer ofher 
+For with and without, cf 14.15. 
+15.11 The nominal to-infinitive clause often indicates that the proposition it 
+expresses is viewed as a possibility or a proposal rather than something 
+Nominal clauses 1063 
+already fulfilled (c$ -ing clauses, 15.12). The infinitive clause is then closest 
+semantically to a that-clause with putative should (cf 14.25): 
+It's natural for them to be together. 
+It's natural that they should be together. 
+This putative feature of the infinitive clause may often be paraphrased by a 
+conditional clause : 
+I prefer them to stay with us. 
+I prefer it ifthey stay with us. 
+It would be unwise for you to marry him. 
+It would be unwise ifyou were to marry him. 
+On the other hand, the infinitive clause may also refer to an actual fact. Thus 
+[l] can also be paraphrased by [Ib]: 
+: 
+It's natural that they are together. 
+[lbl 
+Indeed, the infinitive clause may refer clearly to a proposition that is assumed 
+to be true or (through the use of perfective have) to a situation that is assumed 
+to have already occurred: 
+They found him to be mentally competent io stand trial. 
+I'm happy to have met you. 
+The subject and the subject complement may both be to-infinitive clauses, 
+in which case the second clause expresses a characterization of the first: 
+To be human is to err. ['If one is human, one will err.'] 
+To be a member of the Space Club is to belong to one of the most exclusive 
+clubs in the world. 
+-ing clauses 
+15.12 
+Nominal -ing clauses (or more fully, nominal -ing participle clauses) may 
+function as: 
+subject: Watching television keeps them out of mischief. 
+direct object: He enjoyspIayingpractica1 jokes. 
+subject complement: Her first job had been selling computers. 
+, 
+appositive: His current research, investigating attitudes to racial 
+stereotypes, takes up most of his time. 
+adjectival complementation: They are busy preparing a barbecue. 
+prepositional complement: I'm responsible for drawing up the budget. 
+If the -ing clause has a subject, the item realizing the subject may be in the 
+genitive case or otherwise in the objective case (for pronouns having a 
+distinctive objective case) or common case (for all other noun phrases). In 
+general, the genitive is preferred if the item is a pronoun, the noun phrase 
+has personal reference, and the style is formal (cf 16.42): 
+I intend to voice my objections to their receiving an invitation to 
+our meeting. 
+[l] 
+
+
+1064 Syntactic and semantic functions of subordinate clauses 
+Contrast the preference for the common case in [2], where the item is a 
+nonpersonal noun phrase and not a pronoun and the style is not formal: 
+I didn't know about the weather being so awful in this area. 
+l21 
+Traditional stipulation of the genitive case is based on the assumption that 
+the -ing form in such clauses is a verbal noun (cf 17.52fj'). That assumption is 
+incorrect, as we can see from the direct object (an invitation to our meeting) 
+that follows the -ing form in [l], which demonstrates that the -ing form has 
+the force of a verb. On the other hand, the use in [l] of the genitive (which is 
+a determiner in noun phrases) itself provides the -ing form with a nominal 
+characteristic (cf also 15.13.) 
+The genitive is avoided when the noun phrase is lengthy and requires a 
+group genitive (cf 17.1 19): 
+Do you remember the students and teachersprofesfing against the new 
+rule? 
+On the other hand, the genitive case is preferred when the item is initial in 
+the sentence: 
+My forgetting her name was embarrassing. 
+Some are troubled by the choice of case here. In some instances, an acceptable 
+alternative is'a that-clause, which is normally extraposed: 
+It was embarrassing that Iforgot her name. 
+Unlike subject that-clauses (cf 15.4) and to-infinitive clauses (cf 15.10), 
+subject -ing clauses are not normally extraposed. The superordinate clause 
+can be interrogative or passive without the extraposition: 
+Will our saving energy reduce the budget deficit? 
+Postponing theproposedlegislation is being considered by the 
+subcom'mittee. 
+I 
+Note 
+[a] Nominal -ing ciauses are sometimes called 'gerundive'or 'gerundival clauses'. Their verb is 
+commonly called a 'gerund'. 
+[b] For monotransitive and complex-transitive complementation with -iitg clauses, cf 16.39, 
+16.42. For adjectives that allow complementation by an -ing clause, cf 16.83. 
+[c] The prepositional status of ~vorth (c/ 9.6) is confirmed by the fact that it can govern a noun 

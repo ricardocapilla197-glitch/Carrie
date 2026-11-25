@@ -1,0 +1,5633 @@
+============================================================
+A Comprehensive Grammar of the English Language
+Chapter 3: Verbs and Auxiliaries (pages 53-94)
+Covers: Tense, Aspect, Mood, Voice, Finite/Nonfinite
+============================================================
+
+.37 
+Do-support 
+Central passives 
+167 
+-38 
+~o as main verb 
+Semi-passives 
+168 
+Pseudo-passives 
+169 
+3.39 
+Modal auxiliaries 
+171 
+3.40-51 
+Verbs of intermediate function 
+Bibliographical note 
+171 
+.41-44 
+Marginal modals: dare, need, ought to, and used to 
+.42 
+dare and need 
+.43 
+ought to 
+.44 
+used to 
+.45-46 
+Modal idioms : had better, etc 
+.46 
+The meanings of the modal idioms 
+.47-48 
+Semi-auxiliaries: be going to, etc 
+.48 
+have to 
+.49 
+Catenative verb constructions 
+.50-51 
+Some further aspects of the gradience between modals and 
+main verbs 
+3.52-57 
+The structure of verb phrases 
+.52 
+Finite verb phrases 
+.53 
+Nonfinite verb phrases 
+.54-56 
+Simple and complex verb phrases 
+.55 
+Simple and complex finite verb phrases 
+.56 
+Simple and complex nonfinite verb phrases 
+.57 
+Gradience between one and two verb phrases 
+3.58-62 
+The subjunctive mood 
+.59-62 
+Uses of the subjunctive 
+.59 
+The mandative subjunctive 
+.60 
+The formulaic subjunctive 
+.61 
+Other uses of the present subjunctive 
+.62 
+The were-subjunctive 
+3.63-78 
+Active and passive voice 
+. M 5  Voice defined 
+.65 
+The active-passive correspondence 
+.66 
+The passive aux~liaries: be and get 
+.67-73 
+Voice constraints 
+.68-69 
+Verb constraints 
+.69 
+Prepositional verbs 
+.70 
+Object constraints 
+.71 
+Agent constraints 
+.72 
+Meaning constraints 
+.73 
+Frequency constraints 
+.74-78 
+The passive gradient 
+
+
+96 Verbs and auxiliaries 
+Major verb classes 
+3.1 
+The function of the V element in English clause structure, as outlined in 
+2.13-24, is realized by the VERB PHRASE, which consists of one or more verb 
+constituents, eg: 
+She left yesterday. 
+She won't leave tomorrow. 
+Has she not left yet? 
+She will leave tomorrow. 
+Did she leave yesterday? 
+She might be leaving next week. 
+Verbs, as a class of words, can be divided into three major categories, 
+according to their function within the verb phrase; we distinguish the open 
+class of FULL VERBS (or lexical verbs) such as LEAVE (cf 3.2a from the closed 
+classes of PRIMARY VERBS (BE, HAVE, and DO; cf 3.31B and of MODAL 
+AUXILIARY VERBS (will, might, etc; cf 3.39). Of these three classes, the full 
+verb can act only as main verbs (cf 2.28), the modal auxiliaries can act only 
+as auxiliary verbs, and the primary verbs can act either as main verbs or as 
+auxiliary verbs. 
+Note 
+[a] Some verbs (variously termed marginal modals, semi-auxiliaries, catenative verbs, etc) have 
+a status intermediate between that of main verbs and thatof auxiliary verbs. (These arediscussed 
+in 3.40 - 3.51.) 
+[b] SMALL CAPITALS are generally used in this chapter in citing a verb as a lexical item (cf 2.35) 
+instead of as a grammatical form. We will cite the modal auxiliaries, however, in italics, since it 
+is often more appropriate to regard can and could (for example) as invariable words, than as 
+forms of the samk lexical item (cf4.49A; where special uses of the past modal forms could, might, 
+lvould, and slzould are discussed). 
+Full verbs 
+The morphology of regular verbs 
+Verb forms and the verb phrase 
+3.2 Regular full verbs, eg CALL, have four morphological forms. Irregular full 
+verbs vary in this respect; a verb like SPEAK has five, whereas CUT has only 
+three forms (note, however, that the primary verb BE (cf 3.32) has as many as 
+eight forms). 
+REGULAR VERBS 
+IRREGULAR VERBS 
+(1) BASE FORM 
+call 
+want 
+speak 
+cut 
+win 
+(2) +FORM 
+calls 
+wants 
+speaks 
+curs 
+wins 
+(3) -ING PARTICIPLE 
+calling wanting 
+speaking 
+cutting winning 
+(4) PAST FORM 
+called 
+wanted 
+spoke 
+cut 
+won 
+(5) -ED PART~CIPLE 
+called 
+wanted 
+spoken 
+cut 
+won 
+These verb forms have different functions in finite and nonfinite verb phrases 
+(cf 3.52fn. On this basis, the -S form and the past form are called FINITE, 
+whereas the -ing participle and the -ed participle are called NONFINITE. The 
+Full verbs 97 
+BASE form (the form which has no inflection) is sometimes finite, and 
+sometimes nonfinite (see below). In a finite verb phrase (the kind of verb 
+phrase which normally occurs in simple sentences), only the first verb word 
+(in bold face below) is finite: 
+She calls him every day. 
+She is calling him'now. 
+She has called twice today. 
+and the subsequent verbs, if any, are nonfinite. In a nonfinite verb phrase, on 
+the other hand, all verbs are nonfinite; eg: 
+Calling early, she found him at home. 
+Called early, he ate a quick breakfast. 
+Having been called early, he felt sleepy all day. 
+The difference between finite and nonfinite phrases is discussed in greater 
+detail in 3.528 Here we confine our attention to the syntactic deployment of 
+the verb forms of which verb phrases are composed: 
+(l) The BASE FORM (call, speak, cut, etc) occurs as (a) a FINITE form in: 
+(i) the present tense in all persons and numbers except 3rd person 
+singular (which has the -S form): Z/you/we/they call regularly. (cf 3.54, 
+4.3n 
+(ii) the imperative: Callat once!(cf 3.54,11.24m 
+(iii) the present subjunctive: They demanded that she call and see them. 
+(cf 3.59-61) 
+It also occurs as (b) a NONFINITE form in: 
+(i) the bare infinitive: He may caN tonight. 
+(ii) the to-infinitive: We want her to call. (cf 3.53,14.6m 
+(2) The -S FORM (calls, speaks, cuts, etc) occurs as a FINITE form in: 3rd person 
+singular present tense: HelShe calls every day. 
+(3) The -ING PARTICIPLE (calling, speaking, cutting, etc) occurs as a NONFINITE 
+form in: 
+(i) the progressive aspect following BE: He's calling her now. (cf 4.25ff) 
+(ii) -ing participle clauses: Calling early, I found her at home. (cf 3.53, 
+(4) The PAST FORM (called, spoke, cut, etc) occurs as a FINITE form in the past 
+tense : Someone called yesterday. (cf 4. l l ff) 
+(5) The -ED PARTICIPLE (called, spoken, cut, etc) occurs as a NONFINITE form 
+in: 
+(i) the perfective aspect following HAVE: He has called twice today. (cf 
+4.18ff) 
+(ii) the passive voice following BE: Her brother is called John. (cf 3.63ff) 
+(iii) -ed participle clauses: Called early, he ate a quick breakfast. (cf 3.53, 
+14.6ff) 
+As will become clearer when we discuss the structure of the verb phrase 
+(3.52ff), the nonfinite forms of the verb occur not only in nonfinite verb 
+phrases, but also in noninitial positions in finite verb phrases. 
+
+
+98 Verbs a n d  auxiliaries 
+Fullverbs 99 
+Note 
+The -ingparticiple is sometimescalled the'present parliciple', and the -edparticiple is sometimes 
+called the'past participle' or, with transitive verbs, the 'passive participle'. Since these terms 
+are potentially misleading, we prefer to use terms which are descriptive only of morphological 
+form. Note, however, that the -ed participle owes its name to the form this participle takes in 
+regular verbs; some irregular verbs (eg: taken) have a more distinctive ending in -en, and some 
+grammarians for this reason have preferred the term '-en participle'. 
+The morphology of regular full verbs 
+3.3 
+Morphologically, full verbs are considered under two heads: REGULAR verbs 
+(such as CALL) and IRREGULAR verbs (such as DRINK). In both types, the -S 
+form and the -ing participle form are almost invariably predictable from the 
+base. Irregular verbs differ from the regular verbs, however, in that the past 
+form and the -ed participle of irregular verbs cannot be predicted by general 
+rule from the base. 
+3.4 
+Regular full verbs have only four different forms: 
+BASE 
+call 
+like 
+try 
+-ing PARTICIPLE 
+calling liking trying 
+-S FORM 
+calls 
+likes 
+tries 
+PAST FORM or -ed PARTICIPLE called 
+liked 
+tried 
+These verbs are called regular because if we know the base form (ie the 
+dictionary entry form; cf 2.35) of such a verb, we can predict all its other 
+forms by rule. This is a very powerful generalization, since the vast majority 
+of English verbs belong to the regular class. Furthermore, new verbs that are 
+coined or borrowed from other languages adopt this pattern; eg: Xerox - 
+xeroxing - Xeroxes 
+xeroxed. As the past form and the -ed participle form 
+are identical for all regular verbs, it will be convenient to refer to them both 
+as the -ed form, distinguishing where necessary between the V-ed, (past 
+tense) and V-ed2 (-ed participle) forms. 
+Note 
+[a] The process of assimilating foreign words to the regular pattern is more marked in verbs 
+than in nouns, where foreign plurals are often kept in English, sometimes with an alternative 
+native ending (c/ 5.828: antenna - antennae/antennas. 
+[b] Some archaic 2nd person and 3rd person singular present-tense verb forms survive in very 
+restricted use: chiefly in traditional liturgical language. The 2nd person forms with thou as 
+subject (cf 6.12 ~ b t e  
+[cl) end in -est I~stl, lest/, whereas the even rarer 3rd person forms end in 
+-eth /re/, /eel: 
+(thou) 
+callesr giuest hearest 
+(helshe) calleth giveth heareth 
+Contracted nonsyllabic endings -st and -th occur with the primary verbs HAVE and m: hast, 
+hath; dos1 ldastl, doth /d&O/. (Similar forms saisl, sairh /see/ occur with the verb SAY, which also, 
+however, has the regular forms sayest and sayeth.) The primary verb BE, here as elsewhere, is 
+highly irregular: it has no -st or -th forms, but it has the archaic 2nd person form art and an 
+analogous past tense form wert: thou artlwert. Other verbs have -le)st 'thou-forms' in the past 
+tense: hadsr, didsr, govest, camesf, etc. The spelling of the -est forms of see and lie is irregular: 
+scest /si:-xstl; lies1 /la~-rst/. 
+All the modal auxiliaries except those ending in -I have special 'thou-forms': will,- wilt, 
+shall - shalt, can - cansl, may - mayst, would - wo~ldst, should - shouldst, could - couldst. 
+The -ing participle and the -S form 
+3.5 
+The -ing form of both regular and irregular verbs is formed by adding -ing 
+/IIJ/ to the base: 
+walk - walking agree - agreeing push -pushing 
+sing - singing 
+pass -passing 
+weep - weeping 
+(On the spelling of the -ing participle, cf 3.78) The -S form of both regular 
+and irregular verbs (sometimes spelled -es; cf 3.9) is also predictable from the 
+base. It has three pronunciations /rz/, 121, and /S/, which occur under the 
+following phonological conditions: 
+l 
+(a) /rz/ after bases ending in voiced or voiceless sibilants; eg: 
+Table 3.5~ 
+BASE 
+-SFORM 
+BASE 
+-S FORM 
+/-S/ pass - passes 
+1-srz/ 
+1-d3/ budge 
+- budges 
+1-dyz/ 
+1-21 buzz - buzzes 
+1-zrz/ 
+/-I/ push 
+- pushes 
+/-r1z/ 
+/-t$/ catch 
+catches 
+/-tJu/ 
+1-31 camouflage - camouflages /-W/ 
+I 
+- .  
+For these cases, the -S form always ends in -es. 
+(b) /z/ after bases ending in voiced sounds other than sibilants, including 
+vowels ; eg : 
+l 
+Table 3.56 
+/-I/ 
+call - calls 
+1-lz/ 
+/-b/ rob 
+- 
+robs 
+/-bz/ 
+1-i:/ flee - flees 
+- 
+/-a11 try 
+- 
+tries 
+/-arzl 
+(c) /S/ after bases ending in voiceless sounds other than sibilants, eg: 
+Table 3.5~ 
+- 
+/-t/ cut - cuts 
+/-ts/ 
+/-k/ lock 
+- locks 
+I-ksl 
+/-p/ hop - hops 
+/-PS/ 
+I-fl cough - 
+coughs 
+I-fsl 
+The rules on the spelling -es (golgoes), the changing of -y to -i- (tryltries), etc 
+are the same as for the regular plural of nouns (cf 5.81). 
+Note 
+[a] Apart from the three primary verbs BE, HAVE, and w (cf3.31f), the only verbs which have 
+an irregular -S form are say /sell - says /sez/, and derivatives of m, eg: outdo 1-du:/ - outdoes 
+/-d~z/; overdo /du:/ overdoes 1-d~z/. In the -S form, SAY is irregular in pronunciation, but not in 
+spelling. GAINSAY, 
+historically a derivative of SAY, 
+may have a regular or an irregular 
+pronunciation in the -S form: gainsays 1-serzl or 1-sezl. 
+[b] In some varieties of English (eg South African English and many varieties of AmE) the 
+pronunciation of the syllabic ending of the -S form is /az/ rather than /lz/. Similarly, the syllabic 
+-ed form (c/ 3.6) is pronounced in such varieties as /ad/ rather than /rd/. 
+[cl Acommon(especially nonstandard)pronunciationof the-inginflection is /~n/,conventionally 
+. . 
+spelt -in'; eg: gettin' 14getm/. 
+Id] The verb lightning - liglrtnings - lightning - li~htninged is a sole exception to the rule for 
+forming the -ing participle. Since the base form of the verb already ends in an -ing suffix, no 
+further -ing is added: It is lightrring/*lightrtinging. The -ing participle of this verb is avoided 
+probably because of the awkwardness of this irregulari1.y. 
+
+
+100 
+~ d r b s  
+and auxiliaries 
+The past form and the -ed participle 
+3.6 Like the -S form, the past and the -ed participle forms (both termed the -ed 
+form) of regular verbs have three pronunciations: 
+(a) / ~ d /  
+after bases ending in /d/ and /t/, eg: 
+pad -padded 
+/-d~d/ 
+pat -patted 
+/-trd/ 
+(b) /d/ after bases ending in voiced sounds other than /d/, including vowels, 
+eg : 
+buzz - buzzed /-zd/ 
+budge - budged /-d3d/ 
+call - called 
+/-Id/ 
+tow - towed 
+/-aud/ 
+(c) /t/ after bases ending in voiceless sounds othef.than It/, eg: 
+pass - passed /-st/ 
+pack - packed 
+/-kt/ 
+Note 
+Some exceptions to the second rule above are verbs like d~l,eIl- d~velled/d~velr, 
+which (esp in 
+BrE) may end in 111 rather than Id/. The devoicing may also be reflected in an irregular spelling: 
+d~velt. These verbs are classed as irregular verbs (c/ 3.13). 
+The spelling of regular verb inflections 
+3.7 
+The rules in 3.5 - 6 apply to pronunciation, but certain additional rules have 
+to be stated to account for the spellings of verbs with regular verb inflections. 
+First, however, we note the general spelling rules: 
+The -S form is written 
+-S: 
+look - looks 
+The -ing fgrm is written -ing:, look - looking 
+The -ed form is written 
+-ed: 
+look - looked 
+These rules apply except where one of the following additional changes 
+applies: doubling of the final consonant of the base (cf 3.8); deletion or 
+addition of a final -e (cf 3.9); substitution of -i- for a final -y or vice versa (cf 
+3.10). 
+These additional rules are necessary in.order to account for such apparent 
+anomalies as are illustrated in the following distinctions: 
+die - dying - died 
+bar - barring - barred 
+- dyeing - dyed 
+bare - baring - bared 
+hop - hopping - hopped 
+hope - hoping - hoped 
+stop - stopping - stopped 
+star - starring - starred 
+stoop - stooping - stooped 
+stare - staring - stared 
+As we see above, final -e can be preserved to avoid confusion in pairs like 
+dying and dyeing (cf 3.9). 
+Doubling of consonant before -ing and -ed 
+3.8 
+A single consonant letter at the end of the base is doubled before -ing and -ed 
+when the preceding vowel is stressed and spelt with a single letter: 
+bar - 'barring - barred 
+beg - 'begging - begged 
+Full verbs 101 
+oc'cur - oc'curring - oc'curred 
+per'mit - per'mitting - per'mirted 
+pa'trol - pa'trolling - pa'trolled 
+There is normally no doubling when the preceding vowel is unstressed 
+('enter - 'entering - 'entered, 'visit - 'visiting - 'visited) or is written with two 
+letters (dread - dreading - dreaded). 
+With some final consonants, however, doubling occurs even when the 
+preceding vowel is unstressed. In the following cases (a -c), doubling is 
+normal in BrE, whereas it is an alternative and less favoured practice in 
+AmE: 
+(a) Verbs ending in an unstressed vowel followed by -I: 
+i 
+'travelling 
+'travel 
+'travelled (BrE and AmE) 
+'traveling 
+'traveled (AmE only) 
+Similarly : 'cancel, 'counsel, 'dial, 'model, 'signal, etc. 
+(b) Verbs ending in an unstressed vowel followed by -m(me): 
+' 
+'program(me) 
+'programming 
+'programmed (BrE and AmE) 
+'program 
+'programing 
+'programed 
+(AmE only) 
+(C) Some verbs ending in an unstressed vowel followed by -p: 
+'worshipping 
+'worshipped (BrE and AmE) 
+'worship 
+'worshiping 
+'worshiped 
+(AmE only) 
+The verbs handicap and kidnap also follow the pattern of worship. But most 
+verbs ending in -p after an unstressed vowel have no doubling either in BrE 
+or in AmE: de'velop Lde'ueloping - de'veloped, 'gallop - 'galloping - 'gal- 
+loped, 'gossip - 'gossiping - 'gossiped, etc. 
+(d) Verbs ending in an unstressed vowel followed by -g: 
+'humbug 
+'humbugging 
+'humbugged 
+But note (AmE) 'catalog - 'cataloging - 'cataloged. 
+(e) In verbs ending with vowel + -c, the doubling of the final consonant is 
+spelt -ck-: 
+'panic 
+'panicking 
+'panicked 
+'trafic 
+'traficking 
+'traficked 
+Similarly polic, 'bivouac, etc. 
+(f) In certain verbs whose base ends in a vowel followed by -S, there is 
+variation between -S- and -ss- when the verb suffix is added: 
+'bias 
+'biasinglbiassing 
+'biased/'biassed 
+bus 
+'busing/'bussing 
+busedlbussed 
+$cus 
+Ifocusinglfocussing 
+Ifocusedlfocussed 
+Note 
+[a] With verbs like PLAY (- playing - pplved) and ROW (- rnlsbrg - ruavd)there is nodoubling. 
+because the -y and -~vdo not count as consonants in these words, but as part of the spelling of the 
+diphthong (-ay, -019). (On LAY, PAY, cJ'3.10.) 
+
+
+102 
+Verbs and auxiliaries 
+[b] There is, on the other hand, doubling in words such as E'QUIP (- e'qrripping - e'qurpped) and 
+AC'QUIT (- ac'quitting - ac'quitted), because the u here counts as part of the consonantal spelling 
+-qu-, rather than as a vowel. 
+[c] The letter -X is never doubled, since it represents the two consonant sounds /ks/: fix - 
+fixing -&red, etc. 
+[d] Final silent consonants are not doubled: crochet /-ell - crocheting - crocheted; hurrah /Q:/ 
+- hurrahrng - hurrahed. 
+[e] The rules given here for doubling are in general followed also in the addition of derivational 
+suffixes (App L32n beginning with a vowel. 
+[fl The spell~ngs 'catalogged - 'catalogging do not occur (see (d) above), since the BrE spellings 
+for AmE CATALOO are catalogue - cataloguing - catalogued. 
+[g] A rare exception to (e) above is arc - arc(k)ing - arc(k)ed, for which the spelling without k 
+is also possible. 
+[h] The verb BBNEFIT sometimes (esp in AmE) has forms with irregular consonant doubling 
+('benefitting - 'benefitted) alongside the regular benefiting - benefited. 
+Deletion of and addition of -e 
+3.9 
+If the base ends in a mute (unpronounced) -e, this -e is regularly dropped 
+before the -ing and -ed inflections: 
+create - creating - created 
+shave - shaving - shaved 
+bake - baking - baked 
+type - typing - typed 
+Verbs with monosyllabic bases in -ye, -oe, and -nge, pronounced /nd3/, are 
+exceptions to this rule: they do not lose the -e before -ing, but they do lose it 
+before -ed: 
+dye - dyeing - dyed 
+singe - singeing - singed 
+hoe - hoeing - hoed 
+tinge - tingeing - tinged 
+Impinging and infringing, on the other hand, are regular. The final -e is also 
+lost before -ed by verbs ending in -ie or -ee: tie - tied, die - died, agree - 
+agreed. 
+Before the -S ending, on the other hand, an -e is added in the following 
+cases : 
+(a) After the following letters, representing sibilant consonants: 
+-S pass - passes 
+-ch watch - watches 
+-z buzz - buzzes 
+-sh wash - washes 
+-X coax: - coaxes 
+(b) after -0 'in GO (-goes), DO (-does /d~z/), ECHO (-echoes), VETO 
+(- vetoes). 
+Compare the spelling of regular -S plurals (cf 5.81). 
+Note 
+[a] The loss of -e in age - ag(e)ing is optional. 
+[b] Where -ch represents a consonant other than the sibilant or affricate Its/, the -e is omitted: 
+stomachs. 
+Treatment of -y 
+3.10 
+In bases ending in a consonant followed by -y, the following changes take 
+place : 
+Full verbs 103 
+(a) -y changes to -ie- before -S: carry - carries, try - tries 
+(b) -y changes to -i before -ed: carry - carried, try - tried 
+Similarly dry, deny, fancy, etc. 
+The -y- remains, however, where it follows a vowel letter: stay - stayed, 
+alloy - alloys, etc; or where it precedes -ing: carry - carrying, stay - staying, 
+etc. Two exceptions to these rules are: pay -paid, and lay - laid, in which 
+they changes to i after -a-. (On a third exception, say - said, cf 3.15.) 
+A different spelling change occurs in verbs whose bases end in -ie: DIE, LIE, 
+TIE, VIE. In these cases, the -ie changes to -y- before -ing is added: die - dying, 
+lie - lying, tie - tying, vie - vying. 
+Note 
+[a] In verbs whose bases end in a vowel other than -y or mute -e, the addition of inflections 
+involves no further change of spelling: boo -boos - booing - booed, ski - skis -skiing - skied, 
+etc. 
+[b] LIE is a regular verb in the sense 'tell untruths'; on the irregular verb lie - lay -  lair^, c/ 3.16. 
+[C] Like PAY and LAY are their derivatives REPAY (- repai4, MISLAY (- nrislaid), WAYLAY 
+(- waylaid), and RE'LAY (- re'laid). There is another verb 'RELAY, however, which is derived 
+from the noun 'relay and which has the regularly spelt -ed form relayed: thus Thej7oar was relaid. 
+but The news was relayed far and wide. 
+The morphology of irregular full verbs 
+3.11 
+Irregular full verbs are like regular verbs in that their -S forms and iheir -ing 
+forms are predictable from the base (cf 3.2f). But they differ from regular 
+verbs in that either the past inflection, or the -ed participle inflection, or both 
+of these, are irregular. More precisely the major differences are: 
+(a) Irregular verbs either do not have the regular -ed inflection, or else have 
+a variant of that inflection in which the /d/ is devoiced to /t/ (eg: burn - 
+burnt, which occurs alongside the regular burned). 
+(b) Irregular verbs typically, but not invariably, have variation in their base 
+vowel. The explanation of this phenomenon, called GRADATION or 
+ABLAUT, is historical, and it is characteristic of IndwEuropean languages 
+in general: choose - chose - chosen, write - wrote - written. 
+(c) Irregular verbs have a varying number of distinct forms. Since the -S 
+form and the -ing form are predictable for regular and irregular verbs 
+alike, the only forms that need be listed for irregular verbs are the base 
+form (V), the past (V-ed,), and the -ed participle (V-ed2). These are 
+traditionally known as the PRINCIPAL PARTS of the verb. Most irregular 
+verbs have, like regular verbs, only one common form for the past and 
+the -ed participle; but there is considerable variation in this respect, as 
+the table shows: 
+V 
+V-ed, 
+V-ed2 
+all three forms alike : 
+cut 
+cut 
+cut 
+V-ed, = V-ed2 : 
+meet 
+met 
+met 
+V = V-ed, : 
+beat 
+beat 
+beaten 
+V = V-ed,: 
+come 
+came 
+come 
+all three forms different : 
+speak 
+spoke 
+spoken 
+Note 
+Where irregular verbs have regular inflections (as is normal in the -S and -ing forms), they follow 
+the spelling rules for regular verbs (c/ 3.7- 10). 
+
+
+104 Verbs and auxiliaries 
+Irregular verb classes 
+The 250 or so irregular English verbs can be classified on the basis of criteria 
+derived from the above similarities and differences. Since it is impractical to 
+account for both pronunciation and spelling together, only pronunciation 
+will be considered in setting up classes of irregular verbs, and for that matter 
+in deciding whether a verb is irregular or not. The criteria of classification to 
+be used are the following: 
+(a) Suffixation in V-ed, and/or V-ed,, including not only the alveolar suffixes 
+-ed/-t as in dreamedldreamt, but also, for V-ed,, nasal suffixes as in shaken, 
+torn. 
+(b) V-ed identity: ie V-ed, = V-ed,, as in met - met. 
+(c) Vowel identity, ie the various principal parts show no difference of base 
+vowel. 
+Table 3.12 shows how these three criteria divide irregular full verbs into 
+seven classes: 
+Table 3.12 Irregular verb classes 
+I 
+I 
+CLASS 
+USE OF 
+V-ed 
+VOWEL 
+E.'amp1e 
+SUFFIX 
+IDENTITY IDENTITY 
+V 
+V-ed, 
+V-ed, 
+burnedlburnt 
+sawed/sawn 
+bring 
+brought 
+brought 
+, - 
+break 
+broke 
+broken 
++ 
+cut 
+cut 
+cut 
++ 
+strike 
+struck 
+struck 
+swim 
+swam 
+swum 
+Class 1 has three pluses, which indicate that a verb like burn is very close 
+to a regular verb. The only irregularity is that each verb has, or at least allows 
+as a variant, a V-ed form with an irregular final consonant or consonant 
+cluster; eg: burned has an irregular variant burnt 1-nt/ with a voiceless suffix 
+after a voiced sound (cf 3.6). 
+Class 2 has a past suffix in -ed and two alternative -ed participle suffixes, 
+one alveolar (sawed) and the other nasal (sawn). All verbs have vowel identity, 
+although some Jerbs also have alternative forms with vowel gradation. 
+Class 3 has no vowel identity; eg: bring - brought. Many of the verbs in 
+Classes 1 and 3 manifest some differences between BrE and AmE. For 
+instance, in a subclass of Class 1 which will be distinguished as Class IA, 
+AmE shows a stronger preference than BrE for the regular /d/ variants of 
+burnedlburnt, etc. But the frequency of each form varies from verb to verb, 
+and there is no one-to-one correspondence between a spelling in -t and a 
+pronunciation in It/. Class 3 shows a similar pattern of preference for variant 
+-ed forms such as dreamedldreamt /dri:md/, /dremt/. 
+Class 4 has three different principal parts, usually with a nasal V-ed2 suffix 
+(break - broke - broken). 
+Full verbs 105 
+Class 5 has the same form for all principal parts (cut - cut - cut). 
+Class 6 has identity between V-ed, and V-ed,, has no suffix, but does have 
+a change of the base vowel (strike - struck - struck). 
+Class 7 is the most irregular major class of full verbs: V-ed, and V-ed, are 
+different; there is no suffix, but there is change of the base vowel (swim - 
+swam - swum). Particularly irregular is the exceptional verb go - went - 
+gone, which has an entirely unconnected V-ed, form, went. The substitution 
+of a different form in this way is termed SUPPLETION (cf: waslwere as the past 
+forms of BE, 3.32). 
+Although we will not further define the difference among the verbs of each 
+class, for mnemonic reasons the verbs in the lists below will be grouped into 
+subclasses as (A), (B), (C), etc. Parentheses, for example '(dwelled)' are used 
+for less common forms, and decidedly uncommon verbs or verb forms are 
+marked '(rare)'. '(R)' denotes the existence of a regular variant. 
+Note 
+The following list contains most of the irregular verbs in present-day English, including those 
+which are relatively rare, but is not meant to be exhaustive, particularly with regard toderivative 
+verbs. For example, it does not include very unusual or archaic forms such as girl (a rare past 
+form of gird); nor does it include less common derivatives such as relend. Some irregular - d  
+participle forms survive only in special contexts, especially in adjectival use (for example su~lkelt 
+in a sunken road; or shauen in a recently shauen chin). We do not note such forms where they are 
+not used as verbs and where the verb from which they are derived is otherwise regular. Where 
+the verb occurs in the list of irregular verbs for another reason, exceptional nonverbal forms are 
+noted for comparison. 
+Irregular verbs listed in class order 
+Class 1 
+3.13 
+Characteristics: 
+The suffix is used but voicing is variable (contrast spent with made). V-ed, 
+and V-ed, are identical (burnedlburnt - burnedlburnt) and there is vowel 
+identity in all parts (build - built - built). 
+V 
+V-ed 
+COMMENTS 
+. . 
+dwell i $:led) 
+(R) 
+earn 
+earned 
+(R) (cf Note [b]) 
+learnt 
+learn { learned 
+(R) Adj: /earned/-xd/ ~scholarIyYl 
+{ e 
+(R) 
+S 
+{ 
+,,,} AISO MISSPELL 
+
+
+106 
+Verbsand auxiliaries 
+Full verbs 107 
+v 
+v-ed 
+COMMENTS 
+P 
+{ ; 
+(R) 
+spoil {:;:i;kd 
+(R) 
+- 
+* 
+1B 
+bend 
+bent 
+Also UNBEND. Adj: 'on bended knee' 
+build 
+built 
+Also REBUILD 
+lend 
+lent 
+rend 
+rent 
+(Rare; in restricted use) 
+send 
+sent 
+spend 
+spent 
+Also MISSPEND 
+1C 
+have 
+had 
+Primary verb: cf 3.33; -S form: has /haez/ 
+lh=vl 
+make 
+made 
+Also REMAKE, 
+UNMAKE 
+Note 
+[a] For Class 1A verbs, the irregular -1 spelling is generally rare in AmE. In BrE, the -t spelling 
+is of varying frequency, but the It/ pronunciation is widely current. 
+[b] EARN belongs marginally to Class IA, since a pronunciation in It/ has some BrE currency. 
+[c] There is a tendency to associate -1 forms in Class IA more with V-ed, than with V-ed,, and 
+with V-ed, when there is least implication of duration: 
+He spelt/hosspelt it like this on only one occasion. 
+Contrast: It smelled delrcious. 
+[d] The variation between Id/ and It/ in Classes 1 and 3 applies to verbal uses but not to 
+adjectival uses, for which It/ is favoured. Both BrE and AmE have, for example, burnt toast, 
+burnt umber. Even so, /d/ may occur attributively where the meaning emphasizes the process 
+rather than the result of the process: burnt wo~d means 'wood which looks burnt', but burned 
+wood might mean a quantity of wood which has been burned as fuel. 
+Class 2 
+3.14 
+Characteristics;: 
+V-edz has two'suffixes, one alveolar which is R and identical with V-ed, 
+(mowed), the other nasal (mown). There is no change of the base vowel for 
+V-ed, (saw - sawed). 
+V 
+V-pd. 
+v-ed, 
+COMMENTS 
+hew 
+hewed { E:d 
+(R) 
+Adj use: 'a new-mown lawn' 
+mow /a./ 
+mowed { f:::d 
+(R) 
+(esp BrE) 
+saw 
+sew /au/ 
+sewed {z:;:d 
+(R) 
+V 
+V-ed, 
+V-ed, 
+COMMENTS 
+shear 
+sheared {z:rrd 
+(R) 
+show 
+showed { $:zed) 
+(R) }Sometimes spelled sl~ew, shewed, shewn 
+sown 
+sow /au/ 
+sowed 
+{sowed 
+(R) 
+strew /U:/ 
+strewed zizt:d (R) 
+{ 
+swell 
+swelled { swollen 
+Adj use: 'a swollen anklelhead' 
+swelled 
+(R) 
+Adj use: 'a swelled head'[metaphorical 
+suggestion of conceit] 
+Note 
+[a] As an adjective, swollen IS generally accepted In both llteral and metaphorical uses Swelled 
+head IS metaphor~cal <esp AmE) 
+[b] To the Class 2 l~st may be added proue .- prowd - prowd/prown and show - shoved - 
+shoved/shauen. Although these verbs are usually regular, the -ed partic~ple ending in -en IS quite 
+common forprow and not unusual for shove. These -en forms are more current In AmE than in 
+BrE. Prouen alsooccurs in the Scott~sh legal phrase notprouen. 
+l l 
+Class 3 
+3.15 
+Characteristics: 
+The suffix is used but voicing is variable (contrast meant, told). V-ed, and 
+V-ed2 are identical (left -left), 
+a n d  there is change of base vowel (think 
+- thought). 
+V 
+V-ed 
+COMMENTS 
+bereave { LEz!ved 
+cleave { '$fved 
+deal' 
+deilt /e/ 
+dream { 
+dreamt /e/ 
+dreamed 
+feel 
+felt 
+flee 
+fled 
+keep 
+kept 
+kneel { 
+leant /e/ 
+lean 
+{leaned 
+leapt /e/ 
+leap 
+{leaped 
+leave 
+left 
+(Rare; restricted use) Adj : 'berejt of hope'; V-ed2 
+(R) 
+bereavedusually = 'deprived of a close relative by 
+death' 
+Adj: clejtpalate; also V-ed, = clove, V-ed, = cloven. 
+(R) 
+Adj : cloven hoof 
+Also MISDEAL 
+(esp BrE) 
+(R) 
+(esp AmE) 
+(R) 
+(esp AmE) 
+(esp BrE) 
+(R) 
+(esp AmE) 
+
+
+108 
+Verbsand auxiliaries 
+V 
+V-ed 
+COMMENTS 
+mean 
+meant /e/ 
+sleep 
+slept 
+Also OVERSLEEP 
+sweep 
+swept 
+weep 
+wept 
+beseech {
+~
+~
+~
+~
+~
+f
+~
+~
+d
+ 
+(R) )(Rare; in restricted use) 
+bring 
+brought 
+buy /all 
+bought 
+catch 
+caught 
+seek 
+sought 
+teach 
+taught 
+thlnk 
+thought 
+Also RETHINK 
+lose 
+lost 
+3D: /e/ - /$U/ 
+sell 
+sold 
+tell 
+told 
+Also FORETELL, RETELL 
+hear 
+heard 
+Also MISHEAR 
+say 
+said 
+- 
+But -S form: says /e/. On GAINSAY, 
+cf 3.5 Note [a]. 
+Class 4 
+3.16 
+Characteristics: 
+V-ed, a n d  V-ed, differ and, in practically all cases, the latter has a nasal suffix 
+(break - broke 
+broken). There is no base vowel identity. There is a range 
+of base vowel changes and the verbs have been ordered according t o  vowel 
+patterning. 
+V 
+V-ed, 
+V-ed, 
+COMMENTS 
+4A: V-ed, and V-ed, have the same vowel. 
+- - 
+4Aa: V-ed = /au/ 
+break /er/ 
+broke 
+broken 
+Adj: 'I'm broke'rwithout money'] 
+(informal) 
+choose /U:/ 
+chose 
+chosen 
+freeze /i:/ 
+froze 
+frozen 
+Also UNFREEZE, DEEPFREEZE (also R) 
+speak 
+spoke 
+spoken 
+steal 
+stole 
+stolen 
+Full verbs 
+109 
+V 
+V-ed, 
+V-ed? 
+COMMENTS 
+(a)wake(n) 
+(a)woke 
+(a)woken 
+cf R (A)WAKEN. 
+But there is some 
+tendency to produce blends of the 
+regular and irregular verbs, as in 
+'You waked me too earlv.' 
+weave 
+{ z%ed (R) { :iit:d 
+(R) 
+bear 
+bore 
+borne 
+'She has borne six children' (but: 'She 
+was born in 1955'); also FORBEAR, 
+OVERBEAR 
+swear 
+swore 
+sworn 
+Also FORSWEAR 
+tear 
+tore 
+torn 
+wear 
+wore 
+worn 
+4Ac: /a11 - /I/ 
+bite 
+bit 
+bitten 
+V-ed, sometimes = bit 
+chide (rare) chid 
+{:;!p) 
+Also R chided 
+hide 
+hid 
+forget 
+forgot 
+-- 
+forgotten 
+Sometimes (esp AmE) V-ed, 
+=forgot; also BEGET, withbegat as 
+an (archaic and scriptural) 
+alternative to begot (V-ed,). See also 
+GET, Class 6F, 3.18. 
+tread 
+trod 
+lie 
+lay 
+lain 
+['be horizontal]. Contrast LIE = 'tell a 
+lie' (R). Sometimes confused with 
+LAY 'put'(- laid - laid) 
+48: V and V-ed,, but not V-ed,, have the same vowel 
+blow 
+blew 
+blown 
+grow 
+grew 
+grown 
+Also OUTGROW 
+know 
+knew 
+known 
+throw 
+threw 
+thrown 
+Also OVERTHROW 
+4Bb: VIV-ed, = / e ~ /  
+forsake 
+forsook 
+forsaken 
+.(restricted use) 
+shake 
+shook 
+shaken 
+take 
+took 
+taken 
+Also BETAKE (restricted use), MISTAKE, 
+OVERTAKE, PARTAKE, UNDERTAKE 
+
+
+1 10 Verbs and auxiliaries 
+V 
+V-ed, 
+V-ed2 
+COMMENTS 
+forbid 
+{forbade h or =l forbidden} 
+cjBID, 
+l 
+forbad I d  
+(forbid) 
+give 
+gave 
+given 
+Also FORGIVE, 
+MISGIVE 
+draw 
+drew 
+drawn 
+Also WITHDRAW 
+fall 
+fell 
+fallen 
+Also BEFALL (restricted use) 
+eat 
+.te {FE&;,,} 
+eaten 
+AISO OVEREAT 
+see 
+saw 
+seen 
+Also FORESEE, 
+OVERSEE 
+4Bh: V/V-ed, = /e~/ 
+slay 
+slew 
+slain 
+(restricted use, esp in BrE) 
+4C: all three parts have different vowels 
+drive 
+drove 
+driven 
+ride 
+rode 
+ridden 
+'Also OVERRIDE 
+rise 
+rose 
+risen 
+Also ARISE, 
+which is (rare) except 
+when metaphorical: 'The question 
+arose. . .' 
+smite 
+smote 
+smitten 
+(Archaic) except when metaphorical 
+In V-ed2, eg: 'smitten with her 
+I 
+charms' 
+I 
+stride 
+stridden 
+Both srrid and stridden are (rare); also 
+stmde 
+{ 
+} 
+BESTRIDE 
+write 
+wrote 
+written 
+Also REWRITE, UNDERWRITE 
+fly 
+flew 
+flown 
+cf flee -fled -fled (Class 3A) 
+~ C C :  
+/U:/ - /l/ - /A/ 
+do 
+did 
+done 
+The -S form does has the irregular 
+pronunciation /daz/. Also OUTDO, 
+OVERDO, REDO, UNDO, etC (cf 3.36) 
+Full verbs 11 1 
+V 
+V-ed, 
+V-ed, 
+COMMENTS 
+4D : all three parts have the same vowel 
+4D : /i:/ 
+beat 
+beat 
+beaten 
+beat is sometimes used as V-ed2, esp in 
+AmE 
+4E: V-ed, and V-ed2 have different vowelsin special alternative forms 
+4E : /a11 
+dive 
+{ ( R )  
+dived (R) 
+V-ed, dove is AmE only: the verb is R 
+in standard BrE and often in AmE 
+shrived (R) 
+shrived (R) 
+Shrive 
+{shrove 
+shriven 
+(Rare) 
+thrived (R) 
+thrive 
+{(throve) 
+{$E:$)} 
+Normally R; thriuen is (archaic) 
+Note 
+Glide is a regular verb in present-day English, but there areoccasionaloccurrences of the archaic 
+irregular past form glode. 
+Class S 
+3.17 
+Characteristics: 
+All three parts V, V-ed,, and V-ed2 are identical. No suffix or change of the 
+base vowel (bet - bet - bet). 
+V/V-ed 
+COMMENTS 
+bet 
+bid 
+burst 
+cast 
+cost 
+cut 
+fit 
+hit 
+hurt 
+knit 
+let 
+Put 174 
+quit 
+rid 
+set 
+shed 
+shit 
+shut 
+slit 
+split 
+spread /e/ 
+BrE also R: betted 
+'make an offer (to buy)' etc. (But in the sense of 'say a greeting' or 'give 
+an order', the forms bid - bad(e) - bidden may also be used in rather 
+archaic style: 'Do as you are bid(den).') Also OUTBID, UNDERBID. 
+Also nonstandard BUST, with alternative R V-ed form busted 
+Also BROADCAST, FORECAST, MISCAST, OVERCAST, RECAST, 
+TELECAST (sometimes also R) 
+COST = 'estimate the cost of' is R 
+R (in BrE) 
+Usually R: knitted 
+But PUT(T) / p ~ t /  
+in golf is R: putted 
+Also R: quitted 
+Also R : ridded 
+Also BESET, RESET, UPSET, OFFSET, INSET 
+Also R (rare) = 'put in a shed' 
+(Not in polite use); V-ed, sometimesshat 
+
+
+112 Verbs and auxiliaries 
+sweat /e/ 
+Also R: sweated 
+thrust 
+wed 
+Also R : wedded 
+wet 
+Also R : wetted 
+Note 
+The regular verbsnREo sometimesoccurs with the Class 5 forms shred - shred - shred. 
+Class 6 
+3.18 
+Characteristics: 
+No suffix; V-ed, a n d  V-ed, are identical; change of base vowel (win - won - 
+won). 
+V 
+V-ed 
+COMMENTS 
+6A: Mainly /i:/ - /e/ 
+bleed 
+bled 
+breed 
+bred 
+feed 
+fed 
+Also OVERFEED, 
+etc 
+hold 
+held 
+Also BEHOLD (in restricted use), UPHOLD, 
+WITHHOLD, 
+ntr 
+.,L., 
+lead /i:/ 
+led 
+Also MISLEAD 
+meet 
+met 
+read /i:/ 
+read /e/ 
+Also REREAD, etc 
+speed 
+sped; 
+Also R: speeded, esp of mechanisms, and always R in 
+the phrasal verb SPEED up 
+6B: Mainly /I/ - /A/ 
+cling 
+dig 
+fling 
+hang 
+sling 
+slink 
+spin 
+stick 
+sting 
+strike 
+string 
+swing 
+win 
+wrlnl 
+clung 
+dug 
+flung 
+hung 
+Also OVERHANG. 
+But HANG is also R in the sense 'put to 
+death by hanging' 
+slung 
+slunk 
+spun 
+V-ed, = span is (archaic) 
+stuck I 
+stung l 
+struck 
+Literal use; in metaphorical, adjectival use V-ed, also 
+stricken: 'stricken (struck) by terror' 
+Strung 
+Also RESTRING, HAMSTRING 
+swung 
+won 
+wruny! 
+bind 
+bound 
+Also REBIND, UNBIND; Adj: 'one's bounden duty' 
+find 
+found 
+grind 
+ground 
+wind 
+wound 
+= 'turn round'; also REWIND, UNWIND; W I N D / W I ~ ~ /  
+= 'smell the presence of'etc is always R 
+Full verbs 1 13 
+V 
+V-ed 
+COMMENTS 
+6D: /a11 - /I/ 
+light 
+lit 
+Also R: lighted; ALIGHT and HIGHLIGHT are only R. 
+Adj: 'a liglrted candle' 
+slide 
+slid 
+6E: /I/ - /a/ 
+sit 
+sat 
+spit 
+spat 
+V-ed also = spit (esp AmE) ; 
+SPIT = 'fix with a suit' is R 
+get 
+got 
+AmE also hasgotten for V-ed, in certain senses of the 
+word, eg'acquire', 'cause', 'come'; thus AmE makes 
+a distinction between We'vegotten tickets = 
+'acquired' and We've got tickets = 'we possess'. On 
+the related verbs FORGET and BEGET, cf Class 4Ad 
+(3.16). 
+Also R when = 'polish' (esp AmE); OV SO OUTSHINE 
+shoe /U:/ 
+shod 
+Also R: shoed 
+shoot 
+shot 
+Also OVERSHOOT 
+fight 
+fought 
+Also OUTFIGHT 
+stand 
+stood 
+Also (MIS~JNDERSTAND. 
+WITHSTAND, etc 
+abide 
+abode 
+restricted use when = 'stay'; R when ABIDE 
+by = 'obey', eg: 'He abided by our decision'. 
+heave 
+hove 
+Usually R: heaved 
+- 
+- 
+Note 
+In AmE, the normally regular verb PLEAD has an alternative Class 6A past form pled. 
+
+
+114 
+Verbs and auxiliaries 
+Class 7 
+3.19 
+Characteristics: 
+N o  suffix; V-ed, and V-ed2 are different; change of base vowel (began - 
+begun). 
+v 
+V-ed, 
+V-ed, 
+COMMENTS 
+7A: /I/ - /z/ - 
+/A/ 
+begin 
+began 
+begun 
+drink 
+drank 
+drunk 
+cf Adj uses: 'He was drunk' but 'drunken driving' 
+ring 
+rung 
+Also R: ringed in the sense 'put a ring around' 
+shrink {$c:k)} 
+shrunk Adj: shrunken 
+sing { 
+-W 
+sink {s,",","k,) 
+sunk 
+Adj: sunken 
+. . 
+P, 
+spring 
+sprang 
+sprung V-ed, also sprung in AmE 
+t i n  } 
+U 
+Has impolite connotations 
+swim 
+swum 
+come 
+came 
+come 
+Also BECOME, 
+OVERCOME 
+run 
+ran 
+' 
+run 
+Also OUTRUN, 
+OVERRUN, 
+RERUN 
+go 
+went 
+gone 
+Also UNDERGO, FOR(E)GO 
+(cf Note [b]) 
+Note 
+[a] In Class 7A, although the gradation series /I/ - 
+lie/ - /A/ is the one generally accepted as 
+standard, V-ed, forms in /A/ are commonly used (esp in AmE) and accepted. V-ed, forms in lie/ 
+also have some currency. 
+[b] On been in place of gone, cf4.22 Note [bl. 
+Irregular verbs (including derivatives) in alphabetical order 
+3.20 Since irregular yerbs, if one includes prefixed and compound derivatives, 
+make up to some extent an open and productive class, this list makes no 
+claim to completeness. As before, rarer forms are enclosed in parentheses. 
+Verbs in square brackets are those which are generally regular, but which 
+have irregular spelling or irregular forms of limited currency. 
+In the right-hand column, reference is given to the typological classification 
+above, which also includes relevant details of usage (AmE, BrE, archaic, 
+pronunciation, etc). 
+Full verbs 115 
+Base (V) 
+Past tense (V-ed,) 
+-ed participle (V-ed,) 
+Reference 
+abide 
+arise 
+awake 
+be 
+bear 
+beat 
+become 
+befall 
+beget 
+begin 
+behold 
+bend 
+bereave 
+beseech 
+beset 
+bestride 
+p~ 
+~- 
+abode, abided, 
+arose 
+awoke, awaked 
+abode, abided 
+arisen 
+awoken, awaked 
+was, were 
+bore 
+beat 
+became 
+befell 
+begot 
+began 
+beheld 
+bent 
+bereft, bereaved 
+besought, beseeched 
+beset 
+bestrode 
+bet 
+betake 
+bid 
+bind 
+bite 
+bleed 
+blow 
+break 
+breed 
+bring 
+broadcast 
+build 
+burn 
+burst 
+bust (non- 
+standard) 
+buy 
+cast 
+catch 
+chide 
+choose 
+cleave 
+cling 
+come 
+cost 
+creep 
+cut 
+deal 
+deepfreeze 
+dig 
+dive 
+do 
+bet, betted 
+betook 
+bad(e), bid 
+bound 
+bit 
+bled 
+blew 
+broke 
+bred 
+brought 
+broad.cast 
+built 
+burnt, burned 
+' 
+burst 
+bust, busted 
+bought 
+cast 
+caught 
+chid, chided 
+chose 
+cleft, clove, cleaved 
+clung 
+came 
+cost 
+crept 
+cut 
+dealt 
+deepfroze, -freezed 
+dug 
+dived, (AmE) dove 
+did 
+been 
+borne 
+beaten (beat) 
+become 
+befallen 
+begotten 
+begun 
+beheld 
+bent. 
+bereft, bereaved 
+besought, beseeched 
+beset 
+bestridden, bestrid, 
+bestrode 
+bet, betted 
+betaken 
+bade, bid, bidden 
+bound 
+bitten, (bit) 
+bled 
+blown 
+broken 
+bred 
+brought 
+broadcast 
+built 
+burnt, burned 
+burst 
+bust, busted 
+bought 
+cast 
+caught 
+chidden, chid, chided 
+chosen 
+cleft, cloven, cleaved 
+clung 
+come ' 
+cost 
+crept 
+cut 
+dealt 
+deepfrozen, -freezed 
+dug 
+dived 
+done 
+61 
+4Ca 
+4Aa 
+(cf 3.32) 
+4Ab 
+4D 
+7B 
+4Be 
+6F 
+7A 
+6A 
+1B 
+3A 
+3B 
+5 
+4Ca 
+draw 
+drew 
+drawn 
+4Bd 
+dream 
+dreamt, dreamed 
+dreamt, dreamed 
+3A 
+drink 
+drank 
+drunk 
+7A 
+drive 
+drove 
+driven 
+4Ca 
+
+
+116 Verbs and auxiliaries 
+Base (V) 
+Past tense (V-ed,) 
+-ed participle (V-edz) 
+Reference 
+Base (V) 
+Past tense (V-ed,) 
+-ed participle (V-ed2) 
+Reference 
+lend 
+let 
+lie 
+light 
+lose 
+lent 
+lent 
+let 
+let 
+lay 
+lain 
+lit, lighted 
+lit, lighted 
+lost 
+lost 
+dwell 
+dwelt, dwelled 
+[earned] 
+ate 
+fell 
+fed 
+felt 
+fought 
+found 
+[fit1 
+fled 
+flung 
+flew 
+forbore 
+forbade, forbad 
+forecast 
+foresaw 
+foretold 
+forgot 
+forgave 
+forwent 
+forsook 
+forswore 
+froze 
+[gainsaid] 
+got 
+gave 
+went 
+ground 
+grew 
+hamstrung 
+hung, (hanged) 
+had 
+heard 
+hewed, hove 
+hewed 
+hid 
+hit 
+, 
+held 
+' 
+hurt 
+inset 
+kept 
+knelt, kneeled 
+knitted, k n ~ t  
+knew 
+[laid] 
+led 
+leant, leaned 
+leapt, leaped 
+learnt, learned 
+left 
+dwelt, dwelled 
+[earn] 
+eat 
+fall 
+feed 
+feel 
+fight 
+find 
+[fit] 
+flee 
+fling 
+fly 
+forbear 
+forbid 
+forecast 
+foresee 
+foretell 
+forget 
+forgive 
+forgo 
+forsake 
+forswear 
+freeze 
+[gainsay] 
+get 
+give 
+f:ind 
+grow 
+hamstring 
+hang 
+have 
+hear 
+heave 
+hew 
+hide 
+hit 
+hold 
+hurt 
+inset 
+keep 
+kneel 
+knit 
+know 
+[earned] 
+eaten 
+fallen 
+fed 
+felt 
+fought 
+make 
+mean 
+meet 
+miscast 
+misdeal 
+misgive 
+mishear 
+[mislay] 
+made 
+meant 
+met 
+miscast 
+misdealt 
+misgave 
+misheard 
+[mislaid] 
+made 
+meant 
+met 
+miscast 
+misdealt 
+misgiven 
+misheard 
+[mislaid] 
+found 
+[fit] 
+fled 
+flung 
+flown 
+foreborne 
+forbidden, (forbid) 
+forecast 
+foreseen 
+foretold 
+forgotten, (forgot) 
+forgiven 
+forgone 
+forsaken 
+forsworn 
+frozen 
+3E 
+(cf 3.10 
+Note [c]) 
+6A 
+mislead 
+misspell 
+misspend 
+mistake 
+misunderstand 
+mow 
+offset 
+outbid 
+outdo 
+outfight 
+outgrow 
+outrun 
+outshine 
+overbear 
+overcast 
+overcome 
+overdo 
+overeat 
+overfeed 
+overhang 
+override 
+overrun 
+oversee 
+overshoot 
+oversleep 
+overtake 
+overthrow 
+partake 
+[pay1 
+[plead] 
+misled 
+misspelt, misspelled 
+misspent 
+mistook 
+misunderstood 
+mowed 
+offset 
+outbid 
+outdid 
+outfought 
+outgrew 
+outran 
+outshone 
+overbore 
+overcast 
+overcame 
+overdid 
+overate 
+overfed 
+overhung 
+overrode 
+overran 
+oversaw 
+overshot 
+overslept 
+overtook 
+overthrew 
+misled 
+misspelt, misspelled 
+misspent 
+mistaken 
+misunderstood 
+mown, mowed 
+offset 
+outbid, (outbidden) 
+outdone 
+outfought 
+outgrown 
+outrun 
+outshone 
+overborne 
+overcast 
+overcome 
+overdone 
+overeaten 
+overfed 
+overhung 
+overridden 
+overrun 
+overseen 
+overshot 
+overslept 
+overtaken 
+overthrown 
+L 
+5 
+5 
+4Cc 
+6G 
+4Ba 
+7B 
+6 F  
+4Ab 
+5 
+7B 
+4Cc 
+4Bf 
+6A 
+6B 
+4CA 
+7B 
+4Bg 
+6F 
+3A 
+4Bb 
+4Ba 
+4Bb 
+(cf 3.10) 
+(cf3.18 
+Note) 
+(cj'3.14 
+Note [b]) 
+5 
+5 
+6A 
+6C 
+[gainsaid] 
+{$ten 
+given 
+gone 
+ground 
+grown 
+hamstrung 
+hung, (hanged) 
+,had 
+heard 
+heaved, hove 
+hewn, hewed 
+hidden, (hid) 
+hit 
+held 
+hurt 
+inset 
+kept 
+knelt, kneeled 
+knitted, knit 
+known 
+[laid] 
+led 
+leant, leaned 
+leapt, leaped 
+learnt, learned 
+left 
+partook 
+partaken 
+[paid] 
+[paid] 
+[pleaded, (pled)] 
+[pleaded, (pled)] 
+[proved] 
+[proved, proven] 
+[lay1 
+lead 
+lean 
+leap 
+learn 
+leave 
+quit, quitted 
+quit, quitted 
+quit 
+read 
+rebind 
+rebuild 
+recast 
+read 
+rebound 
+rebuilt 
+recast 
+read 
+rebound 
+rebuilt 
+recast 
+
+
+118 Verbs and auxiliaries 
+Full verbs 1 19 
+Base (V) 
+Past tense (V-ed,) 
+redo 
+[relay] 
+remake 
+rend 
+[repay] 
+reread 
+rerun 
+reset 
+restring 
+retell 
+rethink 
+rewind 
+rewrite 
+rid 
+ride 
+ring 
+rise 
+run 
+saw 
+say 
+see 
+seek 
+sell 
+send 
+set 
+sew 
+shake 
+[shave] 
+shear 
+shed 
+[shew] 
+shine 
+shit 
+shoe 
+shoot 
+show 
+[shred] 
+shrink 
+shrive 
+shut 
+sing 
+sink 
+sit 
+slay 
+sleep 
+slide 
+sling 
+slink 
+slit 
+smell 
+smite 
+redid 
+[relaid] 
+remade 
+rent 
+[repaid] 
+reread 
+reran 
+reset 
+restrung 
+retold 
+rethought 
+rewound 
+rewrote 
+rid, ridded 
+rode 
+rang, (rung) 
+rose 
+ran 
+sawed 
+said 
+saw 
+sought 
+sold 
+sent 
+set 
+sewed 
+shook 
+[shaved] 
+sheared 
+shed 
+[shewed] 
+shone, shined 
+: shit, shat 
+I 
+shod,shoed 
+shot 
+showed 
+[shredded, shred] 
+shrank, (shrunk) 
+shrived, shrove 
+shut 
+sang, (sung) 
+sank, (sunk) 
+sat 
+slew 
+slept 
+slid 
+slung 
+s!unk 
+slit 
+smelt, smelled 
+smote 
+-ed participle (V-ed,) 
+redone 
+[relaid] 
+remade 
+rent 
+[repaid] 
+reread 
+rerun 
+reset 
+restrung 
+retold 
+rethought 
+rewound 
+rewritten 
+rid, ridded 
+ridden 
+rung 
+risen 
+run 
+sawn, sawed 
+said 
+seen 
+sought 
+sold 
+Sent 
+set 
+sewn, sewed 
+shaken 
+[shaved, shaven] 
+shorn, sheared 
+shed 
+[shewn] 
+shone, shined 
+shit 
+shod, shoed 
+shot 
+shown, (showed) 
+[shredded, shred] 
+shrunk 
+shrived, shriven 
+shut 
+sung 
+sunk 
+sat 
+slain 
+slept 
+slid 
+slung 
+slunk 
+slit 
+smelt, smelled 
+smitten 
+Reference 
+(cf 3.10 
+Note [c]) 
+I C 
+I B 
+(cf3.10 
+Note [c]) 
+6A 
+7B 
+5 
+6B 
+3D 
+3B 
+6C 
+4Ca 
+5 
+4Ca 
+7A 
+4Ca 
+7B 
+2 
+3F 
+4% 
+3B 
+3D 
+1B 
+5 
+2 
+4Bb 
+(cf 3.14 
+Note [b]) 
+2 
+5 
+2 
+2 
+(cf 3.17 
+Note) 
+7A 
+4E 
+5 
+7A 
+7A 
+6E 
+4Bh 
+3A 
+6D 
+6B 
+6B 
+5 
+1A 
+4Ca 
+Base (V) 
+Past tense (V-ed,) 
+-ed participle (V-ed,) 
+Reference 
+SOW 
+speak 
+speed 
+spell 
+spend 
+spill 
+spin 
+spit 
+split 
+spoil 
+spread 
+spring 
+stand 
+steal 
+stick 
+sting 
+stink 
+strew 
+stride 
+strike 
+string 
+strive 
+swear 
+sweat 
+sweep 
+swell 
+swim 
+swing 
+take 
+teach 
+tear 
+telecast 
+tell 
+think 
+thrive 
+throw 
+thrust 
+tread 
+unbend 
+unbind 
+underbid 
+undergo 
+understand 
+undertake 
+underwrite 
+undo 
+unfreeze 
+unmake 
+unwind 
+uphold 
+upset 
+wake 
+[waylay] 
+sowed 
+spoke 
+sped, speeded 
+spelt, spelled 
+spent 
+spilt, spilled 
+spun, span 
+spat, spit 
+split 
+spoilt, spoiled 
+spread 
+sprang, (sprung) 
+stood 
+stole 
+stuck 
+stung 
+stank, (stunk) 
+strewed 
+strode 
+struck 
+strung 
+strove, strived 
+swore 
+sweat, sweated 
+swept 
+swelled 
+swam, (swum) 
+swung 
+took 
+taught 
+tore 
+telecast 
+told 
+thought 
+thrived, (throve) 
+threw 
+thrust 
+trod 
+unbent 
+unbound 
+underbid 
+underwent 
+understood 
+undertook 
+underwrote 
+undid 
+unfroze 
+unmade 
+unwound 
+upheld 
+upset 
+woke, waked 
+[waylaid] 
+sown, sowed 
+spoken 
+sped, speeded 
+spelt, spelled 
+spent 
+spilt, spilled 
+spun 
+spat, spit 
+split 
+spoilt, spoiled 
+spread 
+sprung 
+stood 
+stolen 
+stuck 
+stung 
+stunk 
+strewn, strewed 
+stridden, strid, strode 
+struck 
+strung 
+striven, strived 
+sworn 
+sweat, sweated 
+swept 
+swollen, swelled 
+swum 
+swung 
+taken 
+taught 
+torn 
+telecast 
+told 
+thought 
+thrived, (thriven) 
+thrown 
+thrust 
+trodden, (trod) 
+unbent 
+unbound 
+underbid, (underbidden) 
+undergone 
+understood 
+undertaken 
+underwritten 
+undone 
+unfrozen 
+unmade 
+unwound 
+upheld 
+upset 
+woken, waked 
+[waylaid] 
+4E 
+4Ba 
+5 
+4Ad 
+1B 
+6C 
+5 
+7C 
+6H 
+4B b 
+4Ca 
+4Cc 
+4Aa 
+1C 
+6C 
+6A 
+5 
+4Aa 
+(cf3.10 
+Note [c]) 
+
+
+120 
+Verbs and auxiliaries 
+Base ( V )  
+Past tense (V-ed,) 
+-ed participle (V-edz) 
+Reference 
+wear 
+wore 
+worn 
+4Ab 
+weave 
+wove 
+woven 
+4Aa 
+wed 
+wedded, wed 
+wedded, wed 
+5 
+weep 
+wept 
+wept 
+3A 
+wet 
+wetted, wet 
+wetted, wet 
+5 
+win 
+won 
+won 
+68 
+wind 
+wound 
+wound 
+6C 
+withdraw 
+withdrew 
+withdrawn 
+4Bd 
+withhold 
+withheld 
+withheld 
+6A 
+withstand 
+withstood 
+withstood 
+6H 
+wring 
+wrung 
+wrung 
+6B 
+write 
+wrote 
+written 
+4Ca 
+Verbs in auxiliary function 
+3.21 
+In contrast to full verbs, the verbs we will consider in the next sections are 
+capable of functioning as AUXILIARY or 'helping' verbs (cf 2.27f). These are 
+the PRIMARY VERBS BE, HAVE, and DO, and the MODAL VERBS can, may, will, 
+shall, could, might, would, should, and must. Since they can function only as 
+auxiliaries, the modal verbs will generally be referred to ~sMODAL 
+AUXILIARIES. 
+The auxiliaries make different contributions to the verb phrase (cf 3.55f). 
+Of the three primary verbs, DO is only a semantically empty syntactic 
+component in sentence processes such as negation and interrogation (cf DO- 
+support; 3.37), whereas BE contributes to aspect and voice, and HAVE 
+contributes to aspect. The modal auxiliaries are so called because of their 
+contribution of meanings in the area known as MODALITY (including such 
+concepts as volition, probability, and obligation); but such verbs have a 
+broader semantic role than this label suggests (cf 4.49fn. 
+Although auxiliaries have different functions in the verb phrase, they have 
+one important syntactic function in common, viz their ability to act as 
+OPERATOR wheq they occur as the first verb of a finite verb phrase (cf 2.48); 
+as such they are: used, for example, in the formation of yesno questions: 
+Is he asking any questions? 
+Has he been asking any questions? 
+Was he asked any questions? 
+Will he be asked any questions? 
+Has he asked any questions? 
+Does he ask any questions? 
+Here the operator, or first auxiliary of the verb phrase, is isolated from the 
+rest of the predicate no matter how complex the verb phrase is. Since BE and 
+(sometimes, esp in BrE) HAVE also have this function as main verbs, the term 
+operator will also be used for them in sentences like: 
+Is she a tall girl? 
+Has he any money? (BrE) 
+Verbs in auxiliary function 121 
+(The variant constructions with HAVE are discussed in 3.33-35.) The complex 
+verb phrase of He might have been being questioned by the police is thus 
+analysed, within this sentence, as shown in Fig 3.21 : 
+sentence 
+A 
+subject 
+auxiliary, 
+predication, 
+= operator 
+He T 
+auxiliary, 
+might 
+auxiliary, 
+have 
+I 
+auxiliary, 
+predication, 
+I 
+Fig. 3.21 
+(On the use of the terms predicate and predication in this diagram, cf 2.47 
+-48.) 
+Many of the criteria for the syntactic function of auxiliaries have to do 
+with their status as operators, and therefore apply also to BE and HAVE as 
+main verbs. These are listed in (a), (c), (d), (e) below. Of the remaining 
+criteria, (b) is morphological, (f) and (g) are syntactic and have to do with the 
+ordering of elements in the verb phrase, and (h) is semantic. 
+Criteria for auxiliaty verbs 
+(a) Operator in negation with not 
+3.22 
+In forming negative finite clauses, the first auxiliary is placed before the 
+negative word not. Contrast: 
+She can do it. 
+She cannot do it. 
+She saw the play. 
+*She saw not the play. 
+As the example shows, full verbs like SEE are distinguished from auxiliary 
+verbs by their inability to form negation in this way. 
+Note 
+[a] Whereas current English has no negative sentence such as 'She saw nor the play (but cf 
+Note [b]) we do have an acceptable negative sentence of the form: 
+
+
+122 Verbsand auxiliaries 
+He decided not to see the play. 
+I like not working on Fridays. 
+In these cases, however, negation is associated with the second, nonfinite verb phrases, to see 
+and n,orkBtg, rather than with the initial finite verb phrases. decided and like (cf14.7). This is 
+obvious from the following paraphrases: 
+He decided that he would not sec the play. 
+I like it not working on Fridays. 
+which are not synonymous with: 
+He did not decide that he would see the play. 
+I don't like it working on Fridays. 
+In theseexamples, thedistinction between negation in thesuperordinateclauseand negation in 
+the nonfinite clause is clear; but in other cases, the semantic difference may be small or 
+nonexistent (cf catenative verbs 3.49; transferred negation 14.36): 
+She seemed not to mind. = She didn't seem to mind. 
+Even here, however, the syntactic difference between the two constructions is inditated by the 
+inability of the first negative to be contracted: 'Sheseemn't to mind (c/ 3.23). 
+[b] Whereas 'She saw not the ploy was rejected above, She sonr not the ploy but the opera is 
+acceptable. The reason for this is that the negative word not goes with the noun phrase theploy 
+rather than with the verb (cf 13.42); ie the sentence can be paraphrased: 
+It was not the play but the opera that she saw. 
+A related example of the use of not after a full verb is the following quotation from President 
+John F. Kennedy's Inaugural Address: 
+Ask not what your country can do for you; ask what you can do for your country. 
+This case is parallel to the preceding one, in that there is a contrastive parallelism between the 
+two objects of the verb ask, the first of which is rejected by not: . . . not what your country can do 
+fir you . . . (but) what you can do for your country. The scope of not here therefore includes the 
+interrogative clause, but excludes the main verb. This example also has an air of studied 
+archaism (cf Note [cl). 
+[C] In archaic or facetiously archaic usage we can still meet negative constructions in which not 
+follows a full veqb and not an operator: 
+Whetherthey succeeded I knowtiot. ['I do not know'] 
+I care not who knows it. ['I do not care. . .'l 
+If I mistake not, you were at Yale? ['If I am not in error. . .'] 
+[d] Not also follows a full verb when it acts as a pro-form for a clause (c/ 12.28): 
+Jean may be late, but I hope not. ['. . . hope that she won't he late'] 
+[e] Negation in subjunctive and nonfinite verb phrases does not involve the occurrence of an 
+operator (cf 3.58.14.6). 
+(b) Negative and verb contractions 
+.
+P
+ 
+" 
+3.23 
+The negative word not following an operator can in most cases be contracted 
+and attached. as an enclitic particle, to the auxiliary. The resulting negative 
+auxiliary is spelled with a final -n't: isn't, hadn't, didn't, won't, coildn't, etc. 
+The pronuncihtion of the contracted auxiliary and its conditions of use are 
+given below in later sections (3.32fi 3.39). Every auxiliary except the am 
+form of BE has a contracted negative form (but cf 3.32 Note [c]), but two of 
+these, mayn't and shan't, are now virtually nonexistent in AmE, while in BrE 
+shan't is becoming rare and mayn't even more so. 
+In addition, many operators have contracted nonnegative forms: 
+BE : 
+am -- 'm; is - 'S; are - 're; 
+HAVE : 
+have - 've; has - 'S; had - 'd; 
+modals : 
+will - '11; would - 'd. 
+Notice that the contractions 'S and 'dare ambiguous, the former representing 
+is or has (or, occasionally, does; cf 3.36 Note), and the latter had or would. 
+Further information on individual contractions is given in 3.33,3.36,3.39. 
+Verbs in auxiliary function 123 
+The above verb contractions were called nonnegative because they cannot 
+combine with negative contractions to form doubly-contracted forms: 
+(i) She is not studying. 
+(ii) She isn't studying. 
+(iii) She's not studying. 
+(iv) *She'sn't studying. 
+There are, however, two constructions (ii) and (iii) corresponding to the 
+uncontracted negative construction in (i). In the first contracted construction 
+(ii), the contracted negative is attached to the uncontracted operator; in the 
+second contracted form, the contracted operator is attached to the subject, 
+the not being uncontracted. Generally speaking, the variant (ii) with 
+contracted negation is more common than the variant (iii) with contracted 
+verb and full negation. There are, however, exceptions to this generalization 
+in Scotland and in Northern England, where forms such as 'Ilnot seem to be 
+preferred to forms such as won't. 
+Contractions are phonologically reduced or simplified forms which are 
+institutionalized in both speech and writing. As such, they are to be 
+distinguished from cases of P H ~ N ~ L ~ G I C A L  
+REDUCTION only (eg the reduction 
+of /a:'/ to /ar/ in the pronunciation of are). A contracted form can undergo 
+additional phonological reduction, and this is very commonly the case with 
+the negative contractions, where the final /nt/ is reduced to In/; eg: haven't 
+/haevn/, isn't /xzn/. 
+Contracted forms, being enclitic to a preceding word, naturally do not 
+occur initially, eg where the operator comes at the beginning of the clause, 
+with inversion (cf 3.24). Further, being unstressed, they do not occur where 
+the operator is the only verb in the verb phrase, and precedes an ellipsis (cf 
+3.26). These two circumstances are illustrated in : 
+Will you be in tonight? 
+*'l1 you be in tonight? 
+No, but I will tomorrow night. 
+*No, but I'll tomorrow night. 
+In other positions, the contraction is favoured in informal style. The choice 
+between uncontracted is /IZ/ and contracted 'S /z/ in spoken English has been 
+found to be conditioned by the following variables, listed in order of 
+importance : 
+First, there is significant correlation of /z/ with a preceding pronoun, or 
+with the preceding words there and here, eg: 
+It's raining. 
+There's a car in the garage. 
+Here's my bus. 
+whereas the uncontracted form is associated with a preceding noun, eg: 
+The car is in the garage. 
+Second, but less important, /z/ is typical of informal and /IZ/ of formal 
+contexts. 
+Third, there is some tendency for the contracted form to be more common 
+when functioning as an auxiliary than as a main verb. 
+When these three factors of preference are combined the choice of form is 
+more predictable, ie /IZ/ is most likely when it is a main verb and follows a 
+
+
+124 Verbs and auxiliaries 
+Verbs in auxiliary function 125 
+noun in a formal context (eg: Radiation is dangerous), whereas /z/ is most 
+likely when it is an auxiliary and follows a pronoun in an informal context 
+(eg: It's getting dark). A similar pattern of choice is to be expected with other 
+verb contractions. 
+Note 
+[a] Although phonological reduction may result in pronunciations similar to those of orthodox 
+contractions, such reductions are not represented in writing if they occur outside the normal 
+conditions for contraction. For example, although the auxiliary at the beginning of Have you 
+eaten? may be reduced, in speech, to /v/ (as in /vju: 'i:tn/), this will not be written in standard 
+orthography "Ve you eaten? 
+[b] On the alternative constructions usedn't to and didn't use(d) to, c/ 3.44. 
+(c) Inversion of subject and operator 
+3.24 
+Auxiliaries, as operators, admit inversion; ie the subject noun phrase and the 
+auxiliary (the first auxiliary if there are two or more) change places, especially 
+in interrogative clauses. Compare: 
+She will come. - Will she come? 
+She plans to come. 
+*Plans she to come? 
+As with not-negation (cf 3.22) main verbs here require the use of DO (cf 3.37): 
+Does she plan to come ? 
+Inversion of subject and operator occurs not only in interrogatives but also 
+in sentences with introductory negatives or semi-negatives (cf 18.24): 
+At no time was the entrance left unguarded. 
+Note 
+[a] In addition to subject-operator inversion, there is also inversion of subject and main verb, 
+as in Down camethe rain (cf 18.23). 
+[b] Subject-operator inversion is usual not only with yesno questions, but with wh-questions. 
+There are, however, one or two formulaic wh-questions in which the subject and main verb are 
+inverted: 
+How goes it?[a greeting: 'How are you doing?] 
+How came you to miss the train? rHow did you come to. . .?] 
+What say you, Peter? ['What is your opinion?] 
+Where stand$ the Administration? 
+There tends to be p tone of archaism or mock-archaism in such questions. 
+[c] On Usedshe to come? and Didshe weld) to come?cf 3.44. 
+(d) Emphatic positive 
+3.25 
+Auxiliaries as operators can carry nuclear stress to mark a finite clause as 
+positive rather than negative: 
+Won't you try again? Yes, I W~LL try again. 
+[l] 
+You must speak to the teacher. I ~
+V
+E
+ 
+spoken to her. 
+l21 
+The function of this EMPHATIC POSITIVE use of the operator is to deny a 
+negative which has been stated or implied. On the use of DO here in assertive 
+contexts, cf 3.37,18.16: 
+You D ~ D  
+speak to her? ['I thought you didn't'] 
+You should listen to your mother. But I d  
+listen to her. 
+Sometimes the emphatic operator has no contrastive meaning, but is used 
+purely for emotive force (cf 18.56): 
+I h glad! I& wish you would  ist ten. You ~
+V
+E
+ 
+done well. 
+(e) Operator in reduced clauses 
+The reply to a question such as: 
+Won't you try again? Can you drive a car? 
+may be as indicated in [l] above: 
+Yes, I W ~ L L  try again. No. I CAN'T drive a car. 
+On the other hand, a more likely reply would be the elliptical construction: 
+Yes, I W~LL. NO, I CAN'T. 
+Auxiliaries can function as operators in a range of such reduced constructions 
+(cf 12.21j; 12.60), where the main verb is omitted either by ellipsis or by pro- 
+form substitution, and the clause is understood to repeat the content of an 
+earlier clause. The nature of this type of operator function has been captured 
+by various labels such as 'code' or 'stranding'. 
+Here we mention four types of reduced clause containing an operator 
+without a main verb, of which the first two are the most important. DO is 
+used as an 'empty' operator where the clause has no other auxiliary. 
+(i) SO/NEITHER/NOR + OPERATOR (Cf 12.29) 
+Positive : 
+Ann will stay and so will sh~bara. 
+Bill stayed and so did H B N ~ ~ .  
+Negative : 
+Ann won't stay and neither will ~ i ~ b a r a .  
+Bill didn't stay, nor did ~ i ~ r y .  
+(ii) OPERATOR + TOO/EITHER (Cf 12.59) 
+Positive : 
+Ann will stay late and Barbara  will^&, 
+Bill broke his promise, and Henry did T&. 
+Negative : 
+Ann won't eat much and Barbara won't E ~ T H ~ T .  
+Bill didn't break his promise, and Henry didn't ~inrer. 
+(iii) PREDICATION FRONTING (Cf 18.20) 
+Ann SLID she would be late, and late she WAS. 
+Bill SLID he would win the match, and win the match he D ~ D .  
+(iv) RELATIVIZED PREDICATION (cf 6.34 Note [b]) 
+Ann said she would be late, which she was. 
+Bill said he would win the match, which he did. 
+In these examples, the second auxiliary (unless it is DO) is the same as the 
+first; but there are also reduced constructions in which the two auxiliaries 
+may differ (cf 12.59, 19.45 Note): 
+Ann hoped that we would stay, but unfortunately we couldn't. 
+You should take a break whenever you can. 
+
+
+126 
+Verbs and auxiliaries 
+Verbs in auxiliary function 127 
+Note 
+3.29 
+(f) Pre-adverb position 
+Frequency subjuncts, like always or never, and disjuncts, like certainly or 
+probably, typically, but not necessarily, follow auxiliaries as operators, 
+whereas they precede main verbs. Compare: 
+She {~~~~bly}believed 
+his story. 
+She would {~~~~~bly}believe 
+that story. 
+If there is more than one auxiliary, the adverb will still generally occur after 
+the first, ie after the operator: 
+She would probably never have believed his story. 
+The position of an adverb, however, is often variable within the verb phrase 
+(cf 8.14fn. Compare: 
+would probably never have 
+never would have 
+would probably have never 
+The most important point is that such adverbs could not occur immediately 
+after the main verb except where the main verb is BE (and therefore an 
+operator) : 
+*She belieaed neverlprobably his story. 
+(Cf: 
+She was neuer/probably a taxpayer.) 
+(g) Quantifier position 
+Quantifiers like all, both, and each which modify the subject of the clause 
+may occur after the operator as an alternative, in many instances, to the 
+predeterminer position (cf 5.15f): 
+\k 
+All the boys will be there. 
+The boys will all be there. 
+Both my parents are working. - My parents are both working. 
+These quantifiers do not, however, occur after a main verb in the same type 
+of construction i 
+! 
+All our teah played well. 
+*Our team played all well. 
+Each of us owns a bicycle. 
+*We own each a bicycle. 
+But if the quantifier is placed before the main verb, these sentences become 
+acceptable : 
+Our team all played well. We each own a bicycle. 
+All, both, and each sometimes occur between subject and operator, but this is exceptional, and 
+less acceptable than the post-operator position: 
+?We both were working late. - We were both working late. 
+(h) Independence of subject 
+Compared with most main verbs, auxiliaries are semantically independent 
+of the subject. This is reflected in at least three ways. 
+First, there is a lack of semantic restrictions (cf 10.51) between the subject 
+and the auxiliary verb. Contrast: 
+The man 
+The bus 
+ought to be here at five. 
+The man 
+*The bus 1 hopes to be here at five. 
+Second, there is the possibility of construction with existential there: 
+There wed 
+to be a school on the island. 
+*There hoped 1 
+Third, if other conditions are met for the active-passive correspondence (eg 
+if the verb is transitive, cf 3.67m, auxiliaries usually admit the change from 
+one voice to the other without change of meaning: 
+Thousands of people will meet the president. 
+= The president will be met by thousands of people. 
+Compare the situation in which a full verb occurs as first (finite) verb: 
+Thousands of people hope to meet the president. 
+# The president hopes to be met by thousands of people. 
+These criteria for independence are, however, not infallible. For example, in 
+some contexts some auxiliaries fail the active-passive test (cf 3.72), and there 
+are also some verbs which by other criteria are not auxiliaries, but which 
+pass this test.-These verbs $11 be considered later (3.47m under the headings 
+of semi-auxiliary and catenative verbs. 
+Additional features of modal auxiliary verbs 
+3.30 
+The criteria (a-h) discussed so far help to define auxiliaries as a functional 
+class, but it must be remembered that all of them except (h) apply to operators 
+in general, and therefore apply also to BE and (sometimes) HAVE as main 
+verbs. Now we add the following morphological and syntactic criteria which 
+apply specifically to modal auxiliary verbs, as distinct from the primary verbs 
+BE, HAVE, and DO. 
+(j) Construction with the bare infinitive 
+Modal auxiliaries are normally followed by the infinitive, which is bare (ie 
+the base form of the verb alone) except with used (cf 3.44) and (usually) ought 
+(cf 3.43), verbs which for this reason, as well as for others, are somewhat 
+marginal to the class of modals. Compare: 
+You will be asked questions. BUT: You ought to comb your hair. 
+They might have stolen it. 
+BUT: He used to read for hours. 
+it 
+(On the marginal modal auxiliaries dare and need, cf 3.42.) 
+(k) Finite functions only 
+Modal auxiliaries can only occur as the first (operator) element of the verb 
+phrase. They cannot occur in nonfinite functions, ie as infinitives or 
+
+
+128 Verbs and auxiliaries 
+participles, and as a consequence of this can occur only as first verb in the 
+verb phrase: 
+MODAL VERB 
+PRIMARY VERB 
+FULL VERB 
+*to may 
+to have 
+to eat 
+*(is) maying 
+(is) being 
+(is) eating 
+*(has) mayed 
+(has) been 
+(has) eaten 
+The primary verbs have the full range of nonfinite forms, but not all of these 
+forms can be used in auxiliary function. For BE, all three nonfinite forms can 
+be auxiliaries: be, being, been; HAVE has no -ed participle in auxiliary function, 
+but only haue and having. 'Dummy' auxiliary DO, like the modal auxiliaries, 
+can only occur as an operator, and the nonfinite forms of DO, (to) do, doing, 
+and done, are constructed only as main verbs. 
+(l) 
+No 3rd person inflection 
+Modal auxiliaries are not inflected in the 3rd person singular of the present 
+tense; ie, they have no -S form: 
+You must 
+She must write. 
+BUT: She likes 
+In contrast, the primary verbs do have an -S form, but it is irregular (cf 
+3.31fl. 
+(m) ~bnormai time reference 
+Not only the present forms, but the past forms of the modal auxiliaries can 
+be used to refer to present and future time (often with hypothetical or 
+tentative meaning) : 
+I think he maylmight retire next May. 
+Will/would you phone him tomorrow? 
+Contrast: 
+, 
+*I think he retired next May. 
+*Did you phone him tomorrow? 
+Also modal auxiliaries which do not have a distinct past form (eg: must, need, 
+ought) can be uaed to refer to the past in indirect speech: 
+I told him 'he must be home early. ['. . . had to be'. . .'] 
+Note 
+[a] The use of past forms to refer to present and future time is also possible with full verbs, but 
+only in some special constructions: eg in hypothetical gelauses (cf 14.23.15.35f): 
+If you phoned ['were to phone'] me tomorrow, I could help you straight away. 
+[b] In dialectal use (eg Scots English, Tyneside English, and Southern AmE), there are varieties 
+of popular speech in which one modal auxiliary can follow another: He might could come ['He 
+might be able to come'] etc. 
+The primary verbs EE, HAVE, and DO 129 
+The primary verbs BE, HAVE, and DO 
+3.31 
+Having discussed auxiliary verb criteria, we can now consider the special 
+morphological and syntactic characteristics of verbs which can function as 
+auxiliaries: first the primary, and second the modal verbs. 
+Semantically, the primary verbs as auxiliaries share an association with 
+the basic grammatical verb categories of tense, aspect, and voice (cf 3.63, 
+4.2,4.17). In this they are broadly distinguished from the modal verbs, which 
+are associated mainly with the expression of modal meanings such as 
+possibility, obligation, and volition (cf 4.42fn. But first, we examine these 
+primary verbs from a formal point of view. 
+BE 
+3.32 The verb BE is a main verb (with a copular function; cf 2.16) in: 
+Ann is a happy girl. ' Is that building a hotel? 
+But BE also has two auxiliary functions: as an aspect auxiliary (Type C, 3.55): 
+Ann is learning Spanish. 
+The weather has been improving. 
+and as a passive auxiliary (Type D, 3.55): 
+Ann was awarded a prize. 
+Our team has never been beaten. 
+BE is unique in having a full set of both finite and nonfinite forms in auxiliary 
+function;.it is also unique among English verbs in having as many as eight 
+differeniforms, cf Table 3.32 on the next page. In the nonnegative column of 
+Table 3.32 the unstressed pronunciations (with vowel reduction) are given 
+after the stressed pronunciation, where they differ. 
+Note 
+[a] BE is the only verb in English to have a special form for the 1st person singular of the present 
+(am) and two distinct forms of the past tense (wos, were). In the subjunctive, however (cf 3.58f). 
+the form was does not occur. 
+[b] Ain't is a nonstandard contraction commonly used (esp in AmE) in place of am not, isnor, are 
+not, hasnot, and haue not. 
+[c] There is no completely natural informal contraction of am Inot (parallel to isn't she for is she 
+not) in negative sentences. (On the position of not in negative questions, cf 11.7.) Aren't I is 
+widely used, especially in BrE, whereas ain't I, usually considered nonstandard, is somewhat 
+more current in AmE than in BrE. Amn't I is mainly Scottish and Irish. 
+[d] The following BrE example (of marginal acceptability) shows that it is possible for aren'r to 
+act as a contracted form of am not even in declarative contexts: 
+HB wkn't and i probably aren't ~ 6 ~ m a l l y .  
+Here the substitution of aren't seems to have resulted from a desire for parallelism with the 
+preceding occurrence of wasn't. 
+[e] Phonologically, the contracted 'S ending /S/ or /z/ cannot occur after a sibilant consonant. 
+Hence Your place is ouer there cannot become in writing 'Your place's ouer there. Compare the 
+conditions for the pronunciation of the -S form of regular verbs (cf 3.9, and contrast the 
+contraction following a nonsibilant: 
+your p 
+is /~lemz/] 
+seat's /si:ts/ 
+there. 
+Other conditions on the use of the contraction 'S in place of is are discussed in 3.23. 
+
+
+130 Verbs and auxiliaries 
+Table 3.32 Forms of BE 
+NONNEGATIVE 
+UNCONTRACTED CONTRACTED 
+NEGATIVE 
+NEGATIVE (cf Note) 
+base 
+be lbi:/, /bl/ 
+present 
+1st person 
+am lam/, lam1 
+am nor, 
+(aren't) 
+singular present 
+'m /m/ 
+'m not 
+3rd person 
+is /rz/ 
+is not, 
+isn't /'rzqt/ 
+singular present 
+'S /z/, /S/ 
+'S not 
+2nd person 
+present, 1st 
+are /a:r/ 
+are not 
+aren't /a:'nt/ 
+and 3rd person 
+'re /ar/ 
+'re not 
+ulural present 
+past 
+1st and 3rd 
+was /w~z/. /w(a)z/ 
+loos not 
+wasn't /'w~zqt/ 
+person 
+singular past 
+2nd person past 
+l st and 3rd 
+person plural 
+were /~3:~/, 
+/war/ 
+were not 
+weren't /ws:'nt/ 
+past 
+-ing form 
+being /'bi:~g/ 
+not being 
+- 
+-ed participle 
+been /bi:n/, /bin/ 
+not been 
+NOTE The final It/ of the negative contraction is commonly not sounded. 
+HAVE 
+I 
+\ 
+3.33 
+HAVE functions both as an auxiliary and as a main verb. As an auxiliary for 
+perfective aspect (cf 4.18fn, HAVE combines with an -ed participle to form 
+complex verb phrases: 
+I have finished. 
+What has she bought? 
+They may have been eaten. 
+As a main verb, it normally takes a direct object, and has various meanings 
+such as possession: I have no money; They had two children; etc (cf 3.34). The 
+different forms of HAVE are shown in Table 3.33 opposite. 
+In negative constructions we have the following three variants: 
+I have not seen her. 
+(typical of written discourse) 
+. - 
+(typical of spoken discourse) 
+I've not seen her. 
+Of the contracted forms, the haven't type is generally more common than the 
+'ue not type. As an -ed participle, had is restricted to use as a main verb, as in 
+The primary verbs BE, HAVE, and DO 131 
+Have you had lunch?, or to use in the HAVE to construction, as in They have 
+had to sell their car. 
+Note 
+Phonologically, the 'd contraction cannot occur after It/ or Id/: if we encounter the written form 
+'d in such contexts (eg: It'd been damaged), this must be understood to represent the syllabic 
+reduced form /ad/. Compare a similar restriction in 3.32 Note [e]. 
+Table 3.33 Forms of HAVE 
+NONNEGATIVE 
+UNCONTRACTED 
+CONTRACTED 
+NEGATIVE 
+NEGATIVE (cf Note) 
+base 
+haw /hav/, /(h)av/ 
+F w  not 
+'ve /v/ 
+ue not 
+haven't /'havqt/ 
+-S form 
+has /haz/, /(h)az/ 
+has not 
+'8 lzl. Is/ 
+'S not 
+hasn't /'haz?t/ 
+past 
+had /hied/, /(h)ad/ 
+had not 
+'d /d/ 
+'d not 
+hadn't /'hcdqt/ 
+-ing form 
+having /'hsvn)/ 
+not having 
+-ed participle 
+had /hied/, /(h)ad/ 
+NOTE The final It/ of the negative contraction is commonly not sounded. 
+HAVE as main verb 
+3.34 When used as a main verb with stative meaning (cf 4.4), HAVE shows syntactic 
+variation in that it not only combines with DO-support in forming 
+constructions with an operator (cf 3.37): 
+We don't have any money. Do you have a lighter? 
+but also acts as an operator itself in constructions such as: 
+We haven't any money. 
+Have you a lighter? 
+This latter construction, although it is the traditional construction in BrE, is 
+now somewhat uncommon, particularly in the past tense: ?Hadshe any news? 
+There is also the informal HAVE got construction (cf 3.45), which although 
+perfective in form is nonperfective in meaning, and is frequently preferred 
+(esp in BrE) as an alternative to stative HAVE: 
+John has courage. 
+= John hasgot courage. 
+It is particularly common in negative and interrogative clauses. To express 
+some stative senses we can thus have three alternatives: 
+(a) We haven't 
+(c) We don't have 
+{(a) Have you } 
+{(a) No, I haven't.} 
+Relationship: (b) Have you got any brothers? 
+(b) No, I haven't. 
+(c) Do you have 
+(c) No, I don't. 
+
+
+132 Verbs and auxiliaries 
+a headache any longer. 
+(c) I don't haue 
+Of these alternatives, (a) is esp BrE (more formal); (b) is esp BrE (informal) ; 
+(c) is AmE (and also common in BrE nowadays). 
+Note 
+[a] A further alternative for expressing negation is of course a negative determiner or pronoun: 
+We how no butter (cf 5.13,6.62). 
+[b] On HAVB to compared with mvegot to, cf 3.48. 
+[C] In informal English hosgot, hovegot, and hadgot may be reduced to 'sgot, 'uegot, and 'dgot. 
+In very informal English, 'uegot may be further reduced togot: 
+What you got there? I got something nice for you. 
+In its written form, this omission of the auxiliary is nonstandard. 
+3.35 
+In dynamic senses (cf 4.4) such as 'receive', 'take', 'experience', and in idioms 
+with an eventive object (eg: have breakfast = 'eat breakfast'), HAVE (in both 
+AmE and BrE) normally has m-support, and HAVE got is not possible: 
+A: Does she have coffee with her breakfast? 
+B : Yes, she does. 
+A: Did you have any difficulty getting here? 
+B : No, I didn't. 
+A : Did you have a good time in Japan? 
+B : Yes,, we certainly did. 
+Other dynamic uses include HAVE in a causative sense followed by an -ed 
+participle, or in a similar sense followed by a bare infinitive: 
+A: Did they have the house painted? 
+B: No, they didn't. 
+A: Did they have you paint the house? 
+B : Yes, they did. 
+'\ 
+Note 
+[a] Note the following contrast between stative and dynamic meaning: 
+Hod she got her baby at the clinic? ['Was her baby at the clinic with her?'] 
+Did she haue her baby at the clinic? ['Did she give birth to her baby at the clinic?'] 
+Especially in AmE, the second sentence could have both of these meanings. 
+[b] Since HAVE with the XI construction is typically dynamic, in the present tense it tends to 
+single out a habitual interpretation (c/ 4.6). Compare: 
+Do you have bad headaches? [normally habitual: 'as a rule'] 
+Haue you got a bad headache? [nonhabitual: 'now, at this moment'] 
+Houe you got bad headaches? [This could only be addressed to more than one person in a 
+nonhabitual sense.] 
+DO 
+3.36 
+DO, like BE and HAVE, can be both an auxiliary and a main verb. As an 
+auxiliary, DO has no nonfinite forms, but only present and past forms, cf 
+Table 3.36 opposite. 
+Note 
+Occasionally does is contracted in informal style to 'S Is/; eg: What's it matter? A more drastic 
+kind of phonological reduction is indicated by the following (nonstandard) orthographic 
+rendering of informal speech : 
+Wliyncliodo it yourself?['Why don't you. . .?l 
+The primary verbs BE, HAVE, and DO 133 
+Table 3.36 Forms of DO 
+NONNEGATIVE 
+UNCONTRACTED CONTRACTED 
+NEGATIVE 
+NEGATIVE (C/ Note) 
+base 
+do /du:/, /du/, /da/ 
+do not 
+don't /daunt/ 
+-S form 
+does /dez/, /daz/ 
+does not 
+doesn't /'dezgt/ 
+past 
+did /d~d/ 
+did not 
+didn't /'d~dqt/ 
+-ing form 
+doing /'du:~rj/ 
+(main verb only) 
+-ed participle 
+done /den/ 
+(main verb only) 
+NOTB The final It/ of the negative contraction is commonly not sounded. 
+00-support 
+3.37 
+The term DO-SUPPORT (or 'W-periphrasis') applies to the use of DO as an 
+'empty' or 'dummy' operator (cf 2.49) in conditions where the construction 
+requires an operator, but where there is no semantic reason for any other 
+operator to be present. All uses of DO as an auxiliary come under this heading. 
+The main ones are : 
+(a) In indicative clauses (cf 3.52) negated by not, where the verb is simple 
+present or simple past: 
+She doesn't want to stay. 
+I didn't like mathematics at school. 
+Negative imperative clauses introduced by Do not or Don't may, with some 
+reservation (cf 11.30, Note [a]), be placed in the same category. 
+(b) In questions and other constructions involving subject-operator inver- 
+sion, where the verb is in the simple present or past tense: 
+Did he stay late? What do they say? Does it matter? 
+This category includes tag questions (cf 11.8fn and other reduced questions 
+where the dummy operator is not accompanied by a main verb: 
+He knows how to drive a car, doesn't he? 
+They didn't make any mistakes, did they? 
+I don't like him, do you? 
+It also includes inversion after an initial negative element: 
+Never did he think the book would be finished so soon. 
+(c) In emphatic constructions where the verb is simple present br simple 
+past (cf emphatic positive constructions, 3.25): 
+They "do want you to come. 
+Michael "did say he would be here at nine, didn't he? 
+Here we may also include the 'persuasive imperative' introduced by do: 
+
+
+134 Verbs a n d  auxiliaries 
+"Do sit down! "Do be quiet. 
+A: May I sit here? B: Yes, by all means ~ 6 .  
+(See, however, 11.30 Note [a] on the dubious status of DO as operator in this 
+construction.) 
+(d) In reduced clauses, where DO acts as a dummy operator preceding ellipsis 
+of a predication (12.60): 
+Mary reads books faster than I do. [do = 'read books'] 
+Did you watch the game on television? No, but my brother did. 
+['. . . watch the game on television'] 
+Note 
+[a] There is no W-support for negation in nonfinite clauses, where not precedes a full verb as 
+main verb: 
+Not liking mathematics, he gave it up. 
+Not togo to the exhibition would be a pity. 
+There is also normally no msupport for subjunctive verbs (cf 3.58): 
+It is important that this mission nor fail. 
+[bl Negative words other than not do not require W-support: 
+No one liked him. 
+They never/seldom go out. 
+[c] Nor is there any W-support in questions without inversion, ie questions with the normal S V 
+O/C/A order (cf l 1.12, 11.15): He said that? Who camefirst? 
+[d] Auxiliaries have no msupport, since they themselves perform the function of operators (cf 
+3.21). Thus DO does not precede other auxiliaries: 'She doesmust come. There is a rare exception, 
+however, where Do or Don't precedes auxiliary BE in imperatives (cf 11.30 Note [a]): Don't be 
+drinking wine when he calls; Don't bejiightened by that noise. 
+[el In some legal documents in archaic style, the auxiliary oo construction is used merely as an 
+alternative to the simple present or past tense: 
+I, the undersigned, being of sound mind, do this day hereby bequeath. . . 
+DO as main verb 
+3.38 
+When used as a main verb, DO has the full range of forms, including the -ing 
+participle doing and the -ed participle done: 
+, 
+What have you been doing today? 'I haven't done much, I'm afraid. 
+As a main verb, DO can combine with a pronoun object to act as a pro- 
+predication referring to some unspecified action or actions. The pronoun 
+object may be personal (it), demonstrative (thislthai), interrogative (what), or 
+indefinite (nothinglanything, etc): 
+I have been meaning to mend that radio, but I haven't done it yet. 
+(cf 12.25) 
+A: I'm throwing these books away. B: Why are you doing THAT? 
+A: What have they been doing to the road? B: Widening it. 
+A: What have you done with my pen? B: I've put it in the desk. 
+A : What did you do on holiday? B : We didn't do anything. 
+I didn't know what to do, so I did nothing. 
+See also the use of DO in pseudo-cleft sentences (18.29). DO is also used 
+intransitively as a pro-predication (cf 12.22); 
+She didn't earn so much as she might have (done). (esp BrE) 
+Modal auxiliaries 
+135 
+Apart from these uses as a pro-form, the main verb DO has a wide range of 
+uses as a general-purpose agentive transitive verb, especially in informal 
+speech: 
+Let's do the dishes -you wash and I'll dry. 
+[l1 
+Who does your car? Fred Archer - and he does my neighbour's 
+too. 
+[21 
+She's done some really good essays - and she always hands them 
+in on time. 
+131 
+DO in such sentences is often replaceable by a verb of more exact meaning; 
+eg in [2] SERVICE or MAINTAIN, and in 131 WRITE. The meaning is narrowed 
+down by the nature of the object: eg in Will you do the potatoes?, DO could 
+mean 'peel' or 'cook', but scarcely 'polish', a meaning it might have in Have 
+you done the silver? 
+Note 
+There is also a resultative use of done meaning 'cooked': Is the nleot done? 
+Modal auxiliaries 
+3.39 The criteria for identifying modal auxiliaries have been discussed in 3.228, 
+and especially 3.30. Not all verbs respond to all criteria, however, and it is 
+useful to make a distinction between central and marginal modals. We will 
+discuss the marginal modals and other verbs of intermediate status in 3.40ff, 
+and we will discuss the meanings of the modal auxiliaries later (4.49fn. 
+All that needs to be said about the form of the central modals is stated in 
+Table 3.39 and the accompanying Notes. The Table gives the contracted 
+Table 3.39 Forms of the modal auxiliary verbs 
+NONNEGATIVE 
+UNCONTRACTED 
+CONTRACTED 
+NEGATIVE 
+NEGATIVE 
+can /km, kan/ 
+cannot, 
+can't /ka:nt/ (BrE), 
+(can not: cf Note [b]) 
+/kaent/ (AmE) 
+could /kud, kad/ 
+could not 
+couldn't /'kudqt/ 
+may /me11 
+may not 
+might /mart/ 
+might not 
+(mayn't /me~nt/ cf 3.23) 
+mightn't /'martqt/ 
+(shan't /Ja:nt/ (BrE) cf 3.23) 
+shouldn't /'Judqt/, /'Jadpt/ 
+will not 
+won't /waunt/ 
+'11 not 
+(cf Note [c]) 
+would not 
+wouldn't /Iwudnt/ 
+'d not 
+(cf Note [cl) 
+must /m~st, mast/ 
+must not 
+mustn't /'m~spt/ 
+(Unstressed pronunciations with vowel reduction are placed after the stressed pronunciations. 
+Rare forms are placed in parentheses.) 
+
+
+136 Verbs and auxiliaries 
+negative form, and also the pronunciation of both stressed and unstressed 
+forms. 
+Semantic aspects of the negation of modal auxiliaries are examined in 
+10.671: 
+Note 
+[a] The words braced together can for some purposes be regarded as present and past forms of 
+the same verb. But for other purposes, they behave as independent verbs (cf4.59). 
+[b] The spelling of can not as two words is unusual: it occurs where main verb negation (cf 
+l0.67/) is intended, or where special emphasis onor separation of the negative word is required; 
+eg: 
+Can you not interrupt, please. 
+Can 1 not help you? 
+He says we can manage when we can certainly not. 
+[c] There are obviously no contracted forms of 'I1 and 'd since they are themselves contractions. 
+These forms are braced with willand would because '/land 'd canalways be expanded to lvill and 
+~vould (except, of course, when 'd = had, cf 3.33). 
+[d] Regarding the frequency of the modal auxiliaries, the following findings, based on studies of 
+the SEW, Brown and LOB corpora, are of significant interest: 
+(a) The frequency of individual modals varies greatly from will (four times per thousand in 
+spoken BrE) to shall (three times per ten thousand words in written English). The marginal 
+modals ought lo, need,and dare are in their turn strikingly less frequent than shall. 
+(b) The modals as a whole are much more frequent in spoken than in written English. 
+(C) Will, can, and their past forms ~vouldand couldare notably more frequent than other modals. 
+(d) Among less frequent modals, should, shall, and ought to are even less frequent in AmE than 
+in BrE. 
+verbs of intermediate function 
+3.40 
+In the following sections we examine verbs whose status is in some degree 
+intermediate between auxiliaries and main verbs. These form a set of 
+categories which may be roughly placed on a gradient between modal 
+auxiliaries at one end, and full verbs, such as hope, which take a nonfinite 
+clause as object, at the other. The extremes of the scale may therefore be 
+represented by I can go and I hope togo, cf Fig 3.40a opposite. 
+The structuql implication of this scale is that the construction (a) I can go 
+contains one vetb phrase, whereas the construction (f) I hope to go contains a 
+finite verb phrase followed by a nonfinite one. This distinction will be further 
+discussed in 3.57. Semantic aspects of the scale may also be noted (cf 4.66); 
+many of the intermediate verbs, particularly those at the higher end of the 
+scale, have meanings associated with aspect, tense, and modality: meanings 
+which are primarily expressed through auxiliary verb constructions. Our 
+principal task, however, is to distinguish these classes by formal criteria, 
+while making any semantic observations that may be useful. 
+The criteria which will provide the framework for this analysis are those 
+which were used in identifying the class of auxiliaries in 3.22ff. There are 
+eight criteria for auxiliaries, and four criteria which more narrowly apply to 
+the central modal auxiliaries. They are summarized in Table 3.40b opposite, 
+together with illustratively contrasting examples. 
+(one 
+verb 
+phrase) 
+Verbs of intermediate function 137 
+(a) CENTRAL MODALS 
+can, could, may, might, shall, 
+should, will/'ll, wouldl'd, must 
+(cf 3.39) 
+(b) MARGINAL MODALS 
+dare, need, ought to, used to 
+(cf 3.418) 
+(c) MODAL IDIOMS 
+had better, would ratherlsooner, 
+BE to, HAVE got to, etc 
+(cf 3.45fl 
+(d) SEMI-AUXILIARIES 
+HAVE to, BE about to, BE able to, 
+BE bound to, BE going to, BE 
+obliged to, BE supposed to, BE 
+willing to, etc 
+(cf 3.47j) 
+(e) CATENATIVES 
+APPEAR to, HAPPEN 10, SEEM to, 
+GET + -ed participle, KEEP + -ing 
+participle, etc 
+(cf 3.49) 
+(two 
+(f) MAIN VERB + 
+HOPE + to-infinitive, 
+verb 1 
+nonfinite clause 
+BEGIN + -ing participle, etc 
+(cf 16.38fl 
+phrases) 
+Fig. 3.40a The auxiliary verb - main verb scale 
+1 
+Table 3.40b Criteria for auxiliary verbs 
+AUXILIARY CRITERIA 
+(OD = overator) 
+AUXILIARY 
+MAIN VERB 
+(a) Op in negation 
+He cannot go. 
+*He hopes not to go. 
+(cf Note) 
+(b) Negative contraction 
+can't 
+*hopen't 
+(c) Op in inversion 
+Can we go? 
+*Hope we to go? 
+(d) Emphatic positive 
+*Yes, I DO can come. 
+Yes, I DO hope to come. 
+(e) Op in reduced clause 
+I can come if you can. 
+*I hope to come if you 
+hope. 
+(f) Position of adverb 
+We can always go early. 
+We always hope to go 
+early. 
+(g) Postposition of 
+They can aN come. 
+?They hope aN to come. 
+quantifier 
+[?They allcan come. [ 
+They all hope to come. 
+(h) Independence of 
+Ann can do it. - 
+He hopes to do it. 
+subject 
+It can be done by Ann. 
+*It hopes to be done by 
+him. 
+MODAL AUXILIARY CRITERIA 
+MODAL AUXILIARY 
+MAIN VERB 
+(j) Bare infinitive 
+I can go. 
+*I hope go. 
+(k) No nonfinite forms 
+*to can/*canning/*canned 
+to hopelhopinglhoped 
+(I) 
+No -S form 
+'She cans come. 
+She hopes to come. 
+(m) Abnormal time 
+You could leave this 
+You hoped to leave this 
+reference 
+evening. [not past 
+evening. [past time] 
+time] 
+NOTE He hopesnot togo is acceptable in the sense 'He hopes that he will not go'; but this is then 
+a case of the negation of togo, not of hopes (cf3.22 Note [a]). 
+
+
+138 Verbs and auxiliaries 
+Verbs of intermediate function 139 
+Marginal modals: dare, need, ought to, and used to 
+3.41 
+G i v e n  that i n  the above table modal auxiliaries are positive for all criteria, 
+where m a i n  verbs like hope are negative, the marginal modals are verhs 
+which closely resemble the central modal auxiliaries. It can be argued, 
+indeed, for dare and need that these are proper modals, but that for each 
+there is also a homomorphic verb (DARE, NEED) constructed as a m a i n  verb 
+(cf, however, 3.42 Note [b]). Ought, too, may be treated as a central modal if 
+speakers construct it with the bare infinitive (cf 3.43 Note [a]). 
+dare and need 
+3.42 
+Dare and need can be constructed either as m a i n  verbs (with to-infinitive and 
+w i t h  inflected -S, -ing and past forms), or, under restricted conditions, as 
+modal auxiliaries (with the bare infinitive and without the inflected forms). 
+Table 3.42 
+MODAL AUXILIARY 
+MAIN VERB 
+CONSTRUCTION 
+CONSTRUCTION 
+Positive 
+He neededldared to escape. 
+Negative 
+H e  needn'tldaren't escape. 
+He doesn't needldare to escape. 
+Interrogative 
+NeedlDare we escape? 
+Do we needldare to escape? 
+Negative- '{ 
+Needn't he escape 
+Doesn't he need to escape 
+after all? 
+after all? 
+interrogative 
+Dare he not escape? 
+Doesn't he dare to escape? 
+The modal construction is restricted to nonassertive contexts (cf 2.53), ie 
+mainly negative and interrogative sentences, whereas the m a i n  verb 
+c o n s t n ~ c t i o n  can almost always be used, and is in fact more common. The 
+auxiliary construction with dare and need is rarer i n  AmE than i n  BrE, where 
+it is also quite rare. 
+As a modal, d a r e  exhibits abnormal t i m e  reference (cf 3.30) i n  that it can 
+be used, without inflection, for past as well as present time: 
+The king was so hot-tempered that no one dare tell h i m  the bad news. 
+The m a i n  veri form dared (to) might also occur here. 
+Note 
+[a] 'Nonassertive contexts* are not confined to negative and interrogative clauses: they also 
+include clauses containing semi-negative words such as hardly and only. The following examples 
+illustrate sentences with negative import, but lacking not-negation: 
+No one dare predict the results. 
+Standards are lower than they need be. 
+For further illustrations and discussion of this topic, cf10.61. 
+[b] Blends between the auxiliary construction and the main verb construction occur and seem to 
+be widely acceptable (more so in the case of dare than in that of need): 
+They do not dare ask for more. 
+Do they dare ask for more? 
+These two examples combine the m-support of the main verb construction with the bare 
+infinitive of the auxiliary construction. On the hypothesis that there are two different verbs (the 
+main verb DARE and the auxiliary verb dare), one would expect these to be ungrammatical; but 
+they are not. The past tense form dared without m-support may be regarded as another example 
+of a blend, since the -edpast inflection is not characteristic of modal verbs: 
+They darednot carry out their threat. 
+Blends with need are usually of the type with -S inflection and bare infinitive: ?One needs only 
+reflectfir a second. . . 
+[c] Dare occurs (with nuclear stress) in the following idiomatic constructions expressing a 
+threatening rebuke: 
+How D
+~
+E
+ 
+you do such a thing? 
+Don't you DARE speak to me like that. 
+The latter example, with D O - S U ~ ~ O ~ ~  
+and a bare infinitivespeak, is another example of a blend. 
+[dl In another formulaic construction, I dare say followed by a that-clause. the two verbs are 
+often written as a single word daresay: 
+I daresay she is right. ['I wouldn't be surprised if. . .'] 
+The normal sense of dare is lost here. 
+[el As main verbs, DARE and NEED can enter into a number of different constructions (cf 16.26, 
+16.39.16.50). Thus, NEED can take a direct object: 
+You need a haircut. 
+As is to be expected, NEED and DARE as main verbs have to be replaced by m in reduced clause 
+constructions: 
+She needs to practise and so do I. 
+They didn't dare to attack us, did they? 
+[fl As a modal auxiliary, need has no tense contrast. To express past time, however,.we can place 
+need before the perfective aspect (cf4.18A): You neednot havedoneit. This is then approximately 
+equivalent to the past tense  NE NEED as a main verb: You did not need to do it. But the NEED to 
+construction does not have the counterfactual implication of the need have. . . construction. For 
+instance, in the following the counterfactual meaning is inappropriate, and we could not 
+therefore replace did not need to say by neednot haue said: 
+Anne was too nervous to reply, but fortunately she didnot need to say anything. 
+[g] As an auxiliary, dare usually fails the independence of subject criterion (h) in 3.29. There is 
+no semantic equivalence between the active The boy doren't contact her and the passive She 
+daren't be contacted by the boy. One meets, however, exceptions such as This is a problem which 
+dare not be overlooked. 
+[h] Further to Note [b] above, results of elicitation experiments indicate a higher acceptance 
+rate for blends with AmE than with BrE speakers. This can be interpreted in twoopposite ways: 
+we can argue either that blends are more common in AmE, or that dare and need are such 
+unusual verbs in AmE in these constructions, that speakers do not react critically to blends, but " 
+rather display passive acceptance of them. The latter interpretation (which has also been 
+advanced for blends with another marginal auxiliary, ought to, 43.43) is supported by frequently 
+introduced lexical changes such as the following: 
+Submitted sentence: 
+Needn't he go? 
+Doesn't he haue to go? 
+Shouldn't he go? etc 
+ought to 
+3.43 
+Ought to /o:t tu:/, /3:t (t)a/, has the uncontracted negative ought not to and the 
+contracted negative oughtn't to. It normally has the to-infinitive (although 
+occasionally i n  familiar style the bare infinitive occurs i n  nonassertive 
+contexts): 
+Y o u  ought to stop smoking. 
+Y o u  oughtn't to smoke so much. 
+Ought you to smoke so much? 
+The to is also optional following ought in ellipsis: Yes, I think Iought (to). On 
+the meaning o f  ought to, cf 4.56. 
+Note 
+[a] Elicitation tests on young people have shown that, for both AmE and BrE, in nonassertive 
+contexts the to-less ought construction is widely acceptable, and for some speakers even 
+preferable to the construction with to in nonassertive contexts; eg: 
+They ought not (to) do that sort of thing. 
+Ought we (to) haue done it? 
+Oug/~m't we (to) send for the police? 
+
+
+140 Verbs and auxiliaries 
+In assertive contexts, however, the to-less form is unacceptable: 
+~ e { * ~ ~ ~ : ~ ) g i v e  
+him another chance, 
+. -  
+* 
+[b] Treating ought as a main verb with Emsupport, which is usually described as a dialectal 
+usage, proved to be the least popular alternative in a test with BrE teenage informants: 
+They didn't ought to do that sort of thing. 
+Did we ought to have done it? 
+However, the existence of this construction, even if it is not part of standard English, is an 
+indicator of the marginal status of ought to which, like the other marginal modals, shows some 
+tendency to pattern as a main verb. More generally, such results reflect change and uncertainty 
+in the use of certain modals which, from a historical viewpoint, are in decline. 
+used to 
+3.44 
+Used to denotes a habit or a state that existed in the past (cf4.15), and is 
+therefore semantically not so much a modal auxiliary as an auxiliary of tense 
+and aspect. In formal terms, however, it fits the marginal modal category. 
+It always takes the to-infinitive and only occurs in the past tense: 
+She used to attend regularly. ['was in the habit of attending. . .'l 
+I used to be interested in bird-watching. ['I was formerly. . .'l 
+It is typically pronounced /'ju:stu:/ or /?u:stu/ before vowels or before an 
+ellipsis, and /Iju:sta/ before consonants. 
+Used to occurs both as an overator and with DO-suovort. In the latter case 
+the spellings use to and used to-both occur, reflecting speakers' uncertainty of 
+the status of this verb: an uncertainty, that is, as to whether it is to be treated 
+. 
+- 
+as an invariable form, like a modal auxiliary; or as a form with an infinitive, 
+like a full verb. The pronunciation of the verb does not allow discrimination 
+between these possibilities. In the negative, the operator construction, which 
+avoids this dilemma, is preferred by many in BrE: 
+He usen't to smoke. 
+He used not to smoke. 
+He didn't use to smoke. 
+He didn't used to smoke. } ( B ~ E  
+aid A ~ E )  
+The construction did . . . use to is preferred to other constructions in both 
+AmE and BrE. The spelling did. . . used to, however, is often regarded as 
+nonstandard. The interrogative operator construction used (he) to is rare 
+even in BrE. Tag questions also normally have DO-support; compare: 
+Did he use to smoke? He used to smoke, didn't he? 
+Note 
+[a] Used to + infinitive should be distinguished from used to + noun phrase or -ing participle 
+clause: 
+/I@ in the country. 
+~heisusedto{~. 
+ruing 
+, in the country 
+In this latter construction, although it has the same pronunciation as the marginal modal, used 
+to is in fact a participial adjective followed by the preposition to ['accustomed to. . .'](c/ 16.69 
+Note [all. 
+[b] A perfective form of used to, had used to, is occasionally attested. 
+[c] There is a tendency for speakers to avoid the problem of negating used to by employing the 
+negative adverb never: I never used to watch teleuision. 
+Verbs of intermediate function 
+141 
+Modal idioms: hadbetter, etc 
+3.45 
+This category contains the following four multi-word verbs, as well as some 
+less common verbal constructions: 
+had better would rather 
+HAVE got to 
+BE to 
+They all begin with an auxiliary verb, and are followed by an infinitive 
+(sometimes preceded by to): 
+We (F} 
+better leave soon. Yes, we / E ~ t t e r . I  
+J 
+\ 
+I'd rather not say anything. 
+l21 
+They've got to leave immediately. 
+[31 
+The conference is to take place in Athens. 
+141 
+None of these idiomatic verbs has nonfinite forms; they cannot therefore 
+follow other verbs in the verb phrase: 
+*I will have got to leave soon. 
+*The conference has been to take place in Athens. 
+In this respect they are not like main verbs. They are not, however, entirely 
+like auxiliaries, since they do not behave as operators. It is normally the first 
+word alone which acts as operator in (for example) negative and interrogative 
+sentences : 
+Hadn't we better lock the door? 
+Would you rather eat in a hotel? 
+We haven't got to pay already, have we? 
+' 
+I wasn't to know that you were waiting. 
+However, had better and would rather have two kinds of negation. First, there 
+is a negation in which not follows the whole expression: 
+I'd rather not stay here alone. 
+You'd better not lock the door. 
+A second type of negation, in which not follows the first word, is typically 
+used in 'second instance' contexts (especially in negative questions) where an 
+earlier statement or assumption is being challenged: 
+A: Wouldn't you rather live in the country? 
+B: No, I would not. I'd rather live here. 
+The two kinds of negation are sometimes associated with different meanings, 
+the former being an instance of predication negation (cf 10.69): 
+Had we better not go? ['Would it be advisable if we didn't go?'] 
+Hadn't we better go? ['I think we had better go; don't you agree?] 
+The contracted verb form followed by not is unacceptable with these two 
+idioms: 
+*I'd not rather leave. *You'd not better resign. 
+1 
+Would rather differs from central modals and marginal modals in that it is 
+
+
+142 Verbs and auxiliaries 
+incapable of showing active-passive synonymy: 
+I'd rather rent the cottage. *The cottage would rather be rented by 
+me. 
+On the other hand, HAVE got to and BE to are more like main verbs in that 
+they have an -S form and normal presentlpast tense contrast: 
+is to meet today. 
+The 
+{W to meet yesterday. 
+She { hasgot to leave by tomorrow. 
+hadgot to leave by the next day. (BrE) 
+The past tense construction hadgot to, however, does not occur in AmE, and 
+is rare in BrE, especially in questions. 
+Note 
+[a] In addition to the four modal idioms illustrated above, the following sentences illustrate less 
+common idioms which might be placed in the same category: 
+I wouldsooner leave the decision to you. 
+I would (just) as soon eat at home. 
+We maylmight Gust) as well pay at once. (44.53 Note [e]) 
+You had best forget this incident. 
+[b] Sometimes (particularly in AmE) the uncontracted form of 'd rather is realized as had rather 
+insteadof wouldrather. Very occasionally the uncontracted formshouldratherisalsoencountered. 
+These variations, and similar variations with would sooner, etc have presumably arisen because 
+of the ambiguity of the contraction 'd. 
+[c] Would rather and would sooner express preference ['. . . would prefer to . . .'] and may 
+therefore be followed by a comparative construction beginning with than: 
+I'd ratherlsooner live in the country than in the city. 
+[d] It is a sign of ;he 'in-between'.gatus of modal idioms that either the whole idiom or just the 
+first word of the idiom may be 'stranded'before ellipsis of the predication, as in [I] above, where 
+the reply Yes, we'd better is an alternative to Yes, we had. (A third alternative is Yes, we better 
+had.) With would rather, however, the wouldalone is usually stranded 
+A: Would you rather buy this one? 
+[el In informal speph, the first word of HAVE got to and hadbetter is often completely elided, so 
+that the pronunciation of the whole idiom is reduced to I1gota/, rbetar/, thus making it resemble 
+a single modal auxiliary. This reduction is represented in very informal written style (eg in 
+fictional dialogue) by the omission of 've, 'd, etc, and sometimes by the nonstandard spelling 
+gotta: 
+got 
+be careful these days. 
+They better go home. 
+{got ta ] , 
+[q HAVE got to is nbt to be confused with the perfective of the catenative verb GET to. The latter 
+has, in AmE, the distinctive form H~VEgotre~z 
+to (cj3.18): 
+We'vegotten to watch more TV this year than last. (AmE) 
+The meanings of the modal idioms 
+3.46 
+All four of the modal idioms discussed above have meanings classifiable as 
+'modal'. 
+(a) Had better has a meaning of 'advisability', similar to the obligational 
+meaning of ought to and should (cf 4.56). 
+(b) Would rather has the volitional meaning 'would prefer to'. 
+(c) HAVE got to has meanings of 'obligation' and 'logical necessity' (cf: must 
+4.54). From the semantic point of view, it is best considered a variant of 
+Verbs of intermediate function 
+143 
+the semi-auxiliary HAVE to. The respects in which its meaning differs 
+from that of HAVE to are considered in 3.48 and 4.54f. 
+(d) BE to is an idiom expressing futurity, with varied connotations of 
+'compulsion', 'plan', 'destiny', etc, according to context. In the past, was 
+to and were to express futurity from the standpoint of past time 
+orientation; in conditional clauses, the subjunctive were to expresses 
+hypothetical future meaning (cf 15.36). The meaning of BE to is further 
+discussed in 4.47J: 
+Note 
+[a] BE ro must not be confused with an apparently identical construction in which the copula BE 
+is followed bv a nominal or adverbial infinitive clause (c/ 15.10J 15.48): 
+Thecommittee is to find a solution. 
+[l] 
+The ptoblem is to find a solution. 
+121 
+Whereas [I] illustrates the modal idiom BE to, in 121, rofindo solution is a nominal infinitive clause 
+acting as complement of is (CA 
+Theproblem is how to$t~da solution). 
+[b] The future meaning of BE to is particularly emphasized when it is accompanied by still or 
+yet: 
+The most severe weather is yellstill to come. 
+The implication here is negative: 'has notlyet come'.Compare a similar use of WE 
+to, 3.48. 
+Semi-auxiliaries: begoing to, etc 
+3.47 
+The semi-auxiliaries consist of a set of verb idioms which express modal or 
+aspectual meaning and which are introduced by one of the primary verbs 
+HAVE and BE ; eg : 
+be able to 
+be bound to 
+be likely to 
+be supposed to 
+be about to 
+be due to 
+be meant to 
+be willing to 
+be apt to 
+be going to 
+be obliged to 
+have to 
+The boundaries of this category are not clear: they might be extended, for 
+example, to include the negative be unable to, be unwilling to, etc (cf Note [a]). 
+We will first of all deal with the semi-auxiliaries introduced by BE. 
+All these constructions satisfy the first seven criteria for auxiliary verbs (cf 
+3.22fn, in the sense that, for example, be going to has be as an operator in 
+negation and inversion, rather than having DO-support: 
+Ada isn't going to win. 
+*Ada doesn't be going to win. 
+Is Ada going to win? 
+*Does Ada be going to win? 
+However, this follows from the fact that the first word of the semi-auxiliary 
+construction is the primary verb be. To be strictly comparable to an auxiliary 
+in its entirety, be going to would have to form its negation by adding not to 
+the second or third word: *is goingn't to or *is going ton't. It is therefore only 
+by special interpretation of the operator criteria (a-e) that these semi- 
+auxiliaries can be described as auxiliary-like. They do, however, resemble 
+auxiliaries in permitting synonymous passives and there-constructions in 
+accordance with the criterion of subject-independence (cf 3.29): 
+Brazil is going to win the World Cup. 
+
+
+144 
+Verbs and auxiliaries 
+- The World Cup is going to be won by Brazil. 
+Several home teams aregoing to be beaten tomorrow. 
+- There aregoing to be several home teams beaten tomorrow. 
+Moreover, such constructions as be going to and be bound to belie their 
+appearance in not allowing contrasts of aspect and voice. There is, for 
+example, no nonprogressive construction corresponding to be going to: 
+*Several home teams go to be beaten tomorrow. 
+And there is no active equivalent of the superficially passive be bound to: 
+He was bound to be a failure. - *Someone bound him to be a failure. 
+This is further evidence of a resemblance to auxiliaries rather than to main 
+verb constructions. 
+These constructions are, however, in one respect much closer to main 
+verbs than are the modal idioms. They have nonfinite forms such as been 
+going to and to be bound to, and can therefore occur in combination with 
+preceding auxiliaries: 
+James will be obliged to resign. 
+We have always been willing to help. 
+Two or more semi-auxiliaries may indeed occur in sequence: 
+Someone is going to have to complain. 
+No one is likely to be able to recognize her. 
+Although there are restrictions on this kind of combination (cf 3.57), the 
+occurrence of nonfinite semi-auxiliaries means that these idioms can fill slots 
+in a modal verb paradigm where modal auxiliaries of equivalent meaning 
+cannot occur: 
+l 
+*could 
+We 
+{ been able to solve the problem. [can = 'ability'] 
+TO { * ~ l l ~ ~ ~ d  
+to speak freely is a human right. [can = 'permission'] 
+Other equivaiences of this kind are between must and have to (cf 3.48), and 
+between will and be willing to. 
+Note 
+[a] There is a gradience between a semi-auxiliary such as be bound to and an occurrence of the 
+copula BE followed by an adjectival or participial construction such as happy to or compelled to. 
+One criterion of importance here is the ability of what rollows BE to stand at the beginning of a 
+supplementive clause (cf 15.60fl: 
+Compelled to take stem measures, the administration lost popularity. 
+[(I 
+?Bound to take stern measures, the administration lost popularity. 
+L21 
+By this criterion, the combinations able to and willing to are less clearly independent than their 
+negatives unable to and unwilling to : 
+Unable/Unwillingto resist, Matilda agreed to betray hercountry. 
+I31 
+?Able/? Willing to resist, Matilda declined to betray her country. 
+[4l 
+Of these parallel senlences, [I] and 131 are clearly acceptable, whereas 121 and [4] are more 
+marginal. But acceptability judgments tend to vary in this area. 
+[b] As semi-auxiliaries, be meant to and be supposed to have meanings similar to those of ought to 
+(cf 4.56.4.66) and are not to be confused with homomorphic passive constructions. In the case 
+Verbs of intermediate function 145 
+of be supposed to, the semi-auxiliary is marked by a special pronunciation /. . . s(a)'pausto/ or 
+1. . . s(a)'pausta/ (c/ the special pronunciation of used to; 3.44). 
+have to 
+3.48 
+Have to is the only semi-auxiliary beginning with HAVE rather than BE, but its 
+inclusion in this category is partly justified by its occurrence in the full range 
+of nonfinite forms, a respect in which it differs from the semantically parallel 
+havegot to (cf 4.55): 
+I may have to leave early. (*I may haue got to leave early.) 
+People are having to boil their drinking water during this emergency. 
+The administration has had to make unpopular decisions. 
+As these examples show, have to can occur in modal, perfective, and 
+progressive constructions. It would be impossible to substitute havegot to for 
+have to in these cases. 
+In meaning, have to is similar to must (cf 4.54), and can stand in for must in 
+past constructions where must cannot occur: 
+These days you must work hard'if you want to succeed. 
+[have to = 
+In those days you had to work hard if you wanted 
+1 'obligation'] 
+to succeed. 
+There must be some solution to the problem. 
+There had to be some solution to the problem. 
+Have to patterns either as a main verb or as an auxiliary with respect to 
+operator constructions: 
+Do we have to get up early tomorrow? (AmE and BrE) 
+Have we to get up early tomorrow? (BrE - somewhat old-fashioned) 
+In this, it resembles other uses of HAVE as a main verb (cf 3.34). m-support, 
+however, is the only construction in AmE and the dominant one in BrE (cf 
+Note [cl). 
+Although have got to has the same meanings of 'obligation' and 'logical 
+necessity' as are expressed by have to, have got to tends not to have habitual 
+meaning, and when combined with a verb of dynamic meaning, tends to 
+refer to the future. There is thus a potential difference between: 
+Jim'sgot to check the temperature every 12 hours. 
+Jim has to check the temperature every 12 hours. 
+Whereas [I] is likely to have the force of a directive, stipulating what Jim's 
+duties will be in the future, [2] is more likely to indicate a habitual action 
+['This is what Jim's present duties consist of']. 
+Note 
+[a] Both haue to and houe got to occur with epistemic meaning like that of musr (cf 4.54) in 
+sentences such as: 
+Someone 
+,)be 
+telling lies 
+You 
+be joking, 
+This has until recently been regarded as an AmE usage, but is now also current in BrE. 
+[bl In other contexts haue to and haue got to express a stronger meaning of 'logical necessity' 
+which cannot be matched by the use of musl: 
+
+
+146 
+Verbs and auxiliaries 
+There has (got) to be a first time for everything. 
+[C] Studies in BrE usage show that over 85 per cent of instances of haue to in negative and 
+interrogative clauses are constructed with DO. Elicitation tests have further indicated that 
+negative constructions without DO (of the kind I hadn't to walk more than a mile) are less 
+acceptable than interrogative constructions without DO (such as Has he ra answer the letrer this 
+week ?). 
+Catenative verb constructions 
+3.49 
+The term CATENATIVE will in practice be used to denote verbs in such 
+constructions as appear to, come to, fail to, get to, happen to, manage to, seem 
+to, tend to, and turn out to followed by the infinitive: 
+to realize the importance of the problem. 
+[l] 
+seemed 
+Such constructions have meanings related to aspect or modality, but are 
+nearer to main verb constructions than are semi-auxiliaries, patterning 
+entirely like main verbs in taking DO-support: 
+!am 
+didnl {::E] to realize the importance of the problem. 
+121 
+Most of them do, however, resemble auxiliary constructions in satisfying the 
+'independence of subject' criterion (cf 3.29). Thus [l] has the corresponding 
+passive [3] : 
+The importance of the problem 
+to be realized by Sam. [3] 
+seemed 
+This criterion, however, applies somewhat marginally to agentive verbs like 
+fail and munag?, and does not apply at all to get. 
+Unlike main verb constructions such as expect (to), want (to), and attempt 
+(to), catenative constructions are in no way syntactically related to transitive 
+verb constructions in which the verb is followed by a direct object or 
+prepositional object (cf 16.268, 16.38). Compare: 
+John 
+attempted to attack the burglar. 
+But: 
+*appeared 
+John { attempted]an attack on the burglar. 
+We may also include among catenative verbs certain verbs which resemble 
+the auxiliary BE in combining either with the -ing participle in progressive 
+constructions, or with the -ed participle in passive constructions: 
+r- 
+Verbs of intermediate function 
+147 
+started out 
+The girl kept (on) 
+working. 
+{wenton } 
+Our team got beaten by the visitors. 
+(In BrE, carriedon can be used as equivalent to went on.) These, again, should 
+be distinguished from similar looking constructions in which a main verb is 
+. 
+followed by a nominal -ing participle clause (eg: The girl liked working; cf 
+16.39) or by a participial adjective, as in the pseudo-passive (cf 3.77): Our 
+team looked beaten. 
+Note 
+[a] The term 'catenative'alludes to the ability of these verbs to be concatenated in sequences of 
+nonfinite constructions, as in Our team seems to manage 10 keepongelring bearen. This propensity 
+for forming chain-like structures is not, however, confined to catenative verbs, but is alsb 
+characteristic of semi-auxiliaries and main verbs followed by nonfinite clauses as objects: Hence 
+such improbable, but structurally possible sequences as: 
+We are going to have to enjoy seeming to like listening to his music. 
+[b] Some catenative verbs, like some semi-auxiliaries, are closely related to constructions with 
+anticipatory it (cf16.34, 16.72): 
+He seems to be rich. - It seems that he is rich. 
+She turned out to love horses. - It turned out that she loved horses. 
+Joan is likely to resign. - It is likely that Joan will resign. 
+Some further aspects of the gradience between modals 
+and main verbs 
+3.50 
+Although they do not enter into the list of modal auxiliary criteria stated in 
+3.308, the following may be mentioned as additional characteristics of modal 
+auxiliaries: 
+(a) They are either invariable, like must, or close to invariable, like would, 
+which, although historically it is the past tense form of will, is from the 
+standpoint of present-day English in many respects an independent 
+form. Thus modals might without too much simplification be regarded 
+as 'modal particles' which have lost their historical connection with the 
+inflectional uaradiam of verbs. 
+(b) From the semantic point of view, modal auxiliaries are often specialized 
+towards the expression of certain speech acts; eg giving advice (ought to, 
+should), making promises or threats (will), giving orders (must, can), etc 
+(cf 4.49fn. In this respect, they give an utterance a force somewhat 
+similar to that of a performative (cf 4.7) such as I beg you . . ., Zpromise 
+you. . ., etc. 
+These characteristics of modals are also shared in various degrees by modal 
+idioms, semi-auxiliaries, etc. For example, had better and have got to are more 
+closely associated with speech acts such as giving advice and orders than is 
+the semi-auxiliary haue to, which is capable of undergoing variation of tense 
+and aspect. 
+3.51 
+Adding points (a) and (b) together, we may go so far as to see in modals a 
+tendency to develop into 'pragmatic particles'. This tendency is seen in its 
+purest form in a construction such as May you be happy! (cf 3.60), where the 
+
+
+148 
+Verbsand auxiliaries 
+The structure of verb phrases 149 
+modal may is placed at the beginning of the sentence, and marks it as an 
+expression of wish. On a similar footing, let (cf 11.26) in sentences such as 
+Let them come hereor Let the world take notice may be regarded as a pragmatic 
+particle of imperative or optative mood. In other respects, however, let is 
+totally unlike auxiliary verbs. In being followed by a pronoun in the objective 
+case (Let them . . ., Let us . . ., etc) it assimilates to the pattern of complex 
+transitive verbs. Clearly, in terms of its syntactic affinities, it is a main verb 
+rather than an auxiliary. 
+Another example of a verb which is syntactically a main verb, although it 
+behaves rather like a pragmatic particle, is the verb want when followed by 
+to + infinitive in utterances such as: 
+You want to be careful with that saw. 
+[l] 
+I want to tell you how much we enjoyed last night. 
+[21 
+In [l], You want to expresses a warning or a piece of advice; in [2] 1 want to 
+introduces an expression of wish, which, in effect, tones down a performative 
+verb. This pragmatic device is particularly conventionalized in informal 
+usage, where it is pronounced /'wonal. (Especially in AmE, a nonstandard 
+spelling wanna is also current.) What makes want to in [l] particularly similar 
+to a pragmatic particle is the impossibility of obtaining an equivalent 
+meaning when the sentence is changed into the past tense or into the 
+progressive aspect: 
+?You are wanting to be careful with that saw. 
+You wanted to be careful with that saw. 
+Sentences [3] and [4] no longer have a particular advice-giving function, and 
+have to be interpreted simply as statements about the wishes of the hearer. 
+Note 
+[a] On the other hand, the negative of wont to can (in informal use) have a specialized advice- 
+giving function even when combined with the progressive of the following verb: 
+Come on: you don't want to keep them all waiting. 
+You don't want to be sitting around doing nothing. 
+[b] A better candidate than let for quasi-modal status, in informal English, is the 1st person 
+imperative marker let's regarded simply as an unanalysed particle pronounced /lets/ (cflI.26). 
+Here the relation to a transitive construction is no longer evident, and there is an interesting 
+resemblance tom~ginalmodals in the ability of let's to form anegation either by the postposition 
+of not, or by w-su@porl: 
+Let's not be late for the game. 
+Don't let's be late for the game. (esp BrE) 
+Onlet'sdon't (AmE), c/ 11.28 (iv). 
+The particle-like status of let's is also supported by the existence, in familiar AmE, of the 
+pleonastic variant let's us. . ., and of the construction let's you. . ., in which the addition of the 
+2nd person pronoun indicates that 'S is no longer associated with us. 
+I 
+The structure of verb phrases 
+Finite verb phrases 
+3.52 We have seen that in one respect the structure of the verb phrase may be 
+described in terms of auxiliaries and main verbs, the main verb normally 
+being the sole verb in cases where the verb phrase consists of one verb only. 
+In another way, the structure may be represented in terms of finite and 
+nonfinite verb words. On this basis, a finite verb phrase is a verb phrase in 
+which the first or only word is a finite verb, the rest of the verb phrase (if any) 
+consisting of nonfinite verbs; on the other hand, a nonfinite verb phrase 
+contains nonfinite verb forms only. 
+Using the description of finite and nonfinite verb forms in 3.2, we can now 
+distinguish finite from nonfinite verb phrases as follows: 
+(a) Finite verb phrases can occur as the verb phrase of independent clauses 
+(cf 14.6f). 
+(b) Finite verb phrases have tense contrast, ie the distinction between 
+present and past tenses (cf 4.3fi 4.1 If): 
+He is a journalist now. 
+He worked as a travel agent last summer. 
+(c) There is person concord and number concord (cf 10.34fl between the 
+subject of a clause and the finite verb phrase. Concord is particularly 
+clear with the present tense of BE: 
+here. 
+You are 
+We/They are 
+But with most full verbs overt concord is restricted to a contrast between 
+the 3rd person singular and other persons or plural number: 
+He/She/Jim reads 
+I/We/You/They read the paper every 
+With modal auxiliaries there is no overt concord at all (cf 3.30): 
+I/You/She/We/They can play the cello. 
+(d) Finite verb phrases contain, as their first or only word, a finite verb form 
+(as described in 3.2) which may be either an operator (cf 3.21) or a simple 
+presentor past form. DO-support (cf3.37) is used in forming (for example) 
+negative and interrogative constructions. 
+(e) Finite verb phrases have mood, which indicates the factual, nonfactual, 
+or counterfactual status of the predication. In contrast to the 'unmarked' 
+INDICATIVE mood, we distinguish the 'marked' moods IMPERATIVE (used 
+to express commands and other directive speech acts; cf 11.24fl, and 
+SUBJUNCTIVE (used to express a wish, recommendation, etc; cf 3.58fl. 
+Both the imperative and the present subjunctive consist of the base form 
+of the verb: 
+Please come here and attend to me. 
+
+
+150 
+Verbsand auxiliaries 
+The Council requires that every member attend at least one meeting 
+per year. 
+The five criteria listed above lead to inconsistency, in that subjunctive and 
+imperative verb phrases are according to criteria (a) and (e) finite, whereas 
+according to criterion (c) they are nonfinite. This inconsistency is not, 
+however, disturbing, but reflects the fact that the finitelnonfinite distinction 
+may be better represented as a scale of 'FINITENESS' ranging from the 
+indicative (or 'most finite') mood, on the one hand, to the infinitive (or 'least 
+finite') verb phrase, on the other. The imperative and subjunctive have in 
+some respects more in common with the infinitive (a nonfinite form which 
+like them consists of the base form, and typically expresses nonfactual 
+meaning). There is, indeed, a tradition of regarding the infinitive as a mood 
+of the verb. On this basis, the gradience of 'finiteness' may be represented as 
+follows (the symbols ' + ', ' - ', etc referring to the satisfaction or 
+nonsatisfaction of each of the criteria listed above): 
+INDICATIVE 
+f 
++ 
++ 
++ 
+SUBJUNCTIVE 
+f 
+? 
+- 
+- 
+- 
+- 
+} (Finite) 
+IMPERATIVE 
++ 
+? 
+f 
+INFINITIVE 
+- 
+- 
+- 
+- 
+- 
+(Nonfinite) 
+Fig. 3.52 A scale of finiteness 
+On the query in column (b), see the discussion of the were-subjunctive in 
+3.62. The query in column (d) reflects uncertainty as to whether DO-support 
+occurs in imperative constructions (cf 3.58 on the position of not in the 
+subjunctive construction, and 11.30 Note [a] ondo with the imperative). 
+For the sake of clarity, we will continue to make a clear-cut distinction 
+between finite verbs (including those in the indicative, imperative, and 
+subjunctive moods) and nonfinite verbs (including the infinitive). 
+A clause with a finite verb phrase as its V element is called a 'finite verb 
+clause' or, mare tersely, a 'finite clause'. Similarly, a clause with a nonfinite 
+verb as its V dlement is called a 'nonfinite (verb) clause' (cf 14.5m. 
+Note 
+Verb phrases introduced by modal auxiliaries are normally classified as indicative, but it is 
+worth pointing out that not only semantically, but syntactically, they resemble imperatives and 
+subjunctives. They lack person and number contrast and also (to some extent) tense contrast. It 
+follows from the lack of person and number contrast that they have no overt concord with the 
+subject. 
+Nonfinite verb phrases 
+3.53 The infinitive ((to) calI), the -ing participle (calling), and the -ed participle 
+(called) are the nonfinite forms of the verb. Hence any phrase in which one 
+of these verb forms is the first or only word (disregarding the infinitive 
+marker to) is a nonfinite verb phrase. Such phrases do not normally occur as 
+the verb phrase of an independent clause. Compare: 
+The structure of verb phrases 15 1 
+FINITE VERB PHRASES 
+NONFINITE VERB PHRASES 
+He smokes. 
+Tosmokelike that must bedangerous. 
+Mary is having a smoke. 
+I regret having started to smoke. 
+He must smoke 40 a day. 
+The cigars smoked here tend to be 
+You have been smoking all day. 
+expensive. 
+That was the last cigarette to have 
+been smoked by me. 
+Simple and complex verb phrases 
+3.54 
+The finite verb phrase is SIMPLE when it consists of only one word, which 
+may be present, past (cf 3.2), imperative (cf 11.24), or subjunctive (cf 3.58): 
+He works hard. He worked hard; 
+Work harder! 
+It is important that he work hard. 
+Except in the 3rd person singular, the present tense of all verbs apart from 
+BE is realized by the base form of the verb: Ilyoulthey work hard. 
+The verb phrase is COMPLEX when it consists of two or more words, as in : 
+John has worked hard. 
+John should be working hard. 
+Don't let's upset her. 
+They may have been sold. 
+There are four basic types of construction in a complex verb phrase: 
+Type A (MODAL) 
+consists of a modal auxiliary + the base of a verb: eg: must 
+examine. 
+Type B (PERFECTIVE) 
+consists of the auxiliary HAVE + the -ed participle of a 
+verb : eg: hasexamined. (Traditionally the term PERFECT has been frequently 
+used instead of PERFECTIVE.) 
+Type C (PROGRESSIVE) 
+consists of the auxiliary BE + the -ing participle of a 
+verb : eg : is examining. 
+Type D (PASSIVE) 
+consists of the auxiliary BE + the -ed participle of a verb: 
+eg : is examined. 
+These four basic constructions also enter into combination with each other: 
+AB : 
+may have examined 
+AC : 
+may be examining 
+AD : 
+may be examined 
+BC : 
+has been examining 
+B D : 
+has been examined 
+CD : 
+is being examined 
+ABC : may have been examining 
+AB D : may have been examined 
+ACD : may be being examined 
+BCD : has been being examined 
+ABCD: may have been being examined 
+In these strings the different constructions are 'telescoped' into one another. 
+This means that combinations of the basic types A, B, etc form structures in 
+which the nonfinite verb of the first construction also functions as the 
+
+
+152 Verbsand auxiliaries 
+auxiliary of the second, and so forth. For example, ABD (may haue been 
+examined) has the following structure, where have is shared by A and B, and 
+been is shared by B and D : 
+r,-- 
+- - - l  
+A: I auxll~aryrnay I + I lnfin~t~ve 
+have I 
+~ - - - - - - - l  
+I 
+= 
+I 
+r--------l 
+B : 
+I auxiliary have I + I -ed participle been I 
+L ------- l 
+I 
+- 
+- 
+I 
+D : 
+1 
+auxiliary been 
+I + l -ed part~c~ple 
+l 
+L -------- -l 
+I 
+examined 
+I 
+L - - - - - - - J  
+Fig. 3.54 
+Note 
+Beware is used only in the imperative and in complex verb phrases with modal auxiliaries which 
+have a quasi-imperative force: 
+Beware (of) the dog. 
+You must beware (of) what you say to her. 
+Simple and complex finite verb phrases 
+3.55 
+The order in which the four constructions can form combinations is indicated 
+by the alphabetical symbols A, B, C, D, which label them. A cannot follow 
+B, B cannot follow C or D, etc, but gaps are allowed: AC, AD, ACD, BD, 
+etc. Figure 3.55 gives a graphic representation of how the finite indicative 
+verb phrase (simple or complex) is built up in a left-to-right progression. 
+1 complex verb *hrase TB 
+,,: 
+Type A: modal aux + infinitive 
+Type B: perfective aux (HAVE) 
++ -ed participle 
+Type C: progressive aux (BE) 
+f -hg participle 
+k 
+Type D: passive aux (BE) 
++ -ed participle 
+Fig. 3.55 The structure of the finite verb phrase 
+First comes the selection of the present or past tense of the finite verb, then 
+the selection of none, one, two, three, or four of the complex phrase 
+constructions as indicated by the direction of the arrows. On the whole, the 
+more complex the verb phrase pattern is, the less commonly it occurs. Those 
+complex phrases containing the combination CD (progressive + passive) are 
+particularly uncommon (cf 3.73), but are undoubtedly acceptable as compared 
+with sequences such as BCC (*have been being examining) or CBD (*is having 
+been examined) which are not grammatical at all. 
+Note 
+The rare ABCD pattern is illustrated in 2.28 Note. 
+The structureof verb phrases 153 
+Simple and complex nonfinite verb phrases 
+3.56 Unlike finite verb phrases, nonfinite verb phrases have no tense or mood 
+distinctions (subject to the remarks on the gradience of finiteness in 3.52), 
+and cannot occur in construction with a subject of a main clause. Contrast: 
+FINITE : 
+He was doing it easily. 
+NONFINITE:.*He doing it easily. 
+Since modal auxiliaries have no nonfinite forms (cf 3.30), they cannot occur 
+in nonfinite verb phrases, and therefore the modal construction Type A is 
+not available within such phrases. But the aspect and voice auxiliaries HAVE 
+(Type B) and BE (Types C and D) suffer from no such restriction. If we relate 
+the structure of the nonfinite verb phrase to that of the finite verb phrase, we 
+can tabulate the eight possible combinations as in Table 3.56a: 
+Table 3.56a Nonfinite verb phrases 
+- 
+INFiNITIVES 
+PARTICIPLES 
+simple 
+to examine 
+examining 
+complex 
+B 
+to have examined 
+C 
+to be examining 
+D 
+to be examined 
+BC 
+to have been examining 
+BD 
+to have been examined 
+CD 
+to be being examined 
+BCD 
+to haue been being examined 
+(rare) 
+having examined 
+[being] examining 
+[being] examined 
+having been examit~ing 
+having been exambled 
+[being] being examined 
+having been being examined 
+(rare) 
+Looking at the right-hand side of the Table, we may interpret the square 
+brackets as follows. Whenever a phrase should theoretically begin with the 
+auxiliary being, this participle is omitted. In this way, the -ed participle 
+phrase examined is regarded as a special variant of the -ing participle phrase, 
+viz the representative of the passive construction D. There does indeed occur 
+a further construction being examined, but this is the one which combines 
+progressive with passive meaning (CD), as in the contrast between: 
+the suspects examined by the police [not progressive] 
+the suspects being examined by the police [progressive] 
+(On progressive meaning in nonfinite phrases, cf 4.67.) Another result of the 
+rule which omits the initial auxiliary being is that there are two types of 
+nonfinite -ing participle phrase containing a main verb only (examining): one 
+of these is progressive, and expresses the meaning characteristic of the 
+progressive (cf 4.25), whereas the other is not. Contrast: 
+Smoking cigarettes is dangerous. [not progressive] 
+They caught him smoking cigarettes. [progressive: 'while he was 
+smoking'] 
+
+
+154 
+Verbs and auxiliaries 
+As with finite verb phrases, the combination CD is rare, and BCD is of 
+marginal acceptability. 
+Note 
+[a] The combination being e.wminBrg, for phrase type C, is not quite impossible, as occasional 
+examples such as the following have been attested in spontaneous conversation: 
+You can probably get an extension on the grounds of bebig teaching. 
+Being teaching here manages to draw particular attention to the progressive meaning 'on the 
+grounds of being in the course of teaching', which the aspectually ambiguous on thegrounds of 
+reaching would fail to do. 
+[b] It may be helpful to illustrate various kinds of complex nonfinite verb phrase by means of 
+the following sentences: 
+Table 3.56b 
+INFINITIVES 
+PARTICIPLES 
+We're glad to have invited you. 
+Having invited you, I expected you to come. 
+I'd like to be working. 
+Being working (cf Note [a]) 
+I'd hate to be questioned about it. 
+When questioned, he denied everything. 
+I'm glad to have been working. 
+Having been working all day, I'm very tired. 
+He's said to have been invited. 
+Having been invited, he should have come. 
+I exuected to be beinn interviewed then. 
+I saw her being interviewed. 
+.- 
+Gradience between one and two verb phrases 
+3.57 In a single complex finite verb phrase, as already discussed, the order of 
+constructions is limited to ABCD, and a similar restriction of nonfinite verb 
+phrases to the order BCD has also been noted. If, however, a nonfinite verb 
+phrase follows a finite one, as in certain types of verb complementation (cf 
+16.36f), it is possible for the same cons~ruction to be repeated in each phrase: 
+We had hoped! to havefinished by then. [perfective + perfective] 
+I am hoping I to be seeing her tomorrow. [progressive + progressive] 
+Moreover, it is possible for two constructions to occur outside their normal 
+'alphabetical' order so long as one construction occurs in a different verb 
+phrase from $e other: 
+I was hopinglto havefinished by then. 
+(C + B) 
+Jackson was be[ievedlto have been killed. (D + BD) 
+In practice, however, most of the more complex possibilities, such as ABC + 
+BCD, rarely if ever occur: 
+?They must have been expecting1 to have been being paid well. 
+The question arises as to what structures are possible when a semi-auxiliary 
+or a catenative verb occurs in the string of verbs. For instance, should will 
+have to help in The children will have to help us be analysed as one verb phrase, 
+or as two? There is no clear answer to this question, since the gradient 
+relating auxiliary to main verb functions implies a comparable gradient 
+between a single verb phrase analysis and a multiple verb phrase analysis. 
+The subjunctive mood 155 
+With semi-auxiliaries it is possible to repeat the same construction in such 
+examples as: 
+Sarah and I are going to be leaving tonight. 
+The walls were supposed to be repainted. 
+But (as noted in 3.47) are going to in [l] is not truly progressive, and were 
+supposed to in [2] is not truly passive, because these constructions do not 
+contrast (in the relevant sense) with a nonprogressive and an active 
+construction respectively. In other cases where the same construction is 
+repeated, the meaning of the construction does not require this repetition: 
+If you'd done that, we wouldhave had to haw arrested you. 
+l31 
+Such verb sequences as would haue had to have arrested, with its vacuous 
+repetition of the past time meaning of the perfective construction, are not 
+uncommon, but are felt to be 'illogical' or pleonastic, because their meaning 
+is no different from that of the same sequence without the repetition: . . . we 
+would have had to arrest you. The occurrence of such constructions, however, 
+may be a mark of the intermediate status of semi-auxiliaries, which allow 
+some syntactic duplication of constructions, but do not appear to allow for 
+semantic duplications. It is reasonable to suggest that in [3] would have had to 
+have arrested consists syntactically of two verb phrases would have had and to 
+have arrested, but semantically of only one. 
+The subjunctive mood 
+3.58 
+The subjunctive in modern English is generally an optional and stylistically 
+somewhat marked variant of other constructions, but it is not so unimportant 
+as is sometimes suggested. There are two forms of the subjunctive, 
+traditionally called the present and past subjunctive, although the use of 
+these forms relates more to mood than to tense. 
+Terms for the two major categories of the present subjunctive are the 
+MANDATIVE and the FORMULAIC subjunctive (cf 3.59fl. These are realized, 
+like the imperative, by the base form of the verb. Consequently, where the 
+clause has a plural subject, there is normally no difference between the 
+indicative and subjunctive forms. Except with BE, where the subjunctive 
+form be is distinct from the indicative forms am, is, and are, the subjunctive 
+is distinctive only in the third person singular: 
+I insist that we reconsider the Council's decisions. [indicative or 
+subjunctive] 
+111 
+I insist that the Council reconsider its decisions. [subjunctive] 
+L21 
+I insist that the Council's decision(s) be reconsidered. 
+[subjunctive] 
+D1 
+The past subjunctive is conveniently called the WERE-SU~JUN~TIVE, 
+since it 
+survives as a distinguishable form only in the past tense of the verb BE. 
+
+
+156 
+Verbs and auxiliaries 
+Whereas the indicative form shows a contrast between was (1st and 3rd 
+person singular) and were (plural and 2nd person singular), the subjunctive is 
+invariably were, and hence is a form distinct from the indicative only in the 
+1st and 3rd persons singular: 
+If Ilhelshe was leaving, you would have heard about it. [indicative] 
+If I/he/she were leaving, you would have heard about it. [subjunctive] 
+Like the imperative verb phrase (cf 11.24m, the subjunctive verb phrase 
+allows few morphological or syntactic variations. As [3] above shows, a 
+passive subjunctive is a possibility for the mandative subjunctive, as well as 
+for the formulaic and were-subjunctive: 
+God be praised! (restricted use) 
+It would be odd if she wereawarded the first prize. 
+With all verbs except BE, the verb phrase is made negative by placing not 
+before the subjunctive form. In the case of be, not may be placed either before 
+or after the verb, whereas with were it follows it: 
+It is essential that this mission not fail. 
+141 
+[Contrast the indicative variant '. . . does not fail. . .'; cf 16.72.1 
+exemptedfromcol~ege 
+Thesenate hasdecreed that suchstudents not be 
+dues. 
+If I {~r:~} 
+your best friend, you would regret that remark. 
+Uses of the subjunctive 
+'\ 
+The mandative subjunctive 
+3.59 
+This, the most common use of the subjunctive, occurs in subordinate that- 
+clauses, and consists of the base form of the verb only. Thus there is a lack of 
+the regular concord of the indicative mood between subject and finite verb, 
+and there is no backshifting of tense (cf 14.335); ie the present and past 
+variants are formally indistinguishable: 
+(that) Mr Day be elected. 
+The committee proposed 
+I demand(ed) that the committee reconsider its decision. 
+His sole requirement islwas that the system work. 
+The mandative subjunctive is productive in that it can be used with any verb 
+in a that-clause when the superordinate clause satisfies the requisite semantic 
+condition, viz that the that-clause be introduced by an expression of demand, 
+recommendation, proposal, resolution, intention, etc. This expression takes 
+the form of a verb, an adjective, or a noun: 
+They recommend 
+It is appropriate 
+that this tax be abolished. 
+We were faced with the demand 
+The subjunctive mood 157 
+The following are among those expressions which commonly introduce a 
+that-clause containing the mandative subjunctive: 
+VERBS: 
+decide, insist, move, order, prefer, request 
+ADJECTIVES: advisable, desirable, wing, imperative 
+NOUNS: 
+decision, decree, order, requirement, resolution 
+Fuller lists of examples are given in 16.32, 16.72. 
+The mandative subjunctive is more characteristic of AmE than of BrE, 
+where it is formal and rather legalistic in style. There are indications, 
+however, that it is reestablishing itself in BrE, probably as a result of AmE 
+influence. In 16.32 we present the patterns of preference in BrE and in AmE 
+regarding the choice between the mandative subjunctive, putative should, 
+and the indicative, in sentences such as: 
+The em~lovees have demanded that the manager 
+{re;". 
+(esp Am") 
+- 
+should resign. 
+(esp BrE) 
+resigns. 
+Note 
+[a] As example [2] suggests, the absence of DO-support, as well as the absence of an -S inflection, 
+is a criterion distinguishing the present subjunctive from the present indicative: 
+{ 
+Our decision is that the school remain closed. [subjunctive] 
+[l] 
+Our decision is that the school remains closed. [indicative] 
+[[a] 
+{ 
+They insisted that we ,rot eat meat. [subjunctive] 
+L21 
+They insisted that we do not eat meat. [indicative] 
+[W 
+Thus the subjunctivecan be marked as distinct from the indicative with either a singular subject, 
+as in [I], or a plural hbject, as in [2J. This makes it reasonable to say that where the base form 
+can be analysed either as an indicative or as a subjunctive, there is a neutralization of the two 
+moods: 
+Our decision is that the schools remairr closed. 
+[lbl 
+Such a view cannot be entertained, however, with the were-subjunctive(cf 3.62). 
+[b] The use of the subjunctive after i~rsist depends on meaning. When this verb introduces an 
+indirect statement, the indicative is used, but when it introduces an indirect directive, the 
+subjunctive is more likely: 
+Sheinsists that he isguilty offraud. 
+L31 
+We insist that he be admitted to hospital immediately. 
+[4] 
+[c] In addition to slrould and the indicative, there are other alternatives to the mandative 
+subjunctive, notably (with some verbs) the object with infinitive construction (cf 16.63): 
+1 
+We ask that the Government be circumspect. 
+151 
+We ask the Government to be circunrspec!. 
+[ a  
+Id] There is a tendency in BrE to choose the subjunctive more especially when the finite verb is 
+BE (eg in the passive voice), as in [4] and 151 above. 
+The formulaic subjunctive 
+3.60 
+Like the mandative subjunctive, the FORMULAIC SUBJUNCTIVE consists of the 
+base form of the verb. It is used in certain set expressions chiefly in 
+independent clauses: 
+Come what may, we will go ahead with our plan. 
+God save the Queen! ['May God save the Queen'] 
+Suffice it to say that we won. ['Let it suffice . . .'l 
+Heaven forbid that I should let my own parents suffer. 
+
+
+158 
+Verbs and auxiliaries 
+Be it noted that this offer was made in good faith. (formal, rather 
+archaic) 
+Be that as it may, we have nothing to lose. 
+The force which the subjunctive conveys here, that of an expression of will, 
+may also be conveyed by let or may (cf 3.51). The formulaic subjunctive tends 
+to be formal and rather old-fashioned in style. 
+Other uses of the present subjunctive 
+3.61 Other contexts in which the present subjunctive can be used in subordinate 
+clauses are noted in relevant sections of Chapters 14 and 15. They include: 
+(a) Clauses of condition and concession (cf 14.24): 
+(~oen) ifthat be the official view, it cannot be accepted. (formal) 
+(b) Clauses of condition or negative purpose introduced by lest or for fear 
+that (cf 1,5.48): 
+The President must reject this proposal, lest it cause strife and 
+violence. (formal) 
+This lest construction is restricted to very formal usage in BrE, but is more 
+current in AmE. 
+The were-subjunctive 
+3.62 The were-subjunctive (or past subjunctive) is hypothetical or unreal in 
+meaning, being used in adverbial clauses introduced by such conjunctions as 
+if, as if, as though, though, and in nominal clauses after verbs like wish and 
+suppose (cf 14.24, 16.33). This subjunctive is limited to the one form were, and 
+thus breaks the concord rule of the indicative verb BE in the 1st and 3rd 
+person singular of the past tense. The indicative form was is substituted in 
+less formal style : 
+If'I werelwas rich, I would buy you anything you wanted. 
+Tim always speaks quietly on the phone, as though he werelwas telling a 
+secret. 
+I wish the journey werelwas over. 
+Just suppose everyone werelwas to give up smoking and drinking. 
+The were-subju~ctive may be regarded as a fossilized inflection: it is nowadays 
+a less usual alternative to the hypothetical past indicative (cf 4.16). Examples 
+of hypothetical were with a 2nd person or plural subject (eg: you were . . ., 
+they were . . .) are therefore to be viewed as indicative, rather than as a 
+neutralization of indicative and subjunctive. 
+Note 
+[a] In the fixed phrase as it were ('so to speak'], however, were cannot be replaced by was; it is 
+also normal in standard English to use were in the fixed phrase I/l were you. 
+[b] As it is commonly supposed that the were-subjunctivealways refers to circumstancescontrary 
+to fact, it is worth noting the occasional occurrence of a hypercorrect 'pseudosubjunctive' were 
+in contexts where the past time meaning of was seems to give the required interpretation: 
+The pilot appeared to deviate from his flight path to minimize the danger to people living 
+in the town; but ifthis werehis intention, hefailed tocommunicateit to thecontrol tower. 
+A similar anomalous use of were occasionally occurs in indirect questions: 
+It was difficult to tell whether the language were Semitic or Indo-European. 
+Active and passive voice 159 
+Active and passive voice 
+3.63 
+The term VOICE is used to describe the last major verb category to be 
+considered in this chapter: that which distinguishes an active verb phrase 
+(eg: ate) from a passive one (eg: was eaten). We have left this topic to the end 
+of the chapter for two reasons: first, the passive construction, when it occurs, 
+appears in final position in the verb phrase (cf Type D, 3.55), and second, 
+voice is a category which, as we saw in 2.21, concerns not only verb phrases, 
+but other constituents in the clause, and therefore points to connections 
+between this chapter and sections in later chapters (esp 16.26K 18.32) where 
+the contrast between active and passive must be reconsidered in a larger 
+context. 
+Voice defined 
+3.64 
+Voice is a grammatical category which makes it possible to view the action 
+of a sentence in either of two ways, without change in the facts reported: 
+The butler murdered the detective. [ACTIVE] 
+[l] 
+- The detective was murdered by the butler. [PA~SIVE] 
+[21 
+As we see from [l] and 121, the active-passive relation involves two 
+grammatical levels: the verb phrase, and the clause. In the former, a passive 
+verb phrase (ie one containing a construction of Type D) contrasts with an 
+active verb phrase, which is simply defined as one which does not contain 
+that construction. For example: 
+Table 3.64 
+ACTIVE 
+PASSIVE 
+present: 
+kisses 
+- i.s kissed 
+past: 
+kissed 
+- was kissed 
+modal : 
+may kiss 
+- may be kissed 
+perfective: 
+has kissed 
+- has been kissed 
+progressive: 
+is kissing 
+- is being kissed 
+modal + perfective: 
+may haue kissed 
+- may haue been kissed 
+modal + progressive: 
+may be kissing 
+- may be being kissed 
+perfective + progressive: has been kissing 
+- has been being kissed 
+modal + perfective + 
+progressive : 
+may have been kissing - may have been being kissed 
+In the verb phrase, the difference between the two voice categories is that 
+the passive adds a form of the auxiliary BE followed by the past participle 
+(-ed participle) of the main verb. 
+The active-passive correspondence 
+3.65 In addition, at the clause level, changing from the active to the passive 
+involves rearrangement of two clause elements, and one addition (cf2.21). 
+(a) The active subject becomes the passive AGENT; (b) the active object 
+becomes the passive subject; and (c) the preposition by is introduced before 
+the agent. The prepositional phrase (AGENT 
+BY-PHRASE) 
+of passive sentences 
+
+
+160 
+Verbsand auxiliaries 
+is generally an optional element (but cf 3.71). The active-passive correspond- 
+ence for a monotransitive verb (cf 2.16) with an object (typically a noun 
+phrase) can be seen diagrammatically as in Fig. 3.65: 
+S 
+v 
+0 
+i
+l
+ ri 
+ACTIVE SUBJECT 
+ACTIVE VERB 
+ACTIVE OBJECT 
+a 
+PASSIVE SUBJECT 
+1 
+1 
+S 
+v,,, 
+A 
+Fig 3.65 The active-passive correspondence 
+Alternatively, the active-passive correspondence can be expressed by this 
+formula : 
+noun phrase, + active verb phrase + noun phrase* 
+- noun phrasez + passive verb phrase + (by noun phrase,) 
+The terms 'subject' and 'object' in Fig 3.65 are used here, as in 2.13 and 10.7, 
+to refer to elements with a particular structural function in the clause: eg the 
+subject has concord with the verb phrase, and contains a subjective rather 
+than objective case pronoun. Thus certain changes apart from those 
+represented in [l] and [2] may have to take place in changing a sentence from 
+active to passive (cf 3.70): 
+The men respect her. 
+- She is3;respected by the men. 
+But although the corresponding active and passive sentences appear to be 
+radically different, the relations of meaning between their elements remain 
+the same: for example, [l] has the same truth value as [2], and [3] has the 
+same truth value as [4]. In John helped Mary and Mary was helped by John, 
+John is in both cases the 'performer of the action', even though structurally, 
+John has a very 'different position and function in each. 
+Note 
+[a] Corresponding active and passive sentences do not, however, always have the same truth 
+value (c/ 3.72). 
+[b] We distinguish terminologically the agent, as defined above (and in grammatical tradition), 
+from the agentive, which is a semantic role (c/ 10.19) often assumed by the subject of an active 
+sentence or by the agent of a passive sentence (c/ 9.50). 
+The passive auxiliaries: be and get 
+3.66 
+The passive auxiliary is normally be. Its only serious contender is get, which 
+however is not, by most syntactic criteria, an auxiliary at all (cf 3.22f). 
+Active and passive voice 
+16 1 
+Moreover, get tends to be limited to constructions without an expressed 
+animate agent: 
+B l 
+The cat got run over (by a bus). 
+James got beaten last night. 
+rr r 
+Get with an animate agent is not, however, unknown: 
+B1 
+James got caught (by the police). 
+The get-passive is avoided in formal style, and even in informal English it is 
+far less frequent than the be-passive. Further examples are: 
+The house is getting rebuilt. 
+[l] 
+Such criticisms willget treated with the contempt they deserve. 
+[2] 
+This story eventually got translated into English. 
+[31 
+Get is much more common as a 'resulting copula' (cf 16.21f) in sentences 
+like My mother isgettingold, and it may be best analysed as such in sentences 
+which look superficially like passives, but which could not be expanded by 
+an agent (cf 3.77): 
+We are getting bogged down in all sorts of problems. (informal) 
+[4] 
+I have to get dressed before eight o'clock. [='dress'] 
+151 
+I don't want toget mixed up with the police again. (informal) 
+l61 
+Your argument gets a bit confused here. 
+['l] 
+Similarly get bored, get tired, get (very) excited, get lost, etc. Get is a dynamic 
+conclusive verb (cf 4.33A3, and the participles in these sentences are stative 
+(eg: dressed'means 'in a state of wearing clothes', as in June is already 
+dressed). Hence the meaning of such sentences is predictable if they are 
+regarded as SVC sentences with get as main verb and the participle (with its 
+modifiers if any) as complement, as suggested by this exchange: 
+A: I [S] 'm [V] completely confused [C]. 
+B: Yes, I [S] 'm getting [V] confused [C], as well [A]. 
+It is important, therefore, to draw a distinction between the passive sentences 
+[l -31 and the copular sentences [4-71, which we may call PSEUDO-PASSIVE (cf 
+3.77). At the same time, there is an affinity between these sentence types, and 
+this is evident when we consider the meaning of the get-passive, which, like 
+the copular get, puts the emphasis on the subject rather than the agent, and 
+on what happens to the subject as a result of the event. Compare He got 
+taught a lesson ['it served him right'] with: 
+He {  taught a lesson on the subjunctive (by our new teacher). 
+?got 
+It is presumably because of the emphasis which get places on the subject 
+referent's condition (usually an unfavourable condition) that the agent is less 
+usual with aget-passive. This same emphasis may account in part for the fact 
+that the get-passive often reflects an unfavourable attitude towards the 
+action : 
+l 
+How did that window get opened? 
+typically implies 'It should have been left shut!' 
+
+
+162 
+Verbs and auxiliaries 
+Active and passive voice 163 
+Note 
+[a] The get-passive provides a convenient way of avoiding the passive with be in cases where 
+there is a potential confusion between the normal passive interpretation and that of the 'statal 
+passive' (cf 3.77). Thus the ambiguity between stative and dynamic meaning in The chair wos 
+broken is eliminated in The chairgat broken. 
+[b] The idiomatic expression get started is anomalous, in that start cannot be treated as a 
+transitive verb in this context: 
+How soon can wegetstortedon the swimming pool? 
+This idwm appears to be cksely related to the causative use ofget, eg in: 
+started on the pool? (cf 16.54) 
+Compare a similar pseudo-passive construction with be (cf 3.77 Note [a). 
+[c] Apart from get, verbs in pseudo-passive sentences include become, grow, and seem (cf 16.21, 
+16.23). 
+Voice constraints 
+3.67 
+Although it is a general rule that transitive verb sentences can be either 
+active or passive, there are a number of exceptions where the active 
+(transitive) and passive sentences are not in systematic correspondence. We 
+will distinguish five kinds of 'voice constraint' associated respectively with 
+the verb (3.68f), the object (3.70), the agent (3.71), meaning (3.72), and 
+frequency of use (3.73). 
+Verb constraints 
+3.68 
+(a) ACTIVE ONLY 
+There are greater restrictions on verbs occurring in the passive than on verbs 
+occurring in the active. In addition to copular and intransitive verbs, which 
+having no object cannot take the passive, some transitive verbs, called 
+'middle' verbs, do not occur at least in some senses in the passive (cf 10.14); 
+for example : 
+They have a nice house. 
+' The dress becomes her. 
+He lacks confidence. 
+John resembles his father. 
+The auditorium holds 5000people.~, Will this suit you? 
+All these belong to the stative class of verbs of 'being' and 'having' (cf 4.31). 
+But other stative verbs, such as those of volition or attitude, can easily occur 
+in the passive. Contrast: 
+The coat does not fit you. - *You are not fitted by the coat. 
+The polick want him. - He is wanted by the police. 
+(b) PASSIVE ONLY 
+Conversely, with some verbs and verb constructions only the passive is 
+possible (cf16.50): 
+John was {:gted} 
+to be a good teacher. 
+- They {:gted} 
+him to be a good teacher. 
+Other examples are be horn (with an irregular past participle), and be drowned 
+(in cases where no agent is implied): 
+He was born in Tubingen. 
+?His mother bore him in Tubingen. 
+The wanted man fell into, the water and was drowned. * . . . and 
+someone drowned him. 
+Prepositional verbs 
+3.69 
+In English, prepositional verbs (cf 16.5fn can often occur in the passive, but 
+not so freely as in the active. These prepositional verbs are verbal idioms 
+consistine of a lexical verb followed bv a ~re~osition. 
+such as look at. 
+. 
+A
+.
+ 
+compare-the following sentences, in which [la] and [2a] contain prepositional 
+verbs, whereas [lb] and [2b] contain the same words in nonidiomatic use: 
+the problem. 
+The engineers went very carefully into the tunnel. 
+was very carefully gone into by the engineers. 
+?*The tunnel 
+the expected result. 
+They eventually arrived at 
+The expected result 
+?*The splendid stadium was eventually arrived at. 
+l 
+In these sentences it is clear that the difference in acceptability can be stated 
+in terms of concrete/abstract passive subjects. It is only in the abstract, 
+figurative use that go into, arrive at, look into, and many other expressions 
+accept the passive. 
+With some ingenuity, however, one may construct contexts where such 
+verbal expressions will occur in the passive even where they are not used 
+abstractly and idiomatically, especially in a coordinate construction: 
+- 
+' 
+This private drawer of mine has been gone into and rummaged so many 
+times that it is totally disarranged. 
+Thus the distinction between prepositional verbs and nonidiomatic combi- 
+nations of verb and preposition does not entirely determine the possibility of 
+a passive. Rather, there is a scale of 'cohesion' between verb and preposition, 
+which will be analysed later, in 16.12fl; when we come to examine 
+prepositional verbs in more detail. 
+Object constraints 
+3.70 Transitive verbs can be followed either by phrasal or by clausal objects (cf 
+15.3f/; 16.30fn. With clauses as objects, however, the passive transformation 
+is to a greater or lesser degree restricted in use: 
+(A) Noun phrase as object: 
+.John loved Mary. - Mary was loved (by John). 
+(B) Clause as object : 
+(i) Finite clause: 
+John thought (that) she was attractive. 
+- ?*That she wasattractive was thought (by John). 
+(ii) Nonfinite clause: 
+(a) infinitive: 
+John hoped to meet her. - *To meet her was hoped (by John). 
+
+
+164 Verbs and auxiliaries 
+Active and passive voice 165 
+Note 
+(b) participle : 
+John enjoyed seeing her. 
+- *?Seeing her was enjoyed (by John). 
+The passive often becomes acceptable, however, particularly when the object 
+is a finite clause, if the clausal object is extraposed and replaced by the 
+anticipatory pronoun it (cf 16.34, 16.72J 16.83, 18.33): 
+It was thought that she was attractive. 
+?It was hoped to meet her. 
+or if the subject of the object clause is made the subject of a passive 
+superordinate clause (cf 16.50f, 18.36), as in: 
+She was thought to be attractive. 
+The construction with anticipatory it never occurs with participle clauses as 
+subject, and is only sometimes acceptable with infinitive clauses (cf 16.38): 
+It was desired to have the report delivered here. 
+(Even then, the acceptability of this construction may be criticized on 
+grounds of style.) 
+Coreference between a subject and a noun phrase object blocks the passive 
+correspondence. This constraint occurs with (a) reflexive pronouns, (b) 
+reciprocal pronouns, and (c) possessive pronouns when coreferential to the 
+subject: 
+] in the mirror. 
+(a) John could see himelf 
+- { Paul 
+}could be seen in the mirror. 
+*Himself 
+(b) We could hardly see each other in the fog. 
+- *Each other could hardly be sd'en in the fog. 
+my hand. 
+(c) The woman shook 
+- { My hand}was shaken by the woman. 
+?*Her head 
+I 
+[a] The passive of the sentence witha reciprocal pronoun can be made acceptable if the pronoun 
+is split into two parts as follows: 
+Each could hardly be seen by the other. ( c .  6.31) 
+[b] Since reflexive and reciprocal pronouns are objective case replacements, we would in any 
+case not expect them to take subject position in a passive sentence, or for that matter in any 
+other sentence (cf 3.65). 
+[c] The passive is not possible for many idioms in which the verb and the object form a close 
+unit: 
+The ship set sail. - 'Sail was set. 
+We changed buses. - 'Buses were changed. 
+Agent constraints 
+Unlike the active subject, the agent by-phrase is generally optional. In fact 
+approximately four out of five English passive sentences have no expressed 
+agent. This omission occurs especially when the agent is irrelevant or 
+unknown, as in: 
+The Prime Minister has often been criticized recently. 
+or where the agent is left out as redundant: 
+Jack fought Michael last night, and Jack was beaten. 
+An agent phrase by Michael would clearly not be necessary or even fully 
+acceptable in this context. 
+Since the agent phrase is usually left unexpressed, the identity of the agent 
+may be irrecoverable, and it may be impossible to postulate a unique active 
+clause corresponding to the passive one : 
+Order had been restored without bloodshed. 
+Colonel Lava1 (?) 
+The administration (?) had restored order without bloodshed. 
+The army (?) 
+Note 
+In some sentences, the agent is not optional; eg: 
+{ 
+The music was followed by a short interval. 
+[l] 
+'The music was follo~ved. 
+(21 
+i 
+The rebels were actuated by both religious and political motives. 
+L31 
+'The rebels ~vereactualed. 
+M 
+However, the nonoccurrence of the agentless sentences [2] and [4] may be due not so much to 
+grammatical or lexical restriction, as to the fact that without the agent, the sentence becomes 
+informationally vacuous. (In this connection, [2] may be contrasted with We're being 
+fo//o~ved.) 
+Meaning constraints 
+3.72 We cannot assume that matching active and passive sentences always have 
+the same propositional meaning. The difference of order brought about by 
+changing an active sentence into the passive or vice versa may well make a 
+difference not only in emphasis (cf 18.3ff, 18.llJf), but also to the scope of 
+negatives and quantifiers (cf 2.54fl: 
+Every schoolboy knows one joke at least. 
+111 
+- One joke at least is known by every schoolboy. 
+121 
+The most likely interpretation of [l] is quite different from the most likely 
+interpretation of [2]: whereas [l] favours the reading 'Each schoolboy knows 
+at least some joke or other', [2] favours the reading 'There is one particular 
+joke which is known to every schoolboy'. 
+Moreover, a shift of modal meaning may accompany a shift of voice in 
+verb phrases containing modal auxiliaries (cf 4.52): 
+John cannot do it. 
+- It cannot be done (by John). 
+In the active, can here will normally be interpreted as expressing ability, 
+whereas in the passive it is interpreted as expressing possibility. Even when 
+it might be argued that can retains the same meaning of ability in both active 
+and passive, a shift of meaning is detectable: 
+
+
+166 
+Verbs and auxiliaries 
+Active and passive voice 167 
+John can't be taught. ['It's impossible to teach h i m ' o ~  'He is unable to 
+learn'] 
+- She can't teach John. ['She is unable to teach John) 
+Examples with other modal auxiliaries are: 
+Every one of them must be reprimanded. 
+['Every one of them is to blame'] 
+- You must reprimand every one of them. 
+['It's your duty to do so'] 
+wouldn't Miranda ride the grey mare? 
+['Why did Miranda refuse?'] 
+- Why wouldn't the grey mare be ridden by Miranda? 
+['Why did the mare refuse?] 
+Note 
+[a] The shift from active to passive may change the meaning not only of a modal construction, 
+but also of the perfective aspect: 
+Winston Churchill has twice visited Harvard. 
+. 
+L31 
+Harvard has twice been visited by Winston churchill. 
+L41 
+It has beenclaimed that the active sentence 131 can only be appropriately used in the lifetime of 
+Churchill, since the subject of the sentence determines the interpretability of the perfective in 
+terms of a period of time leading up to the present (cf 4.20). The passive sentence [4], according 
+to this claim, could appropriately be said now, after Churchill's death, since Harvard University 
+is still in existence. However, speakers have differing intuitions on this matter. 
+[b] Some difference between the meaning of an active sentence and its passive counterpart has 
+also been noted in examples such as [51 and [61, where both subject and object of the active 
+sentence are generic (cf 5.52fl: 
+Beavers build dams. - ?Dams are built by beavers. 
+[51 
+Excessive drinking causes high blood pressure. - ?High blood pressure is caused by 
+excessive drinking. 
+I61 
+This difference, which is a difference of preferred interpretation only, arises from the fact that 
+in subject position, a generic phrase tends to be interpreted universally, while in object or agent 
+position, this universal meaning disappears. Thus the subject beauers in [5] is likely to mean 
+approximately 'all beavers', while dams is likely to have a similarly generic meaning in the 
+passive counterpart.: 
+\ 
+Frequency constraints 
+3.73 
+To the structural and semantic restrictions mentioned in the preceding 
+sections, we may add 'frequency constraints'. There is a notable difference in 
+the frequency wjth which the active and passive voices are used. The active 
+is generally by far the more common, but there is considerable variation 
+among individual text types. The passive has been found to be as much as 
+ten times as frequent in one text as in another. The major stylistic factor 
+determining frequency seems to be related to the distinction between 
+informative and imaginative prose, rather than to a difference between 
+spoken and written English. The passive is generally more commonly used 
+in informative than in imaginative writing, and is notably more frequent in 
+the objective, impersonal style of scientific articles and news reporting. 
+Asmight be expected, the passive becomes very much rarer incombinations 
+with other complex verb constructions (eg Types AD, BD, CD, ACD in 
+3.54). This rarity is extreme in the combinations BCD or ABCD ('perfective 
+progressive passive' and 'modal perfective progressive passive'), perhaps in 
+part because of an avoidance of the awkwardness of the be being sequence: 
+The Conservatives won the election. 
+111 
+- The election was won by the Conservatives. 
+1-21 
+But: 
+The Conservatives have not been winning seats lately. 
+131 
+- (?)Seats have not been being won by the Conservatives lately. 
+(rare) 
+[41 
+As the passive paraphrase of [3], [4] offers no particular difficulties of 
+interpretation. But it is likely to be replaced in actual use by the simpler 
+construction Sears have not been won by the Conservatives lately, from which it 
+differs little in meaning (cf 4.38,4.40 Note [a]). 
+The passive gradient 
+3.74 
+The purely formal definition of the passive, viz that the clause contains the 
+construction be (or get) + -edparticiple, is very broad, and would include, for 
+example, all the following sentences: 
+This violin wasmade by my father. 
+[l] 
+This conclusion is hardly justified by the results. 
+[21 
+Coal has been replaced by oil. 
+131 
+This difficulty can be avoided in several ways. 
+l41 
+We are encouraged to go on with the project. 
+[S] 
+Leonard was interested in linguistics. 
+L61 
+The building is already demolished. 
+(71 
+The modem world is getting ['becoming'] more highly 
+industrialized and mechanized. 
+L81 
+But taking account of the verb's function and meaning, we prefer to consider 
+only those above the broken line as passive. Those below the line, [5-81, do 
+not have a clear correspondence with an active verb phrase or active clause, 
+and are increasingly remote from the 'ideal' passive of [l], which can be 
+placed in direct correspondence with a unique active counterpart. The 
+variety of relationships displayed by [l -81 may well be regarded as points on 
+a gradient or scale running from [l] to a sentence such as [g], which is clearly 
+to be analysed as having an adjectival complement following a copular verb: 
+My uncle got 
+(very) tired. 
+{ z m e d  } 
+l i l  
+The possibility of inserting very confirms the adjectival status of tired. 
+- My father made this violin. 
+- The results hardly justify this conclusion. 
+1 
+: '  
+l ?  
+Central passives 
+3.75 
+Examples [l -41 can be called 'central' or 'true' passives. Sentences [l] and [2] 
+have a direct active-passive relation. The difference between the two is that 
+the former has a personal, and the latter a nonpersonal agent (cf 9.50): 
+
+
+168 
+Verbs and auxiliaries 
+Sentence [3] brings some unclarity about the nature of the active counterpart. 
+There are two possible active counterparts, depending on the interpretation 
+of the by-phrase: 
+- Oil has replaced coal. 
+[3a'l 
+- (People in many countries) have replaced coal by oil. 
+D " ]  
+(The supplied active subject, here and below, is given in parentheses.) 
+In the former case, the by-phrase has been interpreted as an agent phrase 
+corresponding to the active subject, but in the latter case, the by-phrase has 
+been given an instrumental interpretation (by = with). Similarly ambiguous 
+expressions are be confronted bylwith and be impressed bylwith. 
+Sentence [4] exemplifies the most common type of passive, that which has 
+no expressed agent ('agentless passive'), and so leaves the subject of the 
+active counterpart undetermined. 
+Semi-passives 
+3.76 
+Sentences [5] and [6] represent a 'mixed'or semi-passive class whose members 
+have both verbal and adjectival properties (cf 7.15fn. They are verb-like in 
+having active analogues: 
+We are encouraged to go on with the project. 
+[S] 
+- (The results) encourage us to go on with the project. 
+[sal 
+Leonard was interested in linguistics. 
+t61 
+- Linguistics interested Leonard. 
+[6al 
+On the other hand, their adjectival properties include the possibility of: 
+(a) coordinating the participle with an adjective; 
+(b) modifying the participle with quite, rather, more, etc; 
+(c) replacing be by a lexical copular verb such asfeel or seem: 
+We feel rather encouraged and content . . . 
+Leonard seemed very interested in and keen on linguistics. 
+To these we may add the fact that [5] and [6] are stative rather than dynamic. 
+This in itself does not exclude a passive analysis, for there are stative passives 
+as well as dynamic passives, as is already illustrated by [2]: This conclusion is 
+hardly justilfed by the results. It does, however, tilt the scales in favour of an 
+adjectival analysis, since all participial adjectives have a stative meaning, 
+whereas corresponding verbs usually do not. 
+In such adjectival uses of the past participle, it is rare to have a by-phrase 
+expressing the agent, but blends such as the following do occur: 
+I feel rather let down by his ind~fferenm. 
+She seems extremely elated by her success. 
+Even -ed adjectives which have no corresponding active infinitive or finite 
+verb forms may occasionally have agent by-phrases: 
+We were unimpressed by his attempts. 
+*His attempts unimpressed us. 
+His attempts did not impress us. 
+~ c t i v e  
+and passive voice 
+169 
+Evidently the ability to take an agent by-phrase cannot be regarded as 
+diagnostic of the passive construction. (If further confirmation is needed, it 
+will be found in noun phrases where the agent by-phrase occurs as 
+postmodifier: poems by Wordsworth.) 
+There are, in fact, several prepositions which can introduce agent-like 
+phrases; notably about, at, over, to, and with (cf9.498, 16.69): 
+We were all worried about the complication. 
+- The complication worried us all. 
+I was a bit surprised at her behaviour. 
+- Her behaviour surprised me a bit. 
+You won't be bothered with me any more. 
+- I won't bother you any more. 
+This edition was not known to earlier scholars. 
+- Earlier scholars did not know (09 this edition. 
+But just as a by-phrase (as noted in 3.75) may cooccur, in an instrumental 
+function, with an active subject, so these agent-like phrases may sometimes 
+cwccur with an active subject, and so be interpreted ambiguously when in 
+the passive: 
+Leonard was interested in linguistics. 
+- (Someone) interested Leonard in linguistics. 
+There is thus no strong reason to treat such prepositional phrases, whether 
+introduced by by or some other preposition, as diagnostic of the passive 
+voice. 
+Note 
+[a] Semi-passive constructions such as those of 110-131 can have a clause as complementation 
+(c/16.71): 
+I was surprised that the/aod was so good. 
+1141 
+In such cases, the clausal complementation can also be seen as analogous to an agent; CC 
+- That thejbod was so good surprised me. 
+[14al 
+[b] Be known (to) differs fromother examples of the semi-passive in lacking thecausative feature 
+of be worried (about), besurprised (of), etc. and in not taking modifiers like quite and rather: 
+I was rather surprised at her methods. 
+but: 
+'Her methods are rather known to me. 
+(On the other hand, the be known (to) construction can be intensified by well; but the sequence 
+~vell known can be hyphenated, and is perhaps a compound here.) 
+Pseudo-passives 
+3.77 
+Finally, [7] and [8] have neither an active transform nor a possibility of agent 
+addition : 
+The building is already demolished. 
+[71 
+The modern world is getting more highly industrialized and 
+mechanized. 
+l81 
+Such examples may be called 'pseudo-passives', since it is chiefly only their 
+superficial form of verb + -ed participle that recommends them for 
+consideration as passives. In terms of meaning, the active sentence 
+corresponding to [7] is not [7a'], but [7a1']: 
+
+
+170 Verbs and auxiliaries 
+Active and passive voice 17 1 
+?*(Someone) already demolishes the building. 
+(Someone) has already demolished the building. 
+That is, is demolished denotes a resultant state: it refers, like the perfective, 
+to a state resulting from the demolition, rather than to the act of demolition 
+itself. Such a construction has been termed a 'statal passive'. In this 
+connection, we note that an ambiguity is evident particularly in the past 
+tense : 
+In 1972, the Democrats were defeated. 
+O n  the dynamic (central passive) reading, this means 'Someone defeated the 
+Democrats'; on the statal (copular) reading, it means 'The Democrats were 
+in a state of having been defeated'. The first reading can be singled out by 
+adding the agent phrase: 
+In 1972, the Democrats were defeated by the Republicans. 
+The first (passive) reading can also be picked out if we change the verb to the 
+progressive aspect: 
+In 1972, the Democrats were being defeated. 
+Neither of these tests apply to the statal passive construction because it is 
+essentially copular, the verb be in this case being the copula rather than the 
+passive auxiliary. 
+Similarly, the participles in [g] have adjectival values: compare industrial- 
+ized with industrial and mechanized with mechanical, and note that these -ed 
+words can be used adjectivally in phrases like the industrialized world. 
+Moreover, no 'performer' can be conceived of: an industrialized world is 
+simply a world that has reached a state of industrialization. Once we come to 
+examples like this, we are firmly in the territory of be as a copula replaceable 
+by other copular verbs such as become, feel, seem, remain, etc: She became 
+enraged, Ifelt cheated, etc. Here the -ed word is a complement, and therefore 
+adjectival. 
+Note 
+[a] There is a pseudo-passive construction with intransitive verbs of motlon or completion in 
+which the participle is active rather than passive in meaning: 
+Why are all those cars stopped at the corner? 
+By the time she got there, her friend wasgone. 
+I'IIsoon befnished with this job. 
+With most intransitive verbs, this construction has been superseded by the perfective 
+construction, whiCh is almost synonymous. Compare Mary has came with the archaic Mary is 
+come. The somewhat melodramatic imperative Begone may be written as a single word Begone, 
+and is sometimes, like Beware (cf 3.54 Note), treated as an infinitive: I told them to begonefrom 
+my sight. 
+[b] A similar pseudo-passive is used with verbs of posture: 
+Grandfather wassat in the rockingchair. 
+I've been stwd here for about ten minutes. 
+In this case, the construction is largely synonymous with, though less common than, the 
+progressive construction: wassitting, 'W been standing, etc. 
+[C] The 'notional passive' with an intransitive active verb, as in The clock winds up at the back 
+['can be wound up'] is discussed under word-formation (App 1.54). 
+Summary 
+3.78 
+Summarizing the passive gradient as exemplified in 3.74, we may set up the 
+following classes: 
+I Central passives 
+(a) With expressed agents: [l], [2], [3] 
+(b) Without exvressed agents: 141 
+I11 Pseudo-passives 
+(a) With 'current' copular verbs be, feel, look, etc: [7] 
+(b) With 'resulting' copular verbs get, become, grow, etc: [g] 
+(cf 16.21-23 for the terms 'current' and 'resulting'.) 
+Bibliographical note 
+For general treatments of the English verb, see Palmer (1974); Allen (1966); Joos (1964); 
+Huddleston (1976a). 
+On verb inflections, see Hidalgo (1967); Quirk (1970a). 
+On reduced and contracted forms, see Black (1977); Brown and Millar (1980); Cheshire 
+(1981); Jergensen (1979); Zwicky (1970). 
+On tense and aspect, see Comrie (1976); DuSkovP (1974); Nehls (1975.1980); Tedeschi and 
+Zaenen (1981); also further references in the Bibliographical Note to Ch. 4. 
+On the progressive aspect in particular, see Adamczewski (1978); DuSkovP(1971b); Halliday 
+(1980); Liung (1980). 
+- 
+- .  
+. 
+On auxiliaries in relation to maln verbs, see Huddleston (1974,1980); Langacker (1978); Ney 
+(1981); Pullum and Wilson (1977); Reich (1968); Ross (1969); Twaddell(1965). 
+On specific verbs and special cases of auxiliary or main verb classification, see Chapin (1973); 
+Collins(l978);CrowelI(1959); Haegeman(l980); Jacobsson(l974,1980);QuirkandDuckworth 
+(1961); Seppinen (1977); Svartvik and Wright (1977); Tottie (1971, 1978). 
+On modal auxiliary verbs, see Greenbairn (1974); ~alogjera (1967): Lee (1978); Melchers 
+(1980); Raynaud (1977); also further references in the Bibliographical Note to Ch. 4. The 
+frequency data in 3.39 is derived from Coates (1983) and Hofland and Johansson (1982). 
+On the subjunctive, see Haegeman (forthcoming b); Jacobsson (1975); Turner (1980). 
+On theimperative, see Levin(1979); Stein (1976); also furtherreferences in IheBibliographical 
+Note toch. 8.. 
+On the passive voice, see Bennett (1980); Bolinger (1975b, 1978~); Buyssens (1979); Couper- 
+Kuhlen (1979); Davidson (1980); DuSkovP (1971a, 1972); Granger (1981); MihailoviE (1967); 
+Poldauf (1969); Stein (1979); Svartvik (1966). For frequency data, see Svartvik (1966) and 
+Granger (1981). 
+Other relevant studies include Greenbaum (1977a); Jacobsson (1965); Wonder (1970). 
+Forstudiesrelating more particularly tomeaning inthe verb phrase, consult theBibliographical 
+Note to Ch. 4. 
+
+
+4 The semantics of the verb phrase 
+4.1 
+Introduction 
+175 
+4.2-16 
+Time, tense, and the verb 
+.3 
+The present tense as 'nonpast' 
+.4 
+Situation types: stative and dynamic verb senses 
+.S-7 
+Meanings of the simple present tense with reference to 
+present time 
+.5 
+(a) State present 
+.6 
+(b) Habitual present 
+.7 
+(c) Instantaneous present 
+.8-10 
+Special nonpresent uses of the present tense 
+.8 
+(a) Simple present referring to the past 
+.9 
+(b) Simple present referring to the future 
+.l0 
+(c) Simple present in fictional narrative 
+.11-15 Meanings of the past tense with reference to past time 
+.l2 
+Situational use of the past tense 
+.l3 
+Anaphoric and cataphoric use of the past tense 
+.14-15 
+Event, state, and habit in the past 
+186 
+.l6 
+Meanings of the past tense with reference to present and 
+- 
+future time 
+187 
+4.17 
+Perfective and progressive aspects 
+188 
+4.18-24 Perfective aspect 
+189 
+.20-23 The present perfective 
+192 
+.21-22 
+Variants of the indefinite past meaning 
+193 
+.23 
+The use of adverbials with the simple past and the present 
+l 
+perfective 
+194 
+.24 
+The past perfective 
+195 
+4.25-37 Progressive aspect 
+.26 
+State, event, and habit with the progressive 
+.27-35 Situation types 
+.28-31 
+Stative types A and B: qualities and states 
+.29 
+'Private' states 
+.30 
+Verbs of perception 
+.31 
+Other states of 'being' and 'having' 
+.32 
+Type C: stance 
+.33-35 
+Dynamic types D-K 
+-34 
+Durative situation types 
+.35 
+Punctual situation types 
+
+
+I 
+Time, tense, and the verb 
+175 
+.36 
+Progressive aspect in relation to tense 
+.37 
+Other uses of the progressive aspect 
+4.38-40 Perfective progressive 
+4.41-48 Some means of expressing future time 
+213 
+.42 
+Will/shall + infinitive 
+213 
+.43 
+Be going to + infinitive 
+214 
+.44 
+Present progressive 
+215 
+.45 
+Simple present 
+215 
+.46 
+WilllshaN + progressive infinitive 
+216 
+.47 
+Concluding comments on constructions expressing future 
+time 
+217 
+.48 
+Future time in the past 
+218 
+4.49-65 Meaningsof the modal verbs 
+219 
+.52 
+Canlcould 
+22 1 
+.53 
+Maylmight 
+223 
+.54 
+Must 
+224 
+.55 
+Need, have (got) to 
+226 
+.56 
+Ought to and should 
+227 
+.57 
+Will/would ('lll'd) 
+228 
+.58 
+Shall 
+229 
+S9-64 The past tense forms of the modals: could, might, would, and 
+should 
+231 
+.60 
+'Past time' in indirect speech 
+23 1 
+.61 . 
+'Past time' in other constructions 
+23 1 
+.62 
+Hypothetical meaning 
+232 
+.63 
+Tentativeness or politeness: could, might, and would 
+233 
+.64 
+'Mood markers': would and should 
+234 
+.65 
+The niodals with the perfective.and progressive aspects 
+235 
+4.66 
+The meanings of marginal auxiliaries 
+236 
+4.67-68 Meaning in the nonfinite verb phrase 
+237 
+~iblib~raphical 
+note 
+239 
+I 
+Introduction 
+4.1 
+In this chapter we examine the semanticsof the verb phrase, and in particular 
+of the finite verb phrase. We turn our attention to the meanings associated 
+with tense, aspect, and the modal auxiliaries, having already dealt with the 
+morphology and syntax of these categories in 3.52-7. The chapter will 
+conclude with some observations on the meanings of verbs on the gradient 
+between auxiliaries and main verbs, and of nonfinite verb phrases. 
+It is unfortunate that the terminology used in discussing the verb phrase 
+often tempts us to confuse distinctions of grammatical form with distinctions 
+of meaning. This applies to terms such as 'aspect', 'perfective', 'progressive', 
+and 'modality', which, as names for grammatical categories, also reflect their 
+- - 
+typical meanings. ~ut-preeminently 
+it applies to the t e k s  'present' and 'past' 
+used in referring to tenses of the verb. The English present tense, for instance, 
+- 
+- 
+usually, but b q n o  means always, signifies present time (cf4.5-10). 
+The 
+association between present tense and present time is strong enough to make 
+the term 'present tense' plausibly appropriate, and at the same time, 
+potentially misleading. 
+Time, tense, and the verb 
+4.2 
+It is therefore wise to begin by distinguishing three different levels on which 
+the terms 'present' and 'past' can be interpreted. First, in abstraction from 
+any given language, time can be thought of as a line (theoretically, of infinite 
+length) on which is located, as a continuously moving point, the present 
+moment. Anything ahead of the present moment is in the future, and 
+anything behind it is in the past: 
+THE PRESENT MOMENT 
+PAST 
+4 
+v 
+FUTURE 
+I 
+Fig 4.2a 
+This is an interpretation of past, present, and future on a REFERENTIAL level. 
+But in relating this view of time to language and, more precisely, to the 
+meaning of verbs, it is useful to reformulate the threefold distinction such 
+that 'present' is defined in an inclusive rather than in an exclusive way: 
+something is defined as 'present' if it has existence at the present moment, 
+allowing for the possibility that its existence may also stretch into the past 
+and into the future. Hence Paris stands on the River Seine may be correctly 
+said to describe a 'present' state of affairs, even though this state of affairs 
+has also obtained for numerous centuries in the past, and may well exist for 
+an indefinite period in the future: 
+
+
+176 
+The semanticsof the verb phrase 
+[now1 
+v 
+PAST TIME 
++------- 
+FUTURE TIME 
+[preceding now] 
+[following now] 
+I 
+PRESENT TIME 
+t-------- + 
+[including now] 
+Fig 4.2b 
+On this second, or SEMANTIC level of interpretation, then, 'present' is the most 
+general and unmarked category. In contrast to [l], which is a generic 
+statement applicable to present, past, and future, [2] is a more limited 
+statement, suggesting that the albatross, like the dodo, is extinct: 
+Albatrosses are large birds. 
+[l] 
+Albatrosses were large birds. 
+[21 
+The author of [2] does not commit himself to the continuation of the past 
+.state of affairs it describes into the present. The same applies to sentences of 
+more limited time span: 
+John spends a lot of money. [true for past, present, and future] 
+John spent a lot of money. [true for past only] 
+Note 
+Nevertheless, a sentence like [2] does not exclude the possibility of such a continuation. It is 
+possible to assert, without inconsistency: Albatrosses were, are, andalways will be large birds. 
+The present tense as 'nonpast' 
+4.3 
+In 4.2 we distinguished past, present and future on a referential level, and 
+also on a semantic level. It remains only to mention the familiar fact that 
+'present' and 'past' are also interpreted on a grammatical level, in reference 
+to tense. Here, 'however, the threefold opposition is reduced to two, since 
+morphologically English has no future form of the verb in addition to present 
+and past forms. Some grammarians have argued for a third, 'future tense', 
+maintaining that English realizes this tense by the use of an auxiliary verb 
+construction (such as will+ infinitive): but we prefer to follow those 
+grammarians ho have treated tense strictly as a category realized by verb 
+1, 
+inflection. In t is grammar, then, we do not talk about the FUTURE as a 
+formal category: what we do say is that certain grammatical constructions 
+are capable of expressing the semantic category of FUTURE TIME (cf 4.41ff). 
+Some grammarians have gone further, avoiding the term 'present' in 
+reference to tense, and preferring 'nonpast'. The terms PRESENT TENSE and 
+PAST TENSE have this justification: that the tenses they name typically have 
+reference to present and past time respectively: 
+She is quite well today. Yesterday she was sick. 
+But there is also some morphological justification for treating the present as 
+the unmarked tense, since it is often realized by the base or uninflected form 
+Time, tense, and the verb 
+177 
+of the verb (compare the present tense I need a rest with the past tense I 
+needed a rest). There is also a semantic justification, to the extent that the 
+present tense may be used to express not only present but future time. 
+Contrast: 
+Yesterday 
+Today is Monday. 
+{*:as] 
+Sunday- 
+Tomorrow is Tuesday. 
+Notice we can use the present tense in questioning someone about a future 
+activity as well as about a present one: 
+What are you doing today? 
+*What are you 
+yesterday? 
+What are you doing tomorrow? 
+And we can use the present form of the modal with future meaning, but not 
+with past meaning: 
+I can help you today. 
+*I can help you yesterday. 
+I can help you tomorrow. 
+We have good reason for arguing, therefore, that the semantic triad of past, 
+present, and future is unequally separated into past and nonpast categories 
+for the purposes of tense. Tradition and familiarity favour the retention of 
+the label 'present' in place of 'nonpast'. But this concession places upon us 
+the responsibility of continually maintaining a clear distinction between 
+present and past TENSE, on the one hand, and present and past TIME on the 
+other. 
+Situation types: stative and dynamic verb senses 
+4.4 
+The semantic categories of past, present, and future apply, in fact, not so 
+much to time, as to happenings which take place in time, and which are 
+denoted by verbs. The point may be made in the following way: 
+Mary hoped for success. 
+REFERS TO a past hope of Mary. 
+Peter knows a great deal. 
+REFERS TO Peter'spresent knowledge. 
+The home team will be defeated. 
+REFERS TO a future defeat of the home 
+team. 
+Note that the same concept can be expressed both by a verb and by an 
+abstract noun. Such words denote phenomena existing in time, variously 
+called 'states', 'events', 'actions', 'processes', 'activities', etc. Regrettably 
+there is no single generic term for such 'verb-denoted phenomena', but we 
+shall distinguish different categories under the title of SITUATION TYPES 
+(cf further 4.27ff). 
+Pursuing the analogy between nouns and verbs further, we observe that 
+just as an abstract noun referring to an event can be singular or plural, so the 
+corresponding verb can be 'pluralized' through the use of frequency 
+adverbials : 
+A SINGLE EVENT 
+A PLURALITY OF EVENTS 
+Vesuvius erupted in 77 AD. 
+The country was invaded many 
+= In 77 AD there was an 
+times. = There were many 
+eruption of Vesuvius. 
+invasions of the country. 
